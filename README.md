@@ -2,13 +2,14 @@
 This is a full database of every module in modarchive starting from 1 to
 the 192,000th module and after 3 days of scraping i have collected all of
 it into this small repository to help developers use modarchive without
-having to issue a request to their servers for every small need and then
-using that webpage they have to do an unstable set of functions on the
-webpage to acquire the data they need, just like the rust library 
-[trackermeta](https://crates.io/crates/trackermeta) (written by me), also
-on [github](https://github.com/phnixir/trackermeta) and actively maintained.
-which the scraper i used for gathering all of this data was also written by
-me utilizing that library i mentioned.
+having to issue a request to their servers for every small need, then
+using that webpage they got to run an unstable set of functions on to
+finally acquire the data they need.
+
+The rust library  [trackermeta](https://crates.io/crates/trackermeta) 
+(written by me), also on [github](https://github.com/phnixir/trackermeta) and 
+actively maintained. the [scraper i used](https://github.com/phnixir/trackerconqueror)
+for gathering all of this data was also written by me utilizing this library.
 
 Self promotion aside i hope that by publishing this to everyone that you will
 use a pruned version of this db in your program so that there wont be a need
