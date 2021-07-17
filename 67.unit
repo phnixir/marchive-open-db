@@ -1,0 +1,1000 @@
+66001,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:25:36.103846215+00:00,0,n/a,Thu 1st Jan 1970
+66002,present,strobeampli-starborncrystal3.xm,starborn crystal,88.62KB,98792bd46d87792dcdcfa3a8b2e0b964,XM,false,1011,2,2021-07-15T10:25:36.729406911+00:00,10,n/a,Wed 22nd Nov 2006
+66003,present,strobe-celestialkiss_final.xm,celestial kiss,319.77KB,877b2fee87040b5a28770593c68ca04f,XM,true,3402,4,2021-07-15T10:25:37.526916909+00:00,10,Chiptune,Thu 23rd Nov 2006
+66004,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:25:39.025869562+00:00,0,n/a,Thu 1st Jan 1970
+66005,present,gerrybas.xm,Gerry,1.21MB,d01a2e27a08c6f927aea4607fa0cf57f,XM,false,600,0,2021-07-15T10:25:40.669476969+00:00,53,Orchestral,Thu 23rd Nov 2006
+66006,present,goodbyefinal.xm,GoodBye,1.32MB,b6378d6a933339631e4700a27a0980c9,XM,false,634,0,2021-07-15T10:25:41.477194660+00:00,53,Orchestral,Thu 23rd Nov 2006
+66007,present,jlazelda.it,ZELDA,2.45MB,e12d2c8b1a3f6ae74b7d6fa9d09706f4,IT,false,1263,0,2021-07-15T10:25:42.258952584+00:00,62,Electronic - Dance,Thu 23rd Nov 2006
+66008,present,lilla.it,Blinka Lilla,2.42MB,c849e1e0d77cc3e408b3dc648b28e471,IT,false,317,0,2021-07-15T10:25:43.465182905+00:00,62,Electronic - Dance,Thu 23rd Nov 2006
+66009,present,ohck-cls.it,Classy Mess,274.96KB,aa096d2450b4cb772e51ec70aeace38b,IT,false,1016,1,2021-07-15T10:25:44.544333392+00:00,49,One Hour Compo,Thu 23rd Nov 2006
+66010,present,ohck-cma.it,Crystal Meth≡Anonymous,412.19KB,e4169510d67e201ee1c56f1d4e5d4f68,IT,false,531,0,2021-07-15T10:25:45.348974874+00:00,31,One Hour Compo,Thu 23rd Nov 2006
+66011,present,ohck-col.it,Cold Road,90.10KB,e62f725b2b3e124257256dc591bac07b,IT,false,548,0,2021-07-15T10:25:46.211168586+00:00,47,One Hour Compo,Thu 23rd Nov 2006
+66012,present,ohck-com.it,Comat (Trauma),435.00KB,3f97d8cfde53d801f2ebb1753a04a432,IT,false,509,0,2021-07-15T10:25:47.050111206+00:00,46,One Hour Compo,Thu 23rd Nov 2006
+66013,present,ohck-cr.it,Calculating Rainbow,591.70KB,dce24bcc373a51073013517d5d3fc89f,IT,false,778,1,2021-07-15T10:25:48.005231739+00:00,43,One Hour Compo,Thu 23rd Nov 2006
+66014,present,ohck-dd.it,Digital Dirt,136.35KB,1a31bcf2b2975c2568661e5e47844c13,IT,false,551,0,2021-07-15T10:25:48.904589353+00:00,45,One Hour Compo,Thu 23rd Nov 2006
+66015,present,ohck-df.it,dfast's hangover,183.10KB,2ad3a6734c42c0b74338d19264a54874,IT,false,535,0,2021-07-15T10:25:49.710615560+00:00,30,One Hour Compo,Thu 23rd Nov 2006
+66016,present,ohck-eme.it,Emergenetic,150.09KB,5660ed0b0c93b224770744b66754469f,IT,false,1149,1,2021-07-15T10:25:50.589956421+00:00,43,One Hour Compo,Thu 23rd Nov 2006
+66017,present,ohck-ext.it,blah.dll.wma.avi,208.49KB,d3ad6b1b2b4fff8be9076e3011570b70,IT,false,491,0,2021-07-15T10:25:51.789356815+00:00,44,One Hour Compo,Thu 23rd Nov 2006
+66018,present,ohck-gro.it,Groovebomb,284.65KB,23b3b60597c785e174f2aad3e86fc1cc,IT,false,542,0,2021-07-15T10:25:52.581911154+00:00,37,One Hour Compo,Thu 23rd Nov 2006
+66019,present,ohck-idi.it,I'm Da Interpreter,126.58KB,816d760239018ce9d17648e558c65a10,IT,false,509,0,2021-07-15T10:25:53.364878745+00:00,24,One Hour Compo,Thu 23rd Nov 2006
+66020,present,ohck-lvm.it,Loud Voice of Madness,167.44KB,8f78781fa4dca469dcad7289b5dcc1df,IT,false,518,0,2021-07-15T10:25:54.191546134+00:00,30,One Hour Compo,Thu 23rd Nov 2006
+66021,present,ohck-mas.it,Masked,267.69KB,f6660b43f4a9d0956e47256c1d1c5272,IT,false,720,1,2021-07-15T10:25:54.950771356+00:00,34,One Hour Compo,Thu 23rd Nov 2006
+66022,present,ohck-mis.it,Mistie,274.69KB,c99aaed1d74e963ad9e24e719ab8d8d0,IT,false,737,1,2021-07-15T10:25:56.193496467+00:00,38,One Hour Compo,Thu 23rd Nov 2006
+66023,present,ohck-moo.it,And the mood is gone,240.44KB,28025ff28d4982db7a3ae06c243c8837,IT,false,536,0,2021-07-15T10:25:57.036103770+00:00,37,One Hour Compo,Thu 23rd Nov 2006
+66024,present,ohck-os.it,Outer Stage,150.02KB,a77bd52c889156163f3b358ee988fac6,IT,false,501,0,2021-07-15T10:25:57.828768945+00:00,32,One Hour Compo,Thu 23rd Nov 2006
+66025,present,ohck-rad.it,Rad!,165.99KB,55a2730123508cecfa6a9efba51ace47,IT,false,536,0,2021-07-15T10:25:59.602437351+00:00,43,One Hour Compo,Thu 23rd Nov 2006
+66026,present,ohck-ser.it,Serene Waters,130.78KB,ccc26c15cdeb23cc9f4274e75a94562a,IT,false,579,0,2021-07-15T10:26:00.479942994+00:00,39,One Hour Compo,Thu 23rd Nov 2006
+66027,present,ohck-shr.it,'shrooms?,526.50KB,0b8d425de146006ad12e4adba3a1fdcb,IT,false,566,0,2021-07-15T10:26:01.639664526+00:00,51,One Hour Compo,Thu 23rd Nov 2006
+66028,present,ohck-sn.it,Sour Nights,299.58KB,ce4cc37b470ab1c4598fb0413e79e835,IT,false,832,1,2021-07-15T10:26:02.869026376+00:00,64,One Hour Compo,Thu 23rd Nov 2006
+66029,present,ohck-tro.it,Oriental Trollpie,323.20KB,2fe08476444f3947717ea69b001d00a8,IT,false,684,0,2021-07-15T10:26:03.662218250+00:00,40,One Hour Compo,Thu 23rd Nov 2006
+66030,present,ohck-wan.it,*********,119.00KB,2b2155a0db40b3b1de2200e5efd8a8d8,IT,false,526,0,2021-07-15T10:26:04.542762634+00:00,38,One Hour Compo,Thu 23rd Nov 2006
+66031,present,ohck-xrs.it,Reflections,199.03KB,3acae6291515748b87778302a81a6ada,IT,false,847,1,2021-07-15T10:26:05.405839975+00:00,35,One Hour Compo,Thu 23rd Nov 2006
+66032,present,rn.it,Blanktjärn,1.80MB,8e63bfe44e55eeb5b984206ca5662980,IT,false,354,0,2021-07-15T10:26:06.339982934+00:00,50,Electronic - Dance,Thu 23rd Nov 2006
+66033,present,robric355.xm,^\)( ArtiC Extr )(/^,122.36KB,b00cc56eb48b95caa410f2f5542c978e,XM,false,346,0,2021-07-15T10:26:09.025090285+00:00,10,Ballad,Thu 23rd Nov 2006
+66034,present,spk2oo6_botenanna.mod,Böten Anna [reduced],81.70KB,d05a369bf89a85a4cc23954b1ed61fad,MOD,true,2243,1,2021-07-15T10:26:10.865576144+00:00,4,n/a,Fri 24th Nov 2006
+66035,present,10minutetrash.mod,10minutetrash,22.77KB,556af9a963e3c8a30f383448537d5177,MOD,false,164,0,2021-07-15T10:26:12.041199933+00:00,4,n/a,Sun 26th Nov 2006
+66036,present,4mats-madness.mod,4-mat's.madness,114.90KB,67b2bcfab06172df027904d666df9c28,MOD,false,5904,14,2021-07-15T10:26:12.804849892+00:00,4,Demo Style,Sun 26th Nov 2006
+66037,present,aces-high.mod,mod.aces-high2,55.51KB,8dd709742f019f7ecc3fdd46ced6471f,MOD,false,1158,2,2021-07-15T10:26:14.070565940+00:00,4,n/a,Sun 26th Nov 2006
+66038,present,air.mod,air,54.62KB,dcebba666d1e8e539183410ddfcaf829,MOD,false,485,0,2021-07-15T10:26:14.877375500+00:00,4,n/a,Sun 26th Nov 2006
+66039,present,altitudes2.mod,altitudes2,69.79KB,be9f8369c6b9e62560cb7e0bec0fb764,MOD,false,739,0,2021-07-15T10:26:15.718597087+00:00,4,n/a,Sun 26th Nov 2006
+66040,present,artemis.mod,(c)1991 npd v2.0,79.57KB,9e63479ac8f4c67f9c3ce42396efa350,MOD,false,483,1,2021-07-15T10:26:21.583676152+00:00,4,n/a,Sun 26th Nov 2006
+66041,present,atmos-judge.mod,atmosphere,221.08KB,fa64e8a69adba71a2d7a84508f7bd3fb,MOD,false,353,0,2021-07-15T10:26:22.409478979+00:00,4,n/a,Sun 26th Nov 2006
+66042,present,bassrock.mod,bassrock,88.58KB,7c275115f1b81112d6868b37c7d24fa0,MOD,false,292,1,2021-07-15T10:26:23.230334543+00:00,4,n/a,Sun 26th Nov 2006
+66043,present,beat-me.mod,beat-me,132.28KB,34c3292092c8a8869c5f58fa57e62f91,MOD,false,168,0,2021-07-15T10:26:24.049460599+00:00,4,n/a,Sun 26th Nov 2006
+66044,present,beatmaster.mod,beatmaster,85.37KB,ea6d01f74146fb7c79d3c843b73368d2,MOD,false,183,0,2021-07-15T10:26:25.327686415+00:00,4,n/a,Sun 26th Nov 2006
+66045,present,big-honda-10cc-mix.mod,big honda 10cc mix,25.19KB,90ad0f3869ad27c1e437db661b8d63ea,MOD,false,140,0,2021-07-15T10:26:26.222039295+00:00,4,n/a,Sun 26th Nov 2006
+66046,present,bs1-song-23.mod,bs1song23,85.46KB,f6ec49f5cc1e3aa6cb61ac862cbc8f34,MOD,false,247,1,2021-07-15T10:26:27.099746058+00:00,4,n/a,Sun 26th Nov 2006
+66047,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:26:28.222044415+00:00,0,n/a,Thu 1st Jan 1970
+66048,present,chipgene.mod,chipgene,23.62KB,0730d8b37813b859bc50ea0be5247c76,MOD,false,493,1,2021-07-15T10:26:28.992411699+00:00,4,n/a,Sun 26th Nov 2006
+66049,present,cosmoliner.mod,cosmoliner,116.49KB,8f031de4fa631ce6c69286ad6796387c,MOD,false,140,0,2021-07-15T10:26:29.847416382+00:00,4,n/a,Sun 26th Nov 2006
+66050,present,crazy-bass2.mod,crazy-bass2,52.24KB,e52e010ca2470289847a8c588ae8ca80,MOD,false,174,0,2021-07-15T10:26:31.681584503+00:00,4,n/a,Sun 26th Nov 2006
+66051,present,deep_stream.mod,deep stream,75.23KB,ae3db13a755db589ffa1a296f6f86068,MOD,false,134,0,2021-07-15T10:26:32.844173342+00:00,4,n/a,Sun 26th Nov 2006
+66052,present,deva.mod,deva,105.55KB,7c56fe503f90de625e0a6820e44775d2,MOD,false,129,0,2021-07-15T10:26:33.688078213+00:00,4,n/a,Sun 26th Nov 2006
+66053,present,discoii.mod,discoii,49.40KB,a18b39464032c9125b997cf90dcf519d,MOD,false,171,0,2021-07-15T10:26:34.962815346+00:00,4,n/a,Sun 26th Nov 2006
+66054,present,dolle.mod,dolle,85.93KB,2e6d0057d3473d752424db68e82e1fa6,MOD,false,112,0,2021-07-15T10:26:35.758282322+00:00,4,n/a,Sun 26th Nov 2006
+66055,present,electric-revenge.mod,electric-revenge,209.39KB,b4ed2ce8a98a770d2a513b2b36392638,MOD,false,257,0,2021-07-15T10:26:36.526780072+00:00,4,n/a,Sun 26th Nov 2006
+66056,present,ensonic.mod,ensonic,191.81KB,bbe8223949fea19a3f506be02cfe51a5,MOD,false,154,0,2021-07-15T10:26:37.363883568+00:00,4,n/a,Sun 26th Nov 2006
+66057,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:26:38.180476641+00:00,0,n/a,Thu 1st Jan 1970
+66058,present,gate-to-mizar.mod,gate-to-mizar,63.73KB,0bd79c64a3db774e6f0a6f9cda7ce504,MOD,false,118,0,2021-07-15T10:26:39.223279639+00:00,4,n/a,Sun 26th Nov 2006
+66059,present,go-far.mod,going farii,82.64KB,681a72acfd86e32b4572872fb78feebc,MOD,false,133,0,2021-07-15T10:26:39.999362002+00:00,4,n/a,Sun 26th Nov 2006
+66060,present,guru.mod,guru,79.91KB,94b0c21995908ad2cbf89d4204ffb4ea,MOD,false,177,0,2021-07-15T10:26:41.215825727+00:00,4,n/a,Sun 26th Nov 2006
+66061,present,hard-core.mod,hard-core,176.40KB,610e9f00edde5958723ed561d6a71f07,MOD,false,145,0,2021-07-15T10:26:43.088668406+00:00,4,n/a,Sun 26th Nov 2006
+66062,present,hemisphere1-v2_41.mod,hemisphere1-v2.41,55.26KB,34b2a5044ff07a1d7695dd07b5d48b44,MOD,false,681,1,2021-07-15T10:26:43.900981227+00:00,4,n/a,Sun 26th Nov 2006
+66063,present,her_song.mod,her-song,369.80KB,69a5a2014e1cc6951511e4b41f490694,MOD,false,134,0,2021-07-15T10:26:44.688840899+00:00,4,n/a,Sun 26th Nov 2006
+66064,present,hipfunk.mod,hipfunk,86.97KB,a63f22f06fcdc09f9b9e5125591fb9e2,MOD,false,124,0,2021-07-15T10:26:45.484287731+00:00,4,n/a,Sun 26th Nov 2006
+66065,present,hjelmfoss_boogie.mod,hjelmfoss boogie,70.99KB,4addb0d598a0aa23f091ddaa67da31f7,MOD,false,104,0,2021-07-15T10:26:46.280629668+00:00,4,n/a,Sun 26th Nov 2006
+66066,present,hqc-beat.mod,hqc-beat,74.55KB,dce61ed14167625eae87c603babf0c3c,MOD,false,507,1,2021-07-15T10:26:47.459385799+00:00,4,n/a,Sun 26th Nov 2006
+66067,present,in-a-life.mod,in-a-life,104.92KB,76c2aa62acaa8c491de2225b8d01a58a,MOD,false,138,0,2021-07-15T10:26:48.247913459+00:00,4,n/a,Sun 26th Nov 2006
+66068,present,in-game.mod,in-game,94.56KB,803379c8e612d3e5bb8e26bfcad52416,MOD,false,828,0,2021-07-15T10:26:49.053838981+00:00,4,n/a,Sun 26th Nov 2006
+66069,present,injeopardy.mod,in jeopardy,172.49KB,d8422c613df5be9534f26a7a0bb30828,MOD,false,142,0,2021-07-15T10:26:50.312786067+00:00,4,n/a,Sun 26th Nov 2006
+66070,present,inocent.mod,inocent,111.49KB,d75ae9314eba43697ba3d1b08f4a1572,MOD,false,132,0,2021-07-15T10:26:51.603498330+00:00,4,n/a,Sun 26th Nov 2006
+66071,present,its_acid.mod,its acid,47.06KB,748f8b73a223e668ddc41d735e03f4f2,MOD,false,148,0,2021-07-15T10:26:52.482813101+00:00,4,n/a,Sun 26th Nov 2006
+66072,present,jack_the_housebeat.mod,ripped by jaws,139.74KB,d82da80443a82e8d8f8d72a027dbeb71,MOD,false,391,1,2021-07-15T10:26:54.218813623+00:00,4,n/a,Sun 26th Nov 2006
+66073,present,juicyfunk.mod,juicy funk,66.14KB,dd3134f54df3da05a61bd11acf4fd8f2,MOD,false,117,0,2021-07-15T10:26:55.029810521+00:00,4,n/a,Sun 26th Nov 2006
+66074,present,jum-hop_of_stranger.mod,jum-hop of stranger,160.70KB,c7aa294c3df6310733decf8cd71a841d,MOD,true,1991,2,2021-07-15T10:26:55.828139356+00:00,4,Reggae,Sun 26th Nov 2006
+66075,present,just_fall_in_love.mod,just fall in love,118.74KB,081563193a67698c4064f9c7b701d1fb,MOD,false,118,0,2021-07-15T10:26:56.682885818+00:00,4,n/a,Sun 26th Nov 2006
+66076,present,jvmdesign.mod,jvmdesign,139.89KB,64ead0dbdeaa750b688363d618ac2ff1,MOD,false,127,0,2021-07-15T10:26:57.466354624+00:00,4,n/a,Sun 26th Nov 2006
+66077,present,kaosmodule.mod,kaosmodule,146.94KB,74a80d84198aaf25008f74046f4f4cfd,MOD,false,188,0,2021-07-15T10:27:01.333623260+00:00,4,n/a,Sun 26th Nov 2006
+66078,present,kefrens_tune_1.mod,kefrens.tune.1,132.47KB,eacf75bf63085b521473eed8b4a9065d,MOD,false,451,1,2021-07-15T10:27:02.150700738+00:00,4,n/a,Sun 26th Nov 2006
+66079,present,lifestyle_rules_1.mod,lifestyle.rules.1,97.60KB,0d34a3ce8a9e98af32d6feaab849acb9,MOD,false,111,0,2021-07-15T10:27:03.680653487+00:00,4,n/a,Sun 26th Nov 2006
+66080,present,madness.mod,madness took me,139.78KB,345fac0a5e4380db5b5220519d3c4579,MOD,false,3910,7,2021-07-15T10:27:04.512381071+00:00,4,n/a,Sun 2nd Jul 2000
+66081,present,mazes_of_gauntlet.mod,mazes of gauntlet,113.50KB,ba0bd404cebdacec8e931fcfa1b272e7,MOD,false,155,0,2021-07-15T10:27:07.960717970+00:00,4,n/a,Sun 26th Nov 2006
+66082,present,memory_dust.mod,memory dust,113.64KB,c12f8423220f16dd60edd8f68a0bafff,MOD,false,225,0,2021-07-15T10:27:11.113341852+00:00,4,n/a,Sun 26th Nov 2006
+66083,present,moonchild.mod,moonchild,137.39KB,e54ae84900cc1c44bca503d9463e656a,MOD,false,301,1,2021-07-15T10:27:12.747417371+00:00,4,n/a,Sun 26th Nov 2006
+66084,present,nicewetandmean.mod,nice wet and mean,200.07KB,b7821bd8440c3c2595dcba574928d52a,MOD,false,107,0,2021-07-15T10:27:13.534715287+00:00,4,n/a,Sun 26th Nov 2006
+66085,present,nightfly.mod,NightFly,130.50KB,e2746a39258d05cf92e26aabaa125fb9,MOD,false,207,1,2021-07-15T10:27:14.404539827+00:00,4,n/a,Sun 26th Nov 2006
+66086,present,nightlights.mod,nightlights,105.77KB,bc10be7e82fe8fced765005ad208456c,MOD,false,132,0,2021-07-15T10:27:18.740253510+00:00,4,n/a,Sun 26th Nov 2006
+66087,present,phenomena_eces.mod,phenomena eces,137.58KB,bdcb859842415c19bbded3ec350d0b48,MOD,true,1910,4,2021-07-15T10:27:19.545567928+00:00,4,n/a,Sun 26th Nov 2006
+66088,present,revelations.mod,revelations,64.39KB,6fe958692a2de76a420843bbe9a0834b,MOD,false,255,0,2021-07-15T10:27:20.390792722+00:00,4,n/a,Sun 26th Nov 2006
+66089,present,robric308.xm,>- Ice Cream Choc -<,81.72KB,f0df82cda446860e5e64afdc84af9e33,XM,false,402,0,2021-07-15T10:27:21.232806631+00:00,11,Ballad,Sat 25th Nov 2006
+66090,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:27:22.454312439+00:00,0,n/a,Thu 1st Jan 1970
+66091,present,SCOOPEX.MOD,scoopex theme,158.95KB,8500e47f317bce108b72b3e7b8a20b37,MOD,false,4256,0,2021-07-15T10:27:23.130032036+00:00,4,Soundtrack,Wed 1st Jan 1997
+66092,present,shoutitout.mod,shoutitout,118.46KB,35de41291f974f9dcb045c19d5c358e9,MOD,false,107,0,2021-07-15T10:27:26.013636974+00:00,4,n/a,Sun 26th Nov 2006
+66093,present,slow-elecplus.mod,slow-elecplus,57.94KB,593970ebdec7901f77bcfe88f8120933,MOD,false,97,0,2021-07-15T10:27:26.814809672+00:00,4,n/a,Sun 26th Nov 2006
+66094,present,spell-amelioration.mod,spell-amelioration,188.48KB,9c3709d2d8bf690fb6c0645b129ce025,MOD,true,1678,5,2021-07-15T10:27:27.654325794+00:00,4,Pop - Synth,Sun 26th Nov 2006
+66095,present,det_knibber.mod,rebels tune,54.50KB,87a806aa36ccec6c38700bd1cf015bb6,MOD,false,795,0,2021-07-15T10:27:28.426197043+00:00,4,n/a,Mon 13th Sep 2004
+66096,present,the_last_sun.mod,the last sun,107.13KB,fad5ff304bb401fade1bd60ce07e3cf1,MOD,false,178,0,2021-07-15T10:27:31.444051163+00:00,4,n/a,Sun 26th Nov 2006
+66097,present,theme-dream.mod,theme-dream,47.76KB,2021f07bb59a260463aadc907954a7fb,MOD,false,152,0,2021-07-15T10:27:32.403911226+00:00,4,n/a,Sun 26th Nov 2006
+66098,present,train7.mod,train7,30.16KB,93bd9ee66fd81ebda745a4f24aa71c6b,MOD,false,167,0,2021-07-15T10:27:33.184119941+00:00,4,n/a,Sun 26th Nov 2006
+66099,present,weapon_2.mod,weapon 2,123.23KB,9fa81efac298013269a66aa3d3794f34,MOD,false,136,0,2021-07-15T10:27:34.069600650+00:00,4,n/a,Sun 26th Nov 2006
+66100,present,xxxtubularxxx.mod,(((tubular))),148.60KB,aa0b76e57db22b2355a99bf14958407d,MOD,false,125,0,2021-07-15T10:27:35.604197493+00:00,4,n/a,Sun 26th Nov 2006
+66101,present,abstraction.mod,abstraction,195.60KB,5da075347ac0548f493eb4ff13635822,MOD,false,378,0,2021-07-15T10:27:36.402709454+00:00,4,n/a,Sun 26th Nov 2006
+66102,present,acid-panic.mod,acid-panic,142.31KB,fd14b79e2e776d43fa8c4f7dea7ab0c1,MOD,false,510,0,2021-07-15T10:27:37.904081434+00:00,4,n/a,Sun 26th Nov 2006
+66103,present,alienway.mod,alienway,123.73KB,8d39ca8601de473da5cdb8e815c0b497,MOD,false,337,0,2021-07-15T10:27:39.086848074+00:00,4,n/a,Sun 26th Nov 2006
+66104,present,allgol.it,All 3 Golasso Movements,2.07MB,336889c0072f0f3fdfdd7f6224905e2b,IT,false,253,0,2021-07-15T10:27:40.095667675+00:00,20,n/a,Mon 27th Nov 2006
+66105,present,allthedeadvoices.mod,all the dead voices,149.30KB,c6dea465e24aa08cce1b2faeee837aa7,MOD,false,406,0,2021-07-15T10:27:41.580789122+00:00,4,n/a,Sun 26th Nov 2006
+66106,present,arcadian.mod,arcadian,25.39KB,ed633b29211f8eb948327734d25d922f,MOD,true,1477,1,2021-07-15T10:27:42.740602515+00:00,4,n/a,Sun 26th Nov 2006
+66107,present,axkold.mod,axkold,101.01KB,40b677bd5d10015cd12d4d342a993b80,MOD,false,1161,4,2021-07-15T10:27:44.147894616+00:00,4,Demo Style,Sun 26th Nov 2006
+66108,present,beacon_out_far.mod,beacon out far,195.34KB,ec640fccf7557733be4bcf33ff3083a2,MOD,false,691,1,2021-07-15T10:27:45.850920341+00:00,4,n/a,Sun 26th Nov 2006
+66109,present,beams_of_light.mod,beams of light,51.96KB,82f2c65a0f68173f7c1fbb521fecb26e,MOD,false,3835,7,2021-07-15T10:27:47.371813678+00:00,4,Demo Style,Sun 26th Nov 2006
+66110,present,beans_and_rusk.mod,beans and rusk,85.35KB,60649c27615efcb7787a517c7a5cf0ab,MOD,false,121,0,2021-07-15T10:27:48.192734615+00:00,4,n/a,Sun 26th Nov 2006
+66111,present,bells.mod,bells,104.47KB,a640065aeceb7af3e7591e5a95a1933c,MOD,false,434,0,2021-07-15T10:27:49.096898973+00:00,4,n/a,Sun 26th Nov 2006
+66112,present,berrasgarage.mod,berras garage,83.81KB,bdedb43436f5b56d68aaa1dd64b0199c,MOD,false,134,0,2021-07-15T10:27:50.730285368+00:00,4,n/a,Sun 26th Nov 2006
+66113,present,bey.mod,bey,60.39KB,9c584602c3be33f1a0e042e22b769687,MOD,false,121,0,2021-07-15T10:27:51.521972191+00:00,4,n/a,Sun 26th Nov 2006
+66114,present,beyondages.mod,beyond ages,104.00KB,ef858e0e18a7e6b58766088d538c27fd,MOD,false,112,0,2021-07-15T10:27:52.332845902+00:00,4,n/a,Sun 26th Nov 2006
+66115,present,bird-ii.mod,Bird-II,92.99KB,f0708d254b1d6b214246783add5418d8,MOD,false,160,0,2021-07-15T10:27:53.212748497+00:00,4,n/a,Sun 26th Nov 2006
+66116,present,blue-mood.mod,blue-mood,78.12KB,32efec4c65a7bea3f0287b9f6e4ff128,MOD,false,150,0,2021-07-15T10:27:53.992085202+00:00,4,n/a,Sun 26th Nov 2006
+66117,present,blue_jazz.mod,blue jazz,85.57KB,62c752edda4520715f3806b6cc9ba0cf,MOD,false,117,0,2021-07-15T10:27:54.792442044+00:00,4,n/a,Sun 26th Nov 2006
+66118,present,blue_shaddows.mod,blue shaddows,106.48KB,000f7b04914b44db3d457c234b88520a,MOD,false,147,0,2021-07-15T10:27:55.568686661+00:00,4,n/a,Sun 26th Nov 2006
+66119,present,bomb.mod,bomb,101.90KB,7034170f317a34a3c45628c0e82f0afa,MOD,false,144,0,2021-07-15T10:27:56.345721303+00:00,4,n/a,Sun 26th Nov 2006
+66120,present,boptillyouflop.mod,boptillyouflop,207.23KB,6adfc82cc907d5f00f0011e0a1592536,MOD,false,489,1,2021-07-15T10:27:57.123564164+00:00,4,n/a,Sun 26th Nov 2006
+66121,present,breeze-diablo.mod,breeze-diablo,128.28KB,b9bba3c08382995a0b9c30bc40673072,MOD,false,1253,4,2021-07-15T10:27:57.912651026+00:00,4,n/a,Sun 26th Nov 2006
+66122,present,bridgetothe.mod,bridgetothe,148.14KB,f04557d05e0509561513bb7e2ac73cd8,MOD,false,173,0,2021-07-15T10:27:58.712307140+00:00,4,n/a,Sun 26th Nov 2006
+66123,present,bug.mod,bug,92.00KB,4e3296b2ae81aab8e562cb6523a5aa01,MOD,false,200,0,2021-07-15T10:27:59.493749245+00:00,4,n/a,Sun 26th Nov 2006
+66124,present,cardiax1.mod,cardiax1,9.63KB,94707f4c76292a3b3dfdd51124bbab28,MOD,false,117,0,2021-07-15T10:28:00.332608673+00:00,4,n/a,Sun 26th Nov 2006
+66125,present,cerebral_beres.mod,cerebral beres,209.24KB,2c790bba851f4d90bd98f7d28a3ec191,MOD,false,197,0,2021-07-15T10:28:01.590985672+00:00,4,n/a,Sun 26th Nov 2006
+66126,present,chainsaw.mod,chainsaw,74.07KB,cf2ec9c6de6b741c6c231f2a8924cdd6,MOD,false,485,0,2021-07-15T10:28:02.395403988+00:00,4,n/a,Sun 26th Nov 2006
+66127,present,choosejesus.mod,choose jesus,136.58KB,399f71a1884aa3acb4a7f676199164a6,MOD,false,114,0,2021-07-15T10:28:04.078468743+00:00,4,n/a,Sun 26th Nov 2006
+66128,present,chromatom.mod,chrom-atom,112.75KB,69cc025ffdb606b7bdf67d1b467f2f4b,MOD,false,595,1,2021-07-15T10:28:04.977288128+00:00,4,n/a,Sun 26th Nov 2006
+66129,present,chromium.mod,chromium,155.57KB,65ee6b02bc2074ae89776ff224313026,MOD,false,133,0,2021-07-15T10:28:06.841712966+00:00,4,n/a,Sun 26th Nov 2006
+66130,present,civilisation.mod,civilisation,79.44KB,60909ec57764d433a1eb268c8e4bbcf1,MOD,false,127,0,2021-07-15T10:28:07.761268874+00:00,4,n/a,Sun 26th Nov 2006
+66131,present,classified.mod,classifiedcrusader,146.06KB,312c9d3ea172cd636dfcfc4b320d6951,MOD,false,162,0,2021-07-15T10:28:08.535132777+00:00,4,n/a,Sun 26th Nov 2006
+66132,present,clear-a-zill.mod,clear-a-zill,126.38KB,9118c4a7affbe56610c5e5a4069513d9,MOD,false,833,0,2021-07-15T10:28:09.322214882+00:00,4,n/a,Sun 26th Nov 2006
+66133,present,comp-2.mod,comp-2,71.30KB,5c518b2912600f078cb2f4e695fdaf23,MOD,false,124,0,2021-07-15T10:28:10.123041509+00:00,4,n/a,Sun 26th Nov 2006
+66134,present,cost.mod,Neko - I.C.T.M.,445.24KB,c9d3703dea711cd06ed5618527d628ae,MOD,false,687,0,2021-07-15T10:28:11.943574306+00:00,4,Electronic (general),Sun 26th Nov 2006
+66135,present,criminallove.mod,criminallove,124.83KB,f03ef43fff4a32985b571a7960031339,MOD,false,113,0,2021-07-15T10:28:12.777720582+00:00,4,n/a,Sun 26th Nov 2006
+66136,present,crusade-remix.mod,crusade-remix,206.34KB,37dd0ee9fe8722d36d903161964037ba,MOD,false,151,0,2021-07-15T10:28:13.560205954+00:00,4,n/a,Sun 26th Nov 2006
+66137,present,crying_spy.mod,crying spy,48.87KB,bd6c831f401754fbb825376fc49bc57a,MOD,false,989,2,2021-07-15T10:28:14.343421096+00:00,4,n/a,Sun 26th Nov 2006
+66138,present,death-box.mod,death-box,85.76KB,7342016d927e788c4191b94ca3337cc1,MOD,false,165,0,2021-07-15T10:28:16.432682546+00:00,4,n/a,Sun 26th Nov 2006
+66139,present,deeplydepressed.mod,deeplydepressed.,189.69KB,8ff5d677de8c2002f5ce888c64185080,MOD,false,2170,3,2021-07-15T10:28:17.198656764+00:00,4,Electronic - Techno,Sun 26th Nov 2006
+66140,present,dekkadance.mod,dekkadance,137.40KB,2978359471a73fcca23825898e9e10b7,MOD,false,144,0,2021-07-15T10:28:18.020265694+00:00,4,n/a,Sun 26th Nov 2006
+66141,present,delirious.mod,delirious,15.83KB,555d4f4665b2b331b14f24add417f4bb,MOD,false,116,0,2021-07-15T10:28:19.042002278+00:00,4,n/a,Sun 26th Nov 2006
+66142,present,demosound.mod,demosound,136.24KB,5d7eaea100c4c1c6734444e05b02bcc7,MOD,false,143,0,2021-07-15T10:28:19.814005319+00:00,4,n/a,Sun 26th Nov 2006
+66143,present,diamondmed.it,diamond meditation,174.60KB,c699b3322bd2a47d5a40d741164c7610,IT,true,3251,4,2021-07-15T10:28:20.693094336+00:00,32,Electronic - Ambient,Mon 27th Nov 2006
+66144,present,digitaexpression.mod,digita-expressions,187.43KB,dc263ed01ec21fc326b7a554a75ed545,MOD,false,106,0,2021-07-15T10:28:22.626258877+00:00,4,n/a,Sun 26th Nov 2006
+66145,present,domination-dance.mod,domination-dance,80.71KB,4b47a0793085fa5115ce8cc8838f414c,MOD,false,104,0,2021-07-15T10:28:23.586048294+00:00,4,n/a,Sun 26th Nov 2006
+66146,present,dominion.mod,dominion,144.35KB,48cedc730368a48eeb6c292442168676,MOD,false,1089,3,2021-07-15T10:28:24.410464088+00:00,4,n/a,Sun 26th Nov 2006
+66147,present,doormat.mod,doormat,178.02KB,4792095a68267ca9786bfcfac3ce8fd7,MOD,false,114,0,2021-07-15T10:28:27.184592108+00:00,4,n/a,Sun 26th Nov 2006
+66148,present,elmos_sperc.it,"Sir Perceval",1.28MB,5874a52fbde2f21ed6962bfefc7c9bd0,IT,false,582,0,2021-07-15T10:28:28.046872050+00:00,7,Electronic - Ambient,Mon 27th Nov 2006
+66149,present,forever_love.it,Forever Love,521.16KB,569dd04046a61772d78903a994f9976d,IT,true,6034,14,2021-07-15T10:28:28.812918096+00:00,26,New Age,Mon 27th Nov 2006
+66150,present,zovik-forest_madness.it,forest_madness,96.71KB,170e7af918abe0a20a83bc6043450aab,IT,false,305,0,2021-07-15T10:28:31.673653687+00:00,8,n/a,Mon 27th Nov 2006
+66151,present,ats_01.xm,Across The Stars,1.54MB,205cef2a048ac7fa3e1c32f0dcbdcde3,XM,false,1157,1,2021-07-15T10:28:32.924781836+00:00,11,Ballad,Tue 28th Nov 2006
+66152,present,insanity.it,insanity,9.03KB,30baaf74664eb9d7d95a90cba162b8cd,IT,false,124,0,2021-07-15T10:28:34.770075775+00:00,4,n/a,Mon 27th Nov 2006
+66153,present,musix-calling-for-dx.mod,calling 4 dx?!,348.83KB,09c5a9104a6d2a729bb8a310b7184e30,MOD,false,1748,0,2021-07-15T10:28:35.777647485+00:00,4,Demo Style,Wed 29th Nov 2006
+66154,present,musix-knulla-m0d.mod,knulla-m0d,118.46KB,7545c563c0d145e1d6a716d9c74a6c0e,MOD,false,1449,1,2021-07-15T10:28:36.763999488+00:00,4,Demo Style,Wed 29th Nov 2006
+66155,present,ss-1106.it,      Xjisjasa Xai,4.13MB,12b5438a65ee394b954415a2b4537733,IT,false,776,0,2021-07-15T10:28:37.800688349+00:00,64,Electronic - Other,Mon 27th Nov 2006
+66156,present,suigen.mod,sui generis,60.66KB,38f389f30b7ede991c47c2289c54c0e5,MOD,false,109,0,2021-07-15T10:28:39.034119151+00:00,4,n/a,Wed 29th Nov 2006
+66157,present,cavmov.it,Cavern Motion,763.19KB,668404bb0a14ac776bcaa53fea86f4c6,IT,false,672,0,2021-07-15T10:28:39.794839548+00:00,8,Orchestral,Thu 30th Nov 2006
+66158,present,clearf.it,Clear Future,652.77KB,a932258c62025935cd56b9455defcedd,IT,false,738,0,2021-07-15T10:28:40.594192039+00:00,32,Electronic - Dance,Thu 30th Nov 2006
+66159,present,dancedunca1.it,DanceDunca,4.64MB,a5e51659038b1222362f2786d7d70fba,IT,false,786,0,2021-07-15T10:28:41.863738153+00:00,62,Electronic - Dance,Wed 29th Nov 2006
+66160,present,djsmiker-xyandome.xm,Dj Smiker-Xyan Dome,220.33KB,13f57b3ce71cbccc004b5498c58d55c6,XM,false,563,0,2021-07-15T10:28:42.636822253+00:00,10,Chiptune,Thu 30th Nov 2006
+66161,present,sm-happytrance.it,Happy Trance,592.01KB,4cf01fdad0b3c94ec77c5aba952a3858,IT,false,1126,2,2021-07-15T10:28:43.440008926+00:00,16,One Hour Compo,Wed 29th Nov 2006
+66162,present,eftos_suiright_8bit.it,Suiright,7.42MB,aebee327b591c601d14a791039118d2e,IT,false,1699,0,2021-07-15T10:28:44.365911873+00:00,8,Gothic,Thu 30th Nov 2006
+66163,present,machinegun.xm,Dj Smiker-Machinegun,569.84KB,ee5e046cddedf7cf5b6c63bd338e8da8,XM,false,155,0,2021-07-15T10:28:45.165648241+00:00,10,n/a,Thu 30th Nov 2006
+66164,present,ss-363.it,       Nisjaisa,4.26MB,3aae86e2e2702d8b12bf2077d0a9ad8e,IT,false,577,0,2021-07-15T10:28:46.034402068+00:00,64,Electronic - Other,Thu 30th Nov 2006
+66165,present,ss-933.it,     Svijsha Lsjilac,4.17MB,cfc5ba51c00b18d1b37d9a003280eab4,IT,false,597,0,2021-07-15T10:28:47.122672537+00:00,64,Electronic - Other,Thu 30th Nov 2006
+66166,present,ek_syg.it,synths and goblins,222.04KB,1c7c2fba98c4e22b3929be48c2db7ae5,IT,false,584,0,2021-07-15T10:28:47.957286521+00:00,20,One Hour Compo,Fri 1st Dec 2006
+66167,present,ats_02.xm,Back The Door,721.50KB,70aa430379b79b32521af2235e716151,XM,false,721,0,2021-07-15T10:28:49.247483038+00:00,12,Ballad,Sat 2nd Dec 2006
+66168,present,l_l_l.it,L,1.21MB,b15a93b593a2bffeb38a0ecdae346521,IT,false,660,0,2021-07-15T10:28:50.305299734+00:00,20,Trance (general),Sat 2nd Dec 2006
+66169,present,ss-3.it,       Yaissjis,4.52MB,2118512fbc6f01d2bc86314cfd0b5f6a,IT,false,584,0,2021-07-15T10:28:52.293440228+00:00,64,Electronic - Other,Sat 2nd Dec 2006
+66170,present,ss-55.it,      Jsiashziga,4.21MB,e555766349ca06efba7246cb17e87c1c,IT,false,564,0,2021-07-15T10:28:53.927652254+00:00,62,Electronic - Other,Sat 2nd Dec 2006
+66171,present,jlaxmas.it,jlaXmas,2.78MB,01c5a8b43b79fa3b7401a939f3c89107,IT,false,396,0,2021-07-15T10:28:54.700631047+00:00,62,Electronic - Dance,Mon 4th Dec 2006
+66172,present,l-mnts_melonia_hq.xm,l-mnts melonia,3.32MB,55091148cddb740d3ccd1da67c726e1b,XM,false,1103,2,2021-07-15T10:28:55.889946275+00:00,12,Demo Style,Mon 4th Dec 2006
+66173,present,tdl_river_dawn.mod,Dawn by the River,444.34KB,bff3af234ababfe083e603158e619252,MOD,false,470,0,2021-07-15T10:28:57.734715735+00:00,24,Electronic - Dance,Mon 4th Dec 2006
+66174,present,ats_03.xm,Magic Table,484.68KB,ef05e201251ec74e7edbf5211dd4eac3,XM,false,709,0,2021-07-15T10:28:58.514285960+00:00,10,Ballad,Tue 5th Dec 2006
+66175,present,lsnk_erinome.it,Erinome,220.36KB,d2e5cd9449bfcbcf321e1c3b1ddd7229,IT,false,448,0,2021-07-15T10:28:59.612876277+00:00,22,One Hour Compo,Wed 6th Dec 2006
+66176,present,lsnk_wookieonthephone.it,LSnK - Wookie On the Phone,206.63KB,cefeda8ca0fd910a8b0bebc2eb781aea,IT,false,404,0,2021-07-15T10:29:01.472318087+00:00,64,One Hour Compo,Wed 6th Dec 2006
+66177,present,zovik-cheez_chip_no1.it,cheez_chip_#01,59.87KB,3b83a84361accd23363b108512c5dc7b,IT,false,192,0,2021-07-15T10:29:03.122400838+00:00,9,n/a,Tue 5th Dec 2006
+66178,present,adult.mod,adults,552.08KB,699d552ef0497be2c51db5e8d1f743f5,MOD,false,852,1,2021-07-15T10:29:04.258922832+00:00,4,n/a,Wed 6th Dec 2006
+66179,present,camel-s.mod,camels from space,38.54KB,a4235c2d1390a9ccf15083c9c211967c,MOD,false,194,0,2021-07-15T10:29:05.585106443+00:00,4,n/a,Wed 6th Dec 2006
+66180,present,dedict.mod, -+* dedication *+-,207.10KB,137ab8bd26f0d548c73f8d8f0d2ef9df,MOD,false,130,0,2021-07-15T10:29:07.000134039+00:00,4,n/a,Wed 6th Dec 2006
+66181,present,defiant0.it,FREEFALL-THE DEFIANT,979.71KB,f8ed717c410358faf2a00eafcd8bae6e,IT,false,120,0,2021-07-15T10:29:09.414724066+00:00,44,n/a,Wed 6th Dec 2006
+66182,present,post_brk.xm,Post - remix. 4:30.,1.09MB,82959a2c356b775b9a21295f7dd2d4b7,XM,false,88,0,2021-07-15T10:29:10.862553595+00:00,12,n/a,Wed 6th Dec 2006
+66183,present,sauertri.mod,sauertrip,90.65KB,4f5dbeb4bfe66fc4022e95615c03371c,MOD,false,110,0,2021-07-15T10:29:11.714805587+00:00,4,n/a,Wed 6th Dec 2006
+66184,present,scream2.xm,scream2.xm,524.60KB,4cf97aa3f4c382da2b3fbe7b2748e074,XM,false,146,0,2021-07-15T10:29:12.553989536+00:00,16,n/a,Wed 6th Dec 2006
+66185,present,vm-crazy.xm,Crazy Vinyll Mix,625.04KB,66c9aa05e59a67adf400610e30d54a69,XM,false,112,0,2021-07-15T10:29:13.465110348+00:00,16,n/a,Wed 6th Dec 2006
+66186,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:29:14.695337766+00:00,0,n/a,Thu 1st Jan 1970
+66187,present,external.xm,Hybrid song 2:20,50.15KB,4e7887bcd4495e8ad2147a17057fb94e,XM,true,55034,131,2021-07-15T10:29:16.177854589+00:00,10,Chiptune,Fri 10th Oct 1997
+66188,present,09chip-1982.mod,Back in 1982,61.59KB,8dc711eae9f6a9962ea3340e4b67fdc3,MOD,false,10920,8,2021-07-15T10:29:17.152219378+00:00,4,Chiptune,Thu 7th Dec 2006
+66189,present,23chip-srs.xm,Set...Reset...Start,54.62KB,d02ea1df692088218ec036fc0458168e,XM,false,4411,3,2021-07-15T10:29:18.497193770+00:00,5,Chiptune,Thu 7th Dec 2006
+66190,present,budobastard.xm,Budo bastard,38.06KB,07718f77c3a8fb7eb28074dcb58efcf8,XM,false,918,0,2021-07-15T10:29:20.369834628+00:00,4,Chiptune,Thu 7th Dec 2006
+66191,present,skyeblue.xm,Her skye-blue eyes,300.64KB,fdeb9d74406ee2ae2b3a4658b4deb68e,XM,false,832,0,2021-07-15T10:29:21.544636762+00:00,12,Rock - Hard,Thu 7th Dec 2006
+66192,present,ats_04.xm,I Want All Your Gold,777.34KB,edd6597b960abb216e30657938eba142,XM,false,687,0,2021-07-15T10:29:22.400992514+00:00,10,Ballad,Thu 7th Dec 2006
+66193,present,jladj.it,jladj,4.03MB,3e3f95840ff4821f61dd531aa35f45df,IT,false,362,0,2021-07-15T10:29:23.182177146+00:00,62,Electronic - Dance,Thu 7th Dec 2006
+66194,present,strobe-delusional_cut.xm,delusional_cut,9.06MB,83b6b61207b6b74f96311569a9c07aab,XM,false,1292,2,2021-07-15T10:29:23.985996889+00:00,24,Electronic - Ambient,Fri 8th Dec 2006
+66195,present,warlord-apparatus.xm,The Apparatus,21.88KB,3667b91e96fdf694251810f7e569da92,XM,false,727,0,2021-07-15T10:29:24.798377241+00:00,4,Chiptune,Fri 8th Dec 2006
+66196,present,warlord-funkedup.xm,Funked up, beat down,27.70KB,74c77632e9dd0d97d873a6244dab521f,XM,false,750,0,2021-07-15T10:29:25.603376048+00:00,8,Chiptune,Fri 8th Dec 2006
+66197,present,warlord-oldschoolplatformer.xm,Oldschool platformer,36.66KB,cb4be552ca8fed3e1b3596f5bed19c2d,XM,false,933,1,2021-07-15T10:29:26.470131298+00:00,6,Chiptune,Fri 8th Dec 2006
+66198,present,warlord-tailored.xm,Tailored but failure,24.45KB,58103c4f5cd96c2cb87c63180b9ee22c,XM,false,657,0,2021-07-15T10:29:27.231456665+00:00,8,Chiptune,Fri 8th Dec 2006
+66199,present,brimble-superfrog-gamble.mod,Superfrog Gamble,39.64KB,751a890047725662ea6bd641453388ee,MOD,false,3059,3,2021-07-15T10:29:28.007426806+00:00,4,Fantasy,Fri 8th Dec 2006
+66200,present,brimble-superfrog-project_f.mod,SUPERFROG (P-F),37.33KB,f5e0b7637bf3d15274e76a26f9b7af4d,MOD,false,1817,1,2021-07-15T10:29:29.012736500+00:00,4,Fantasy,Fri 8th Dec 2006
+66201,present,brimble-superfrog-title.mod,SUPERFROG,72.10KB,60377efdda1ed82c2cbb9012f825d4c6,MOD,true,2616,3,2021-07-15T10:29:29.788044982+00:00,4,Fantasy,Fri 8th Dec 2006
+66202,present,brimble-superfrog-world_1.mod,SuperFrog_WoodLand,52.91KB,0943610e7b6899e10040809df92fb2b3,MOD,false,1937,1,2021-07-15T10:29:30.618061724+00:00,4,Fantasy,Fri 8th Dec 2006
+66203,present,brimble-superfrog-world_2.mod,Superfrog World 2,59.82KB,5b7fe300a16fd9be304dedf8479d51cf,MOD,false,1834,3,2021-07-15T10:29:31.431061607+00:00,4,Fantasy,Fri 8th Dec 2006
+66204,present,brimble-superfrog-world_3.mod,Superfrog World 3,50.59KB,1e44320d6ff221fdf4bfda6308a9591e,MOD,true,1873,1,2021-07-15T10:29:32.204413569+00:00,4,Fantasy,Fri 8th Dec 2006
+66205,present,brimble-superfrog-world_4.mod,Superfrog World 4,44.81KB,22b0e6b80b16889afcd52391b6d1f93d,MOD,false,1835,3,2021-07-15T10:29:33.033384699+00:00,4,Fantasy,Fri 8th Dec 2006
+66206,present,brimble-superfrog-world_5.mod,Superfrog World 5,59.62KB,b04e8b205432848cc6ba737f3ecef0a2,MOD,false,1558,1,2021-07-15T10:29:34.333237521+00:00,4,Fantasy,Fri 8th Dec 2006
+66207,present,brimble-superfrog-world_6.mod,Superfrog World 7,51.65KB,b18d80e57a8e62d600bf35979ff992e2,MOD,false,1575,1,2021-07-15T10:29:35.108345473+00:00,4,Fantasy,Fri 8th Dec 2006
+66208,present,brimble-thesmophoria.mod,thesmophoria,115.45KB,b880e6a8b95481e247dd75c4d80e706b,MOD,true,2258,10,2021-07-15T10:29:35.890734391+00:00,4,n/a,Fri 8th Dec 2006
+66209,present,jlaalone.it,Alone,2.46MB,d579f7be564ef46f73d8fe013de71958,IT,false,376,0,2021-07-15T10:29:36.676333374+00:00,62,Electronic - Dance,Fri 8th Dec 2006
+66210,present,k_tec.xm,with_name(*|*)>k-tec,116.35KB,f2d77601274d7aabbff324eb4fb00e97,XM,false,88,0,2021-07-15T10:29:37.866572389+00:00,10,n/a,Sat 9th Dec 2006
+66211,present,knownends.it,Known Ends,1.50MB,a88cd3accbce08caab607cf26bef3324,IT,false,704,0,2021-07-15T10:29:38.668285333+00:00,29,Trance (general),Sat 9th Dec 2006
+66212,present,mm5_chargeman.xm,MegaMan V Charge Man,24.35KB,97670d9fac147ae730370d66469249ca,XM,false,717,0,2021-07-15T10:29:39.505341016+00:00,4,Video Game,Sat 9th Dec 2006
+66213,present,robric182.xm,Di...Cosa ?,65.64KB,559ef856a21132650244f0b4362ed1d1,XM,false,837,0,2021-07-15T10:29:40.293908823+00:00,10,Disco,Sat 9th Dec 2006
+66214,present,warlord-ohc-wankery.xm,sob sob,34.73KB,265d2920c98ffb687abd5cecc693ac81,XM,false,612,0,2021-07-15T10:29:41.542284149+00:00,12,One Hour Compo,Sat 9th Dec 2006
+66215,present,warlord-unimagination.xm,Unimagination,26.16KB,e9665d87c7e4823313569678921fdb5a,XM,false,674,0,2021-07-15T10:29:43.343073554+00:00,8,Chiptune,Sat 9th Dec 2006
+66216,present,settlers.xm,the Settler's Ramble,750.08KB,ae3e6acf508d7374e048dd51d57b3424,XM,false,1577,1,2021-07-15T10:29:44.663075406+00:00,24,Folk,Sun 10th Dec 2006
+66217,present,acktaves.mod,bassackwardacktaves,65.22KB,2847bf8ba6edd5489ef5cdfa01a0e42c,MOD,false,439,0,2021-07-15T10:29:45.578640975+00:00,4,n/a,Sat 16th Dec 2006
+66218,present,ats_05.xm,Down Hands,1.11MB,1db30ac2a1e4f796f0725eef0b415d60,XM,false,657,0,2021-07-15T10:29:46.430907127+00:00,12,Ballad,Wed 13th Dec 2006
+66219,present,ats_06.xm,In Un Vecchio Film,483.38KB,f6e8315ea06ca59011290024f209ce2d,XM,false,647,0,2021-07-15T10:29:47.203802940+00:00,12,Ballad,Sat 16th Dec 2006
+66220,present,deepfrie.xm,Deep Fried Yinyang,788.05KB,4c6ffe650fb0598da4a2eb05f30253d8,XM,false,170,0,2021-07-15T10:29:47.956621011+00:00,24,n/a,Mon 11th Dec 2006
+66221,present,dh-fiw.xm,Floating in Wet,679.78KB,f03e56571fe2a0b2e6e1e64379059f19,XM,true,1131,0,2021-07-15T10:29:49.750256316+00:00,16,n/a,Mon 11th Dec 2006
+66222,present,echopast.it,Echo Of The Past,535.19KB,b28eb81aae338d0f33deff8a62b282d4,IT,false,864,0,2021-07-15T10:29:50.528243958+00:00,26,Trance (general),Sat 16th Dec 2006
+66223,present,jlahome.it,Home,3.77MB,1b5bd6f73d11de4c9e1672b5bf20cc81,IT,false,364,0,2021-07-15T10:29:51.299838042+00:00,62,Electronic - Dance,Wed 13th Dec 2006
+66224,present,lsnk_module3.it,LSnK - Module 3,546.69KB,46533a95819b08c0ed263058c1c43f07,IT,false,216,0,2021-07-15T10:29:52.100604524+00:00,25,n/a,Tue 12th Dec 2006
+66225,present,masterpeace.xm,Master Peace,52.49KB,6eded1ec1fb15291134263f93e48b28d,XM,false,86,0,2021-07-15T10:29:53.246092583+00:00,4,n/a,Sat 16th Dec 2006
+66226,present,newlife.xm,A New Life!,1.23MB,043d26cff6a79e577118d6e6c7428820,XM,false,395,0,2021-07-15T10:29:54.012430010+00:00,20,Pop (general),Sat 16th Dec 2006
+66227,present,robric183.xm,Dolce Notte Con Te,103.82KB,7ceb30eb125e1ef3da43203dd53c5541,XM,false,639,0,2021-07-15T10:29:54.825711535+00:00,10,Electronic - Breakbeat,Tue 12th Dec 2006
+66228,present,slayerdsm.it,Dead skin mask,11.48MB,406aa876559c45d5a749d6cf96c8cac0,IT,false,681,0,2021-07-15T10:29:55.629420542+00:00,9,Metal (general),Tue 12th Dec 2006
+66229,present,wr-wethrkin8b.it,We Three Kings,2.99MB,99d9bd1c3de4db2742f902f3bb286db6,IT,false,432,0,2021-07-15T10:29:58.510554860+00:00,32,n/a,Sat 16th Dec 2006
+66230,present,a_dwarfs_journey.xm,a dwarf's journey,15.03KB,31a54bc649ccc141fe8c45a21bec33c5,XM,false,818,0,2021-07-15T10:30:00.460128889+00:00,8,n/a,Mon 18th Dec 2006
+66231,present,jlabells.it,Jingle Bells,2.46MB,eee1a62f2037e9ff16eb243f21a17749,IT,false,434,0,2021-07-15T10:30:01.236929118+00:00,62,Electronic - Dance,Tue 19th Dec 2006
+66232,present,k_frequenc.xm,Soft Frequency,299.80KB,eefeae5d65a3a9589dd03068c78c4145,XM,false,421,0,2021-07-15T10:30:02.076093431+00:00,16,Electronic - Ambient,Tue 19th Dec 2006
+66233,present,k_jungle.xm,Jungle fever,919.14KB,11f52472609057208d8f0e83d68e67cf,XM,false,506,0,2021-07-15T10:30:03.362107014+00:00,28,Electronic - Ambient,Tue 19th Dec 2006
+66234,present,k_lowlife.xm,low-life,503.90KB,c05a8e9b8e7b3d9c460e647a8d30743e,XM,false,399,0,2021-07-15T10:30:04.432815593+00:00,20,Electronic - Ambient,Tue 19th Dec 2006
+66235,present,k_time.xm,Waiting Time,1.47MB,bada4b69a09ac49d646acf69dac8a7d5,XM,false,388,0,2021-07-15T10:30:06.245670780+00:00,24,Electronic - Dance,Tue 19th Dec 2006
+66236,present,mik_kalk.it,toksahtava vitsi,1.32MB,8c9c9e29d7baf9a43436524cdd619a7a,IT,false,112,0,2021-07-15T10:30:07.203985826+00:00,11,n/a,Tue 19th Dec 2006
+66237,present,mik_uhka.it,Mikkosvillen uhka!,628.39KB,644f7cfba78ac06720a79cec2730047f,IT,false,83,0,2021-07-15T10:30:08.446479735+00:00,14,n/a,Tue 19th Dec 2006
+66238,present,my_first_song.it,Nuoriso theme,79.98KB,2a7e63e85221dfcd3579c5eb84973680,IT,false,123,0,2021-07-15T10:30:09.249162907+00:00,12,n/a,Tue 19th Dec 2006
+66239,present,robric356.xm,Good Year To All,799.42KB,fb1d43d869bf4091f41854261b5d1716,XM,false,274,0,2021-07-15T10:30:10.181553629+00:00,11,Ballad,Tue 19th Dec 2006
+66240,present,robric357.xm,Vola Nel Cielo Una R,1.15MB,349782fe6e269d490d41ae52d7fda619,XM,false,297,0,2021-07-15T10:30:11.022082552+00:00,10,Ballad,Wed 20th Dec 2006
+66241,present,strobe-tawnythegnome.xm,tawny the gnome,2.82MB,028f59f41e03b60274b0d6475e8c5570,XM,false,844,1,2021-07-15T10:30:12.204613955+00:00,32,n/a,Tue 19th Dec 2006
+66242,present,zp-sev.it,seventh serenity,1.20MB,0fdddedb3aaeff5e2432b032d3a09874,IT,false,1383,2,2021-07-15T10:30:13.004469502+00:00,24,Electronic - Techno,Tue 19th Dec 2006
+66243,present,cavdrip.it,Cavern Drip,682.42KB,cfb29c2c14feea4f878da9d8a9dfb6b5,IT,false,695,0,2021-07-15T10:30:13.776271323+00:00,13,Orchestral,Thu 21st Dec 2006
+66244,present,chronik.xm,chronik einer fliege,16.33KB,1ce7af1094d1a93aeda17bfd227e886d,XM,false,119,0,2021-07-15T10:30:14.577717941+00:00,8,n/a,Thu 21st Dec 2006
+66245,present,i_wanna_go_far_away.xm,.melodien,2.57MB,32ce64c8bfec27e24f63d2dfd4840c48,XM,false,151,0,2021-07-15T10:30:15.387612276+00:00,16,n/a,Thu 21st Dec 2006
+66246,present,jlabrighteyes.it,Bright Eyes,2.47MB,767c87010ff3dd3d1592b3fde3c6accc,IT,false,518,0,2021-07-15T10:30:16.163480363+00:00,62,Electronic - Dance,Sat 23rd Dec 2006
+66247,present,protons.it,Protons and Electrons,276.14KB,03ecb79f764adc88c8c1f1025fe8872e,IT,false,82,0,2021-07-15T10:30:17.358661350+00:00,11,n/a,Sat 23rd Dec 2006
+66248,present,robric358.xm,Nailay....Dove Sei ?,1.19MB,17674ffbc42ebdbc9659093a8aa5ae8e,XM,false,280,0,2021-07-15T10:30:18.146978723+00:00,11,Ballad,Sat 23rd Dec 2006
+66249,present,740mix.xm,7:40mix,545.92KB,a6f99498801a923c0d940b87cb655ed4,XM,false,1487,0,2021-07-15T10:30:19.022480460+00:00,16,Folk,Thu 28th Dec 2006
+66250,present,appointmentinfores.xm,AppointmentInFores,407.94KB,4e98fc8d364baf728b492c3cd5a1e584,XM,false,199,0,2021-07-15T10:30:19.795195931+00:00,10,n/a,Thu 28th Dec 2006
+66251,present,astrinacusin.xm,ASTRINA CUSINTINA,866.88KB,56cbf2ab3aafe4721a6ff2c9273a3f79,XM,false,215,0,2021-07-15T10:30:21.571230586+00:00,8,n/a,Wed 27th Dec 2006
+66252,present,cavcrystl.it,Cavern Crystal,394.28KB,799b68ef8d567a0b6000be989b9f7100,IT,false,843,0,2021-07-15T10:30:22.334021447+00:00,13,Orchestral,Thu 28th Dec 2006
+66253,present,cavin.it,Cave-In,1.35MB,77d01220018cf24d601c3bf8ca8b411a,IT,false,264,0,2021-07-15T10:30:23.128401388+00:00,24,n/a,Thu 28th Dec 2006
+66254,present,cosmonaut.mod,Cosmonaut at work,178.25KB,fe11a353977a80e8be270e5b57c4e7a8,MOD,false,1368,0,2021-07-15T10:30:23.924657182+00:00,8,Soundtrack,Wed 27th Dec 2006
+66255,present,da2k7.xm,diapason_arcoiris2k7,56.23KB,e94caab3a1e6b230367b0a28194ba1bc,XM,false,828,2,2021-07-15T10:30:24.834172391+00:00,12,Electronic - Dance,Fri 29th Dec 2006
+66256,present,demons.xm,blue_demons<bst_iri>,165.27KB,b135fc837f4684e4564faa4007b394e6,XM,false,503,0,2021-07-15T10:30:25.935362981+00:00,18,Electronic - Techno,Fri 29th Dec 2006
+66257,present,dn-elove_tmdc.xm,Every Love,2.10MB,6f2d8ad2f69dd1111e263d9298d87a9e,XM,false,1064,1,2021-07-15T10:30:27.349518125+00:00,32,Trance - Dream,Fri 29th Dec 2006
+66258,present,em022000_-_water_pipe.xm,WATER-PIPE,517.38KB,fc056170f21dd1ea977d8386ae94fd10,XM,false,917,0,2021-07-15T10:30:29.529108616+00:00,8,Soundtrack,Thu 28th Dec 2006
+66259,present,exzu.xm,exzu,50.96KB,6d1f523c806fb6f8cd18e4d143ed17e9,XM,false,1024,2,2021-07-15T10:30:31.476696106+00:00,12,Chiptune,Fri 29th Dec 2006
+66260,present,funtraxx.xm,fun-traxx(cc#series),29.64KB,703f73959597f595fd8d74d58a03457e,XM,false,273,0,2021-07-15T10:30:34.784536390+00:00,8,n/a,Fri 29th Dec 2006
+66261,present,imagine.it,imagine-0cp tower rmx,521.26KB,f44f640561784d9eb6f64d3fe82acd16,IT,false,442,0,2021-07-15T10:30:37.289401914+00:00,28,Electronic - Dance,Fri 29th Dec 2006
+66262,present,imphobia.xm,blue angels_imphobia,491.87KB,db821c3022b83839c426c2c31a4b9515,XM,false,421,0,2021-07-15T10:30:39.823104361+00:00,18,Electronic - Techno,Fri 29th Dec 2006
+66263,present,in_africa.xm,In Africa,610.09KB,81c4a394d53b39629ae93ea5ca8ab1e0,XM,false,530,2,2021-07-15T10:30:41.681770031+00:00,8,World - Latin,Thu 28th Dec 2006
+66264,present,jlasea.it,The Sea,1.58MB,6c1bcf3678307786b38ffba451abfce5,IT,false,493,0,2021-07-15T10:30:43.880298608+00:00,41,Ballad,Wed 27th Dec 2006
+66265,present,lunar.xm,presencia lunar*rmx,243.69KB,e5a4ba6b6e1317d7ad7e7c9a69893ea7,XM,false,718,1,2021-07-15T10:30:46.222370473+00:00,20,Electronic (general),Fri 29th Dec 2006
+66266,present,melancholy_for_earth.mod,Melancholy for Earth,123.19KB,16a02740472a8a8d877fde32a108455c,MOD,false,942,0,2021-07-15T10:30:47.123090591+00:00,8,Soundtrack,Thu 28th Dec 2006
+66267,present,morething.it,The More Things Change...,965.53KB,286ad88ea0c63cb829e3fd909a5af504,IT,false,782,0,2021-07-15T10:30:47.965675586+00:00,28,Trance (general),Wed 27th Dec 2006
+66268,present,rainbow3.xm,rainbow 3,38.36KB,07cca7941692a4d45464c88d7ff933da,XM,false,312,0,2021-07-15T10:30:49.735355217+00:00,4,n/a,Fri 29th Dec 2006
+66269,present,spring.it,Spring*Bass System,54.60KB,d3332085f4d6c5c2e20fa10d398f3537,IT,false,310,0,2021-07-15T10:30:51.064280381+00:00,8,n/a,Fri 29th Dec 2006
+66270,present,star0.xm,little star,42.75KB,1b2c8849ef8f99d2b4d2e110f4d784f5,XM,false,145,0,2021-07-15T10:30:51.920279006+00:00,4,n/a,Fri 29th Dec 2006
+66271,present,subterra.xm,subterra,16.52KB,3a3e84f911c4ab952bbff0d8d0d8b5c0,XM,false,423,0,2021-07-15T10:30:53.120624506+00:00,6,Chiptune,Fri 29th Dec 2006
+66272,present,velvet.xm,velvet,356.15KB,7e73c63828eff6ed4524e61975a35e92,XM,false,647,1,2021-07-15T10:30:53.924830992+00:00,30,Electronic - Dance,Fri 29th Dec 2006
+66273,present,voinamin.it,Õ..íÿ-âîéíà !!!,673.00KB,f3a44cff98dac65442203f78cbaa3494,IT,false,584,0,2021-07-15T10:30:55.418765935+00:00,16,Electronic - House,Thu 28th Dec 2006
+66274,present,waterfal.xm,waterfall,281.22KB,3ce78bef6d5b6da651e708ececb00f0e,XM,false,174,0,2021-07-15T10:30:57.051514498+00:00,28,n/a,Fri 29th Dec 2006
+66275,present,wings0.it,wings-dark nebula,253.23KB,a2005c37132ada76cb90e802660a5a27,IT,false,265,0,2021-07-15T10:30:58.055925237+00:00,16,n/a,Fri 29th Dec 2006
+66276,present,adic-1.s3m,[ADIC] - ADIC_tion,145.71KB,a0bc80a981031d6477556e5ab5a8e3a6,S3M,false,206,0,2021-07-15T10:30:58.830942383+00:00,14,n/a,Tue 2nd Jan 2007
+66277,present,adic-2.s3m,[ADIC] - Strangle grip,207.40KB,aacad54b100281ace8ba43353f752af5,S3M,false,223,0,2021-07-15T10:30:59.815284799+00:00,16,n/a,Tue 2nd Jan 2007
+66278,present,adic-3.s3m,[ADIC] - Adios,146.01KB,3dc80033a2044c6b1e21fcb14b5c893b,S3M,false,213,0,2021-07-15T10:31:00.994097230+00:00,16,n/a,Tue 2nd Jan 2007
+66279,present,adic-4.s3m,[ADIC] - Orion,161.34KB,e566ed0ed14971a1718c3a5c8350db63,S3M,false,263,0,2021-07-15T10:31:01.873969780+00:00,10,n/a,Thu 4th Jan 2007
+66280,present,ats_07.xm,Wind Of The Life,1.68MB,f106fc7ff9c81552ce03b31ee68e4211,XM,false,899,1,2021-07-15T10:31:02.705111491+00:00,12,Ballad,Thu 4th Jan 2007
+66281,present,dn-ccryl_tmdc.xm,cold cry lonely,111.13KB,2a4b92171b4c26ec94a2ca7637e2d25f,XM,false,789,0,2021-07-15T10:31:03.938189518+00:00,16,Demo Style,Tue 2nd Jan 2007
+66282,present,dreams_of_2006.it,dream of 2006,501.09KB,9fd2fc31485eac65af11d7bb79f955fd,IT,false,130,0,2021-07-15T10:31:05.194298605+00:00,16,n/a,Tue 2nd Jan 2007
+66283,present,filters.it,filters.it,22.60KB,9b27189b2eba828261c7abdef5c85243,IT,false,103,0,2021-07-15T10:31:06.346092388+00:00,21,n/a,Tue 2nd Jan 2007
+66284,present,glazed.xm,Glazed,1.08MB,550a64bd8c12446531f5f4b9bdd1da12,XM,false,848,0,2021-07-15T10:31:07.314073047+00:00,8,Electronic - Drum &amp; Bass,Tue 2nd Jan 2007
+66285,present,hawkremx.it,Hawkwind (HiPot Remix),546.78KB,621ec141380ab30e1e9262aec0f4315b,IT,false,113,0,2021-07-15T10:31:08.633128436+00:00,16,n/a,Tue 2nd Jan 2007
+66286,present,hawkwind.s3m,      - Hawkwind -,429.26KB,2b87176114c5aefa0bce4aa1e70014d8,S3M,false,630,1,2021-07-15T10:31:09.475609539+00:00,16,n/a,Tue 2nd Jan 2007
+66287,present,hogback.xm,Hogback,1.30MB,e03d00bb53364715efff9df289062f8d,XM,false,862,0,2021-07-15T10:31:10.300923430+00:00,14,Electronic - Drum &amp; Bass,Tue 2nd Jan 2007
+66288,present,humanki.it,Humankind,349.01KB,daa2919a04f48a1424a22c25dc20080a,IT,false,105,0,2021-07-15T10:31:11.113356288+00:00,16,n/a,Tue 2nd Jan 2007
+66289,present,jlafeel.it,Feel,1.39MB,061cf32fd993f0e2e703bcc979fd12a2,IT,false,457,0,2021-07-15T10:31:11.963898831+00:00,47,Ballad,Thu 4th Jan 2007
+66290,present,orifice.xm,Orifice,648.93KB,24eda0e2089c3403d40f94aded6c6b73,XM,false,701,1,2021-07-15T10:31:12.849473349+00:00,10,Electronic - Drum &amp; Bass,Tue 2nd Jan 2007
+66291,present,purview.xm,Purview,966.26KB,95b0d0c88d7f65870edb2c57b316f1e3,XM,false,635,0,2021-07-15T10:31:13.652896991+00:00,8,Electronic - Drum &amp; Bass,Tue 2nd Jan 2007
+66292,present,robric00.xm,L'ombra Dei Castelli,93.20KB,83994c637ee5010a89031f7ed4e5ac10,XM,false,490,0,2021-07-15T10:31:14.425581288+00:00,4,Demo Style,Thu 4th Jan 2007
+66293,present,swobody.xm,dzwonek swobody,28.48KB,42042508ee8ea2ef89759d0b536ff4b3,XM,false,549,1,2021-07-15T10:31:16.057316305+00:00,4,n/a,Tue 2nd Jan 2007
+66294,present,wf_sin.s3m,The Waterfalls of Sin,569.10KB,fd4bb32129b0554b04c1466896cf72fe,S3M,false,122,0,2021-07-15T10:31:17.075710208+00:00,16,n/a,Tue 2nd Jan 2007
+66295,present,www_oex_pl___1.it,www_oex_pl___1.it,1.53MB,12885a6f50e393843f0c159580275bff,IT,false,536,0,2021-07-15T10:31:18.041594237+00:00,29,Experimental,Tue 2nd Jan 2007
+66296,present,www_oex_pl___ania_madchen.it,www_oex_pl___ania_madchen.it,2.52MB,2e8f416fb32243783c2ddc435530bff7,IT,false,734,0,2021-07-15T10:31:18.894340636+00:00,22,Electronic - Rave,Tue 2nd Jan 2007
+66297,present,www_oex_pl___apathetic_weeks.it,www_oex_pl___apathetic_weeks.it,2.67MB,4862e795e0b7100b11cb2a2de4cbcbaf,IT,false,559,0,2021-07-15T10:31:19.705007230+00:00,25,Experimental,Tue 2nd Jan 2007
+66298,present,www_oex_pl___snowy_mountains.it,www_oex_pl___snowy_mountains.it,2.67MB,8e56d5122991a719aabd075567e332e8,IT,false,493,0,2021-07-15T10:31:20.955931357+00:00,52,Experimental,Tue 2nd Jan 2007
+66299,present,zovik-cheez_chip_no2.it,cheez_chip_#02,30.63KB,54266fb2c8da73599aa2b4b01b55fa5f,IT,false,902,1,2021-07-15T10:31:22.698177897+00:00,4,Chiptune,Thu 4th Jan 2007
+66300,present,acetone.it,Acetone,1.49MB,7a2b97a27ed5dc029ccad882e83e568f,IT,false,2886,0,2021-07-15T10:31:24.396859439+00:00,8,Metal (general),Sat 6th Jan 2007
+66301,present,atatacamuaru.xm,TATA CAMUARU,864.14KB,7b199668ae5e69bbc810c414f769684d,XM,false,217,0,2021-07-15T10:31:25.202990039+00:00,8,n/a,Sat 6th Jan 2007
+66302,present,fun.xm,fun.xm,265.70KB,9f6933fcad6fbb350d45493d5bb66709,XM,false,169,0,2021-07-15T10:31:25.972400298+00:00,25,n/a,Sat 6th Jan 2007
+66303,present,iller_croz_goes_iddy_mode.xm,CroZ goes iddy mode,22.10KB,563fbd10a7ff3725a25cb70ad2285c35,XM,false,179,0,2021-07-15T10:31:26.799561972+00:00,6,n/a,Tue 9th Jan 2007
+66304,present,iller_knarkloader_final.xm,KnarkLoader 1.0,25.53KB,2db6a838796901ade9a44a3931b1c6bc,XM,false,471,2,2021-07-15T10:31:28.810707698+00:00,6,n/a,Tue 9th Jan 2007
+66305,present,ir_icedrhythmedit.xm,Iced  Rhythm   (edit,716.82KB,a7c86afc96e43a160c2b7427cff22b2f,XM,false,259,0,2021-07-15T10:31:31.151816806+00:00,16,n/a,Sat 6th Jan 2007
+66306,present,warlord-dream.it,The impossible dream,212.62KB,6aeedcaf95163052d37158ed4dcfbb73,IT,false,590,0,2021-07-15T10:31:31.970830070+00:00,32,Electronic - Ambient,Tue 9th Jan 2007
+66307,present,warlord-ohc-onestep.it,closer to death,292.14KB,3da0f832fd12464efc71ba4099028f54,IT,false,575,0,2021-07-15T10:31:32.777475911+00:00,32,Electronic - Ambient,Tue 9th Jan 2007
+66308,present,hyo-compo48.it,Durians on drugs,323.23KB,c7131d61888ed302183aa799721baabf,IT,false,531,0,2021-07-15T10:31:33.621561413+00:00,15,One Hour Compo,Mon 15th Jan 2007
+66309,present,pip-actinomycetal.it,Actinomycetal,610.44KB,b699543402c93a36451c8c4469985c39,IT,false,533,0,2021-07-15T10:31:34.446173407+00:00,10,Metal (general),Mon 15th Jan 2007
+66310,present,pip-fang.it,Fang,890.49KB,79ca7350b9761e11258b6d6c024e8e3b,IT,false,570,0,2021-07-15T10:31:35.701416535+00:00,13,Rock - Soft,Mon 15th Jan 2007
+66311,present,pip-flutchy.it,Flutchy,1.30MB,c39511a45ee9a5d83c7cd1bb2f9a996f,IT,false,651,0,2021-07-15T10:31:36.806359569+00:00,4,Rock - Hard,Mon 15th Jan 2007
+66312,present,pip-hbf.it,Happy but False,1.17MB,6480eb7468995f6f6d872a59ad46450b,IT,false,388,0,2021-07-15T10:31:38.175562701+00:00,13,Rock (general),Mon 15th Jan 2007
+66313,present,pip-invalidsalad.it,Invalid Salad,696.96KB,f4c8fddfd2fb36699e857cc6f9c5427e,IT,false,996,1,2021-07-15T10:31:38.973023654+00:00,10,Metal (general),Mon 15th Jan 2007
+66314,present,pip-siphon.it,Siphon,1.32MB,738999a779ff96090a05b63b35e164f7,IT,false,510,0,2021-07-15T10:31:40.800994759+00:00,7,Metal (general),Mon 15th Jan 2007
+66315,present,pip-tumble.it,Tumbling Rocks,968.26KB,aecb3b54265d15b31b10aa2c3429b421,IT,false,652,0,2021-07-15T10:31:41.573461890+00:00,7,Rock - Hard,Mon 15th Jan 2007
+66316,present,visceral.xm,Visceral,1.59MB,0282868d654de4f90d47b8098978e834,XM,false,574,0,2021-07-15T10:31:42.431736578+00:00,8,Electronic - Ambient,Mon 15th Jan 2007
+66317,present,vitriolate.xm,Vitriolate,656.80KB,7f66b53db4500bfb948addaf495dbe70,XM,false,665,0,2021-07-15T10:31:43.239818065+00:00,8,Electronic - Drum &amp; Bass,Mon 15th Jan 2007
+66318,present,dabulld.xm,da bulldance,3.57MB,eed68fc69b0910959e6ee4f43d14a29e,XM,false,2059,2,2021-07-15T10:31:44.052792724+00:00,26,Electronic (general),Thu 18th Jan 2007
+66319,present,ending.xm,ending.xm,173.71KB,606ff210a031b47ac53f236f89703f59,XM,false,165,0,2021-07-15T10:31:44.838333524+00:00,8,n/a,Thu 18th Jan 2007
+66320,present,kika_air_to.xm,Air-to-Ground,636.95KB,cab4658c7911f5962a8a6d3c0d39c9cc,XM,false,130,0,2021-07-15T10:31:46.617857504+00:00,28,n/a,Thu 18th Jan 2007
+66321,present,kika_orbit.xm,Enter an Orbit,461.07KB,e73147948d3d1b6069fa5ee5ad3c565f,XM,false,118,0,2021-07-15T10:31:47.447153278+00:00,32,n/a,Thu 18th Jan 2007
+66322,present,klbz_integralenergy.it,Integral Energy,44.41KB,243578ff8de67ef1b04fae06f5a471b2,IT,false,500,0,2021-07-15T10:31:48.255741832+00:00,5,Chiptune,Thu 18th Jan 2007
+66323,present,paska.xm,paska.xm,2.98MB,5dea37d6c99176984f32740fc39d551c,XM,false,149,0,2021-07-15T10:31:49.070145409+00:00,8,n/a,Thu 18th Jan 2007
+66324,present,pip-brainpan.it,Brainpan,688.54KB,f2b490384de75583dea8cd9d2626d162,IT,false,646,0,2021-07-15T10:31:50.510733851+00:00,9,Rock - Hard,Thu 18th Jan 2007
+66325,present,pip-dumpsterjuice.it,Dumpster Juice,660.72KB,c615320ba790e0869660fbd259da2e03,IT,false,543,0,2021-07-15T10:31:51.410641113+00:00,9,Metal (general),Thu 18th Jan 2007
+66326,present,pip-kweek.it,Kweek,571.47KB,94386cef9f591681a4c9131d7b60fdec,IT,false,381,0,2021-07-15T10:31:52.202448242+00:00,15,Electronic - Ambient,Thu 18th Jan 2007
+66327,present,pip-myriad-o-brads.it,Myriad of Brads,620.80KB,e9aef914e561c7fab2533f3b09106d2a,IT,false,487,0,2021-07-15T10:31:54.763693893+00:00,9,Metal (general),Thu 18th Jan 2007
+66328,present,pip-noexcuse.it,No Excuse,1.12MB,8021dadc201456b2a8b6bf274332c803,IT,false,545,0,2021-07-15T10:31:55.807409883+00:00,9,Metal (general),Thu 18th Jan 2007
+66329,present,pip-pipsqueak.it,Pip Squeak,325.89KB,cf915b558a953939253373b6fc6f64fd,IT,false,588,1,2021-07-15T10:31:56.738011964+00:00,10,Rock - Soft,Thu 18th Jan 2007
+66330,present,pip-problematic.it,Problematic,2.04MB,e6669e3220dbc76aedd53088adf99b2b,IT,false,483,0,2021-07-15T10:31:57.529231779+00:00,11,Metal (general),Thu 18th Jan 2007
+66331,present,pip-slapdash.it,Slapdash,1.18MB,9d22582db5e2286fc371e17925386357,IT,false,617,0,2021-07-15T10:31:58.389476253+00:00,10,Rock - Hard,Thu 18th Jan 2007
+66332,present,pip-soapy.it,Soapy's Silly Stuff,118.53KB,e83454f64e930b1c2a8224e6e01cfd29,IT,false,621,0,2021-07-15T10:31:59.292712548+00:00,5,Comedy,Thu 18th Jan 2007
+66333,present,sewer_system.xm,sewer_system.xm,296.07KB,ff7dd70f480a4425fa0128df3e451438,XM,false,144,0,2021-07-15T10:32:00.462646510+00:00,10,n/a,Thu 18th Jan 2007
+66334,present,tempest-acidjazz.mod,acidjazzed evening,56.40KB,b83d11b72d0062dba779f61556e98260,MOD,true,11608,46,2021-07-15T10:32:01.313687149+00:00,4,Chiptune,Thu 18th Jan 2007
+66335,present,treetops.xm,treetops.xm,98.75KB,4f13205e6c14989850e2c5468c306bc4,XM,false,757,0,2021-07-15T10:32:02.427230204+00:00,9,Electronic - Ambient,Thu 18th Jan 2007
+66336,present,undecapitate.it,:) Undecapitate ):,510.23KB,37889f94909f8af9676ae9080e9fee80,IT,false,574,0,2021-07-15T10:32:03.590819160+00:00,6,Metal (general),Thu 18th Jan 2007
+66337,present,alcoholic_score.mod,( alcoholic score ),118.18KB,caeb144ef9d546bbea1fc49b19170b66,MOD,false,297,0,2021-07-15T10:32:04.667684288+00:00,4,n/a,Sat 20th Jan 2007
+66338,present,apcalyps.mod,apocalypse,127.09KB,672f3bcf81fe5863094625675a8ecba9,MOD,false,3425,2,2021-07-15T10:32:05.936172102+00:00,4,n/a,Sun 29th Jul 2001
+66339,present,beek-dont_turn_around.it,don't turn around,19.41KB,6b5a26b1fcbdd969c2cda34f1381ab0a,IT,false,292,0,2021-07-15T10:32:08.428272461+00:00,11,n/a,Sat 20th Jan 2007
+66340,present,beek-my_eleventh_year.it,my eleventh year,38.87KB,a08dbaeeb540bcf8a00960ec9610bee8,IT,false,1255,2,2021-07-15T10:32:09.258851527+00:00,8,Chiptune,Sat 20th Jan 2007
+66341,present,beek-oh_delia.it,oh delia,40.97KB,77b51bb96750b5652399f7f5bafa9474,IT,false,1810,2,2021-07-15T10:32:11.966689566+00:00,10,Chiptune,Sat 20th Jan 2007
+66342,present,beek-one_on_someone_one_on.it,one on someone one on,27.98KB,62234ca0f1818dc37accc7eb16cb4ba4,IT,false,428,1,2021-07-15T10:32:13.827211664+00:00,22,n/a,Sat 20th Jan 2007
+66343,present,beek-substitutionology.it,substitutionology,128.62KB,e87fe93234fe77105fd155a2676f503a,IT,true,4132,9,2021-07-15T10:32:14.641361633+00:00,23,Chiptune,Sat 20th Jan 2007
+66344,present,breathch.mod,breath chicken,5.75KB,94b692271673629434132c28af473f1e,MOD,false,190,0,2021-07-15T10:32:15.435865791+00:00,4,n/a,Sat 20th Jan 2007
+66345,present,canal_green.mod,canal_green,137.38KB,277a6a24f2512ee5d63cdd002bad1f27,MOD,false,456,0,2021-07-15T10:32:16.234963083+00:00,4,n/a,Sat 20th Jan 2007
+66346,present,darwin-arawn_shakta_aine.xm,darwin-arawn_shakta_aine.xm,380.27KB,e80301445f7203a262a8d717eefe6cd1,XM,false,146,0,2021-07-15T10:32:17.036076787+00:00,24,n/a,Sat 20th Jan 2007
+66347,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:32:17.802255019+00:00,0,n/a,Thu 1st Jan 1970
+66348,present,darwin-kuku.xm,Kuku dub trance,688.19KB,88f8c717f1db00edcf0542a40af94093,XM,false,385,0,2021-07-15T10:32:18.425186717+00:00,32,n/a,Sat 20th Jan 2007
+66349,present,hard_feelings.mod,Hard Feelings,87.06KB,95df1341865ecf5a7990f924ac4553e0,MOD,false,603,1,2021-07-15T10:32:19.339746166+00:00,4,n/a,Sat 20th Jan 2007
+66350,present,huh-huh.mod,Huh? HUH?!,87.89KB,73dd7d14ebe17a403c9aaf5ee3029034,MOD,false,668,0,2021-07-15T10:32:20.156691246+00:00,4,Demo Style,Sat 20th Jan 2007
+66351,present,jimmysvoyage-demo.mod,JimmysVoyage-demo,52.41KB,612189cb09b933caeedd6eede1527125,MOD,false,384,0,2021-07-15T10:32:21.773202871+00:00,4,n/a,Sat 20th Jan 2007
+66352,present,lover_breath.mod,(( Lover Breath )),139.46KB,658fc1a2b394acb2ccdefc83671551fb,MOD,false,471,0,2021-07-15T10:32:22.698261874+00:00,4,n/a,Sat 20th Jan 2007
+66353,present,proxima.mod,proxima,38.95KB,427c68828a9e30873e8889fe5479a3dc,MOD,false,433,0,2021-07-15T10:32:24.084760320+00:00,4,n/a,Sat 20th Jan 2007
+66354,present,reggaey.xm,Fading Manuscript,908.29KB,4b4d1f105cb2751255817ca36638f15b,XM,false,1113,0,2021-07-15T10:32:25.935635240+00:00,30,Reggae,Sat 20th Jan 2007
+66355,present,tdl_glom.mod,A Gloomy Day,406.09KB,6962900d2bf6728cc182a411ad1aaad7,MOD,false,434,0,2021-07-15T10:32:26.728235946+00:00,28,Electronic - Dance,Sat 20th Jan 2007
+66356,present,xmas_melondy.mod,xmas_melondy,205.46KB,584fa78c4ae14538292fda0a7497430c,MOD,false,910,1,2021-07-15T10:32:27.491822336+00:00,4,n/a,Sat 20th Jan 2007
+66357,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:32:28.308781536+00:00,0,n/a,Thu 1st Jan 1970
+66358,present,m0d_-_pienataur_returns.ahx,pienataur returns,15.95KB,7b7b1cb84d0f68d6dbc128e0579e0d73,AHX,false,1051,0,2021-07-15T10:32:29.570493325+00:00,4,Chiptune,Wed 24th Jan 2007
+66359,present,m0d_-_strangers_pie.ahx,stranger's pie,13.79KB,566934e09ee55ae96826d90531d5399c,AHX,false,659,0,2021-07-15T10:32:30.550995510+00:00,4,Chiptune,Wed 24th Jan 2007
+66360,present,m0d_-_strobulated_pie.ahx,strobulation,11.07KB,1b08d809f39148bbee06a7c70d960ab5,AHX,false,580,0,2021-07-15T10:32:31.329409959+00:00,4,Chiptune,Wed 24th Jan 2007
+66361,present,m0d_-_streets_of_pie.ahx,streets,13.13KB,5af1112b540359f1891ebbe93cd9fe34,AHX,false,596,0,2021-07-15T10:32:32.166505282+00:00,4,Chiptune,Wed 24th Jan 2007
+66362,present,m0d_-_therepie.ahx,m0d-therapie,13.46KB,a4bee05f04ec4a3d10d10d8d72d1dbee,AHX,false,580,0,2021-07-15T10:32:34.144600687+00:00,4,Chiptune,Wed 24th Jan 2007
+66363,present,m0d_-_space_pie_shuffle.ahx,SPACE PIE SHUFFLE,13.04KB,b55f33a2e732c093559d33efbbb5a4c9,AHX,false,580,0,2021-07-15T10:32:34.969336969+00:00,4,Chiptune,Wed 24th Jan 2007
+66364,present,m0d_-_children_of_the_pie.ahx,children of the pie,25.93KB,eb55897e59027c0092ed440e3d26a331,AHX,false,1046,0,2021-07-15T10:32:35.756259643+00:00,4,Chiptune,Wed 24th Jan 2007
+66365,present,m0d_-_chip_shoulder.ahx,its m0ds first tune,21.08KB,2b50836beabfce4653abbb0ad84d2a8c,AHX,false,585,0,2021-07-15T10:32:37.630300374+00:00,4,Chiptune,Wed 24th Jan 2007
+66366,present,m0d_-_happie_happie_pie.ahx,Happie Happie Pie,14.28KB,175cdd5b966986fa7fde6ab58ae8f70b,AHX,false,1221,0,2021-07-15T10:32:39.423208535+00:00,4,Chiptune,Wed 24th Jan 2007
+66367,present,m0d_-_discovery_of_pieland.ahx,the discovry of pieland,13.39KB,1b482a7f98db0a8be59147e0b18763be,AHX,false,1755,2,2021-07-15T10:32:41.232385475+00:00,4,Chiptune,Wed 24th Jan 2007
+66368,present,m0d_-_lava_burnt_pie.ahx,lava burnt pie,25.35KB,a54f88d81fd351c3c750d04f50657285,AHX,false,1103,1,2021-07-15T10:32:42.027188597+00:00,4,Chiptune,Wed 24th Jan 2007
+66369,present,m0d_-_meowmeowmeow.ahx,m0d-meow meow meow AHX,14.00KB,25500023791bd702d7f002aebfbbb734,AHX,false,616,0,2021-07-15T10:32:42.867747199+00:00,4,Chiptune,Wed 24th Jan 2007
+66370,present,m0d_-_omc_cheese_pie.ahx,meat pie,23.14KB,14e382d8d01350a2ae619d44a9a73e36,AHX,false,760,0,2021-07-15T10:32:43.658350663+00:00,4,Chiptune,Wed 24th Jan 2007
+66371,present,m0d_-_omc_meat_pie.ahx,cheese pie,24.52KB,ccc2248428f9ade3773f877ab5c05aab,AHX,false,676,0,2021-07-15T10:32:44.504482197+00:00,4,Chiptune,Wed 24th Jan 2007
+66372,present,m0d_-_pie_pierced_ears.ahx,pie arsed ears,10.58KB,f23086af48c67f7d463df2895be420c8,AHX,false,826,0,2021-07-15T10:32:46.335349970+00:00,4,Chiptune,Wed 24th Jan 2007
+66373,present,m0d_-_pie_star.ahx,pie star,25.49KB,d4d0e9699475e91aa49db4e6bfe2a960,AHX,false,1021,0,2021-07-15T10:32:47.170234667+00:00,4,Chiptune,Wed 24th Jan 2007
+66374,present,m0d_-_pie_stomper.ahx,pie stomper,8.58KB,1e2a7ece4627eb03e1e93ab971ac717a,AHX,false,616,0,2021-07-15T10:32:48.483801794+00:00,4,Chiptune,Wed 24th Jan 2007
+66375,present,sextyfour.mod,*********,56.18KB,7413037d74c1715cb3bcea47033f9c00,MOD,false,172,0,2021-07-15T10:32:50.298129221+00:00,4,n/a,Wed 24th Jan 2007
+66376,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:32:52.141967127+00:00,0,n/a,Thu 1st Jan 1970
+66377,present,a_place_i_know.mod,a.place.i.know,107.99KB,df7c9d42d3c9116bfa8c8240c7e72eb6,MOD,false,1459,2,2021-07-15T10:32:52.846358176+00:00,4,n/a,Tue 30th Jan 2007
+66378,present,a_sleep_so_deep.mod,a sleep so deep.jst,198.20KB,25f25efb8fb715c97df88615ee29769d,MOD,false,1639,2,2021-07-15T10:32:54.040296433+00:00,4,n/a,Tue 30th Jan 2007
+66379,present,a_synoptic_value.mod,a synoptic value,143.42KB,0a6dfd1ac00bd1e7b8d96de4ead811f5,MOD,true,2511,5,2021-07-15T10:32:54.819748580+00:00,4,n/a,Tue 30th Jan 2007
+66380,present,amiga_memories.mod,amiga memories,14.69KB,fe05a1829807513261a23fbbdb402ec4,MOD,false,1434,0,2021-07-15T10:32:55.609715485+00:00,4,n/a,Tue 30th Jan 2007
+66381,present,a_magic_touch.mod,a magic touch,107.42KB,024cd644514c3579ae3012f72bf65a31,MOD,false,1990,1,2021-07-15T10:32:56.430954206+00:00,4,n/a,Tue 30th Jan 2007
+66382,present,ained_by_noxious.mod,ained by noxious,10.61KB,16bd0ae7d342dc3799f03e46f1f67e84,MOD,false,376,0,2021-07-15T10:32:57.238232743+00:00,4,n/a,Tue 30th Jan 2007
+66383,present,a_project14.mod,A Project14,99.39KB,6fcb9bdf6bbee2ce086a7462db4f29ba,MOD,false,1901,1,2021-07-15T10:32:58.129904580+00:00,4,n/a,Tue 30th Jan 2007
+66384,present,1_step_further.mod,1 step further...,477.93KB,285b74de5fa80b852f4795dce4aa41f0,MOD,true,3019,6,2021-07-15T10:32:58.956474044+00:00,4,n/a,Tue 30th Jan 2007
+66385,present,slipping_away_-_happy.xm,Happy,117.76KB,64ce44e0b6560857232c830749750feb,XM,false,109,0,2021-07-15T10:32:59.750609112+00:00,51,n/a,Tue 30th Jan 2007
+66386,present,mrksoft-ohsnowze.it,OH SNOWZE!,649.77KB,9851482f2f237857802f46b57ecbd7ad,IT,false,99,0,2021-07-15T10:33:00.561564139+00:00,8,n/a,Tue 30th Jan 2007
+66387,present,u_will_know.xm,u_will_know.xm,5.31MB,bad850ac99a34c7f4e9bad3bd92ee62c,XM,false,75,0,2021-07-15T10:33:02.211465477+00:00,26,n/a,Tue 30th Jan 2007
+66388,present,auwdio.xm,auwdio.xm,5.50MB,4c737b712a90a442f6de4a6895e702f8,XM,false,264,0,2021-07-15T10:33:02.982608312+00:00,26,n/a,Tue 30th Jan 2007
+66389,present,ats_08.xm,Five Years Ago,942.34KB,94d9de30a22861628e026339ecc11d9d,XM,false,647,0,2021-07-15T10:33:03.771497660+00:00,15,Ballad,Tue 30th Jan 2007
+66390,present,robric492.xm,Le Margherite Di Non,1.30MB,2b79b8ce9fbbc1b982474085f7310654,XM,false,721,0,2021-07-15T10:33:04.577222912+00:00,12,Reggae,Tue 30th Jan 2007
+66391,present,zandax-supplydas_booze.mod,supplydas booze,9.00KB,f7ca137628f7b2f33fc47dbea80da4f3,MOD,true,735,1,2021-07-15T10:33:05.344076962+00:00,4,n/a,Tue 30th Jan 2007
+66392,present,zandax-central_park.mod,central park,18.00KB,f80831f33db66e802b6f3973cf4b0f0b,MOD,false,722,1,2021-07-15T10:33:06.160289271+00:00,4,Trance (general),Tue 30th Jan 2007
+66393,present,zalza-zelda1_dance-rmx.xm,zelda1.dance-rmx!,32.71KB,644b74582f96ad13b321111a9bc4c92a,XM,false,853,0,2021-07-15T10:33:07.004449453+00:00,4,n/a,Tue 30th Jan 2007
+66394,present,zalza-wienersnitzel.xm,wienersnitzel,21.22KB,7797b2ee1cd518594b58a2e4ffb0adfb,XM,true,935,2,2021-07-15T10:33:07.796325908+00:00,12,n/a,Tue 30th Jan 2007
+66395,present,zalza-underwater_love.xm,underwater love,44.05KB,6dac23cf5d68d39d4017a8e3c38cfc3d,XM,true,560,1,2021-07-15T10:33:08.589266932+00:00,4,n/a,Tue 30th Jan 2007
+66396,present,technix-bubble_bobble.mod,bubble_bobble,49.88KB,f84dc4b5044826801da08e24bd048a81,MOD,true,407,0,2021-07-15T10:33:09.385548084+00:00,4,n/a,Tue 30th Jan 2007
+66397,present,lsnk_callisto.it,LSnK - Callisto,180.64KB,a28b7e4d2f392c1696dbc239ad8fad78,IT,false,203,0,2021-07-15T10:33:10.276821662+00:00,16,n/a,Tue 30th Jan 2007
+66398,present,the_deviant_-_aude_sapere.it,Aude Sapere,333.84KB,2ae0e50ba1a1a9e781e41204c4f22344,IT,false,1032,0,2021-07-15T10:33:11.039041820+00:00,31,Electronic - Drum &amp; Bass,Tue 30th Jan 2007
+66399,present,tape_recorder.xm,tape_recorder.xm,1.67MB,2f81f8973c9b21e295aa1e95643df302,XM,false,109,0,2021-07-15T10:33:12.446700848+00:00,24,n/a,Tue 30th Jan 2007
+66400,present,phun.xm,phun.xm,4.30MB,03dea7f5c7a8483789420db12bd44f73,XM,false,121,0,2021-07-15T10:33:13.216773673+00:00,26,n/a,Tue 30th Jan 2007
+66401,present,frequens.xm,frequens.xm,1.17MB,1a7cadaf7be04d8b1dbf248c628e02f1,XM,false,120,0,2021-07-15T10:33:14.011031626+00:00,26,n/a,Tue 30th Jan 2007
+66402,present,chatbox.xm,chatbox.xm,4.03MB,c7752fa5e71288849b962e448905a457,XM,false,116,0,2021-07-15T10:33:14.831645281+00:00,18,n/a,Tue 30th Jan 2007
+66403,present,pineappl.xm,pineappl.xm,3.20MB,19fff0cf38b4c9e03c4b56739f634fb9,XM,false,137,0,2021-07-15T10:33:15.614669987+00:00,24,n/a,Tue 30th Jan 2007
+66404,present,pip-mineral.it,Mineral Elements,1.18MB,facf7e0dbe4fff28efce9eb49ce9a55c,IT,false,595,0,2021-07-15T10:33:16.383736297+00:00,9,Metal (general),Tue 30th Jan 2007
+66405,present,pip-emulsified.it,Emulsified Larder,698.01KB,d5cc24f28516d2f9cdbf224d9ea64ceb,IT,false,464,0,2021-07-15T10:33:17.168975387+00:00,15,Rock (general),Tue 30th Jan 2007
+66406,present,itspheno.mod,it's phenomenal,31.18KB,b552891f13ee4c4740d6d13e047c2075,MOD,false,229,0,2021-07-15T10:33:17.969630108+00:00,4,n/a,Tue 30th Jan 2007
+66407,present,bootem01.mod,boot'em#01,2.44KB,16da40aab64cabb0b556d837ad4d3b59,MOD,false,197,0,2021-07-15T10:33:18.743095593+00:00,4,n/a,Tue 30th Jan 2007
+66408,present,saga-magata-ga-haka.mod,saga-magata-ga-haka,8.85KB,e6ba0cea86edfa5562456ed46a4c576f,MOD,false,118,0,2021-07-15T10:33:19.544447692+00:00,4,n/a,Tue 30th Jan 2007
+66409,present,chip-attack.mod,chip-attack,11.73KB,386cab14c374c3cab4a4a74c7fdc1c0a,MOD,false,272,0,2021-07-15T10:33:20.323547556+00:00,4,n/a,Tue 30th Jan 2007
+66410,present,drug-2000.mod,drug 2000,27.67KB,5a52c6471c75ecfb145668d4f174c505,MOD,false,116,0,2021-07-15T10:33:21.096406268+00:00,4,n/a,Tue 30th Jan 2007
+66411,present,heros-never-diesii.mod,heros never diesii,7.09KB,175832dba5bd3432e609ebc0a2e6f3cb,MOD,false,133,0,2021-07-15T10:33:21.906251073+00:00,4,n/a,Tue 30th Jan 2007
+66412,present,negro-pearl.mod,negro-pearl,15.33KB,4865b039aea03555bb9cce392f708c95,MOD,false,118,0,2021-07-15T10:33:22.863602687+00:00,4,n/a,Tue 30th Jan 2007
+66413,present,nzm.mod,new ztn music,6.04KB,dd660b9272233199fcdb1ac122684fdc,MOD,false,195,0,2021-07-15T10:33:26.209757242+00:00,4,n/a,Tue 30th Jan 2007
+66414,present,spaceeggs.mod,spaceeggs,29.06KB,6bc0d5b344662a593ec46219e7bacc85,MOD,false,153,0,2021-07-15T10:33:27.115132150+00:00,4,n/a,Tue 30th Jan 2007
+66415,present,unknown-space.mod,unknown space,19.40KB,e365c05cafdc0b3007a45a63dddd9c81,MOD,false,319,1,2021-07-15T10:33:29.391484289+00:00,4,n/a,Tue 30th Jan 2007
+66416,present,4mat-1081.xm,4mat-1081.xm,1.05KB,46dce2bfe1c6ad1d90add42dd230b26e,XM,false,1162,1,2021-07-15T10:33:30.340720709+00:00,6,n/a,Tue 30th Jan 2007
+66417,present,4mat-auf_weidersehn.mod,auf weidersehn,60.96KB,124734005a747337163f51f8da4d8f95,MOD,false,348,0,2021-07-15T10:33:31.153359897+00:00,4,n/a,Tue 30th Jan 2007
+66418,present,4mat-blade1.xm,Blade1,23.92KB,1369ddc817f2eb444911ae538c195479,XM,false,1179,0,2021-07-15T10:33:32.108542107+00:00,8,n/a,Tue 30th Jan 2007
+66419,present,4mat-cardiaxx-pause.mod,Cardiaxx.Pause,4.26KB,0686994732e1d873cfc51023f21adabe,MOD,false,1464,1,2021-07-15T10:33:33.003174112+00:00,4,n/a,Tue 30th Jan 2007
+66420,present,4mat-carvup2.mod,carvup-2,54.79KB,da4a749086e6324b8c65fdb3b392fa16,MOD,false,316,0,2021-07-15T10:33:33.773643136+00:00,4,n/a,Tue 30th Jan 2007
+66421,present,4mat-chip7.mod,4mat chip-7,7.24KB,cbd3f14d3ee1f7d77c0a9b8941c104d9,MOD,false,400,0,2021-07-15T10:33:34.561412386+00:00,4,n/a,Tue 30th Jan 2007
+66422,present,4mat-comic_bakery.mod,anarchy.07,26.42KB,d1bfda32045bfdf50ff312d92ec5b1ba,MOD,false,546,1,2021-07-15T10:33:35.356479280+00:00,4,n/a,Tue 30th Jan 2007
+66423,present,4mat-heli.mod,heli,29.71KB,418d1f25a2acf0a0dd4af72dcf417082,MOD,false,1075,0,2021-07-15T10:33:36.150503413+00:00,4,n/a,Tue 30th Jan 2007
+66424,present,4mat-intro_music.mod,intro music,17.09KB,6097daca6e5b5a438d9b405e5690d19d,MOD,false,6251,4,2021-07-15T10:33:36.924095175+00:00,4,Chiptune,Tue 30th Jan 2007
+66425,present,4mat-in_the_kitchen2.mod,In the kitchen 2,17.59KB,66abd46ad10774a4b114bec5cccbd729,MOD,false,497,1,2021-07-15T10:33:37.740254974+00:00,4,Chiptune,Tue 30th Jan 2007
+66426,present,4mat-l-f-f.mod,l.f.f,26.95KB,4a70e3e6b06c11850d83ad7c2988ab90,MOD,true,3612,7,2021-07-15T10:33:38.534488083+00:00,4,Chiptune,Tue 30th Jan 2007
+66427,present,4mat-menu1.mod,anarchy menu 1,14.29KB,9d7bee37275dc03f1ac2c38bfe10b411,MOD,false,4283,2,2021-07-15T10:33:39.340670407+00:00,4,Chiptune,Tue 30th Jan 2007
+66428,present,4mat-menu11.mod,anarchy menu 11,11.84KB,41f3b80e4ec9a67581cea7bebc3a306c,MOD,false,523,2,2021-07-15T10:33:41.170635819+00:00,4,n/a,Tue 30th Jan 2007
+66429,present,4mat-menu12.mod,anarchymenu12,6.42KB,d0bcc0abd5541bf661632ff49b440e97,MOD,false,1242,1,2021-07-15T10:33:41.976652651+00:00,4,n/a,Tue 30th Jan 2007
+66430,present,4mat-menu18.mod,anarchy menu 18,9.30KB,71bb55d5e88efde21c667faaf62d6c70,MOD,false,349,0,2021-07-15T10:33:42.755290830+00:00,4,n/a,Tue 30th Jan 2007
+66431,present,4mat-menu2.mod,anarchy menu 2,16.71KB,04ae56bf07c12df2ccaf9ed2d05729fe,MOD,false,1727,1,2021-07-15T10:33:43.569855568+00:00,4,n/a,Tue 30th Jan 2007
+66432,present,4mat-menu4.mod,anarchy menu 4,14.99KB,e08e5be72a132d421831c1d927798512,MOD,false,338,0,2021-07-15T10:33:45.934631995+00:00,4,n/a,Tue 30th Jan 2007
+66433,present,4mat-menu7.mod,anarchy menu 7,8.06KB,4758b6a5e08b64474ad5c8de6d884a78,MOD,false,335,0,2021-07-15T10:33:46.750851044+00:00,4,n/a,Tue 30th Jan 2007
+66434,present,4mat-menu8.mod,anarchy menu 8,5.19KB,58b9684a6f17f8ca6d7416b4fb042ae5,MOD,false,641,0,2021-07-15T10:33:47.533614813+00:00,4,n/a,Tue 30th Jan 2007
+66435,present,4mat-menuloader.mod,menuloader,22.84KB,0f819909ac85cdfc30dad9e99e4a777a,MOD,false,1024,1,2021-07-15T10:33:48.356016959+00:00,4,n/a,Tue 30th Jan 2007
+66436,present,4mat-scup_forever.xm,SCUP F0R3V3R,51.44KB,5fc487520db4e4fffc0b175c7f4e9b60,XM,false,1090,0,2021-07-15T10:33:49.489903444+00:00,6,n/a,Tue 30th Jan 2007
+66437,present,4mat-starworx.mod,starworx,17.68KB,9b8b7abb8bb22463481a2be4fa7d13f6,MOD,false,960,3,2021-07-15T10:33:50.658577241+00:00,4,n/a,Tue 30th Jan 2007
+66438,present,4mat-termination_day.mod,termination day,19.99KB,450c4a20c84ce2152cd5773040a0c033,MOD,false,302,0,2021-07-15T10:33:51.452029056+00:00,4,n/a,Tue 30th Jan 2007
+66439,present,4mat-twinbee.xm,twinbee,6.11KB,d0cc5cf07e5f07a278fdb12103cc476d,XM,false,1965,1,2021-07-15T10:33:52.254898058+00:00,6,Video Game,Tue 30th Jan 2007
+66440,present,4mat-wizardry.mod,wizardry,8.26KB,cf882087ab63c83c91c1c097c773c4a8,MOD,false,819,1,2021-07-15T10:33:53.894765237+00:00,4,n/a,Tue 30th Jan 2007
+66441,present,anar1.mod,an1,14.29KB,a3f1555e69892c4605679b0e653271ec,MOD,false,181,0,2021-07-15T10:33:54.672474374+00:00,4,n/a,Tue 30th Jan 2007
+66442,present,anar10.mod,a10,10.24KB,6d9d3a2916116bd9ce390f8d42a758f4,MOD,false,178,0,2021-07-15T10:33:55.844944735+00:00,4,n/a,Tue 30th Jan 2007
+66443,present,anar11.mod,anarchymenu11,11.84KB,d48534c6a44c2f270da7abbc23607032,MOD,false,1253,2,2021-07-15T10:33:57.378590175+00:00,4,n/a,Tue 30th Jan 2007
+66444,present,anar13.mod,anarchymenu13,14.61KB,168339ddb6b56104a603c37aeeedbec3,MOD,false,1116,1,2021-07-15T10:33:58.337817277+00:00,4,n/a,Tue 30th Jan 2007
+66445,present,anar14.mod,anarchymenu14,12.70KB,ca473930bb24ff88432d17479303d2f0,MOD,false,931,1,2021-07-15T10:33:59.130722259+00:00,4,n/a,Tue 30th Jan 2007
+66446,present,anar15.mod,anarchymenu15,7.41KB,0bbe6d69836b8a6813dadb7de73597fd,MOD,false,206,0,2021-07-15T10:33:59.977552687+00:00,4,n/a,Tue 30th Jan 2007
+66447,present,anar16.mod,anarchymenu16,7.62KB,724a67da6a55688d5e3a08c9dd9b69d0,MOD,false,896,0,2021-07-15T10:34:00.772783542+00:00,4,n/a,Tue 30th Jan 2007
+66448,present,anar17.mod,anarchymenu17,7.24KB,7c7a9762d89a7452ebb7b311e160bb24,MOD,false,953,0,2021-07-15T10:34:01.580400101+00:00,4,n/a,Tue 30th Jan 2007
+66449,present,anar18.mod,anarchymenu18,9.30KB,6886ddf2477cb76f4d98c23c7e04a5e9,MOD,false,208,0,2021-07-15T10:34:02.353347294+00:00,4,n/a,Tue 30th Jan 2007
+66450,present,anar8.mod,an8,5.19KB,9cc4bf8002ab5de50040dddf865e55e8,MOD,false,176,0,2021-07-15T10:34:03.148249362+00:00,4,n/a,Tue 30th Jan 2007
+66451,present,anar2.mod,an2,16.71KB,5f20115a4619a95445c21123374b0814,MOD,false,154,0,2021-07-15T10:34:04.050196040+00:00,4,n/a,Tue 30th Jan 2007
+66452,present,anar3.mod,an3,20.03KB,26682ea9309e34f289796fc8d3683cdc,MOD,false,166,0,2021-07-15T10:34:05.888435589+00:00,4,n/a,Tue 30th Jan 2007
+66453,present,anar5.mod,an5,13.68KB,9477cc496903816828bb3714c7b35377,MOD,false,166,0,2021-07-15T10:34:07.821603840+00:00,4,n/a,Tue 30th Jan 2007
+66454,present,anar4.mod,an4,14.86KB,45ee473a72d0eef5e11f3a7058612cc4,MOD,false,156,0,2021-07-15T10:34:08.598981148+00:00,4,n/a,Tue 30th Jan 2007
+66455,present,anar6.mod,an6,7.81KB,6fe3615a7dc631f29235d25ddce05f47,MOD,false,197,0,2021-07-15T10:34:09.389893143+00:00,4,n/a,Tue 30th Jan 2007
+66456,present,anar7.mod,anarchymenu7,8.06KB,79b480bc5ca07b61e66f38bbeb533159,MOD,false,975,0,2021-07-15T10:34:10.221478388+00:00,4,n/a,Tue 30th Jan 2007
+66457,present,anar9.mod,an9,8.86KB,49bc2c3546c270abaedaeb979c2d83ef,MOD,false,187,0,2021-07-15T10:34:11.001490277+00:00,4,n/a,Tue 30th Jan 2007
+66458,present,anarch08.mod,anarchy.08,5.19KB,47f29c9fd3506adef06e7cfd4879f06b,MOD,false,212,0,2021-07-15T10:34:11.790882709+00:00,4,n/a,Tue 30th Jan 2007
+66459,present,chip4mat.mod,chip-4mat1,21.01KB,f7b938639f1425046949a585821fdb43,MOD,false,258,0,2021-07-15T10:34:12.591342528+00:00,4,n/a,Tue 30th Jan 2007
+66460,present,heli.mod,heli,29.71KB,37e3bd4baa86dec0fddf1b9f235d1d0c,MOD,false,521,1,2021-07-15T10:34:13.389223583+00:00,4,n/a,Tue 30th Jan 2007
+66461,present,kitchen.mod,IntheKitch_2,17.59KB,a20effa994562a9e4389b55ed9112619,MOD,false,264,0,2021-07-15T10:34:14.205310345+00:00,4,n/a,Tue 30th Jan 2007
+66462,present,knightha.mod,knighthawk,11.40KB,11949863aaecd347a0c10d5a76c0184d,MOD,false,869,0,2021-07-15T10:34:14.981425319+00:00,4,n/a,Tue 30th Jan 2007
+66463,present,thelastv.mod,the last v8,24.68KB,2c28e23833b450ca22847eb87aaf340f,MOD,false,140,0,2021-07-15T10:34:15.812939926+00:00,4,n/a,Tue 30th Jan 2007
+66464,present,tndrstar.mod,thunderstar,61.29KB,24a316dca15494e158a32f228b26be33,MOD,false,114,0,2021-07-15T10:34:17.487266092+00:00,4,n/a,Tue 30th Jan 2007
+66465,present,wheelbar.mod,wheelbarrow,52.18KB,893bb4e855ad9334d7c127a5314088bb,MOD,false,778,0,2021-07-15T10:34:18.300552827+00:00,4,n/a,Tue 30th Jan 2007
+66466,present,worldofd.mod,world ofdentro(4mt),38.82KB,d8a7bb424a548f0afce13617f3302941,MOD,true,1756,3,2021-07-15T10:34:19.100756963+00:00,4,n/a,Tue 30th Jan 2007
+66467,present,zapp.mod,zapped-out,17.67KB,99fec0817bf4a54e24aacb683633c2eb,MOD,false,1603,4,2021-07-15T10:34:20.528062028+00:00,4,Disco,Tue 30th Jan 2007
+66468,present,shortie2.mod,rebels-shortie2,12.78KB,ef587d768fa10f01d8d809fbe20fa43c,MOD,false,235,0,2021-07-15T10:34:21.333785712+00:00,4,n/a,Tue 30th Jan 2007
+66469,present,shortie3.mod,911-rebels-shortie3,18.84KB,3c15c157fc37412d15eb441bccf4c463,MOD,false,205,0,2021-07-15T10:34:22.155121056+00:00,4,n/a,Tue 30th Jan 2007
+66470,present,shortie5.mod,911-rebels-shortie5,19.80KB,b33345c97cb15bbdd09a1c5326408fa4,MOD,false,187,0,2021-07-15T10:34:23.513707950+00:00,4,n/a,Tue 30th Jan 2007
+66471,present,shortie6.mod,911-rebels-shortie6,17.50KB,423308d1f36534e404730acbecbc5468,MOD,false,211,0,2021-07-15T10:34:24.376030681+00:00,4,n/a,Tue 30th Jan 2007
+66472,present,checks.mod,check's in the mail,10.74KB,e3f9d72ddd0bf88c5f0de55a55bd841b,MOD,false,114,0,2021-07-15T10:34:25.192082573+00:00,4,n/a,Tue 30th Jan 2007
+66473,present,halfway.mod,halfway to heaven,64KB,426162c7090fa2e000001acdeba93269,MOD,false,101,0,2021-07-15T10:34:26.113879997+00:00,4,n/a,Tue 30th Jan 2007
+66474,present,justice.mod,justice_for_all,8.37KB,7b989f4855072115d34896b6fca088e2,MOD,false,590,2,2021-07-15T10:34:26.956142933+00:00,4,n/a,Tue 30th Jan 2007
+66475,present,abaddon_-_c64_exp2.it,c-64 exp. #2,26.34KB,1a132678414ac9d974753752477d86e0,IT,true,532,0,2021-07-15T10:34:27.804561537+00:00,4,n/a,Tue 30th Jan 2007
+66476,present,abaddon_-_c64_exp3.it,c-64 exp. #3,19.72KB,0659b9654228740ff5d5f4f502cff840,IT,true,468,0,2021-07-15T10:34:28.601483314+00:00,4,n/a,Tue 30th Jan 2007
+66477,present,abaddon_-_myyra.s3m,abaddon_-_myyra.s3m,19.87KB,6bfd48ccf8ecc1bad460d4ca90737fc8,S3M,false,274,0,2021-07-15T10:34:29.440877045+00:00,32,n/a,Tue 30th Jan 2007
+66478,present,lilly_chip-01.mod,lilly_chip_1,19.58KB,924aee9b44ee96e9c7c9622ec264326c,MOD,false,174,0,2021-07-15T10:34:30.200862054+00:00,4,n/a,Tue 30th Jan 2007
+66479,present,lilly_chip-02.mod,lilly_chip_2,23.69KB,50686956ad224bd71175930b65729a99,MOD,false,175,0,2021-07-15T10:34:31.095329633+00:00,4,n/a,Tue 30th Jan 2007
+66480,present,lilly_chip-03.mod,lilly_chip_3,18.93KB,20a482c5c281667b3309e75a40134f22,MOD,false,177,0,2021-07-15T10:34:31.895192250+00:00,4,n/a,Tue 30th Jan 2007
+66481,present,lilly_chip-04.mod,lilly_chip_4,18.58KB,1a2ee95b1155f83bc23cb95809eef2f2,MOD,false,194,0,2021-07-15T10:34:32.689219404+00:00,4,n/a,Tue 30th Jan 2007
+66482,present,lilly_chip-08.mod,lilly_chip_8,6.5KB,0c9b7d182af5600cd4476fa98798f68c,MOD,false,846,2,2021-07-15T10:34:33.472536462+00:00,4,n/a,Tue 30th Jan 2007
+66483,present,lilly_chip-09.mod,lilly_chip_9,16.13KB,852dfe776c96a10c44e9277ac0499087,MOD,false,169,0,2021-07-15T10:34:34.238580834+00:00,4,n/a,Tue 30th Jan 2007
+66484,present,lilly_chip-10.mod,lilly_chip_10,20.67KB,fe44c8ba4e0574d54ccf52b8545a92d0,MOD,false,483,2,2021-07-15T10:34:35.018257675+00:00,4,n/a,Tue 30th Jan 2007
+66485,present,brendach.mod,brenda chip#3,15.37KB,56f352db30a8d68ce0f5f29579f33b6a,MOD,false,122,0,2021-07-15T10:34:35.843421026+00:00,4,n/a,Tue 30th Jan 2007
+66486,present,morphide.mod,morphide,17.75KB,ec32963cd185659b0cb8cabfebcf51d5,MOD,false,390,1,2021-07-15T10:34:37.819754929+00:00,4,n/a,Tue 30th Jan 2007
+66487,present,operatio.mod,operation 45,18.45KB,d13acfdd171371d0875c6cdcd3783733,MOD,false,133,0,2021-07-15T10:34:38.712572245+00:00,4,n/a,Tue 30th Jan 2007
+66488,present,002b.mod,l0k0tt loko-motiv b,13.84KB,61a5783617283680974a9011bf37403d,MOD,false,236,0,2021-07-15T10:34:39.488688427+00:00,4,n/a,Tue 30th Jan 2007
+66489,present,22stctpi.mod,22st ct pioneer,11.58KB,39b8511de58fac945748604e87212549,MOD,false,112,0,2021-07-15T10:34:40.289315722+00:00,4,n/a,Tue 30th Jan 2007
+66490,present,adt_-_urgemasik.mod,urgemasik,21.73KB,db3bd3d5bf8a0e8dc5028957258f0b5a,MOD,false,210,0,2021-07-15T10:34:41.101701401+00:00,4,n/a,Tue 30th Jan 2007
+66491,present,asparago.mod,as para goos (plus),13.80KB,91aa987910be97f3c1a90193db75c205,MOD,false,192,0,2021-07-15T10:34:42.287926429+00:00,4,n/a,Tue 30th Jan 2007
+66492,present,brutalde.mod,brutal deluxe,38.81KB,18a0de90232582d31e4442f7ed1eaae8,MOD,false,184,0,2021-07-15T10:34:43.075412877+00:00,4,n/a,Tue 30th Jan 2007
+66493,present,dustinmy.mod,dust in my eyes .ln.,6.34KB,995b77b96736af7bbb38985694279188,MOD,false,107,0,2021-07-15T10:34:44.353891533+00:00,4,n/a,Tue 30th Jan 2007
+66494,present,music_mess.mod,musicmess,21.38KB,08af982b2aa84e115acb1c0d22b72dae,MOD,false,125,0,2021-07-15T10:34:45.293994599+00:00,4,n/a,Tue 30th Jan 2007
+66495,present,manwe-from_long_distance.mod,From Long Distance,411.30KB,8143f87018e8a8591dd976ee1ad5a548,MOD,false,940,1,2021-07-15T10:34:47.293453640+00:00,4,n/a,Tue 30th Jan 2007
+66496,present,space_adventure.mod,spaceadventure,9.52KB,febb815b979c05570df6e26ab161ffa7,MOD,false,189,0,2021-07-15T10:34:49.004350514+00:00,4,n/a,Tue 30th Jan 2007
+66497,present,space_crunching.mod,spacechrunching,7.47KB,2af10b145f0bb567e26c988e6d1486ef,MOD,false,164,0,2021-07-15T10:34:50.598086698+00:00,4,n/a,Tue 30th Jan 2007
+66498,present,manwe-bamboo_is_longer.mod,This Bamboo is Longe,952.09KB,56ecb7d375f56f035bfa252c99c7cb3f,MOD,false,735,2,2021-07-15T10:34:51.710695681+00:00,4,n/a,Tue 30th Jan 2007
+66499,present,space_funk.mod,spacefunk,13.02KB,9780e111d88b1ee5a0146eb0a2fbb1a1,MOD,false,146,0,2021-07-15T10:34:52.606213694+00:00,4,n/a,Tue 30th Jan 2007
+66500,present,space_funk_klip.mod,spacefunk.klip,9.53KB,a689ff9abb836dc192b5dd06d993e1bd,MOD,false,145,0,2021-07-15T10:34:53.831687656+00:00,4,n/a,Tue 30th Jan 2007
+66501,present,space_kapsel.mod,spacekapsel,6.05KB,bc6bb643b3471baf35d7c81a568594ad,MOD,false,277,1,2021-07-15T10:34:56.467615357+00:00,4,n/a,Tue 30th Jan 2007
+66502,present,space_load.mod,spaceload,6.64KB,77b366d0ce1f4429bc4bc7f639f76e83,MOD,false,142,0,2021-07-15T10:34:58.716961147+00:00,4,n/a,Tue 30th Jan 2007
+66503,present,space_save.mod,spacesave,6.64KB,70cf9554de90948a6bbef52629ce5630,MOD,false,578,1,2021-07-15T10:35:00.081256350+00:00,4,n/a,Tue 30th Jan 2007
+66504,present,spiritual.mod,spiritual,17.59KB,3658f9787f87a24631c4f6bed22870a2,MOD,false,118,0,2021-07-15T10:35:01.414121680+00:00,4,n/a,Tue 30th Jan 2007
+66505,present,manwe-song_of_peace.mod,Song of Peace,1005.57KB,4503447269a47f6d683a8285a7b29a36,MOD,false,1580,1,2021-07-15T10:35:02.931190119+00:00,4,n/a,Tue 30th Jan 2007
+66506,present,tji-ib.mod,tji-ib,13.10KB,239b0135dbcb03abe98a146e5f3ecfbc,MOD,false,90,0,2021-07-15T10:35:03.859930659+00:00,4,n/a,Tue 30th Jan 2007
+66507,present,thechoic.mod,the choice,31.65KB,f2f1959aae372549b0500b7fc4405041,MOD,false,99,0,2021-07-15T10:35:05.043108526+00:00,4,n/a,Tue 30th Jan 2007
+66508,present,ajax-giana_hiscore2.xm,ajx gianahighscore.2,29.33KB,4e7f65fc13e0bda5e728273afec9c26b,XM,false,247,0,2021-07-15T10:35:06.332174516+00:00,6,n/a,Tue 30th Jan 2007
+66509,present,ajax-zelda.xm,      zelda,24.76KB,c91c364156ffda54798ff11da99aeec9,XM,true,513,0,2021-07-15T10:35:07.902096485+00:00,8,n/a,Tue 30th Jan 2007
+66510,present,rysk.mod,rysk,10.08KB,49407f90750046066adabe5a55851085,MOD,false,585,1,2021-07-15T10:35:09.082329837+00:00,4,n/a,Tue 30th Jan 2007
+66511,present,manwe-piggie_walking.mod,Piggie Walkin' 2Shop,875.00KB,c80eb99b68d0bbd4e644fb54ce3aac6d,MOD,false,309,0,2021-07-15T10:35:09.937688326+00:00,4,n/a,Tue 30th Jan 2007
+66512,present,algar_-_chiptrack_number_6.xm,Chiptrack number 6,26.71KB,babebe18b55a703e8cdd5b14d37addd3,XM,false,1080,1,2021-07-15T10:35:10.699329058+00:00,4,n/a,Tue 30th Jan 2007
+66513,present,algar_-_chiptrack_number_7.xm,Chiptrack number 7,8.31KB,70b0318941970e881491a44bbe832134,XM,false,851,1,2021-07-15T10:35:11.529149875+00:00,3,n/a,Tue 30th Jan 2007
+66514,present,algar_-_chiptrack_number_8.xm,algar_-_chiptrack_number_8.xm,25.98KB,d4ab01bf122ef905656b0251c2c13de3,XM,false,218,0,2021-07-15T10:35:12.410293597+00:00,4,n/a,Tue 30th Jan 2007
+66515,present,algar_-_gubbennoak.xm,Gubben noak,34.44KB,4a36d1197f86a8e5abe48946fe2c8974,XM,false,222,0,2021-07-15T10:35:13.318489689+00:00,4,n/a,Tue 30th Jan 2007
+66516,present,algar_-_rovhunger.xm,AlgAr - R÷vhunger,23.02KB,f311f1ba66d59252b9d611d37161cc3c,XM,false,230,0,2021-07-15T10:35:14.137965309+00:00,4,n/a,Tue 30th Jan 2007
+66517,present,manwe-okay_lets_track_it.mod,Ok, let's track it,639.34KB,e7751bae9d0d60b94392979136b2ac0d,MOD,false,326,0,2021-07-15T10:35:14.923979646+00:00,4,n/a,Tue 30th Jan 2007
+66518,present,zalza-tequila_groove.xm,tekilla groove,47.60KB,93455a53f365a12c4a4548d00b2900a4,XM,false,1739,7,2021-07-15T10:35:15.769780273+00:00,10,Video Game,Tue 30th Jan 2007
+66519,present,algar_-_schneemann.xm,AlgAr - Schneemann,17.69KB,eb9ce8019efb6c77688faba91453f19c,XM,false,210,0,2021-07-15T10:35:16.568804656+00:00,4,n/a,Tue 30th Jan 2007
+66520,present,algar_-_sidstyle.xm,algar - Sid-style,71.37KB,0a86cf1b10937278f146a05f1916dfa7,XM,false,247,0,2021-07-15T10:35:17.331441280+00:00,3,n/a,Tue 30th Jan 2007
+66521,present,algar_-_snabb_chip.xm,algar_-_snabb_chip.xm,26.78KB,cd3dd7751f55de30cc531aee36d22767,XM,false,240,0,2021-07-15T10:35:18.119013537+00:00,4,n/a,Tue 30th Jan 2007
+66522,present,algar_-_visalg.xm,AlgAr - Visalg,14.64KB,b49481689f37f130e33918d0e2fd70b7,XM,false,726,1,2021-07-15T10:35:18.888787831+00:00,4,n/a,Tue 30th Jan 2007
+66523,present,algar_-_yeah.xm,Yeah,15.66KB,748754c066ef6206cb6e2cd0b21cf21c,XM,false,1176,3,2021-07-15T10:35:19.657158254+00:00,4,n/a,Tue 30th Jan 2007
+66524,present,bill.xm,Oj, bill.,17.31KB,e16eb65fee240d5df310bed5f132a84c,XM,false,120,0,2021-07-15T10:35:20.846715964+00:00,4,n/a,Tue 30th Jan 2007
+66525,present,lee.xm,AlgAr - Lee [chip],22.62KB,086ec21edcc614bd11f23847c63d9e8d,XM,false,150,0,2021-07-15T10:35:22.241894885+00:00,4,n/a,Tue 30th Jan 2007
+66526,present,zalza-take_on_me.xm,take on me,40.21KB,23d95a5478f58e07e1d0acbc0172a433,XM,false,1326,2,2021-07-15T10:35:23.086096723+00:00,4,n/a,Tue 30th Jan 2007
+66527,present,sundaysr.mod,Sunday's Revenge!,8.93KB,71a27aa153043648fbba6cb46654a274,MOD,false,262,0,2021-07-15T10:35:23.969665703+00:00,6,n/a,Tue 30th Jan 2007
+66528,present,zalza-ryssen_som_fes.xm,ryssen som fes,29.61KB,6ad92b1cf3cced8d0eee9e87770f9994,XM,false,508,1,2021-07-15T10:35:25.650895173+00:00,12,n/a,Tue 30th Jan 2007
+66529,present,zalza-oscar_m_hippa.xm,oskars möhippa,17.53KB,293e8b3146dee301ceaa7ae72d0b2fa0,XM,false,1546,3,2021-07-15T10:35:26.540216832+00:00,10,Chiptune,Tue 30th Jan 2007
+66530,present,surprize.xm,ThomThing SwampThing,15.99KB,ff1f4e3f05336caf9dd9007d575aa874,XM,false,249,0,2021-07-15T10:35:27.894326365+00:00,4,n/a,Tue 30th Jan 2007
+66531,present,am-diks.xm,denn ich kannte sie,32.16KB,9273672f3c6a4ae4a9e657672295bf61,XM,false,263,1,2021-07-15T10:35:28.902576251+00:00,6,n/a,Tue 30th Jan 2007
+66532,present,zalza-only_you_pr0nver.xm,only you (pr0nver),74.75KB,ab24451edbf07a9ca6d37afb28370bfd,XM,false,418,1,2021-07-15T10:35:29.883962254+00:00,16,n/a,Tue 30th Jan 2007
+66533,present,polyday.xm,polyester day.,35.38KB,c59038d4bca19128a9ad768c6df95acc,XM,true,923,3,2021-07-15T10:35:31.058670624+00:00,12,n/a,Tue 30th Jan 2007
+66534,present,zalza-my_little_pronteen.xm,my little pr0nteen,47.84KB,bc2782b9481fe924b2202c296e474191,XM,false,195,0,2021-07-15T10:35:31.952653953+00:00,8,n/a,Tue 30th Jan 2007
+66535,present,ank_lbx1.xm,gp,33.29KB,6f15791a520b807aca1c4e8888a1b52c,XM,false,167,0,2021-07-15T10:35:32.965007717+00:00,4,n/a,Tue 30th Jan 2007
+66536,present,ank_lbx2.xm,flower of neprel,50.61KB,7e26cf00659caa9262bf8ec2f3af84b3,XM,false,166,0,2021-07-15T10:35:34.875586398+00:00,4,n/a,Tue 30th Jan 2007
+66537,present,ank_lbx3.xm,baxter & the celtics,16.13KB,e28264338a59474960b4f3704f70c13a,XM,false,167,0,2021-07-15T10:35:35.679815039+00:00,4,n/a,Tue 30th Jan 2007
+66538,present,ank_lbx4.xm,the cycles,9.45KB,a67158137cfcb17318b969e3a30a04ce,XM,false,189,0,2021-07-15T10:35:36.538608721+00:00,4,n/a,Tue 30th Jan 2007
+66539,present,zalza-my_blue_hashpipe.xm,my blue hashpipe,90.99KB,5e1ce222d9395882b0f72662bd95d5f6,XM,false,720,1,2021-07-15T10:35:37.547030782+00:00,18,n/a,Tue 30th Jan 2007
+66540,present,ank_lbx6.xm,microspookie,3.05KB,9eab843cfc39bf7cf832b0c4feeaf0d2,XM,false,166,0,2021-07-15T10:35:38.728546397+00:00,4,n/a,Tue 30th Jan 2007
+66541,present,ank_lbx7.xm,t3tsu0 goes liquid,19.24KB,de2dacf8ea2351dc40f511086ae1dd0e,XM,false,165,0,2021-07-15T10:35:39.578653161+00:00,6,n/a,Tue 30th Jan 2007
+66542,present,ank_nes1.xm,ducktales (menu),1.25KB,94a0618f6484a4c0ad26bf3afd84b815,XM,false,368,0,2021-07-15T10:35:40.385280369+00:00,4,n/a,Tue 30th Jan 2007
+66543,present,zalza-megaman_vs_willy2.xm,megaman.VS.willy ii,37.05KB,53421036de082b3f41209cdec0d705c3,XM,false,913,1,2021-07-15T10:35:41.356480590+00:00,4,n/a,Tue 30th Jan 2007
+66544,present,ank_nes2.xm,final fantasy title,3.17KB,f1d54291a8151318e9317c1fc74fd138,XM,false,1598,1,2021-07-15T10:35:42.377514909+00:00,2,Video Game,Tue 30th Jan 2007
+66545,present,ank_nes3.xm,mario (underworld),5.25KB,288e91d2134cd582ae104c2388c51ae3,XM,false,2341,0,2021-07-15T10:35:43.255221666+00:00,2,n/a,Tue 30th Jan 2007
+66546,present,husi.mod,husi,13.58KB,e78391f0a1aca0ea07289e4fb80458e7,MOD,false,111,0,2021-07-15T10:35:45.096417106+00:00,4,n/a,Tue 30th Jan 2007
+66547,present,rewindth.mod,rewind the mind,15.22KB,3828c22d119d25f356a27d1e6e8deecf,MOD,false,128,0,2021-07-15T10:35:45.893651692+00:00,4,n/a,Tue 30th Jan 2007
+66548,present,scotty.mod,scotty,20.66KB,d59f654b4b9f48db18f2ac457c975ff1,MOD,false,132,0,2021-07-15T10:35:46.800510904+00:00,4,n/a,Tue 30th Jan 2007
+66549,present,chiptechno.mod,chiptechno,12.69KB,38db1e34cb663f593aebfc0bfb5f8223,MOD,false,130,0,2021-07-15T10:35:47.854089198+00:00,4,n/a,Tue 30th Jan 2007
+66550,present,zalza-megaman_vs_elecman.xm,megaman.VS.elecman,26.40KB,01050005ae61d6219b8270d3ba3270d7,XM,false,517,0,2021-07-15T10:35:49.148155613+00:00,4,n/a,Tue 30th Jan 2007
+66551,present,happynes.mod,happyness,14.54KB,896ff671814f39a59fd1f6d83274f38b,MOD,false,137,0,2021-07-15T10:35:50.518222055+00:00,4,n/a,Tue 30th Jan 2007
+66552,present,go_get_it.mod,go get it,11.85KB,b3bd018842293704696d24d9ac3f37fe,MOD,false,202,1,2021-07-15T10:35:51.649983628+00:00,4,n/a,Tue 30th Jan 2007
+66553,present,hvidecyk.mod,hvide cykler,6.49KB,2cd574d3c8819337d0458b99eb02e1c2,MOD,false,116,0,2021-07-15T10:35:52.433450538+00:00,4,n/a,Tue 30th Jan 2007
+66554,present,javelja.mod,javelja,10.01KB,79f1145662115854ca568c247cab9b13,MOD,false,129,0,2021-07-15T10:35:53.364558008+00:00,4,n/a,Tue 30th Jan 2007
+66555,present,ank_nes4.xm,megaman2 (menu),5.42KB,42169fac307b4859dff77ebf4c8bab48,XM,false,883,0,2021-07-15T10:35:54.143222089+00:00,4,n/a,Tue 30th Jan 2007
+66556,present,zalza-madde_is_horny.xm,madde is horny,44.38KB,9fffdeb98e241edf11117ac3eb80fb65,XM,false,325,0,2021-07-15T10:35:54.912552801+00:00,10,n/a,Tue 30th Jan 2007
+66557,present,ank_nes5.xm,skate or die,16.15KB,03d6245d215e5519d2abbf0f556ebc9f,XM,false,239,0,2021-07-15T10:35:55.741013923+00:00,4,n/a,Tue 30th Jan 2007
+66558,present,ank_nes6.xm,zelda savescreen,3.29KB,24c2e4d3f1ce8044ad431d0119a9a24a,XM,false,987,0,2021-07-15T10:35:56.555176906+00:00,4,n/a,Tue 30th Jan 2007
+66559,present,tiri11.xm,girl tiri vs he-man,20.85KB,a4d8ddf9df7c8b21327f21cfa9b29925,XM,false,130,0,2021-07-15T10:35:58.335387125+00:00,4,n/a,Tue 30th Jan 2007
+66560,present,tiri15.xm,tiri begins,48KB,caf61776c023f418a35633d9f070fe5a,XM,false,95,0,2021-07-15T10:36:00.186520585+00:00,4,n/a,Tue 30th Jan 2007
+66561,present,zalza-john_the_pr0ndude.xm,john the pr0ndude,36.48KB,2b3540abc15ab173943a5d34af5c9c0d,XM,false,431,1,2021-07-15T10:36:01.295755169+00:00,12,n/a,Tue 30th Jan 2007
+66562,present,_arkaint.xm,arkanoid.c64_09,19.41KB,90e072f3fc56a05757548b22fbd2965d,XM,false,417,0,2021-07-15T10:36:02.212203056+00:00,4,n/a,Tue 30th Jan 2007
+66563,present,_arkanoi.xm,arkanoid.c64_002,26.84KB,bac4815e0173ee751020a2881a2a39af,XM,false,424,0,2021-07-15T10:36:03.997166569+00:00,4,n/a,Tue 30th Jan 2007
+66564,present,_goonies.xm,goonies.c64_04,9.25KB,2f93a24d92dd8c07090c396d9e5447dd,XM,false,220,0,2021-07-15T10:36:04.961993302+00:00,4,n/a,Tue 30th Jan 2007
+66565,present,_rambo.xm,rambo.c64_008,41.46KB,7bf12980f58251f1b1141074d8f8fb22,XM,false,431,0,2021-07-15T10:36:06.169043921+00:00,4,n/a,Tue 30th Jan 2007
+66566,present,zalza-isglass.xm,isglass,57.14KB,8b87ef66b9c373352e4aad82576bb110,XM,false,851,2,2021-07-15T10:36:07.065892801+00:00,12,n/a,Tue 30th Jan 2007
+66567,present,_solomon.xm,solomons key.c64_001,7.48KB,5197c9b8ce8d575c0892a3b5b4e61dd1,XM,false,147,0,2021-07-15T10:36:08.011050695+00:00,4,n/a,Tue 30th Jan 2007
+66568,present,60-tals.mod,60-talsanda.    ÿÿÿ,8.89KB,bd8facf6afd31a1b8c349af75ccc9ce0,MOD,false,139,0,2021-07-15T10:36:08.776554075+00:00,4,n/a,Tue 30th Jan 2007
+66569,present,a_minute.mod,A Minute Of Sorrow,15.61KB,e6e6a9affb6830ab3da34302d34bcb26,MOD,false,890,1,2021-07-15T10:36:09.586333277+00:00,4,n/a,Tue 30th Jan 2007
+66570,present,blue_and.mod,Blue and hairless!,20.20KB,9ee6e811cc7ada4a37b2b8b170565757,MOD,false,597,1,2021-07-15T10:36:10.370774561+00:00,4,n/a,Tue 30th Jan 2007
+66571,present,brittisk.mod,Brittisk Bensin ÿÿÿ,39.45KB,0c640b934cacac85b939d3917a80d80f,MOD,false,166,0,2021-07-15T10:36:11.672247983+00:00,4,n/a,Tue 30th Jan 2007
+66572,present,butterfl.mod,Butterfly Ride  ÿÿÿ,14.49KB,2255e0940c97330b4d135c9df029cfcd,MOD,false,3129,6,2021-07-15T10:36:13.501683138+00:00,4,Chiptune,Tue 30th Jan 2007
+66573,present,city_of.mod,City Of Night   ÿÿÿ,15.36KB,9d75d3fe0d8fd2f66f8acd0aef768982,MOD,false,196,0,2021-07-15T10:36:14.349696720+00:00,4,n/a,Tue 30th Jan 2007
+66574,present,zalza-intromuz2_hb_mix.xm,ZALZAchip '97,75.80KB,a241f4cada32a6a135338920af1d8686,XM,false,308,0,2021-07-15T10:36:15.483563617+00:00,4,n/a,Tue 30th Jan 2007
+66575,present,close_e.mod,Close Encounters ÿÿ,18.82KB,7abe435caff6504ee71f73293f056ca9,MOD,false,203,0,2021-07-15T10:36:16.265739037+00:00,4,n/a,Tue 30th Jan 2007
+66576,present,com_high.mod,Commando Hiscore ÿÿ,6.97KB,c37859b69280afde965ca0df11d2b374,MOD,false,344,0,2021-07-15T10:36:17.697264618+00:00,4,n/a,Tue 30th Jan 2007
+66577,present,der_elk.mod,Der Elk Ist Tot ÿÿÿ,18.80KB,f22e20cc434dd6736486fc2685470915,MOD,false,498,1,2021-07-15T10:36:19.689339437+00:00,4,n/a,Tue 30th Jan 2007
+66578,present,dontyou.mod,DontYouWantMe '97 ÿ,19.22KB,3cc79c4f7c0456eecb63747fc46cf9a2,MOD,false,143,0,2021-07-15T10:36:20.456094226+00:00,4,n/a,Tue 30th Jan 2007
+66579,present,dansande.mod,Dansande Man 4000 ÿ,3.90KB,72093da9fa227401da361bcf7f4d6fec,MOD,false,445,0,2021-07-15T10:36:23.136810026+00:00,4,n/a,Tue 30th Jan 2007
+66580,present,farbror.mod,Farbror Pers Visa ÿ,9.55KB,26f6c86b5c24b5489733d9dcd302e854,MOD,false,112,0,2021-07-15T10:36:23.912836656+00:00,4,n/a,Tue 30th Jan 2007
+66581,present,filipsta.mod,Filipstads-Samba ÿÿ,11.73KB,e43110083821944185e91fae1db69c05,MOD,false,142,0,2021-07-15T10:36:24.707418312+00:00,4,n/a,Tue 30th Jan 2007
+66582,present,good_bad.mod,Good, Bad & Ugly ÿÿ,32.06KB,889aea6325408fb99f41fc32e2ade645,MOD,false,462,1,2021-07-15T10:36:25.508505371+00:00,4,n/a,Tue 30th Jan 2007
+66583,present,jasnego.mod,Jasnego Krakow,20.87KB,9077cfa2106573e0d8115ca9c98d58f8,MOD,false,158,0,2021-07-15T10:36:26.327135255+00:00,4,n/a,Tue 30th Jan 2007
+66584,present,laser_d.mod,Laser Dancer    ÿÿÿ,26.59KB,2150071b5205684e6f9e5d21e83c4d33,MOD,false,374,0,2021-07-15T10:36:27.106477188+00:00,4,n/a,Tue 30th Jan 2007
+66585,present,one_sund.mod,One Sunday Morning,10.09KB,9feb8c3c473835a2764b00705bc7d7c6,MOD,false,117,0,2021-07-15T10:36:28.366018571+00:00,4,n/a,Tue 30th Jan 2007
+66586,present,zalza-introchip1_97.xm,introchip #1 '97,54.58KB,16da5b9601a29d69d9f0557d9d202f88,XM,false,1012,1,2021-07-15T10:36:29.505838931+00:00,4,n/a,Tue 30th Jan 2007
+66587,present,promenad.mod,Promenad Genom Kil,15.88KB,4c55321eb35373da57f98611052ba4da,MOD,false,94,0,2021-07-15T10:36:30.303718241+00:00,4,n/a,Tue 30th Jan 2007
+66588,present,room_of.mod,Room Of Emptyness ÿ,35.32KB,a8921e74ba92524280bb94f60d8ef0d3,MOD,false,515,0,2021-07-15T10:36:31.075197178+00:00,4,Chiptune,Tue 30th Jan 2007
+66589,present,smurf-es.mod,Smurf-Esque '98 ÿÿÿ,17.90KB,e68ed8b2e2880f760db1c3199e113046,MOD,false,770,0,2021-07-15T10:36:31.886585033+00:00,4,n/a,Tue 30th Jan 2007
+66590,present,solskens.mod,solskens-eivor  ÿÿÿ,24.92KB,5901e10624f28325ad74faa9f429e837,MOD,false,106,0,2021-07-15T10:36:32.739446020+00:00,4,n/a,Tue 30th Jan 2007
+66591,present,sommar.mod,Sommareufori    ÿÿÿ,26.55KB,5039ed0c33e35aaed41882e75b7881a3,MOD,false,130,0,2021-07-15T10:36:33.540026030+00:00,4,n/a,Tue 30th Jan 2007
+66592,present,spring_f.mod,Spring Feelings2,12.65KB,0949af085b39968cbb5ed32a1afcbf03,MOD,false,145,0,2021-07-15T10:36:34.637325962+00:00,4,n/a,Tue 30th Jan 2007
+66593,present,zalza-hult_and_his_friends.xm,hult and his friends,89.09KB,44f8efa83312c21fd3dfb2235235800d,XM,false,701,1,2021-07-15T10:36:35.494706682+00:00,14,n/a,Tue 30th Jan 2007
+66594,present,sweetlov.mod,Sweet Love Harmony,20.69KB,3ea0a2fb8613bd411f43a8a351b20bc6,MOD,false,688,1,2021-07-15T10:36:36.345801428+00:00,4,n/a,Tue 30th Jan 2007
+66595,present,tage2.mod,Tage - En Lodis ÿÿÿ2,14.71KB,cd6fb0962323e05e6079e308d71c1339,MOD,false,131,0,2021-07-15T10:36:38.347041495+00:00,4,n/a,Tue 30th Jan 2007
+66596,present,telefon.mod,Telefonsamtalet ÿÿÿ,16.95KB,e8bbcb7ac6e8a5c27faf022e557241bc,MOD,false,164,0,2021-07-15T10:36:40.519772889+00:00,4,n/a,Tue 30th Jan 2007
+66597,present,zalza-g_te_g_r_p_tivoli.xm,göte går på tivoli,45.50KB,80e511e1a7adab2882c2cdf274f331ac,XM,false,1670,8,2021-07-15T10:36:41.800830292+00:00,12,n/a,Tue 30th Jan 2007
+66598,present,zalza-erika_online.xm,erika online,32.37KB,220c04dca8f24e79796abd8da4b3f1d7,XM,false,751,4,2021-07-15T10:36:42.716401027+00:00,12,n/a,Tue 30th Jan 2007
+66599,present,thegorby.mod,The Gorby Incident,18.08KB,9b414881a8b4bd80e0bef65c209020c5,MOD,false,125,0,2021-07-15T10:36:43.583102647+00:00,4,n/a,Tue 30th Jan 2007
+66600,present,the_dawn.mod,the dawn of summer,14.75KB,86583a230341ff62341ca147e12fca3e,MOD,false,152,0,2021-07-15T10:36:44.442357650+00:00,4,n/a,Tue 30th Jan 2007
+66601,present,vi_vanta.mod,Vi Väntar...    ÿÿÿ,2.97KB,c41878d3c1cebf06a341c46f64402e5f,MOD,false,119,0,2021-07-15T10:36:45.856540034+00:00,4,n/a,Tue 30th Jan 2007
+66602,present,zalza-bisv_rm.xm,bisvärm,30.97KB,564b70c6d967ba20b9aa1dc9f48f002c,XM,false,906,4,2021-07-15T10:36:47.556012520+00:00,8,n/a,Tue 30th Jan 2007
+66603,present,zalza-afternoon_pr0n.xm,afternoon pr0n,35.66KB,50468aef1204575e2d32b128487e9f16,XM,false,445,1,2021-07-15T10:36:48.676462653+00:00,14,n/a,Tue 30th Jan 2007
+66604,present,knark6.xm,cp - knarkmix iii,55.68KB,2ace8b5d308ee0831726f8af83bdb16b,XM,false,402,1,2021-07-15T10:36:49.905432072+00:00,16,Chiptune,Tue 30th Jan 2007
+66605,present,andy-chipmunks.mod,chipmunks.fast,18.53KB,335afe3c4ae9043c2095c029a251f51b,MOD,false,456,0,2021-07-15T10:36:50.790701146+00:00,4,n/a,Tue 30th Jan 2007
+66606,present,andy-wild_chip.mod,wild chip,25.73KB,f2604b4fa8da1ff25bc033b78a6647a7,MOD,false,208,0,2021-07-15T10:36:51.614006149+00:00,4,n/a,Tue 30th Jan 2007
+66607,present,kling.mod,kling,11.66KB,aab54b429aaad434e64ab78a1ab8571e,MOD,false,112,0,2021-07-15T10:36:52.401004231+00:00,4,n/a,Tue 30th Jan 2007
+66608,present,stingless_car.mod,stingless car,4.60KB,50ca3d11747c7a434625c37600d6770c,MOD,false,106,0,2021-07-15T10:36:53.188844274+00:00,4,n/a,Tue 30th Jan 2007
+66609,present,stingless_pen.mod,stingless pen,5.38KB,b28361c8463b523d7b193995c9003ae4,MOD,false,654,1,2021-07-15T10:36:53.967222976+00:00,4,n/a,Tue 30th Jan 2007
+66610,present,tak.mod,tak,10.72KB,c73144f69d51eca74f77489a5d729416,MOD,false,101,0,2021-07-15T10:36:54.750338157+00:00,4,n/a,Tue 30th Jan 2007
+66611,present,tunneli.mod,tunneli,9.38KB,b5df57500a3ecb539a15825a8385a793,MOD,false,111,0,2021-07-15T10:36:55.561061149+00:00,4,n/a,Tue 30th Jan 2007
+66612,present,knark4.xm,ejnar rullar joints!,23.59KB,256301a4f6d578a97516b3d8ec520eb4,XM,false,331,1,2021-07-15T10:36:56.814246290+00:00,10,n/a,Tue 30th Jan 2007
+66613,present,ndrums.s3m,say no to drums,14.62KB,97c6773706cc7123e3dc68dd216fe758,S3M,false,109,0,2021-07-15T10:36:57.737346704+00:00,16,n/a,Tue 30th Jan 2007
+66614,present,aquafresh_-_chickenpox.mod,chickenpox,8.72KB,e4a24531e3e19079ca57f66ea3beef02,MOD,false,241,0,2021-07-15T10:36:59.416439357+00:00,4,n/a,Tue 30th Jan 2007
+66615,present,aquafresh_-_chilli_con_carne.mod,chilli con carne,6.33KB,de4053b29828b651c36c7b15d2fa31a3,MOD,false,272,0,2021-07-15T10:37:01.729856465+00:00,4,n/a,Tue 30th Jan 2007
+66616,present,groobymo.mod,groovy moonchild,17.53KB,7158e5750448ff382ad110bfeb7ede37,MOD,false,125,0,2021-07-15T10:37:02.612954857+00:00,4,n/a,Tue 30th Jan 2007
+66617,present,atomhenge.mod,atom henge,8.67KB,4909bc7bf261295b07996b126e0e85b4,MOD,false,197,0,2021-07-15T10:37:03.595728024+00:00,4,n/a,Tue 30th Jan 2007
+66618,present,anthrox4.mod,the_other_live.,11.90KB,c887e5e29ffe1e42fd9b95105e30b174,MOD,false,764,1,2021-07-15T10:37:05.816689626+00:00,4,n/a,Tue 30th Jan 2007
+66619,present,knark1.xm,min knarkpipa,52.58KB,158b49a8a96c27dbaf0cb8679543f987,XM,false,388,1,2021-07-15T10:37:07.082586456+00:00,12,n/a,Tue 30th Jan 2007
+66620,present,argh-all_night_alone.it,all night alone,13.96KB,3030c9c82dbb7d15502eab781ef2881d,IT,false,991,2,2021-07-15T10:37:07.918979772+00:00,20,n/a,Tue 30th Jan 2007
+66621,present,justicef.mod,justice_for_all,8.37KB,eb7882a2d5227a8849c2afd85b1564c4,MOD,false,519,1,2021-07-15T10:37:12.533555046+00:00,4,n/a,Tue 30th Jan 2007
+66622,present,agn-dils.xm,denn ich liebte sie,30.34KB,95175d48151d0a7f63e70eb5522c5e7c,XM,false,364,1,2021-07-15T10:37:13.345376071+00:00,6,n/a,Tue 30th Jan 2007
+66623,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:37:14.140722105+00:00,0,n/a,Thu 1st Jan 1970
+66624,present,agn-wsng.xm,wesensgemäB,25.92KB,99ecfaa969af92f3c9649ebf16f8917a,XM,false,193,0,2021-07-15T10:37:14.812723489+00:00,8,n/a,Tue 30th Jan 2007
+66625,present,xtd-ninja.mod,ninja,11.33KB,9d1f73cba077c02704a991b76c3a8039,MOD,false,671,0,2021-07-15T10:37:15.587445963+00:00,4,n/a,Tue 30th Jan 2007
+66626,present,xtd-microtune3.mod,## microtune 3 ##,5.24KB,22e2b047b184562c06b74187a54d939b,MOD,false,1059,1,2021-07-15T10:37:16.773818698+00:00,4,n/a,Tue 30th Jan 2007
+66627,present,xtd-microtune2.mod,## microtune 2 ##,5.27KB,f1f2c5bc385df7da6746dbed53f7af32,MOD,false,188,0,2021-07-15T10:37:17.584414111+00:00,4,n/a,Tue 30th Jan 2007
+66628,present,xtd-microtune.mod,microtune,5.08KB,e94e4cedc98887ff12a16f36319195b4,MOD,false,792,1,2021-07-15T10:37:18.422670530+00:00,4,n/a,Tue 30th Jan 2007
+66629,present,xonder-delta.xm,Delta,13.80KB,37b13470722caf9b9211f7f47ab78fa2,XM,false,154,0,2021-07-15T10:37:20.129898189+00:00,4,n/a,Tue 30th Jan 2007
+66630,present,zwerge-6.mod,      zwerge6,22.32KB,e38d02a3e04987ed62d01e6eaa04ec9d,MOD,false,177,0,2021-07-15T10:37:22.070329324+00:00,4,n/a,Tue 30th Jan 2007
+66631,present,auricom-sweetbead.xm,Sweatbead,99.21KB,4b70c76dd238081f77f55253a85356d6,XM,false,1191,4,2021-07-15T10:37:22.849593718+00:00,16,n/a,Tue 30th Jan 2007
+66632,present,atl-think_twice3.mod,rob,105.32KB,1e7e36ebf25a5ef89017487ce882b808,MOD,false,199,0,2021-07-15T10:37:24.462488882+00:00,4,n/a,Tue 30th Jan 2007
+66633,present,zwerge-4.mod,      zwerge4,22.47KB,9fbc46e9ae90c4b300782faf9862f2ff,MOD,false,161,0,2021-07-15T10:37:25.260916734+00:00,4,n/a,Tue 30th Jan 2007
+66634,present,agodless.mod,a godless gospel,10.23KB,927d7d16a5e6780823a33c304619c048,MOD,false,239,0,2021-07-15T10:37:26.091342662+00:00,4,n/a,Tue 30th Jan 2007
+66635,present,before.mod,before your embryo,3.30KB,6e5050cf0ae8d48207d6e6d649c5972a,MOD,false,116,0,2021-07-15T10:37:27.001285463+00:00,4,n/a,Tue 30th Jan 2007
+66636,present,coldjev.mod,cold jewelery,3.27KB,b2cbcd455929365a3862111d0e5bdb47,MOD,false,165,0,2021-07-15T10:37:27.782253496+00:00,4,n/a,Tue 30th Jan 2007
+66637,present,drown.mod,drown in beer,9.62KB,a15b89dd94ed359a3a71120c507ad10f,MOD,false,109,0,2021-07-15T10:37:28.564992808+00:00,4,n/a,Tue 30th Jan 2007
+66638,present,eh.mod,eh??,7.29KB,105570a1284496e674bdda1d7cb6dbe3,MOD,false,131,0,2021-07-15T10:37:29.405993607+00:00,4,n/a,Tue 30th Jan 2007
+66639,present,wotw-leave_me_alone.mod,leave me alone,61.45KB,b918708d200c3d404e6124d45bd8a3bc,MOD,false,608,2,2021-07-15T10:37:30.178856216+00:00,4,n/a,Tue 30th Jan 2007
+66640,present,getting.mod,getting somewhere??,14.10KB,a2cec52d92150bc118b249773621e75b,MOD,false,1340,2,2021-07-15T10:37:32.034070621+00:00,4,Demo Style,Tue 30th Jan 2007
+66641,present,haveyou.mod,haveugottherhythm?,24.10KB,c77b6b8b6f676c9e101ac360f03a76c0,MOD,false,111,0,2021-07-15T10:37:32.826120844+00:00,4,n/a,Tue 30th Jan 2007
+66642,present,insane.mod,insane wardrobewar!,26.04KB,385a138062493d12f9ad8765849df19e,MOD,false,436,1,2021-07-15T10:37:34.013834516+00:00,4,n/a,Tue 30th Jan 2007
+66643,present,wotw-intro66.mod,intro number 66,5.30KB,d56e7255fe0f2a538ed7048c610df5bb,MOD,false,228,0,2021-07-15T10:37:34.805445155+00:00,4,n/a,Tue 30th Jan 2007
+66644,present,jammiedo.mod,jammiedadoobabebop,16.42KB,f0a10aab61d19b92d298a382e029161a,MOD,false,141,0,2021-07-15T10:37:35.652534392+00:00,4,n/a,Tue 30th Jan 2007
+66645,present,joy.mod,joy of toys,27.49KB,3acd91ae7584edc30fb329bbf0be90e3,MOD,false,163,0,2021-07-15T10:37:36.920277413+00:00,4,n/a,Tue 30th Jan 2007
+66646,present,naturv.mod,naturvetarna 1b,10.47KB,062f0582d0526880b6f3870b52d417b6,MOD,false,130,0,2021-07-15T10:37:38.061869323+00:00,4,n/a,Tue 30th Jan 2007
+66647,present,wotw-intro58.mod,intro number 58,7.42KB,fba7ccc839d07e64c3f6d2628e592d06,MOD,false,753,2,2021-07-15T10:37:39.366259953+00:00,4,n/a,Tue 30th Jan 2007
+66648,present,oldfash.mod,old fashion 23,26.02KB,e2f59af2e05a052119b971ca6d0a6dbb,MOD,false,119,0,2021-07-15T10:37:40.671381199+00:00,4,n/a,Tue 30th Jan 2007
+66649,present,anthrox.mod,anthrox,23.48KB,dedae51e49f48a63d91f6621013b86d7,MOD,false,643,0,2021-07-15T10:37:42.474851951+00:00,4,n/a,Tue 30th Jan 2007
+66650,present,oksetta6.mod,mua oksettaa 6,19.61KB,67d27e60db2a0699d7bb873e77c9bb53,MOD,false,91,0,2021-07-15T10:37:43.370713415+00:00,4,n/a,Tue 30th Jan 2007
+66651,present,wotw-intro56.mod,intro number 56,11.08KB,8ce8815b45b15a34d1564bbe0470adc8,MOD,false,2090,5,2021-07-15T10:37:44.153726876+00:00,4,n/a,Mon 13th Sep 2004
+66652,present,oksetta8.mod,mua oksettaa 8,11.53KB,712a319fdab9f5a8e07efc2368c41bb1,MOD,false,122,0,2021-07-15T10:37:45.128538992+00:00,4,n/a,Tue 30th Jan 2007
+66653,present,bakefred_-_mellie.mod,mellie,9.69KB,e951460114bf660b72632e54e8f60bd1,MOD,false,142,0,2021-07-15T10:37:46.135998486+00:00,4,n/a,Tue 30th Jan 2007
+66654,present,wotw-intro55.mod,intro number 55,7.41KB,a4fb5d77824938552c7180f1e017ee39,MOD,false,618,1,2021-07-15T10:37:47.150994927+00:00,4,n/a,Tue 30th Jan 2007
+66655,present,bakefred_-_nauta.mod,nauta,13.21KB,40fd357e1c4c1c3c4e2902886911d4bf,MOD,false,122,0,2021-07-15T10:37:49.144499615+00:00,4,n/a,Tue 30th Jan 2007
+66656,present,ferris.mod,ferris wheel,9.54KB,2eb6a53529ed4f168fd9454581322c31,MOD,false,122,0,2021-07-15T10:37:51.090322491+00:00,4,n/a,Tue 30th Jan 2007
+66657,present,wotw-intro53.mod,intro number 53,10.50KB,265827ff5c29706f46f7ccc0458db61d,MOD,false,648,1,2021-07-15T10:37:53.100426751+00:00,4,n/a,Tue 30th Jan 2007
+66658,present,sykse.mod,sykse,9.62KB,b368153f6c66680ec965579420f655c1,MOD,false,379,1,2021-07-15T10:37:53.954592090+00:00,4,n/a,Tue 30th Jan 2007
+66659,present,wotw-intro52.mod,intro 52,15.88KB,f0151c6dde212b15bb8e166ae7951e32,MOD,false,197,0,2021-07-15T10:37:55.810123805+00:00,4,n/a,Tue 30th Jan 2007
+66660,present,t-kissa.mod,timpan kissa,2.06KB,4750688851ff053aa8618b5ab5e902a0,MOD,false,126,0,2021-07-15T10:37:56.602776462+00:00,4,n/a,Tue 30th Jan 2007
+66661,present,wotw-intro47.mod,intro number 47,7.42KB,f99190913716f4c2801c049419ae03c7,MOD,false,758,1,2021-07-15T10:37:57.433741254+00:00,4,n/a,Tue 30th Jan 2007
+66662,present,t-tank.mod,t-tank,40.53KB,02f1e301ef85755800347a4ba0086cee,MOD,false,120,0,2021-07-15T10:37:58.546573096+00:00,4,n/a,Tue 30th Jan 2007
+66663,present,wotw-intro43.mod,intro number 43,7.42KB,04b748167b62478c61b326e2809b9c66,MOD,false,659,2,2021-07-15T10:37:59.343094521+00:00,4,n/a,Tue 30th Jan 2007
+66664,present,777.xm,                 777,23.97KB,4a992f2883b1ada8e2662da9295d42b3,XM,false,403,0,2021-07-15T10:38:01.935962194+00:00,10,n/a,Tue 30th Jan 2007
+66665,present,wotw-intro40.mod,intro number 40,7.42KB,07f0c731045be9479235286658cd7502,MOD,false,609,1,2021-07-15T10:38:03.588907010+00:00,4,n/a,Tue 30th Jan 2007
+66666,present,bal_a500.xm,amiga_500,12.27KB,6dbddf7378d84f55e0444e4f63a89edf,XM,false,248,0,2021-07-15T10:38:04.439063975+00:00,4,n/a,Tue 30th Jan 2007
+66667,present,brandbil.xm,brandbilens vrede,22.33KB,2489df9d41a2f9d377752ac88f645b0b,XM,false,104,0,2021-07-15T10:38:05.424525831+00:00,8,n/a,Tue 30th Jan 2007
+66668,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:38:06.251907702+00:00,0,n/a,Thu 1st Jan 1970
+66669,present,chiprave.mod,- RAVE CHIP -,11.44KB,f65b31df3adefc66ec67d527ae65b3c8,MOD,false,118,0,2021-07-15T10:38:06.896595103+00:00,4,n/a,Tue 30th Jan 2007
+66670,present,delay-14.mod,delay 14,7.11KB,ad15c47e78655a3037a6c305aa5fa5b5,MOD,false,203,1,2021-07-15T10:38:07.689113979+00:00,4,n/a,Tue 30th Jan 2007
+66671,present,wotw-intro37.mod,intro number 37,7.42KB,35cdefcf7b6f04835949e66ea095b046,MOD,false,730,1,2021-07-15T10:38:08.459814622+00:00,4,n/a,Mon 13th Sep 2004
+66672,present,excitement-1991.mod,excitement1991,15.34KB,7e32784d83a438cdf20758c82212d3a9,MOD,false,137,0,2021-07-15T10:38:09.220166764+00:00,4,n/a,Tue 30th Jan 2007
+66673,present,peasea.mod,peasea,19.38KB,75965bfa9d2f985a0998f243650058b8,MOD,false,108,0,2021-07-15T10:38:10.850815095+00:00,4,n/a,Tue 30th Jan 2007
+66674,present,wotw-commodore_rulez.mod,commodore rulez!,5.46KB,842ef1d628085a86e24708667a407b79,MOD,false,1147,4,2021-07-15T10:38:12.221351656+00:00,4,n/a,Tue 30th Jan 2007
+66675,present,shaing.mod,shaing,47.35KB,c1622796d642c2a4a88a6c8b59c7ba31,MOD,false,105,0,2021-07-15T10:38:13.318327511+00:00,4,n/a,Tue 30th Jan 2007
+66676,present,shortsto.mod,shortstory,5.20KB,0f303fa75a815d54ca77c7f7f4210f3e,MOD,false,107,0,2021-07-15T10:38:14.362473834+00:00,4,n/a,Tue 30th Jan 2007
+66677,present,sixteent.mod,sixteenth,6.11KB,e837997f5e954cbe260d6811bccaa82f,MOD,false,103,0,2021-07-15T10:38:16.149972473+00:00,4,n/a,Tue 30th Jan 2007
+66678,present,tan.mod,tan,7.55KB,3059d9f770da9f8812f0a42f46a2f68e,MOD,false,97,0,2021-07-15T10:38:17.698878163+00:00,4,n/a,Tue 30th Jan 2007
+66679,present,world_charts_9-4.mod,Buffered Module,5.30KB,1d4736dabfeaedb3488c491242a84881,MOD,false,132,0,2021-07-15T10:38:19.720670264+00:00,4,n/a,Tue 30th Jan 2007
+66680,present,zonk.mod,zonk,9.60KB,7de6c98c66d625f54948fcd07ca62521,MOD,false,135,0,2021-07-15T10:38:21.465935090+00:00,4,n/a,Tue 30th Jan 2007
+66681,present,schronz.mod,schronz,40.28KB,b4159243022256e0642bdb520a0f3592,MOD,false,109,0,2021-07-15T10:38:24.483730086+00:00,4,n/a,Tue 30th Jan 2007
+66682,present,shorty.mod,shorty2ext.bass,19.37KB,78d6a36adcd9b92dd723e06654f6a56a,MOD,false,94,0,2021-07-15T10:38:26.374174054+00:00,4,n/a,Tue 30th Jan 2007
+66683,present,world_charts_9-3.mod,Buffered Module,5.30KB,a6c2a762f00e988b77c0af5d85d2a7e9,MOD,false,620,2,2021-07-15T10:38:28.982686876+00:00,4,n/a,Tue 30th Jan 2007
+66684,present,theconf.mod,the confession.bass,16.59KB,62ee59c841260ae9fcebf4bb05ad407c,MOD,false,85,0,2021-07-15T10:38:31.687297786+00:00,4,n/a,Tue 30th Jan 2007
+66685,present,yourface.mod,-your-face-...,32.60KB,fe10e1e3836864a401b2a874decde661,MOD,false,109,0,2021-07-15T10:38:33.489139417+00:00,4,n/a,Tue 30th Jan 2007
+66686,present,world_charts_9-2.mod,Buffered Module,17.53KB,0b2b280ebe67c888b9464a6996c525b2,MOD,false,375,1,2021-07-15T10:38:34.756337018+00:00,4,n/a,Tue 30th Jan 2007
+66687,present,ninjaz.s3m,Ninja Killaz - INSERT COIN,25.58KB,f4ee161225dcdba696739d34cd066a3b,S3M,false,138,0,2021-07-15T10:38:35.983844153+00:00,6,n/a,Tue 30th Jan 2007
+66688,present,alll_yea.mod,alll_years_drinking,8.62KB,a038ec33960a5b73235decc07cbc81fe,MOD,false,167,0,2021-07-15T10:38:37.840783743+00:00,4,n/a,Tue 30th Jan 2007
+66689,present,bmitavi.mod,.-b-.mita viela,8.21KB,b18551a4cfec236e441eb5c47ce84d30,MOD,false,992,1,2021-07-15T10:38:39.144181487+00:00,4,n/a,Tue 30th Jan 2007
+66690,present,bth-it7.mod,bth-it#7,9.21KB,cff808d38e8f34c21036b703ff17d34c,MOD,false,461,0,2021-07-15T10:38:40.328189456+00:00,4,n/a,Tue 30th Jan 2007
+66691,present,intron96.mod,intro number 96,10.42KB,865d060c6a6818b0ad767307e474efb6,MOD,false,292,0,2021-07-15T10:38:43.082281908+00:00,4,n/a,Tue 30th Jan 2007
+66692,present,bthit3.mod,bth-it#3,5.30KB,f3f3bf32abcd929913be0a40d9b3ba4a,MOD,false,418,0,2021-07-15T10:38:44.191129798+00:00,4,n/a,Tue 30th Jan 2007
+66693,present,cleanlau.mod,clean_laundry4,8.39KB,8dc8c05009a27d548d7b67895bc5d4c3,MOD,false,247,0,2021-07-15T10:38:45.064230588+00:00,4,n/a,Tue 30th Jan 2007
+66694,present,g1.mod,gi1,27.58KB,d9278c5a9bb05656dc8417b594e8e492,MOD,false,1152,1,2021-07-15T10:38:46.443237360+00:00,4,n/a,Tue 30th Jan 2007
+66695,present,grrreee.mod,grrreee!dis iz hob!,20.44KB,89384dd2da789deaec76bb9150a39e06,MOD,false,343,0,2021-07-15T10:38:48.004300654+00:00,4,n/a,Tue 30th Jan 2007
+66696,present,hazeld.mod,hazel daze,15.04KB,6b0f20de8a09f796b2f17fb213a31463,MOD,false,407,0,2021-07-15T10:38:48.806685749+00:00,4,n/a,Tue 30th Jan 2007
+66697,present,intro33.mod,intro number 33,5.73KB,0fe7125ff62b363f1fd2d5294a91b4b0,MOD,false,172,0,2021-07-15T10:38:49.755895714+00:00,4,n/a,Tue 30th Jan 2007
+66698,present,hearing.mod,hearing earingbells,16.20KB,8cd111b2f8409acf66973ff2d0bc0ffe,MOD,false,393,0,2021-07-15T10:38:50.955655946+00:00,4,n/a,Tue 30th Jan 2007
+66699,present,hoivaari.mod,hoi vaari rallaaa..,8.53KB,1b31c4c8d202d5b35c3c5070ffb08452,MOD,false,397,0,2021-07-15T10:38:51.924614488+00:00,4,n/a,Tue 30th Jan 2007
+66700,present,honour.mod,honour,11.79KB,381790b3d5c1a8c705d45bfaccfd2f7d,MOD,false,362,0,2021-07-15T10:38:53.973611779+00:00,4,n/a,Tue 30th Jan 2007
+66701,present,jataason.mod,ja taas on hyva olo,23.99KB,5621daa80b09cb28f40c3d94677ce8d1,MOD,false,431,0,2021-07-15T10:38:55.110585569+00:00,4,n/a,Tue 30th Jan 2007
+66702,present,leadme.mod,lead_me_to_safe,13.56KB,6d7b7dc34f1525be510baef0844b3b9d,MOD,false,743,1,2021-07-15T10:38:56.046577168+00:00,4,n/a,Tue 30th Jan 2007
+66703,present,luckda.mod,lucky_days_has_gone,10.16KB,d615f6ace7db20695018ea2ec094b4bf,MOD,false,397,0,2021-07-15T10:38:58.065200838+00:00,4,n/a,Tue 30th Jan 2007
+66704,present,makeito.mod,make it on my way!!,9.30KB,a0359e594718670d3fabd4cd3336a87f,MOD,false,385,0,2021-07-15T10:38:58.873051088+00:00,4,n/a,Tue 30th Jan 2007
+66705,present,muljutc.mod,mulju..the clown,19.21KB,27b8e80454fbd10b876b54422bc29644,MOD,false,966,1,2021-07-15T10:38:59.771735285+00:00,4,n/a,Tue 30th Jan 2007
+66706,present,ningfu.mod,ning-fu_and_hong-sa,17.04KB,7433a814997b805b3d5d8803ededb562,MOD,false,434,0,2021-07-15T10:39:01.506781191+00:00,4,n/a,Tue 30th Jan 2007
+66707,present,intro-98.mod,intro number 89,16.78KB,8836ae5a7d45905c463266d0e08578c1,MOD,false,222,0,2021-07-15T10:39:04.914992905+00:00,4,n/a,Tue 30th Jan 2007
+66708,present,intro-95.mod,intro number 95,19.35KB,6bbbbf176d7abf35a8505a98e9fdc08b,MOD,false,226,0,2021-07-15T10:39:05.782421579+00:00,4,n/a,Tue 30th Jan 2007
+66709,present,intro-94.mod,intro number 94,9.29KB,a713944b9f88006980de2cf5a2911747,MOD,false,220,0,2021-07-15T10:39:06.821905034+00:00,4,n/a,Tue 30th Jan 2007
+66710,present,intro-92.mod,intro number 92,10.29KB,95f5f5f29ded1c4518bd5ed768c4575f,MOD,false,574,1,2021-07-15T10:39:07.841460352+00:00,4,n/a,Tue 30th Jan 2007
+66711,present,intro-91.mod,intro number 91,7.33KB,c98dde202763e3b2f530281a6d7937d1,MOD,false,215,0,2021-07-15T10:39:08.671532190+00:00,4,n/a,Tue 30th Jan 2007
+66712,present,intro-90.mod,intro number 90,9.09KB,258380388e090186c4fb19534f1448bf,MOD,false,526,1,2021-07-15T10:39:10.019677926+00:00,4,n/a,Tue 30th Jan 2007
+66713,present,intro-88.mod,intro number 88,7.31KB,d5f7d43f93dd9dc941c75759f4960365,MOD,false,239,0,2021-07-15T10:39:10.848889422+00:00,4,n/a,Tue 30th Jan 2007
+66714,present,intro-87.mod,intro number 87,8.31KB,e0d77cec510777da73afd7fcfbd4a338,MOD,false,308,1,2021-07-15T10:39:12.143392359+00:00,4,n/a,Tue 30th Jan 2007
+66715,present,intro-86.mod,intro number 86,11.42KB,2aa7ec2a39b700b4fee8cf5beb10ecbe,MOD,false,216,0,2021-07-15T10:39:13.189964773+00:00,4,n/a,Tue 30th Jan 2007
+66716,present,intro-85.mod,intro number 85,24.58KB,d101aaadb11b3f43a68c93e81ae8cbc5,MOD,false,209,0,2021-07-15T10:39:14.000435042+00:00,4,n/a,Tue 30th Jan 2007
+66717,present,intro-84.mod,intro number 84,8.60KB,3ceb7fcbaaf8b3dc29ceff3d31764168,MOD,false,216,0,2021-07-15T10:39:14.936477398+00:00,4,n/a,Tue 30th Jan 2007
+66718,present,intro-83.mod,intro number 83,17.27KB,7e7c5ad773bbc1a42de9561e804cf413,MOD,false,145,0,2021-07-15T10:39:16.740453738+00:00,4,n/a,Tue 30th Jan 2007
+66719,present,intro-82.mod,intro number 82,10.10KB,d0df23d1d638ee809e4555333241a9b6,MOD,false,159,0,2021-07-15T10:39:17.588519138+00:00,4,n/a,Tue 30th Jan 2007
+66720,present,intro-81.mod,intronumber 81,11.24KB,42dd34729380d62f3c2be8640f2a78c6,MOD,false,172,0,2021-07-15T10:39:18.414045657+00:00,4,n/a,Tue 30th Jan 2007
+66721,present,intro-80.mod,intro number 80,9.21KB,536c8588646997a5dec9ffe84d99d1a8,MOD,false,457,1,2021-07-15T10:39:19.753859990+00:00,4,n/a,Tue 30th Jan 2007
+66722,present,intro-79.mod,intro number 79,10.77KB,393852fde5f998756b2be8d831f987fb,MOD,false,156,0,2021-07-15T10:39:22.091535359+00:00,4,n/a,Tue 30th Jan 2007
+66723,present,intro-78.mod,intro number 78,3.23KB,f23cbc80c0aaf4f53948a83ae2a13993,MOD,false,174,0,2021-07-15T10:39:23.687093898+00:00,4,n/a,Tue 30th Jan 2007
+66724,present,intro-76.mod,intro number 76,29.30KB,b831fed0321ada4fc8903710f4274cfa,MOD,false,152,0,2021-07-15T10:39:25.403944323+00:00,4,n/a,Tue 30th Jan 2007
+66725,present,intro-75.mod,intro number 75,3.23KB,6aa9d29be423edceb762ee37a27fcd24,MOD,false,610,2,2021-07-15T10:39:26.209547833+00:00,4,n/a,Tue 30th Jan 2007
+66726,present,intro-71.mod,intro number 71,13.41KB,f5495480baaf2f798c14cb9d7be1cab4,MOD,false,224,0,2021-07-15T10:39:28.401823629+00:00,4,n/a,Tue 30th Jan 2007
+66727,present,intro-70.mod,intro number 70,17.48KB,71f5c218c07a1a374d223ed7c622825b,MOD,false,227,0,2021-07-15T10:39:29.220486026+00:00,4,n/a,Tue 30th Jan 2007
+66728,present,intro-62.mod,intro number 62,4.30KB,261b5a5bffe28f067f9d2bd279c018f7,MOD,false,207,0,2021-07-15T10:39:30.132477187+00:00,4,n/a,Tue 30th Jan 2007
+66729,present,intro-61.mod,Intro number 61,17.55KB,78bcd3e61bdc0d19531ffaf003a04fd3,MOD,false,187,0,2021-07-15T10:39:30.976366740+00:00,4,n/a,Tue 30th Jan 2007
+66730,present,intro-59.mod,intro number 59,18.88KB,f971a4391c270accb2a3dd4e795a89e5,MOD,false,165,0,2021-07-15T10:39:31.829832036+00:00,4,n/a,Tue 30th Jan 2007
+66731,present,intro-50.mod,intro number 50,27.30KB,6fee228aa820bd18f752ab18e1b052bc,MOD,false,620,1,2021-07-15T10:39:32.716560796+00:00,4,n/a,Tue 30th Jan 2007
+66732,present,intro-46.mod,intro number 46,12.58KB,6e061198de613d5d0b49ebfc3652e698,MOD,false,601,1,2021-07-15T10:39:33.520047654+00:00,4,n/a,Tue 30th Jan 2007
+66733,present,intro-44.mod,intro number 44,7.42KB,368b3d2d097dfee7cb92d5b59a0066a0,MOD,false,169,0,2021-07-15T10:39:34.418015179+00:00,4,n/a,Tue 30th Jan 2007
+66734,present,intro-42.mod,intro number 42,11.42KB,ae81e32e6c514de87720a1cc55c68da9,MOD,false,933,3,2021-07-15T10:39:35.305423795+00:00,4,n/a,Tue 30th Jan 2007
+66735,present,intro-41.mod,intro number 41,18.79KB,8781bdbbdbc119f3eb1b12eb14699b7b,MOD,false,157,0,2021-07-15T10:39:36.094792509+00:00,4,n/a,Tue 30th Jan 2007
+66736,present,intro-35.mod,intro number 35,4.46KB,d71a3460639fe4d21057590f85ecb977,MOD,false,200,0,2021-07-15T10:39:37.483406803+00:00,4,n/a,Tue 30th Jan 2007
+66737,present,intro-33.mod,Intro number 33,5.73KB,7059a3954370d2c3400d9b76acef0d1c,MOD,false,558,1,2021-07-15T10:39:38.279574816+00:00,4,n/a,Tue 30th Jan 2007
+66738,present,intro-32.mod,intro number 32,10.84KB,2adf36b797b15afecfc72bc5cc0e460b,MOD,false,161,0,2021-07-15T10:39:39.216845750+00:00,4,n/a,Tue 30th Jan 2007
+66739,present,intro-31.mod,intro number 31,7.65KB,5c7afa48bebd0e6aa7acc95687dfc359,MOD,false,165,0,2021-07-15T10:39:40.042314914+00:00,4,n/a,Tue 30th Jan 2007
+66740,present,intro-28.mod,intro number 28,9.02KB,11984cf3b36698f8aaf912a96f2d2ee2,MOD,false,218,0,2021-07-15T10:39:41.867185093+00:00,4,n/a,Tue 30th Jan 2007
+66741,present,intro-27.mod,intro number 27,20.79KB,71946bd0697cb084c695d33ed90003f7,MOD,false,691,3,2021-07-15T10:39:42.702277192+00:00,4,n/a,Tue 30th Jan 2007
+66742,present,intro-24.mod,intro number 24,10.09KB,f65719bc808df5b56945ee0ae987e649,MOD,false,217,0,2021-07-15T10:39:43.942419716+00:00,4,n/a,Tue 30th Jan 2007
+66743,present,intro-23.mod,intro nr.23,6.28KB,94335c317eff81cc45713d5af76051fb,MOD,false,198,0,2021-07-15T10:39:44.779301253+00:00,4,n/a,Tue 30th Jan 2007
+66744,present,intro-22.mod,intro number 22,11.22KB,7440363c095fa33148fc194525e8fd5e,MOD,false,239,0,2021-07-15T10:39:45.598167750+00:00,4,n/a,Tue 30th Jan 2007
+66745,present,intro-20.mod,intro 20,25.27KB,b883f216455ef6aa2621f3144b00353a,MOD,false,158,0,2021-07-15T10:39:46.556643537+00:00,4,n/a,Tue 30th Jan 2007
+66746,present,intro-19.mod,intro nr.19,23.83KB,05281723d1ea525d60a93b4fc2693054,MOD,false,175,0,2021-07-15T10:39:47.549563360+00:00,4,n/a,Tue 30th Jan 2007
+66747,present,intro-18.mod,intro number 18,12.78KB,c2459b1ac1f0918e35fbdc55694c5cef,MOD,false,234,0,2021-07-15T10:39:48.362611854+00:00,4,n/a,Tue 30th Jan 2007
+66748,present,intro-17.mod,intro 17,10.70KB,ecd20b3d97734c11a8e5f03870213bcd,MOD,false,178,0,2021-07-15T10:39:49.882420541+00:00,4,n/a,Tue 30th Jan 2007
+66749,present,intro-15.mod,intro nr.15,17.63KB,d8b8919d554046705181588a82438f55,MOD,false,632,1,2021-07-15T10:39:50.669905984+00:00,4,n/a,Tue 30th Jan 2007
+66750,present,intro-126.mod,shokoy tunes 4,25.02KB,3d049f07165646b65e5a227c720bfaf6,MOD,false,239,0,2021-07-15T10:39:51.501290657+00:00,4,n/a,Tue 30th Jan 2007
+66751,present,intro-125.mod,shokoy tunes 2,25.02KB,3dbe8bd42b28759ecc617f94d33125d2,MOD,false,242,0,2021-07-15T10:39:52.361135405+00:00,4,n/a,Tue 30th Jan 2007
+66752,present,intro-105.mod,intro number 105,9.46KB,3da8260259ca53d97ce0d9afadf97ffa,MOD,false,255,0,2021-07-15T10:39:53.603993775+00:00,4,n/a,Tue 30th Jan 2007
+66753,present,intro-101.mod,intro number 101,11.41KB,a40cc677c61e6fd194cd94ee631897da,MOD,false,302,0,2021-07-15T10:39:54.396004353+00:00,4,n/a,Tue 30th Jan 2007
+66754,present,wolk-ablife.xm,wolk-ablife.xm,337.21KB,fda24d84f94ca5842f037225d3a684a5,XM,false,480,1,2021-07-15T10:39:55.195503196+00:00,14,n/a,Tue 30th Jan 2007
+66755,present,wire-zoolook.xm, --==[ Zoolook ]==--,64.85KB,3beaf0d3ef52ec845f19271efd7e8d00,XM,false,145,0,2021-07-15T10:39:56.059138923+00:00,10,n/a,Tue 30th Jan 2007
+66756,present,wire-think_twice.xm,[ Think Twice ],28.86KB,634b75cef210b4ca229f2e5c44aba9b7,XM,false,136,0,2021-07-15T10:39:56.906202219+00:00,4,n/a,Tue 30th Jan 2007
+66757,present,wire-prehistoric_tale.xm,prehistoric tale,103.06KB,ed7cff89dae48ce773564fd514d5487b,XM,false,865,2,2021-07-15T10:39:57.698583028+00:00,10,n/a,Tue 30th Jan 2007
+66758,present,wire-last_ninja_remix.xm,\\Last Ninja Remix\\,61.40KB,223cd5cfcf1c41fd43edb4f5f8a99c17,XM,false,436,1,2021-07-15T10:39:58.492189016+00:00,8,n/a,Tue 30th Jan 2007
+66759,present,wire-introzak.xm,introzak,22.62KB,c9f41d6809985afb5437c5273bee0942,XM,false,738,1,2021-07-15T10:39:59.696790766+00:00,4,n/a,Tue 30th Jan 2007
+66760,present,wire-grand_monster_slam.xm,-Grand Monster Slam-,28.71KB,125ee2026c6b5640ce1efe2624113a9a,XM,false,121,0,2021-07-15T10:40:00.535797419+00:00,4,n/a,Tue 30th Jan 2007
+66761,present,wire-giana_sisters_ingame.xm,Giana Sisters ingame,73.57KB,fc325d34fcdf368723a59a8afa2feee5,XM,false,359,0,2021-07-15T10:40:01.705770400+00:00,6,n/a,Tue 30th Jan 2007
+66762,present,wire-ghouls_n_ghosts.xm, Ghouls'n'Ghosts,101.76KB,1bf6739228f3b8ff02817e99c0c46141,XM,false,1021,3,2021-07-15T10:40:02.522879897+00:00,4,Video Game,Tue 30th Jan 2007
+66763,present,wire-eliminator.xm,    -= Eliminator =-,89.09KB,c6d59141c15d7b4b60bb2eaa26915b46,XM,false,508,2,2021-07-15T10:40:03.817960800+00:00,8,n/a,Tue 30th Jan 2007
+66764,present,wire-double_dragon.xm,       Double Dragon,32.31KB,8e522d058c6f03472ab18fba0a6a5ef0,XM,false,352,1,2021-07-15T10:40:05.189357066+00:00,6,n/a,Tue 30th Jan 2007
+66765,present,wire-delta.xm,-= D e l t a =-,37.68KB,9561493ae07ea2754af6925da2404814,XM,false,216,1,2021-07-15T10:40:06.156062801+00:00,6,n/a,Tue 30th Jan 2007
+66766,present,wire-deflector.xm,         Deflector,46.48KB,2ec80068b39c78b8fc76c17abde0e1f4,XM,false,94,0,2021-07-15T10:40:07.341881710+00:00,6,n/a,Tue 30th Jan 2007
+66767,present,wire-dark_fusion.xm,         dark fusion,20.42KB,8a9e251c6c73848a92b2559ef86ad918,XM,false,100,0,2021-07-15T10:40:09.804561710+00:00,4,n/a,Tue 30th Jan 2007
+66768,present,intro-13.mod,intro 13,10.97KB,de142292bab257d2f517eec8dd880787,MOD,false,234,0,2021-07-15T10:40:11.327331675+00:00,4,n/a,Tue 30th Jan 2007
+66769,present,wire-bomberman.xm,     == Bomberman ==,28.07KB,b42eeb49512c4976c14adc58b267b9bc,XM,false,688,3,2021-07-15T10:40:12.171617350+00:00,6,Video Game,Tue 30th Jan 2007
+66770,present,wire-arkanoid4.xm,Arkanoid,46.80KB,7d64a6cf5240725d2c38154e14b5cc8a,XM,false,354,0,2021-07-15T10:40:13.800506450+00:00,10,n/a,Tue 30th Jan 2007
+66771,present,wire-arkanoid.xm,Arkanoid,36.84KB,cb09b9364ad69c093833bcb96bfb3fa0,XM,false,380,0,2021-07-15T10:40:16.401311865+00:00,10,n/a,Tue 30th Jan 2007
+66772,present,wire-alloy_run.xm,       - Alloy Run -,60.47KB,9a45a00f1590b485984520ab0abeb9ef,XM,false,239,0,2021-07-15T10:40:17.163594402+00:00,4,n/a,Tue 30th Jan 2007
+66773,present,wire-airwolf_theme.xm,Airwolf theme,92.73KB,3ae4f093f8fe19ea6f4fbb0eaf511955,XM,false,691,1,2021-07-15T10:40:18.063543103+00:00,6,n/a,Tue 30th Jan 2007
+66774,present,the_last.mod,the last kuusnepa,7.40KB,7392a668be86e323bc1fc0df98048670,MOD,false,799,1,2021-07-15T10:40:18.871537094+00:00,4,Chiptune,Tue 30th Jan 2007
+66775,present,tarkus_team_crack05.mod,Tarkus_Team.crack05,7.29KB,3ce1015bef48b85845691c02aa81bff2,MOD,false,195,0,2021-07-15T10:40:20.084390718+00:00,4,n/a,Tue 30th Jan 2007
+66776,present,pro-synths.mod,pro-synths,21.38KB,1cb3c7d596e41a470a42a2726d1efe7b,MOD,false,182,0,2021-07-15T10:40:20.900990137+00:00,4,n/a,Tue 30th Jan 2007
+66777,present,intro-2.mod,fairlight,17.06KB,88edab0d6d99c3fcf2032ca155b37a9d,MOD,false,703,0,2021-07-15T10:40:23.277645400+00:00,4,n/a,Tue 30th Jan 2007
+66778,present,circus_time_2.mod,circus time.2,20.62KB,1d0e2c94bb68b0996c67328ae0fbb98a,MOD,false,319,0,2021-07-15T10:40:24.427082218+00:00,4,n/a,Tue 30th Jan 2007
+66779,present,atomic_failure.mod,atomic failure,17.01KB,c3b8c2facf10feea5eb5c864fbc481c6,MOD,false,521,1,2021-07-15T10:40:25.307588641+00:00,4,n/a,Tue 30th Jan 2007
+66780,present,vonrays-prestige_cracktro.mod,prestige.crack01,27.33KB,923a2002ef6e72260861785e6b93a3e5,MOD,false,345,1,2021-07-15T10:40:26.168361237+00:00,4,Chiptune,Tue 30th Jan 2007
+66781,present,virgill-headcrash_intro1.mod,headcrash intro #1,17.59KB,9a7faa457a5d46239ec8ec3bdecc0d01,MOD,false,137,0,2021-07-15T10:40:27.153066903+00:00,4,n/a,Tue 30th Jan 2007
+66782,present,vim-the_edwardians.mod,the edwardians,11.90KB,ef243a27d11d33058e4ef59c88500e21,MOD,false,329,0,2021-07-15T10:40:28.447260807+00:00,4,n/a,Tue 30th Jan 2007
+66783,present,vim-pot_boiled_lunch.mod, pot-boiled lunch.,23.53KB,7fa84e8c92c8812a8afce7b8ac392a6b,MOD,false,780,2,2021-07-15T10:40:29.819689714+00:00,4,Chiptune,Tue 30th Jan 2007
+66784,present,vim-nuff_naff_ness.mod,nuffnaffness,15.58KB,0f2a289f47333ff61d13156b85644a43,MOD,false,622,1,2021-07-15T10:40:31.183107582+00:00,4,n/a,Tue 30th Jan 2007
+66785,present,vim-no_stomach.xm,no stomach,26.72KB,f33f3f77fd3692ede9ae2729b9518273,XM,false,186,0,2021-07-15T10:40:32.022649731+00:00,14,n/a,Tue 30th Jan 2007
+66786,present,vim-not_again.mod,(not)again,26.86KB,bf76e0df7271d692b1f096caeac012ad,MOD,false,745,1,2021-07-15T10:40:33.381943863+00:00,4,n/a,Tue 30th Jan 2007
+66787,present,vim-mooov.mod,-----= mooov =-----,17.43KB,c8db8778c908ecda2d391a2671c70861,MOD,false,660,1,2021-07-15T10:40:34.270909199+00:00,4,n/a,Tue 30th Jan 2007
+66788,present,vim-green_paper.xm,Green Paper,17.74KB,726fd1bdd7b2f0d9ecbbca41b9c33f16,XM,false,895,1,2021-07-15T10:40:36.782589118+00:00,8,n/a,Tue 30th Jan 2007
+66789,present,vim-give_me_an_om.mod,give me an om,19.08KB,9b0d984daf7fc13dc8c5e003264d522b,MOD,false,487,1,2021-07-15T10:40:37.547042327+00:00,4,Chiptune,Tue 30th Jan 2007
+66790,present,viinikala-sinewavs.s3m,> sinewaves,391.88KB,52682d79f8a93ac9630037d40b27a678,S3M,false,539,1,2021-07-15T10:40:38.396768983+00:00,9,n/a,Tue 30th Jan 2007
+66791,present,unknown-paperboy.mod,paperboy,9.22KB,58f629c4407d0f1b14ae3c0325aa86bd,MOD,false,161,0,2021-07-15T10:40:39.591008381+00:00,4,n/a,Tue 30th Jan 2007
+66792,present,ragla.xm,ragla.xm,38.50KB,bea8a738b688911fa43eb879a00c7126,XM,false,73,0,2021-07-15T10:40:47.439745147+00:00,4,n/a,Tue 30th Jan 2007
+66793,present,twilight-chuckles.mod,chuckles,17.50KB,6266cef14d9463976c262c49f5ab5626,MOD,false,92,0,2021-07-15T10:40:48.259111775+00:00,4,n/a,Tue 30th Jan 2007
+66794,present,trident-commando.xm,Commando -- Rob H!,109.07KB,b56a7bfee8c50d238dfbd0088a9c085d,XM,false,848,1,2021-07-15T10:40:49.124454272+00:00,10,Disco,Tue 30th Jan 2007
+66795,present,travolta-kaukasus_karosseri.mod,kaukasus karosseri,17.12KB,89356e87963e3a36de8d548c6ea1309a,MOD,false,118,0,2021-07-15T10:40:49.897728840+00:00,4,n/a,Tue 30th Jan 2007
+66796,present,traven-tetris_gb_title_screen.xm,Tetris Gb - Title,6.34KB,385b7e0403aab07b38dcf4107722f935,XM,false,689,1,2021-07-15T10:40:51.082867610+00:00,4,n/a,Tue 30th Jan 2007
+66797,present,traven-tetris_gb_ingame.xm,Tetris Gb - ingame,4.88KB,ac3a5d71050aa6e2e9893f67775a5cdf,XM,false,823,1,2021-07-15T10:40:54.331345430+00:00,4,n/a,Tue 30th Jan 2007
+66798,present,traven-tetris_gb_hiscore.xm,Tetris high scores,3.86KB,4f026140f3e8e4d12dfa175e84886df1,XM,false,654,1,2021-07-15T10:40:55.147186577+00:00,4,n/a,Tue 30th Jan 2007
+66799,present,traven-orange_juice_theme.xm,Orange Juice Theme,68.35KB,eccf50852136d364b4c9f1e7daa08537,XM,false,554,1,2021-07-15T10:40:55.994031692+00:00,12,n/a,Tue 30th Jan 2007
+66800,present,traven-miss_kebab3.xm,        MISS KEBAB 3,8.78KB,2e9ac8022e524f04e53338bd92491535,XM,false,275,0,2021-07-15T10:40:56.831443762+00:00,6,n/a,Tue 30th Jan 2007
+66801,present,traven-miss_kebab2.xm,Miss Kebab 2,14.64KB,89ec7832b83a61ba2764963d8bc38c1b,XM,false,339,0,2021-07-15T10:40:57.981279619+00:00,6,n/a,Tue 30th Jan 2007
+66802,present,traven-miss_kebab.xm,Miss Kebab,9.76KB,7c6a1ded3661375456dc3efa4c11b0a7,XM,false,286,0,2021-07-15T10:40:58.960969926+00:00,4,n/a,Tue 30th Jan 2007
+66803,present,traven-little_sadness.xm,Little Sadness,4.84KB,b36b76ce8f3e719f50d55e8a1f7a9bd9,XM,false,713,1,2021-07-15T10:41:00.316648937+00:00,4,n/a,Tue 30th Jan 2007
+66804,present,traven-gloubi.xm,Gloubi,6.83KB,15f0f0b4fd9c42620663142d3ea45165,XM,false,300,0,2021-07-15T10:41:01.087851904+00:00,6,n/a,Tue 30th Jan 2007
+66805,present,traven-commando_hiscore.xm,Commando,8.67KB,e2921caf95deff3b03b9fa43473433e5,XM,false,369,0,2021-07-15T10:41:02.426200300+00:00,6,n/a,Tue 30th Jan 2007
+66806,present,traven-champolion_est_un_pd.xm,Champolion est un pd,98.10KB,05d17207234b5a58b99cdebea21b4aca,XM,false,305,0,2021-07-15T10:41:03.640560593+00:00,12,n/a,Tue 30th Jan 2007
+66807,present,tz-wound.mod,The Wounded One,9.92KB,ce3339f38399d291b3b71fa4bfb43499,MOD,false,187,0,2021-07-15T10:41:05.100801452+00:00,4,n/a,Tue 30th Jan 2007
+66808,present,tz-whyme.mod,Why me and not you!,13.03KB,878282f627684d7a6a70d794410a627c,MOD,false,100,0,2021-07-15T10:41:06.535119062+00:00,4,n/a,Tue 30th Jan 2007
+66809,present,tz-ulrik.mod,tz-ulrik.mod,14.92KB,72dd183acd80942e4d0b271810430996,MOD,false,95,0,2021-07-15T10:41:07.562155430+00:00,4,n/a,Tue 30th Jan 2007
+66810,present,tz-uf.mod,UF Fretaget,11.93KB,cfecdcb1728d55741d3dc7855c20a68c,MOD,false,100,0,2021-07-15T10:41:08.515153048+00:00,4,n/a,Tue 30th Jan 2007
+66811,present,tz-trena.mod,tz-trena.mod,10.97KB,9ef9888e158da6abf48ba8662939ac5e,MOD,false,118,0,2021-07-15T10:41:09.370750493+00:00,4,n/a,Tue 30th Jan 2007
+66812,present,tz-toxic.mod,tz-toxic.mod,13.03KB,2c2392629842b51ae69042785aef2877,MOD,false,105,0,2021-07-15T10:41:10.310154352+00:00,4,n/a,Tue 30th Jan 2007
+66813,present,tz-torve.mod,tz-torve.mod,19.69KB,745022fd57fbf8e68f0fc4ef0bcc47d4,MOD,false,99,0,2021-07-15T10:41:14.358925039+00:00,4,n/a,Tue 30th Jan 2007
+66814,present,tz-tfab.mod,tz-tfab.mod,15.69KB,4cac92a3ba5375c3fd648e25dc03bf62,MOD,false,122,0,2021-07-15T10:41:15.351616100+00:00,4,n/a,Tue 30th Jan 2007
+66815,present,tz-sunk.mod,El sunk,10.92KB,eb3d124097f6ef421d71a66d5ebd9efb,MOD,false,1834,11,2021-07-15T10:41:16.143828825+00:00,4,n/a,Tue 30th Jan 2007
+66816,present,tz-star.mod,tz-star.mod,12.02KB,a1e0c015ddc5d7864f1ce8e0cdccff07,MOD,false,87,0,2021-07-15T10:41:17.023485983+00:00,4,n/a,Tue 30th Jan 2007
+66817,present,tz-soft.mod,tz-soft.mod,12.24KB,0ac13c186e21c040fc1ec85d901dc478,MOD,false,89,0,2021-07-15T10:41:17.836819436+00:00,4,n/a,Tue 30th Jan 2007
+66818,present,tz-snorv.mod,tz-snorv.mod,7.36KB,f7b925e8b3463ac5da563634bd530a0c,MOD,false,94,0,2021-07-15T10:41:18.669561813+00:00,2,n/a,Tue 30th Jan 2007
+66819,present,tz-skala.mod,El Skala,11.92KB,1c0da9c057e8bb710c95aaa302208c6e,MOD,false,555,2,2021-07-15T10:41:19.870080071+00:00,4,n/a,Tue 30th Jan 2007
+66820,present,tz-sjuk.mod,Sjuk igen,13.64KB,9cbf781fb414da8ecc6a62345d39e50b,MOD,false,100,0,2021-07-15T10:41:20.695639481+00:00,4,n/a,Tue 30th Jan 2007
+66821,present,tz-sjab.mod,Sjab,7.92KB,a66d141142d5910eeaf1579604c240f3,MOD,false,91,0,2021-07-15T10:41:21.485693599+00:00,4,n/a,Tue 30th Jan 2007
+66822,present,tz-sc2.mod,tz-sc2.mod,12.55KB,ae26fca55425a3e15dc880919667d7f7,MOD,false,101,0,2021-07-15T10:41:22.831392099+00:00,4,n/a,Tue 30th Jan 2007
+66823,present,tz-sad.mod,tz-sad.mod,8.14KB,0d4d3637f278aa0e8a07dace03a19e9c,MOD,false,104,0,2021-07-15T10:41:23.894510808+00:00,4,n/a,Tue 30th Jan 2007
+66824,present,tz-pow.mod,Pow,14.14KB,f47c1b43b499896ebf2bf6da950b518b,MOD,false,114,0,2021-07-15T10:41:25.244030563+00:00,4,n/a,Tue 30th Jan 2007
+66825,present,tz-pongo.mod,tz-pongo.mod,12.54KB,ed716025977c109b58e471891ff4adf2,MOD,false,111,0,2021-07-15T10:41:26.371006046+00:00,4,n/a,Tue 30th Jan 2007
+66826,present,tz-pilve.mod,tz-pilve.mod,8.97KB,8a6587896fd6446377db18289453d5ba,MOD,false,83,0,2021-07-15T10:41:27.345998746+00:00,4,n/a,Tue 30th Jan 2007
+66827,present,tz-pecko.mod,tz-pecko.mod,15.14KB,6d3d6fe05cfcc20cd16271ba312b2d1e,MOD,false,83,0,2021-07-15T10:41:30.888841844+00:00,4,n/a,Tue 30th Jan 2007
+66828,present,tz-myste.mod,Mysterius Cave,16.25KB,17e60fcc1cbe83b19e7fee69c8228aa7,MOD,false,97,0,2021-07-15T10:41:31.718686301+00:00,4,n/a,Tue 30th Jan 2007
+66829,present,tz-mongo.mod,Mongo-Guy,9.41KB,0851bbb99302eb6e472d97eb3d171a1c,MOD,false,86,0,2021-07-15T10:41:32.571310986+00:00,4,n/a,Tue 30th Jan 2007
+66830,present,tz-moham.mod,tz-moham.mod,7.03KB,794cd243cc49ae99aa5c13b9c502ffdd,MOD,false,110,0,2021-07-15T10:41:33.642900795+00:00,4,n/a,Tue 30th Jan 2007
+66831,present,tz-micro.mod,tz-micro.mod,7.75KB,9fecf81ec602b9fef9820b7850c33080,MOD,false,83,0,2021-07-15T10:41:34.485073228+00:00,4,n/a,Tue 30th Jan 2007
+66832,present,tz-lembi.mod,tz-lembi.mod,9.92KB,39a64acc101810839cb0de17cbfb3674,MOD,false,139,0,2021-07-15T10:41:35.279576799+00:00,4,n/a,Tue 30th Jan 2007
+66833,present,tz-korv.mod,tz-korv.mod,7.86KB,f0e0fd18c8ea6d00b0051f53019de34a,MOD,false,119,0,2021-07-15T10:41:36.114182774+00:00,4,n/a,Tue 30th Jan 2007
+66834,present,tz-knapp.mod,tz-knapp.mod,10.97KB,4314cacb765ef2cb8b054c4f5b7157ab,MOD,false,108,0,2021-07-15T10:41:36.993447152+00:00,4,n/a,Tue 30th Jan 2007
+66835,present,tz-jem.mod,tz-jem.mod,11.66KB,08d1e9f508dc7562bcdc8a99bd8a1a8b,MOD,false,111,0,2021-07-15T10:41:38.185908079+00:00,4,n/a,Tue 30th Jan 2007
+66836,present,tz-grek.mod,tz-grek.mod,12.03KB,fbd6619d8e719a27a4e675a3a20ad556,MOD,false,104,0,2021-07-15T10:41:40.462011629+00:00,4,n/a,Tue 30th Jan 2007
+66837,present,tz-gerge.mod,Gerger da cs player,12.69KB,cf2a68dadd18bde2496d7cea32cf961d,MOD,false,121,0,2021-07-15T10:41:42.531888470+00:00,4,n/a,Tue 30th Jan 2007
+66838,present,tz-galax.mod,tz-galax.mod,11.96KB,7f86daf9c56376afda9e91c8f54f4d90,MOD,false,110,0,2021-07-15T10:41:47.378443778+00:00,4,n/a,Tue 30th Jan 2007
+66839,present,tz-full.xm,tz-full.xm,9.85KB,512f233a5701027cd24be73babcfebdb,XM,false,215,0,2021-07-15T10:41:48.969896125+00:00,4,n/a,Tue 30th Jan 2007
+66840,present,tz-fisk.mod,Fisken Dog Idag,13.92KB,6a57de0ddc8662439396ee64f2334664,MOD,false,113,0,2021-07-15T10:41:50.192547092+00:00,4,n/a,Tue 30th Jan 2007
+66841,present,tz-finur.mod,Finurlige Phille,17.92KB,038a06a95d623eb45d309857b49f6c75,MOD,false,109,0,2021-07-15T10:41:51.012648866+00:00,4,n/a,Tue 30th Jan 2007
+66842,present,tz-finne.mod,tz-finne.mod,9.58KB,3ff3d23d1099c0a65521e4b203170b1b,MOD,false,117,0,2021-07-15T10:41:52.312841461+00:00,4,n/a,Tue 30th Jan 2007
+66843,present,tz-ewil.mod,Ewilz Flickvn,8.69KB,a2fd590f7e4966b6d6e63983ddf2f625,MOD,false,99,0,2021-07-15T10:41:53.112693821+00:00,4,n/a,Tue 30th Jan 2007
+66844,present,tz-elsax.mod,El sax,7.93KB,eb335a53d4f12f4e32d92ce4db4b52e9,MOD,false,110,0,2021-07-15T10:41:53.948564884+00:00,4,n/a,Tue 30th Jan 2007
+66845,present,gogboom.xm,Gog goes BooM BooM!,25.48KB,eabe83b80940635c70ebf6803990b84c,XM,false,132,0,2021-07-15T10:41:55.066603153+00:00,4,n/a,Tue 30th Jan 2007
+66846,present,gogsad.xm,GoG goes SaaD,17.85KB,b8ee4aca173c8f4c611af29dcd554ab4,XM,false,140,0,2021-07-15T10:41:55.952942030+00:00,4,n/a,Tue 30th Jan 2007
+66847,present,tiri08.xm,tiri 8 years 0ld,13.45KB,fc4540efaf78275ac9e4c2d45db4017c,XM,false,92,0,2021-07-15T10:41:56.723094178+00:00,4,n/a,Tue 30th Jan 2007
+66848,present,tiri16.xm,menu t00n,12.66KB,d1c95c55ad5401640a153a12538901fc,XM,false,108,0,2021-07-15T10:41:58.012395290+00:00,4,n/a,Tue 30th Jan 2007
+66849,present,tz-elin.mod,tz-elin.mod,11.58KB,055434b6d087dd52a4902991f06c12fe,MOD,false,101,0,2021-07-15T10:41:58.898128902+00:00,4,n/a,Tue 30th Jan 2007
+66850,present,tiri17.xm,girl tiri warezqueen,51.37KB,74815c4a9398ce5e832bd12c90411b6f,XM,false,119,0,2021-07-15T10:42:00.496396166+00:00,4,n/a,Tue 30th Jan 2007
+66851,present,tiri19.xm,Tiri.menu,19.13KB,2c1974d7c3f23035229ea6c7c73f41ce,XM,false,89,0,2021-07-15T10:42:02.403731999+00:00,4,n/a,Tue 30th Jan 2007
+66852,present,_blackla.xm,black lamp.c64_10,5.08KB,ed87f0c69909702a664e65e32aa52421,XM,false,226,0,2021-07-15T10:42:04.050979952+00:00,4,n/a,Tue 30th Jan 2007
+66853,present,_command.xm,commando.c64_007,19.68KB,5451b2e71b8d9d669b0a9543d2d5dc2c,XM,false,561,0,2021-07-15T10:42:07.623937505+00:00,4,n/a,Tue 30th Jan 2007
+66854,present,tz-efokn.mod,tz-efokn.mod,15.31KB,1d0559175a35e5df34d2f51c050510ca,MOD,false,98,0,2021-07-15T10:42:08.827685264+00:00,4,n/a,Tue 30th Jan 2007
+66855,present,tz-drive.mod,Driver,11.92KB,73ace7d730a82ce6b5e1cc098dbae730,MOD,false,145,0,2021-07-15T10:42:09.846991534+00:00,4,n/a,Tue 30th Jan 2007
+66856,present,tz-dmmm.mod,tz-dmmm.mod,9.63KB,5b3512536294c8f20f680c60ff9c6d8f,MOD,false,97,0,2021-07-15T10:42:10.949997718+00:00,4,n/a,Tue 30th Jan 2007
+66857,present,nomoreb.mod,-n0 m0re b00gie-,15.83KB,f8a2013331246d23e2f2f70ab2e8076c,MOD,false,402,0,2021-07-15T10:42:12.726302061+00:00,4,n/a,Tue 30th Jan 2007
+66858,present,tz-died.mod,tz-died.mod,7.55KB,03ffc03c76647639a3c108003585528d,MOD,false,110,0,2021-07-15T10:42:13.776199356+00:00,4,n/a,Tue 30th Jan 2007
+66859,present,nomoreno.mod,no more no(t),4.04KB,9209844c9ba94d8ed907d67d678f3ba9,MOD,false,395,0,2021-07-15T10:42:14.647620006+00:00,4,n/a,Tue 30th Jan 2007
+66860,present,nomorepr.mod,no more promises,15.40KB,51bd6580816b58c0db02792d1c2131be,MOD,true,677,0,2021-07-15T10:42:15.539445198+00:00,4,n/a,Tue 30th Jan 2007
+66861,present,noneedof.mod,no need of packing?,2.30KB,8eaa5544a73601b784eae9d2378694c5,MOD,false,1122,3,2021-07-15T10:42:16.797832398+00:00,4,n/a,Tue 30th Jan 2007
+66862,present,tz-cplat.mod,tz-cplat.mod,13.18KB,c791e17650edd08ad4a3f74213acbf88,MOD,false,112,1,2021-07-15T10:42:17.956340842+00:00,4,n/a,Tue 30th Jan 2007
+66863,present,notgain.mod,not gained one,2.41KB,8a6c6a55554c4b787390eda7be13838e,MOD,false,387,0,2021-07-15T10:42:18.974490449+00:00,4,n/a,Tue 30th Jan 2007
+66864,present,no_money.mod,no_money_left!!,9.71KB,09ed5cb9524b8d3022a534b186612ddb,MOD,false,389,0,2021-07-15T10:42:19.865421004+00:00,4,n/a,Tue 30th Jan 2007
+66865,present,tz-cpelo.mod,tz-cpelo.mod,20.03KB,406ed9ed12102733315280b0368f2081,MOD,false,1341,5,2021-07-15T10:42:21.049449738+00:00,4,n/a,Tue 30th Jan 2007
+66866,present,pervdb.mod,pervert_dreambear,8.57KB,94ef6bad4646ca5ca4ed0bbedc43e6c4,MOD,false,432,0,2021-07-15T10:42:22.120161979+00:00,4,n/a,Tue 30th Jan 2007
+66867,present,relax.mod,relax tai ei tule,27.60KB,79c7600f07f72c988e74640c3c26aece,MOD,false,459,0,2021-07-15T10:42:24.162357623+00:00,4,n/a,Tue 30th Jan 2007
+66868,present,revmr.mod,revenge of mr.zippy,11.21KB,e98b824169148a890948027e46a28721,MOD,false,95,0,2021-07-15T10:42:25.725975784+00:00,4,n/a,Tue 30th Jan 2007
+66869,present,savua.mod,savua sumussa.,18.77KB,0bd2333e2461efb4c877f23bd6eab8a3,MOD,false,74,0,2021-07-15T10:42:28.615691362+00:00,4,n/a,Tue 30th Jan 2007
+66870,present,somesh.mod,somethingshit fart2,16.25KB,a31621ad09c62fa71ab1c866dee845f3,MOD,false,363,0,2021-07-15T10:42:30.610363731+00:00,4,n/a,Tue 30th Jan 2007
+66871,present,sunnyday.mod,sunny day ..finally,21.48KB,a321bf0e4a25bedd45e0d0fe6f3bae31,MOD,false,710,1,2021-07-15T10:42:31.531071328+00:00,4,n/a,Tue 30th Jan 2007
+66872,present,tz-cp.mod,Cp,9.37KB,5ada9c876a484ae344473c008472d6ec,MOD,false,116,0,2021-07-15T10:42:32.486206771+00:00,4,n/a,Tue 30th Jan 2007
+66873,present,sunwhru.mod,sun..where are you?,12.64KB,bdd37597a39e5148408c970836c2a998,MOD,false,361,0,2021-07-15T10:42:33.294418675+00:00,4,n/a,Tue 30th Jan 2007
+66874,present,system2.mod,system-2004,13.38KB,dcaefefbd004f01110c4edf104de091e,MOD,false,484,0,2021-07-15T10:42:34.834002683+00:00,4,n/a,Tue 30th Jan 2007
+66875,present,vammatun.mod,vamma-tune,12.33KB,f02ad569eb0c22fdc92afdad35b8f6a8,MOD,false,647,1,2021-07-15T10:42:36.596138528+00:00,4,n/a,Tue 30th Jan 2007
+66876,present,whyistn.mod,why is there noname,30.30KB,80943c4fd825949c0e7365d35b3824ec,MOD,false,85,0,2021-07-15T10:42:37.952490325+00:00,4,n/a,Tue 30th Jan 2007
+66877,present,wiudezk.mod,wiudezak,38.11KB,613228a97dbd64565583d166f3de21ed,MOD,false,386,0,2021-07-15T10:42:38.955427644+00:00,4,n/a,Tue 30th Jan 2007
+66878,present,tz-comic.mod,tz-comic.mod,13.85KB,1bc4290e73a10b91cf5b9470a5465fa4,MOD,false,94,0,2021-07-15T10:42:41.217875354+00:00,4,n/a,Tue 30th Jan 2007
+66879,present,beathoven-beep_it.mod,beep it !!!!!,31.82KB,96b50dac0c338fdce103ccacee3e87ae,MOD,false,479,1,2021-07-15T10:42:42.476344280+00:00,4,n/a,Tue 30th Jan 2007
+66880,present,beek-blue_slide.it,blue slide,55.81KB,5db09e2806a3e543111cd1f8c8e382c9,IT,false,5159,10,2021-07-15T10:42:44.599921274+00:00,19,Chiptune,Tue 30th Jan 2007
+66881,present,beek-dolphin_island.it,dolphin island,44.66KB,47102bda058aac21cae16a9358a61595,IT,false,1730,4,2021-07-15T10:42:47.984244717+00:00,16,Chiptune,Tue 30th Jan 2007
+66882,present,beek-dolphin_kingdom.it,dolphin kingdom,31.41KB,f8b02c71c1b86739fdc0d3658b1d3bf6,IT,true,1449,3,2021-07-15T10:42:49.143534992+00:00,16,Chiptune,Tue 30th Jan 2007
+66883,present,raining.s3m,Raining,42.50KB,c9ecec8c7131f9fdb060853f6f3eb848,S3M,false,131,0,2021-07-15T10:42:50.714793372+00:00,16,n/a,Tue 30th Jan 2007
+66884,present,tz-clown.mod,tz-clown.mod,12.69KB,a81c21f71d3b396fe90a448b10c07e5f,MOD,false,99,0,2021-07-15T10:42:52.098419402+00:00,4,n/a,Tue 30th Jan 2007
+66885,present,robot11.s3m,The r0b0t 1.1,28.70KB,0e728463e1866f186976855a047b8a68,S3M,false,201,0,2021-07-15T10:42:53.750866234+00:00,16,n/a,Tue 30th Jan 2007
+66886,present,18180102.mod,1818 010292 yeah!!!,14.08KB,97faf6d8d94711f75d278515be456bc8,MOD,false,149,0,2021-07-15T10:42:54.736997416+00:00,4,n/a,Tue 30th Jan 2007
+66887,present,chip1.mod,chip1,4.85KB,96df7921679e7c330cdead44594b0550,MOD,false,190,0,2021-07-15T10:42:55.637986741+00:00,4,n/a,Tue 30th Jan 2007
+66888,present,tz-burn.mod,tz-burn.mod,11.26KB,69108acdc8aaa1776f1654ff009f16f6,MOD,false,108,0,2021-07-15T10:42:59.039477535+00:00,4,n/a,Tue 30th Jan 2007
+66889,present,tz-brude.mod,tz-brude.mod,11.04KB,92cea88ea858fafa91b449ad520efb85,MOD,false,91,0,2021-07-15T10:43:00.441678110+00:00,4,n/a,Tue 30th Jan 2007
+66890,present,horseoft.mod,horse of the year,5.54KB,a0ed7feb3078c417554bc0ef30e69eb0,MOD,false,144,0,2021-07-15T10:43:02.520553754+00:00,4,n/a,Tue 30th Jan 2007
+66891,present,mintromu.mod,mintro music,28.13KB,e2c97b10b4aa0e7b59de62507d41ba9e,MOD,false,110,0,2021-07-15T10:43:03.838923921+00:00,4,n/a,Tue 30th Jan 2007
+66892,present,puppypop.mod,puppy poppy,18.55KB,6c4a519ab09c3878bd6e46f0922d8068,MOD,false,144,0,2021-07-15T10:43:04.834457288+00:00,4,n/a,Tue 30th Jan 2007
+66893,present,sanxion.mod,sanxion,8.30KB,ee43eb66844b87279f0600724a9536e1,MOD,false,331,0,2021-07-15T10:43:06.643427411+00:00,4,n/a,Tue 30th Jan 2007
+66894,present,tz-boss.mod,Boss Music,17.52KB,605f945c9b3d8ff79603b2364e0038e9,MOD,false,342,0,2021-07-15T10:43:07.729838057+00:00,4,n/a,Tue 30th Jan 2007
+66895,present,somedays.mod,some days,14.92KB,5446cb11defdfc6bfbcf697cac89ce84,MOD,false,107,0,2021-07-15T10:43:08.516217354+00:00,4,n/a,Tue 30th Jan 2007
+66896,present,vandwalk.mod,van der valk,16.20KB,84eeacee7ee149d5edd9e91393020518,MOD,false,83,0,2021-07-15T10:43:10.346037050+00:00,4,n/a,Tue 30th Jan 2007
+66897,present,wendgirl.mod,west end girls,33.12KB,c7efc7f66c414a658b87e4775c8ea6c0,MOD,false,427,0,2021-07-15T10:43:11.807977470+00:00,4,Electronic - Dance,Tue 30th Jan 2007
+66898,present,bfa_-_fisting.mod,fisting,23.22KB,b80c718a276c5d69a689678bc9f78c4e,MOD,false,147,0,2021-07-15T10:43:12.661458747+00:00,4,n/a,Tue 30th Jan 2007
+66899,present,bfa_-_no_name.mod,no name,26.95KB,4601c2451672ef3b549e96bff6e5486c,MOD,false,151,0,2021-07-15T10:43:14.203876871+00:00,4,n/a,Tue 30th Jan 2007
+66900,present,bfa_-_untouchable_girl.mod,untouchable girl...,19.38KB,253455e15b353fd8d88625f8c33c5896,MOD,false,162,0,2021-07-15T10:43:15.160268046+00:00,4,n/a,Tue 30th Jan 2007
+66901,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:43:16.012744112+00:00,0,n/a,Thu 1st Jan 1970
+66902,present,supplex.mod,supplex theme,8.59KB,517271fb0caec55bf9461ae8e30674ab,MOD,false,127,0,2021-07-15T10:43:16.822274716+00:00,4,n/a,Tue 30th Jan 2007
+66903,present,tz-boog.mod,Cp Boogie,10.92KB,d61fc2ceccea60e4ab22712be9c3956b,MOD,false,102,0,2021-07-15T10:43:17.768131964+00:00,4,n/a,Tue 30th Jan 2007
+66904,present,bizzarre_-_funfair.s3m,funfair,7.67KB,87a0df92ebb8aa83038924b40f1a3b3c,S3M,false,144,0,2021-07-15T10:43:19.253860408+00:00,16,n/a,Tue 30th Jan 2007
+66905,present,bizzarre_-_green_frog.xm,Green Fog,18.61KB,de91781568f7a3b2c54703f29f15e921,XM,false,124,0,2021-07-15T10:43:21.181039115+00:00,12,n/a,Tue 30th Jan 2007
+66906,present,runtoser.mod,run to survive!,9.15KB,1195e364c2fe0e7584b564bfbdf997e9,MOD,false,123,0,2021-07-15T10:43:21.991196794+00:00,4,n/a,Tue 30th Jan 2007
+66907,present,hardchi2.mod,*****hardchip2*****,31.50KB,5b56ba3c636bee2d28b5366a1333f7ec,MOD,false,89,0,2021-07-15T10:43:23.109750685+00:00,4,n/a,Tue 30th Jan 2007
+66908,present,intro1by.mod,*******intro1******,18.86KB,66c8576b76f39efc1b7c23dd6895f080,MOD,false,154,0,2021-07-15T10:43:24.040177778+00:00,4,n/a,Tue 30th Jan 2007
+66909,present,niceship.mod,*****nice ship*****,21.63KB,82baba7ae66d6e082ba7e387145e3bb4,MOD,false,127,0,2021-07-15T10:43:24.836499334+00:00,4,n/a,Tue 30th Jan 2007
+66910,present,tz-blood.mod,Bloody Hell,11.37KB,ba7d8457f5f29c323995d68e648dcfc7,MOD,false,138,0,2021-07-15T10:43:25.761341144+00:00,4,n/a,Tue 30th Jan 2007
+66911,present,risingsu.mod,*****rising sun****,23.04KB,17459c1afde8528214e74144c3b77488,MOD,false,104,0,2021-07-15T10:43:26.719343430+00:00,4,n/a,Tue 30th Jan 2007
+66912,present,bthdaydr.mod,bth.daydreams,24.42KB,f2906c5b6a43f56a31b3e4fde70f49a4,MOD,false,171,0,2021-07-15T10:43:27.487197148+00:00,4,n/a,Tue 30th Jan 2007
+66913,present,boo-come_along.xm,Come Along,31.43KB,4dd3c421727368b11f9c26f2c03b5be5,XM,false,2657,17,2021-07-15T10:43:30.065967671+00:00,12,Chiptune,Tue 30th Jan 2007
+66914,present,tz-benji.mod,tz-benji.mod,11.92KB,18690f6fe6b0e0d99e6d723bea0d57fb,MOD,false,112,0,2021-07-15T10:43:30.867247596+00:00,4,n/a,Tue 30th Jan 2007
+66915,present,boo-crack2000.xm,Crack 2000,48.54KB,ecd94403369979a72327ef7abb01e457,XM,false,1384,2,2021-07-15T10:43:32.325277778+00:00,10,Chiptune,Tue 30th Jan 2007
+66916,present,boo-eighties_pop.xm,Eighties Pop,68.03KB,bec35bd1926f0e331eeccd4cf0dbd08a,XM,false,173,0,2021-07-15T10:43:33.278767761+00:00,16,n/a,Tue 30th Jan 2007
+66917,present,boo-julekveldsvisa.xm,Julekveldsvisa,41.64KB,e4dc76be1294455dee3e5240fb87d2ef,XM,true,401,0,2021-07-15T10:43:34.637802957+00:00,12,n/a,Tue 30th Jan 2007
+66918,present,leboscot.mod,LeBoscoTrucVieux,11.25KB,3f00fac617b706d8253b0f0eb16c5806,MOD,false,108,0,2021-07-15T10:43:36.630353382+00:00,4,n/a,Tue 30th Jan 2007
+66919,present,mariochi.mod,MarioChipTune,7.34KB,34586531045ac7a652432b17936a7b8f,MOD,false,1262,0,2021-07-15T10:43:37.837004453+00:00,4,n/a,Tue 30th Jan 2007
+66920,present,bright_b-hulk_hulk.mod,hulk hulk!!!!!!,7.56KB,e9fbbdfa1ff73b4db563b5cc36474051,MOD,false,240,0,2021-07-15T10:43:39.570306031+00:00,4,n/a,Tue 30th Jan 2007
+66921,present,extermin.mod,exterminator,8.56KB,0de4fa639951147304e9a831e967b694,MOD,false,154,0,2021-07-15T10:43:40.403641864+00:00,4,n/a,Tue 30th Jan 2007
+66922,present,brothomstates-4b33.xm,4b33,9.95KB,2bd2decfd701a2e9128f9c1672088db7,XM,false,272,0,2021-07-15T10:43:42.333587544+00:00,14,n/a,Tue 30th Jan 2007
+66923,present,bruno-clockwork.mod,clockwork,19.57KB,9cf58aa82298ec10b3d8b32e181a4b6b,MOD,false,236,0,2021-07-15T10:43:43.414863648+00:00,4,n/a,Tue 30th Jan 2007
+66924,present,smalltim.mod,small time reggae,22.66KB,b1b7391f248b22698c2e1a8eab66985f,MOD,false,97,0,2021-07-15T10:43:44.767667848+00:00,4,n/a,Tue 30th Jan 2007
+66925,present,buzzer_-_chipreggu.mod,chipreggu!,10.83KB,4bc878a8415925dfcc64f082befd0837,MOD,false,336,0,2021-07-15T10:43:46.955689432+00:00,4,n/a,Tue 30th Jan 2007
+66926,present,buzzer_-_lastenlaulu.mod,lastenlaulu,10.29KB,1c71a1708e6cb088293da0b038c6568f,MOD,false,177,0,2021-07-15T10:43:47.906079212+00:00,4,n/a,Tue 30th Jan 2007
+66927,present,tz-alber.mod,tz-alber.mod,9.40KB,dea21d5cf8c9550253f76910f7696e2a,MOD,false,78,0,2021-07-15T10:43:48.814552640+00:00,4,n/a,Tue 30th Jan 2007
+66928,present,buzzer_-_send_me_a_letter.mod,send me a letter,17.57KB,b9722c28fbf36d82a6ba9e6057eeb938,MOD,false,188,0,2021-07-15T10:43:50.052589819+00:00,4,n/a,Tue 30th Jan 2007
+66929,present,chipimsi.mod,chip i'm sick!,8.08KB,5e6b0c3bdc4f2af9b8673d7cf4e2e504,MOD,false,144,0,2021-07-15T10:43:51.916346942+00:00,4,n/a,Tue 30th Jan 2007
+66930,present,tcog.mod,things can only get,10.21KB,c41cbbf458b39235196f67739565c006,MOD,false,94,0,2021-07-15T10:43:52.780651504+00:00,4,n/a,Tue 30th Jan 2007
+66931,present,tz-abmin.mod,Ablib o Mintooz,11.86KB,eeda220643fedad7f4e4f2cf01b17cf9,MOD,false,1736,5,2021-07-15T10:43:53.644131581+00:00,4,n/a,Tue 30th Jan 2007
+66932,present,tf-schip.s3m,Strictly Chippin',29.97KB,34c6e198a0d12d352cdfa9b1354df282,S3M,false,91,0,2021-07-15T10:43:55.018176843+00:00,4,n/a,Tue 30th Jan 2007
+66933,present,yourmaij.mod,your_maijesti!,16.23KB,898116857fe2e1b4754affd495eb0f64,MOD,false,98,0,2021-07-15T10:43:55.802368783+00:00,4,n/a,Tue 30th Jan 2007
+66934,present,cal-wine.xm,Wine,15.91KB,c28deea21d17c144397d8ee6809bc624,XM,false,123,0,2021-07-15T10:43:56.923430838+00:00,4,n/a,Tue 30th Jan 2007
+66935,present,df97.xm,dead feelings,82.83KB,1c17ef518924e9df6af67d3673452a63,XM,false,1827,7,2021-07-15T10:43:57.727988534+00:00,6,Chiptune,Tue 30th Jan 2007
+66936,present,enback.mod,en back starkl,21.40KB,72c0b3f65f2e57a383c68dbff7962812,MOD,false,139,0,2021-07-15T10:43:58.575870818+00:00,4,n/a,Tue 30th Jan 2007
+66937,present,larkaka.mod,lrkaka,33.42KB,f7ecf8a8db335a02390574c03d0b541a,MOD,false,119,0,2021-07-15T10:43:59.370367185+00:00,4,n/a,Tue 30th Jan 2007
+66938,present,nack03.mod,Nackskott_03,19.54KB,c4018350c1742583450a713bcb67afcd,MOD,false,123,0,2021-07-15T10:44:00.909844630+00:00,4,n/a,Tue 30th Jan 2007
+66939,present,raps.mod,rapsodling,45.21KB,c772f2c3aebb3175b36dff4a3101073d,MOD,false,135,0,2021-07-15T10:44:01.738578928+00:00,4,n/a,Tue 30th Jan 2007
+66940,present,menopaus.mod,menopause,28.60KB,c60aaacec7a8bd08b6c7a2cefbc20112,MOD,false,565,1,2021-07-15T10:44:02.669927221+00:00,4,n/a,Tue 30th Jan 2007
+66941,present,snowjog.mod,snowjogging stl 47,36.57KB,327386757caa5de70fea82bba13b5bfc,MOD,false,165,0,2021-07-15T10:44:04.492855190+00:00,4,n/a,Tue 30th Jan 2007
+66942,present,tjock.mod,tjocksmock,83.48KB,10e5ccc884a6bfddd3f5b9ead5a02497,MOD,false,650,1,2021-07-15T10:44:05.401055037+00:00,4,n/a,Tue 30th Jan 2007
+66943,present,cartoon-chips46.mod,c.chips#0046,18.79KB,e97478d62dc7976cc7b743b83cec1ab8,MOD,false,275,0,2021-07-15T10:44:06.308325862+00:00,4,n/a,Tue 30th Jan 2007
+66944,present,cartoon-chips53.mod,c.chips#0053,21.48KB,e62c644c8de7ee5470481243cba519a9,MOD,false,193,0,2021-07-15T10:44:10.442302924+00:00,4,n/a,Tue 30th Jan 2007
+66945,present,cartoon-chips82.mod,c.chips#0082,10.61KB,01a792201c4066d61ca2e716e7f9aefd,MOD,false,199,0,2021-07-15T10:44:11.572297732+00:00,4,n/a,Tue 30th Jan 2007
+66946,present,cartoon-chips83.mod,c.chips#0083,8.07KB,afccf79a908e21d31c8e5478e0b0b1a2,MOD,false,283,0,2021-07-15T10:44:12.832004653+00:00,4,n/a,Tue 30th Jan 2007
+66947,present,cartoon-chips84.mod,c.chips#0084,10.16KB,eb5dba79fdb8ac2f5fb408a838a8dc27,MOD,false,224,0,2021-07-15T10:44:14.990614164+00:00,4,n/a,Tue 30th Jan 2007
+66948,present,coopy.mod,coopy*0001,8.34KB,998886826dc757a21f332aae8745eba3,MOD,false,195,1,2021-07-15T10:44:16.181130258+00:00,4,n/a,Tue 30th Jan 2007
+66949,present,chips046.mod,c.chips#0046,18.79KB,bf6db376d96888c63924b57453432bb0,MOD,false,123,0,2021-07-15T10:44:17.181623911+00:00,4,n/a,Tue 30th Jan 2007
+66950,present,chips085.mod,j.chips#0085,8.84KB,6fd4499c352a9f83bb9892ebeea497bf,MOD,false,112,0,2021-07-15T10:44:18.038009517+00:00,4,n/a,Tue 30th Jan 2007
+66951,present,chips083.mod,c.chips#0083,21.95KB,e0d4cf151c8ed7780a52938d64cfc1bd,MOD,false,126,0,2021-07-15T10:44:18.991097844+00:00,4,n/a,Tue 30th Jan 2007
+66952,present,chips46.mod,c.chips#0046,18.79KB,0a45d603133b44f5a26091727d69aebc,MOD,false,104,0,2021-07-15T10:44:20.685836224+00:00,4,n/a,Tue 30th Jan 2007
+66953,present,chips021.mod,c.chips#0021,15.44KB,cfb2e03d28ab5d8bb5295c3ee1827ab3,MOD,false,127,0,2021-07-15T10:44:21.468230300+00:00,4,n/a,Tue 30th Jan 2007
+66954,present,cartoon-chips85.mod,  Àà°Àà°Àà°5,17.12KB,59e7b5b62ebd9f4245e5e9eb2fc8f720,MOD,false,221,0,2021-07-15T10:44:22.728006472+00:00,4,n/a,Tue 30th Jan 2007
+66955,present,cartoon-chips86.mod,c.chips#0086,12.50KB,f96558420bb41ebe8b36580687ce903d,MOD,false,188,0,2021-07-15T10:44:23.610845070+00:00,4,n/a,Tue 30th Jan 2007
+66956,present,cartoon-chips87.mod,c.chips#0087,9.69KB,139f40224569f4d530cf98b4dfe34894,MOD,false,203,0,2021-07-15T10:44:25.203099711+00:00,4,n/a,Tue 30th Jan 2007
+66957,present,cartoon-dreams_n_fantasies.mod,dreams'n'fantasies,21.95KB,2b46a6505618de7195efd52699a69075,MOD,false,357,0,2021-07-15T10:44:26.729358896+00:00,4,n/a,Tue 30th Jan 2007
+66958,present,chips060.mod,c.chips#0060,14.5KB,9348d2d1ea434e3d2ed76861ae7fd751,MOD,false,1304,0,2021-07-15T10:44:28.661065524+00:00,4,Chiptune,Tue 30th Jan 2007
+66959,present,cerror-closecall.mod,CloseCall,9.65KB,a8a60cf646b9a4256bdeff58dd5d01cd,MOD,false,249,1,2021-07-15T10:44:29.651808428+00:00,4,n/a,Tue 30th Jan 2007
+66960,present,cases-bo.mod,case's-boogie,10.05KB,7d757252643a7d4354da4457c97c961c,MOD,false,133,0,2021-07-15T10:44:31.534007858+00:00,4,n/a,Tue 30th Jan 2007
+66961,present,cerror-closecall_01.mod,CloseCall #1,12.42KB,06e242952c2d27370b9db0cf3137d96a,MOD,false,488,1,2021-07-15T10:44:34.141173243+00:00,4,n/a,Tue 30th Jan 2007
+66962,present,cerror-closecall_02.mod,CloseCall #2,10.42KB,28917e82acb2909c081e2ef7ed274ba7,MOD,false,194,0,2021-07-15T10:44:34.969034985+00:00,4,n/a,Tue 30th Jan 2007
+66963,present,cerror-closecall_04.xm,CloseCall tune # 4,44.86KB,3d78209323513c7eb582acf332aadee7,XM,false,199,0,2021-07-15T10:44:35.911602503+00:00,8,n/a,Tue 30th Jan 2007
+66964,present,cerror-closecall_05.xm,CloseCall#5,5.16KB,9df201422952efc3d69dec849a9d2869,XM,false,152,0,2021-07-15T10:44:36.680991626+00:00,8,n/a,Tue 30th Jan 2007
+66965,present,cerror-exceptance.xm,Exceptance,15.86KB,d6c33a2a1bb634fcb6f48be6532fd67e,XM,false,159,0,2021-07-15T10:44:37.663457391+00:00,6,n/a,Tue 30th Jan 2007
+66966,present,cerror-format.xm,format c:,43.33KB,dce1a251999ddf68b62338261d4e6f15,XM,false,699,2,2021-07-15T10:44:38.551809625+00:00,14,n/a,Tue 30th Jan 2007
+66967,present,cerror-heaven_mooncell.xm,heaven_mooncell,57.88KB,91d8ed43fb10e8017b87aa4f36414c55,XM,false,209,0,2021-07-15T10:44:39.875084968+00:00,6,n/a,Tue 30th Jan 2007
+66968,present,cerror-ilona1.xm,Ilona's crack :-),13.91KB,5a90833a91bdd39e26b81e603444f463,XM,false,266,1,2021-07-15T10:44:41.152642878+00:00,8,n/a,Tue 30th Jan 2007
+66969,present,cerror-mos.mod,:::|\/|05:::,32.57KB,1a692981884f88a5cd4ca5c923b38a3f,MOD,false,164,0,2021-07-15T10:44:42.375007175+00:00,8,n/a,Tue 30th Jan 2007
+66970,present,cerror-moschoosestage.mod,:::|\/|05:::,35.57KB,811893ec78595da7c1c2cfa5e9e60d02,MOD,false,150,0,2021-07-15T10:44:43.622292855+00:00,12,n/a,Tue 30th Jan 2007
+66971,present,cerror-mosintro.mod,:::|\/|05:::,32.57KB,9dcdc1bcc697630356911bf9a31a4b8b,MOD,false,134,0,2021-07-15T10:44:44.392862437+00:00,12,n/a,Tue 30th Jan 2007
+66972,present,cerror-slowdance.mod,Slowdance,25.47KB,ed966380b2c8791bc13202d7029bb2a5,MOD,false,221,0,2021-07-15T10:44:45.189988473+00:00,8,n/a,Tue 30th Jan 2007
+66973,present,cerror-sweet.mod,conversation with a,11.24KB,71d367f2205c1b92113a94673ebb58f1,MOD,false,152,0,2021-07-15T10:44:46.012045471+00:00,4,n/a,Tue 30th Jan 2007
+66974,present,cerror-title_tune.xm,Title Song,15.49KB,a9977648bf7d9db43ff54b0ef9df269e,XM,false,213,0,2021-07-15T10:44:47.281976571+00:00,6,n/a,Tue 30th Jan 2007
+66975,present,cerror-upanddown.mod,Up And Down,21.98KB,24387338ec71451922f4825442b0d891,MOD,false,174,0,2021-07-15T10:44:48.390264787+00:00,6,n/a,Tue 30th Jan 2007
+66976,present,chr-pjam.s3m,paper jam,6.39KB,3c6f7c8d7e5c4b4357c5cf387415b899,S3M,false,108,0,2021-07-15T10:44:49.256883354+00:00,4,n/a,Tue 30th Jan 2007
+66977,present,delmapom.mod,delmapom,25.94KB,465b3f1d189f858e11adddd099d9e6e0,MOD,false,80,0,2021-07-15T10:44:50.169457494+00:00,6,n/a,Tue 30th Jan 2007
+66978,present,youaremy.mod,you are my sunshine,23.12KB,a3d8fc534b02a1bc86a1aaa8bd5d436f,MOD,false,157,0,2021-07-15T10:44:51.377945060+00:00,4,n/a,Tue 30th Jan 2007
+66979,present,chipper_-_prof.mod,prof,13.38KB,966ef1afa8d780c1a4164b9553fa8627,MOD,false,131,0,2021-07-15T10:44:52.739059541+00:00,4,n/a,Tue 30th Jan 2007
+66980,present,chipper_-_risky_business.mod,risky_business.cpr,17.76KB,0a2a7f719db1b1e90683475ba36d7f38,MOD,false,131,0,2021-07-15T10:44:53.585406867+00:00,4,n/a,Tue 30th Jan 2007
+66981,present,chipper_-_tussu10_special.mod,tu$$u10.special,13.24KB,5875e6be88ea5c5b091f673de1ba4280,MOD,false,116,0,2021-07-15T10:44:54.652124304+00:00,4,n/a,Tue 30th Jan 2007
+66982,present,tussu2.mod,tussu2,11.56KB,d64e15e10097548b247056939a544685,MOD,false,89,0,2021-07-15T10:44:55.746244119+00:00,4,n/a,Tue 30th Jan 2007
+66983,present,chris_maeland-carrier_detect.mod,carrier_detect,13.38KB,4b41940777176c4f6e389ad332af1ab2,MOD,false,502,2,2021-07-15T10:44:56.983455975+00:00,4,n/a,Tue 30th Jan 2007
+66984,present,chris_maeland-hawkeye.mod,hawkeye,16.20KB,16217d495a9f7b2e452221c7b4fc5c8d,MOD,false,296,0,2021-07-15T10:44:57.916579334+00:00,4,n/a,Tue 30th Jan 2007
+66985,present,actual_reality.mod,actual_reality,29.52KB,4582bdc444bd2f0315beb354146367ff,MOD,false,398,0,2021-07-15T10:44:58.950904948+00:00,4,n/a,Mon 13th Sep 2004
+66986,present,beingboi.mod,being boiled,11.18KB,345bc14ccf5318f2d6925df820574f69,MOD,false,541,1,2021-07-15T10:45:02.141672232+00:00,4,n/a,Tue 30th Jan 2007
+66987,present,century.mod,century,12.15KB,48bf595c01044e2c990d93f6bdf21e41,MOD,false,538,1,2021-07-15T10:45:03.171060322+00:00,4,Chiptune,Tue 30th Jan 2007
+66988,present,chromag-4k0.mod,4k0,24.16KB,d664cc0c07984024f917b5d20e52701f,MOD,false,322,0,2021-07-15T10:45:04.652797380+00:00,4,n/a,Tue 30th Jan 2007
+66989,present,chromag-promenade.xm,promenade,37.16KB,fece575bcb6d324584240c1927f826a6,XM,false,343,0,2021-07-15T10:45:06.019524087+00:00,12,n/a,Tue 30th Jan 2007
+66990,present,chromag-shock_therapy23.xm,chromag-shock_therapy23.xm,48.38KB,3cff0dd1ca76c9bc2d9f73ac186c8f37,XM,false,669,2,2021-07-15T10:45:07.985430035+00:00,12,n/a,Tue 30th Jan 2007
+66991,present,cockatoo.mod,cockatoos,31.69KB,13097d547b32e8e00cab4eb3a0df97f3,MOD,false,279,0,2021-07-15T10:45:10.492399002+00:00,4,n/a,Tue 30th Jan 2007
+66992,present,darkdesi.mod,dark desire,8.50KB,c6dfd986ac074d6a2b4c3a931cc70db8,MOD,false,187,0,2021-07-15T10:45:12.363087835+00:00,4,n/a,Tue 30th Jan 2007
+66993,present,funkypyr.mod,funky pyramids,13.03KB,78c36d06d576e8de039bad67fbe82376,MOD,false,503,1,2021-07-15T10:45:13.175134475+00:00,4,n/a,Tue 30th Jan 2007
+66994,present,killer_tomato.mod,killer tomato,19.80KB,b7eb89b2a589584d536e6364167647c7,MOD,false,332,0,2021-07-15T10:45:14.721064702+00:00,4,n/a,Tue 30th Jan 2007
+66995,present,montyhig.mod,monty hiscore,11.25KB,b265f4dbe5cc76814591f52b81b66d61,MOD,false,335,0,2021-07-15T10:45:16.269353020+00:00,4,n/a,Tue 30th Jan 2007
+66996,present,pippirul.mod,pippi rules!,18.33KB,38ad4baeb90661f73a8d7a95da2529ee,MOD,false,211,0,2021-07-15T10:45:17.496603573+00:00,4,n/a,Tue 30th Jan 2007
+66997,present,m0d_-_evil_ate_my_pie.ahx,evil ate my pie,8.64KB,ec12318a02e9973f931a66ef3a2507c7,AHX,false,1951,1,2021-07-15T10:45:19.150094754+00:00,4,R &amp; B,Tue 30th Jan 2007
+66998,present,shock01.mod,shock therapy 01,14.44KB,fbc01f848a63189ff285512d12b2ff30,MOD,false,724,2,2021-07-15T10:45:20.246011148+00:00,4,n/a,Tue 30th Jan 2007
+66999,present,shock02.mod,shock therapy 02,15.33KB,fefc7902945111d1afdcd59b37095b0d,MOD,false,334,1,2021-07-15T10:45:25.135042682+00:00,4,n/a,Tue 30th Jan 2007
+67000,present,shock03.mod,shock therapy 03,9.50KB,62689b570b863eae161c05787f928a99,MOD,false,141,0,2021-07-15T10:45:26.831719436+00:00,4,n/a,Tue 30th Jan 2007
