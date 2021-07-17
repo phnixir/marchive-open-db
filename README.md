@@ -32,6 +32,10 @@ can fall apart if the design of modarchive changes.
 - mod genre
 - mod upload date
 
+## How do i assemble the fulldb myself?
+If you use linux just clone this repo cd into the db directory and run
+`./compiler.sh > fulldb.csv` and then youll have the database fresh, enjoy.
+
 ## How do i use this data in my program?
 Well, thats on you to figure out based on your programming language, BUT
 if you use rust that trackermeta library i mentioned does have a struct
