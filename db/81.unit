@@ -9,7 +9,7 @@
 80009,present,magicrock.mod,magicrock,53.12KB,f118036fd1fec80424a02ae9e6c31508,MOD,false,162,0,2021-07-15T12:50:02.073160617+00:00,4,n/a,Mon 13th Sep 2004
 80010,present,magnetic_fields_ii.mod,magnetic fields ii,90.60KB,0ac7ce8d18a4d69c5aae7a7a2fbaff66,MOD,false,1240,1,2021-07-15T12:50:02.817909129+00:00,4,n/a,Mon 13th Sep 2004
 80011,present,magnetic_fields.mod,@ magnetic fields @,65.39KB,68391cbfc985504e33c29f4167d01a6a,MOD,false,276,0,2021-07-15T12:50:03.623321032+00:00,4,n/a,Wed 18th May 2005
-80012,present,thbbs_ugi_us_hq.mod,THBBS, UGI US HQ,237.84KB,a2111d83e1cf011b13cb30b10dbba63f,MOD,false,127,0,2021-07-15T12:50:04.367533095+00:00,4,n/a,Mon 22nd Aug 2005
+80012,present,thbbs_ugi_us_hq.mod,"THBBS, UGI US HQ",237.84KB,a2111d83e1cf011b13cb30b10dbba63f,MOD,false,127,0,2021-07-15T12:50:04.367533095+00:00,4,n/a,Mon 22nd Aug 2005
 80013,present,the_abandoned_wedge.mod,the abandoned wedge,156.28KB,88eabd1745410cbbbcb5aae4fa65b844,MOD,false,124,0,2021-07-15T12:50:05.121053064+00:00,4,n/a,Sat 23rd Oct 2004
 80014,present,the_apex.mod,The apex,218.80KB,033c7fb28b6df0e1890824fd3f40257a,MOD,false,153,0,2021-07-15T12:50:05.847730208+00:00,4,n/a,Mon 22nd Aug 2005
 80015,present,the_april_project.mod,the april project,267.22KB,a54b1ee69a5fa0d587d80a7fdefec2db,MOD,false,111,0,2021-07-15T12:50:06.564735898+00:00,4,n/a,Tue 13th Feb 2007
@@ -334,7 +334,7 @@
 80334,present,11.mod,11,47.95KB,e91818da42567404b3d403c1aba0eca2,MOD,false,191,0,2021-07-15T12:54:49.748705096+00:00,4,n/a,Mon 13th Sep 2004
 80335,present,dirk.mod,mod.dirk,57.27KB,66617df9c7cb9003def31a0a0ec9d847,MOD,false,167,0,2021-07-15T12:54:50.496681724+00:00,4,n/a,Sat 19th Mar 2005
 80336,present,disaster_zone.mod,disaster zone,23.80KB,e3ef8c098d1678bbd97d995987e46597,MOD,false,204,0,2021-07-15T12:54:51.262306453+00:00,4,n/a,Tue 12th Apr 2005
-80337,present,disclaimer.mod,,,disclaimer'',273.10KB,5eb82409c8d5d78b53cbff8c02811724,MOD,false,180,0,2021-07-15T12:54:52.011916823+00:00,4,n/a,Mon 13th Sep 2004
+80337,present,disclaimer.mod,",,disclaimer''",273.10KB,5eb82409c8d5d78b53cbff8c02811724,MOD,false,180,0,2021-07-15T12:54:52.011916823+00:00,4,n/a,Mon 13th Sep 2004
 80338,present,10.mod,10,51.89KB,01a86722accbb3f156824429f44f8ca2,MOD,false,619,1,2021-07-15T12:54:52.789424862+00:00,4,n/a,Mon 13th Sep 2004
 80339,present,1001_stolen_ideas.mod,1001 stolen ideas,98.61KB,873c2e8db268d1092f850bbfb0c91655,MOD,false,700,2,2021-07-15T12:54:53.749079721+00:00,4,n/a,Wed 23rd Mar 2005
 80340,present,beam_me_up.mod,beam_me_up,302.5KB,565a96a4f116a178722e13e2e23760cc,MOD,false,199,0,2021-07-15T12:54:54.588705952+00:00,4,n/a,Mon 13th Sep 2004
@@ -552,7 +552,7 @@
 80552,present,tjc-tune.mod,TJC-Tune,78.64KB,29c3adbd33e5c65839a3e2d071d67117,MOD,false,166,0,2021-07-15T12:58:19.161655135+00:00,4,n/a,Mon 13th Sep 2004
 80553,present,tjc-ultrafox.mod,tjc-ultrafox,93.35KB,c4c59174eaf15e059e57d86f621f0f84,MOD,false,139,0,2021-07-15T12:58:20.036902219+00:00,4,n/a,Mon 13th Sep 2004
 80554,present,minas_tirith.mod,+++minas_tirith+++,169.25KB,58d6e3b8c626f285783f0de9cd243af2,MOD,false,169,0,2021-07-15T12:58:21.261003701+00:00,4,n/a,Sat 9th Apr 2005
-80555,present,_1995.mod, ¸½, 199å !,11.02KB,8c9577e146b6ea24e3807acb32e5e642,MOD,false,221,0,2021-07-15T12:58:22.000100073+00:00,4,n/a,Tue 14th Jun 2005
+80555,present,_1995.mod," ¸½, 199å !",11.02KB,8c9577e146b6ea24e3807acb32e5e642,MOD,false,221,0,2021-07-15T12:58:22.000100073+00:00,4,n/a,Tue 14th Jun 2005
 80556,present,buddaman_1.mod,buddaman 1,8.41KB,cfa7987d2c8027a00710b984cd84979e,MOD,false,237,0,2021-07-15T12:58:23.081724329+00:00,4,n/a,Mon 6th Jun 2005
 80557,present,doo_doo_mix.mod,Doo doo mix,89.66KB,02de7f5a89375e3aaf7888720a4627dd,MOD,false,210,0,2021-07-15T12:58:24.329437707+00:00,4,n/a,Mon 13th Sep 2004
 80558,present,doodeela_la.mod,doodee(la la),9.42KB,799218e135d366014f91b77e8962803b,MOD,false,136,0,2021-07-15T12:58:26.127698052+00:00,4,n/a,Mon 6th Jun 2005
@@ -662,7 +662,7 @@
 80662,present,smoky.mod,Mod.smoky,68.16KB,59476faf3bc7a345f62528f91014eb05,MOD,false,140,0,2021-07-15T13:00:03.799396134+00:00,4,n/a,Mon 13th Sep 2004
 80663,present,smurf-esque.mod,Smurf-Esque     ÿÿÿ,32.78KB,3ec764689c0678c2e8bd4c99de773672,MOD,false,171,0,2021-07-15T13:00:04.550090335+00:00,4,n/a,Mon 13th Sep 2004
 80664,present,snake.mod,snake,200.34KB,b3dc4348d8e64cc2e25c805cf7d40288,MOD,false,748,2,2021-07-15T13:00:05.262391077+00:00,4,n/a,Thu 12th May 2005
-80665,present,snap_crackle_pop.mod,Snap, Crackle & Pop,7.50KB,cc60248fa59c2f477fe171b11ed69be1,MOD,false,212,0,2021-07-15T13:00:06.069504296+00:00,4,n/a,Mon 13th Sep 2004
+80665,present,snap_crackle_pop.mod,"Snap, Crackle & Pop",7.50KB,cc60248fa59c2f477fe171b11ed69be1,MOD,false,212,0,2021-07-15T13:00:06.069504296+00:00,4,n/a,Mon 13th Sep 2004
 80666,present,_freezer_.mod,! freezer !,109.84KB,34a595605d09ffc45bf056da08bfd72c,MOD,false,171,0,2021-07-15T13:00:07.019132708+00:00,4,n/a,Sat 9th Apr 2005
 80667,present,brainstomper.mod,   !brainstomper!,225.23KB,407ec25c367e1a4ccfcc25f1144452d9,MOD,false,166,0,2021-07-15T13:00:08.272490476+00:00,4,n/a,Wed 29th Sep 2004
 80668,present,body_blows_bbending.mod,bbending,48.38KB,b08a4ebc13d7e02118a1fa2f836497a6,MOD,false,369,0,2021-07-15T13:00:09.010435122+00:00,4,n/a,Mon 13th Sep 2004
@@ -978,7 +978,7 @@
 80978,present,no_time_for_tekkno.mod,no time for tekkno,118.21KB,aa3b41b670b7c625eb8ed8c274f89207,MOD,false,186,0,2021-07-15T13:04:13.451490318+00:00,4,n/a,Wed 15th Jun 2005
 80979,present,no_violence.mod,no violence,190.23KB,d771adadb43cb3df4d83057f308e8dbc,MOD,false,287,0,2021-07-15T13:04:14.213943323+00:00,4,n/a,Mon 13th Sep 2004
 80980,present,no_way_.mod,No Way !,189.43KB,7cbbebff374dbd4d7581b03da0e699f4,MOD,false,136,0,2021-07-15T13:04:14.949119491+00:00,4,n/a,Sat 29th Oct 2005
-80981,present,no_way_never.mod,no way, never!,45.55KB,eecd13ce1639897b71bdedb3143eebbf,MOD,false,155,0,2021-07-15T13:04:15.661959184+00:00,4,n/a,Mon 13th Sep 2004
+80981,present,no_way_never.mod,"no way, never!",45.55KB,eecd13ce1639897b71bdedb3143eebbf,MOD,false,155,0,2021-07-15T13:04:15.661959184+00:00,4,n/a,Mon 13th Sep 2004
 80982,present,no_zero_no_7.mod,No Zero No. 7,197.10KB,6adbbe1f59d5b8f2ccc087eaba4619b7,MOD,false,93,0,2021-07-15T13:04:16.391228600+00:00,4,n/a,Sat 2nd Apr 2005
 80983,present,no-more-space.mod,no-more-space,176.16KB,1f88032dd82c930bad259a8d7ed1448b,MOD,false,252,0,2021-07-15T13:04:17.088934435+00:00,4,n/a,Sat 7th May 2005
 80984,present,no-t.mod,no-t,23.79KB,38b18f93d471e50ba156187f581f93cb,MOD,false,158,0,2021-07-15T13:04:17.828681473+00:00,4,n/a,Mon 13th Sep 2004
@@ -993,8 +993,8 @@
 80993,present,instinctive_vibes.mod,instinctive vibes,43.86KB,d46386e6cf3c403abe211a5264bed8f4,MOD,false,210,0,2021-07-15T13:04:24.527605782+00:00,4,n/a,Mon 13th Sep 2004
 80994,present,insulation.mod,insulation,310.99KB,63f4514bcb14eddb3fd55d45ffe0f355,MOD,false,171,0,2021-07-15T13:04:25.278200536+00:00,4,n/a,Sat 2nd Apr 2005
 80995,present,dark_forest.mod,****dark forest****,62.38KB,ab45b63038d038e0c6398f146650044c,MOD,false,201,0,2021-07-15T13:04:25.998389365+00:00,4,n/a,Fri 20th May 2005
-80996,present,gadgettwins-toyland0252833.mod,toyland,0,25,28,33,103.12KB,f0b832865cda8a535c0c04e1128d6436,MOD,false,355,0,2021-07-15T13:04:26.758035831+00:00,4,n/a,Fri 31st Dec 2004
-80997,present,gadgettwins-zep002023.mod,zep,0,020,23,97.61KB,303568321f744ea9fcde69040b7221bd,MOD,false,269,0,2021-07-15T13:04:27.462900621+00:00,4,n/a,Fri 31st Dec 2004
+80996,present,gadgettwins-toyland0252833.mod,"toyland,0,25,28,33",103.12KB,f0b832865cda8a535c0c04e1128d6436,MOD,false,355,0,2021-07-15T13:04:26.758035831+00:00,4,n/a,Fri 31st Dec 2004
+80997,present,gadgettwins-zep002023.mod,"zep,0,020,23",97.61KB,303568321f744ea9fcde69040b7221bd,MOD,false,269,0,2021-07-15T13:04:27.462900621+00:00,4,n/a,Fri 31st Dec 2004
 80998,present,gaerdebylaten.mod,GAERDEBYLATEN,8.44KB,409221688b653d038fc453c775cdfe58,MOD,false,170,0,2021-07-15T13:04:28.191749537+00:00,4,n/a,Mon 25th Oct 2004
 80999,present,galactica_salsa.mod,galactica salsa,15.46KB,abb44405ccf42e1257464122785daff3,MOD,false,273,0,2021-07-15T13:04:28.908608223+00:00,4,n/a,Mon 13th Sep 2004
 81000,present,galaxy_impact_ii.mod,galaxy impact ii,106.15KB,a94461e2b876233588fed9fd681c1a71,MOD,false,208,0,2021-07-15T13:04:29.605598499+00:00,4,n/a,Mon 21st Feb 2005

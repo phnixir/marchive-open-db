@@ -97,7 +97,7 @@
 176097,present,raphaelgoulart_-_fried_ice_cream.it,fried ice cream,738.36KB,cc1b0e9c66299b0cfe8c90381efb9d4b,IT,false,1314,5,2021-07-16T20:54:17.674188377+00:00,26,Demo Style,Sat 25th Oct 2014
 176098,present,raphaelgoulart_-_the_adventures_of_the_lost_ohc-er.it,the lost ohc-er,255.90KB,0e3535a30188dc528da19238f73c0f74,IT,true,1079,1,2021-07-16T20:54:18.345308281+00:00,9,Chiptune,Tue 28th Oct 2014
 176099,present,goluigi_-_hi_police_guy.it,hi police guy,3.39MB,daefc49cefef0048194dac9d66257853,IT,true,1669,4,2021-07-16T20:54:19.084003660+00:00,40,Jazz - Modern,Tue 28th Oct 2014
-176100,present,m72_-_emotion_devotion.it,*Emotion, Devotion*M72,1.16MB,32c73050423e27dec20bbb46d7ca6edb,IT,false,896,3,2021-07-16T20:54:19.770167286+00:00,36,n/a,Tue 28th Oct 2014
+176100,present,m72_-_emotion_devotion.it,"*Emotion, Devotion*M72",1.16MB,32c73050423e27dec20bbb46d7ca6edb,IT,false,896,3,2021-07-16T20:54:19.770167286+00:00,36,n/a,Tue 28th Oct 2014
 176101,present,robbi_-_commodore_trib.it,Commodore Trib,168.18KB,5207bb6f34ee08272fa8381f31478cd5,IT,false,991,3,2021-07-16T20:54:20.487639538+00:00,6,Pop - Synth,Tue 28th Oct 2014
 176102,present,m72_-_stardust.it,*Stardust*M72,1.05MB,43c635e15e2e3a008be41ad2e4f19883,IT,false,986,5,2021-07-16T20:54:21.188152678+00:00,32,n/a,Tue 28th Oct 2014
 176103,present,m72_-_moonchild.it,*Moonchild*M72,451.30KB,3c4968c5ddf0566e2f3ac11bd281ac5b,IT,false,1712,5,2021-07-16T20:54:21.938773970+00:00,27,Electronic - Dance,Tue 28th Oct 2014
@@ -438,7 +438,7 @@
 176438,present,haschischtasche_-_vernunft.xm,Vernunft,215.34KB,6dbffbe3c39297bbeb930f15921109ec,XM,false,189,0,2021-07-16T20:58:28.328035962+00:00,10,n/a,Sun 1st Feb 2015
 176439,present,haschischtasche_-_the_professor.xm,The Professor;,2.07KB,5f5d5d9e2934922a9e0c6e19b25f379a,XM,false,179,0,2021-07-16T20:58:29.055149426+00:00,4,n/a,Sun 1st Feb 2015
 176440,present,haschischtasche_-_marshlands.xm,Marshlands,51.33KB,ddd841b910b97b64e5227b6cadc135da,XM,false,203,0,2021-07-16T20:58:29.750625617+00:00,8,n/a,Sun 1st Feb 2015
-176441,present,haschischtasche_-_heart_sticks_and_stones.xm,Heart, Sticks&Stones,266.77KB,bba24e97f2a040688f163aee0a397927,XM,false,239,0,2021-07-16T20:58:30.503096938+00:00,10,n/a,Sun 1st Feb 2015
+176441,present,haschischtasche_-_heart_sticks_and_stones.xm,"Heart, Sticks&Stones",266.77KB,bba24e97f2a040688f163aee0a397927,XM,false,239,0,2021-07-16T20:58:30.503096938+00:00,10,n/a,Sun 1st Feb 2015
 176442,present,haschischtasche_-_for_julia.xm,haschischtasche_-_for_julia.xm,970.97KB,230100716670cca8168d0895dd54f0d2,XM,false,403,0,2021-07-16T20:58:31.224088274+00:00,12,Electronic (general),Sun 1st Feb 2015
 176443,present,module76.s3m,module76.s3m,462.62KB,1c940d995daddff64310902c95771707,S3M,false,598,1,2021-07-16T20:58:33.624468426+00:00,14,Demo Style,Sun 1st Feb 2015
 176444,present,module77.it,Unstable Seas,165.75KB,4b86f0b8d32fa77ae691bb8b1c586593,IT,false,735,0,2021-07-16T20:58:36.003097522+00:00,16,Experimental,Sun 1st Feb 2015
@@ -675,7 +675,7 @@
 176675,present,xerion_-_fishrmen.xm,Fishermen of Johr,397.36KB,86b4d5e588f6b87ad7307ebecaffcc98,XM,false,253,0,2021-07-16T21:01:26.960273531+00:00,20,n/a,Tue 24th Mar 2015
 176676,present,xerion_-_tropical_sprinkle.xm,xerion_-_tropical_sprinkle.xm,1.51MB,e71a08164ea9c9ffc02dd3fbe3048152,XM,false,249,0,2021-07-16T21:01:27.746233381+00:00,26,n/a,Tue 24th Mar 2015
 176677,present,xerion_-_moondust.xm,Moondust,682.85KB,267205bc89472f2fc4514ad83dd54824,XM,false,649,1,2021-07-16T21:01:28.497610552+00:00,24,n/a,Tue 24th Mar 2015
-176678,present,xerion_-_johrtrees.xm,Johr, In The Trees,797.27KB,f5e24ca62691e32205de13e691504f65,XM,false,265,0,2021-07-16T21:01:29.182232909+00:00,14,n/a,Tue 24th Mar 2015
+176678,present,xerion_-_johrtrees.xm,"Johr, In The Trees",797.27KB,f5e24ca62691e32205de13e691504f65,XM,false,265,0,2021-07-16T21:01:29.182232909+00:00,14,n/a,Tue 24th Mar 2015
 176679,present,xerion_-_the_hour_after_twilight.xm,xerion_-_the_hour_after_twilight.xm,408.06KB,4921b20cf107b2b61039ef8b8833169f,XM,false,316,0,2021-07-16T21:01:29.936769978+00:00,24,n/a,Tue 24th Mar 2015
 176680,present,xerion_-_river_rapids.xm,xerion_-_river_rapids.xm,865.91KB,a39ecbf10b8e9653ffa7552d137a0c1b,XM,false,294,0,2021-07-16T21:01:30.669852765+00:00,26,n/a,Tue 24th Mar 2015
 176681,present,xerion_-_mystic.xm,Mystic Dreams,645.84KB,18a0c52e78fa4a9d6b68ac2bfc9646ca,XM,false,341,0,2021-07-16T21:01:31.372176650+00:00,22,n/a,Tue 24th Mar 2015
@@ -978,7 +978,7 @@
 176978,present,01.s3m,My Electric Couch...,215.17KB,034e523fcee56c6e1774305f0fd9ff19,S3M,false,151,0,2021-07-16T21:05:07.050857515+00:00,8,n/a,Sun 26th Apr 2015
 176979,present,03.s3m,  Time Cloth,95.71KB,1e4234d92c9448fc2c73334bfbdc1802,S3M,false,161,0,2021-07-16T21:05:07.753954919+00:00,8,n/a,Sun 26th Apr 2015
 176980,present,06.s3m,    Yard Stick,109.36KB,65e4e37340b3250d795bd39e322f3256,S3M,false,153,0,2021-07-16T21:05:08.446347428+00:00,8,n/a,Sun 26th Apr 2015
-176981,present,08.s3m,         11,264/90,112,19.17KB,179030ef6a873aca357cffe80bd05b30,S3M,false,149,0,2021-07-16T21:05:09.107434472+00:00,8,n/a,Sun 26th Apr 2015
+176981,present,08.s3m,"         11,264/90,112",19.17KB,179030ef6a873aca357cffe80bd05b30,S3M,false,149,0,2021-07-16T21:05:09.107434472+00:00,8,n/a,Sun 26th Apr 2015
 176982,present,05.s3m,   30 minutes,142.30KB,b3d7fb8d399e8374b7186235fdb53427,S3M,false,151,0,2021-07-16T21:05:09.841015419+00:00,8,n/a,Sun 26th Apr 2015
 176983,present,07.s3m,    Lion Eye,156.71KB,0a718950ad5244e54f17f9da0e85419f,S3M,false,138,0,2021-07-16T21:05:10.552323047+00:00,8,n/a,Sun 26th Apr 2015
 176984,present,09.s3m,    Radio Beam,183.15KB,a6924ed6dd84ffa621f7dbeaaffdce0a,S3M,false,328,1,2021-07-16T21:05:11.267064399+00:00,8,n/a,Sun 26th Apr 2015

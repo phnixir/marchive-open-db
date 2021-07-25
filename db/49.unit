@@ -408,7 +408,7 @@
 48408,present,lk3-drif.xm,drift away (1:37),411.16KB,05d0ddb1bf14c36dd09cba64d82ccfe1,XM,false,589,0,2021-07-14T18:39:39.075582869+00:00,18,n/a,Sat 1st Jun 2002
 48409,present,kuutamo2.xm,kuutamo2.xm,7.79KB,b44f4d6e3be5197e3d5d9e81daaca13d,XM,false,1096,0,2021-07-14T18:39:40.503925889+00:00,4,n/a,Fri 9th Feb 2001
 48410,present,lk3-fail.xm,failure (3:06),333.68KB,f2f2f833374f4d84a9ad6b98a6b6236d,XM,false,561,0,2021-07-14T18:39:41.199931670+00:00,24,n/a,Sat 1st Jun 2002
-48411,present,MUSIC2.MOD,Musical Freedom, SoR,324.41KB,3a16dfb856bd3471afbaf84220cae39f,MOD,false,2072,0,2021-07-14T18:39:42.077048701+00:00,6,n/a,Wed 1st Jan 1997
+48411,present,MUSIC2.MOD,"Musical Freedom, SoR",324.41KB,3a16dfb856bd3471afbaf84220cae39f,MOD,false,2072,0,2021-07-14T18:39:42.077048701+00:00,6,n/a,Wed 1st Jan 1997
 48412,present,kuutamot.xm,kuutamotanssi,473.10KB,e4612bcd23b7f05dc64f1936088d283f,XM,false,1854,1,2021-07-14T18:39:42.848879326+00:00,30,Pop - Synth,Fri 9th Feb 2001
 48413,present,lk3-hatr.xm,hatred (1:04),944.13KB,395c807a13a35d85716c5214dbec06d5,XM,false,584,0,2021-07-14T18:39:43.720416096+00:00,12,n/a,Sat 1st Jun 2002
 48414,present,kuvitelma.it,* Kuvitelma *,5.35KB,149bf500fc00216b85f038b00567790c,IT,false,643,0,2021-07-14T18:39:44.541932242+00:00,4,n/a,Sat 8th Dec 2001
@@ -547,7 +547,7 @@
 48547,present,ll_ctc.xm,*Control the Chaos*,1.76MB,5c99c8aa6de7de671f4b26b0eb168462,XM,false,1488,1,2021-07-14T18:41:45.839453549+00:00,32,Alternative,Thu 21st Feb 2002
 48548,present,m4.xm,Dark and Bright,502.02KB,9d4204e6368293ab9c032eb1a5af92b0,XM,false,1265,1,2021-07-14T18:41:46.576402664+00:00,16,Electronic - Dance,Thu 14th Feb 2002
 48549,present,ll_ctc_final.xm,*Control the Chaos*,1.69MB,238a341bc5ee1cf8be54b38f3aa7e8ed,XM,false,1042,0,2021-07-14T18:41:47.296791726+00:00,32,Alternative,Sun 15th Jun 2003
-48550,present,m4srb.xm,M4,$h0rt Range Bur$t,513.06KB,85898b69b746c08990b7443bd0c515c4,XM,false,1905,0,2021-07-14T18:41:48.031691986+00:00,26,Electronic - Techno,Thu 10th Jul 2003
+48550,present,m4srb.xm,"M4,$h0rt Range Bur$t",513.06KB,85898b69b746c08990b7443bd0c515c4,XM,false,1905,0,2021-07-14T18:41:48.031691986+00:00,26,Electronic - Techno,Thu 10th Jul 2003
 48551,present,ll_jdi.xm,Just Do It,2.94MB,f259adec7f1a5d90c523b0ce529b8f65,XM,false,859,0,2021-07-14T18:41:49.212360527+00:00,32,n/a,Fri 23rd Nov 2001
 48552,present,m4v-fasc.it,tangerine fascination,692.71KB,dfd1ce2cbbc762b2454d8a74c5244067,IT,false,7338,8,2021-07-14T18:41:49.887997819+00:00,18,Electronic - Techno,Wed 9th Dec 1998
 48553,present,ll_jdi_final.xm,Just Do It (FINAL),2.54MB,c38ee900b3b8d48a9628972eabb312e9,XM,false,775,0,2021-07-14T18:41:50.594226829+00:00,32,n/a,Thu 21st Feb 2002
@@ -557,9 +557,9 @@
 48557,present,m5v-alch.it,The Alchemist,441.00KB,185180f1e36d8181aac3ca674cf670fe,IT,false,5092,10,2021-07-14T18:41:53.509308286+00:00,24,Demo Style,Mon 9th Feb 2004
 48558,present,ll_jdi_u.xm,Just Do It,2.52MB,00f1d26d118db85e51be5df5e890fec3,XM,false,709,0,2021-07-14T18:41:54.235836775+00:00,32,n/a,Thu 14th Feb 2002
 48559,present,m5v-duet.s3m,Duet,762.38KB,cf996eca7b7e8831c4196d28e8285aa5,S3M,false,4152,2,2021-07-14T18:41:54.933541358+00:00,13,Electronic - Ambient,Wed 9th Dec 1998
-48560,present,ll_lbt.xm,Life, A Big Trip,3.00MB,cd82268534467fdb00b099cfa66ebc6b,XM,false,800,0,2021-07-14T18:41:55.674350681+00:00,32,n/a,Fri 21st Dec 2001
+48560,present,ll_lbt.xm,"Life, A Big Trip",3.00MB,cd82268534467fdb00b099cfa66ebc6b,XM,false,800,0,2021-07-14T18:41:55.674350681+00:00,32,n/a,Fri 21st Dec 2001
 48561,present,m5v-mars.it,martian lovesong,976.56KB,e9b6d4a9731d29aae4c85e6ba6e1c805,IT,true,19092,18,2021-07-14T18:41:56.426328389+00:00,21,Electronic - Techno,Sun 6th Sep 1998
-48562,present,ll_lbt_final.xm,Life, A Big Trip (F),2.58MB,3f7eef384b6d6d78e4a1eebca7bd6edd,XM,false,1132,0,2021-07-14T18:41:57.229057243+00:00,32,Alternative,Fri 22nd Feb 2002
+48562,present,ll_lbt_final.xm,"Life, A Big Trip (F)",2.58MB,3f7eef384b6d6d78e4a1eebca7bd6edd,XM,false,1132,0,2021-07-14T18:41:57.229057243+00:00,32,Alternative,Fri 22nd Feb 2002
 48563,present,ll_loi.xm,Land of Imagination,2.02MB,dc696dc91e7a76abb04a22bfab4e7e0c,XM,false,1153,1,2021-07-14T18:41:57.972906305+00:00,32,n/a,Fri 23rd Nov 2001
 48564,present,m5v-need.xm,Need To Suffer,703.33KB,5e756822d740dca038b66ad4f2618537,XM,false,2150,0,2021-07-14T18:41:58.705990420+00:00,16,Video Game,Fri 21st May 1999
 48565,present,m5v-trfr.xm,"True friend",675.33KB,e7c012b68b5d6a61fa218f7370c8b944,XM,false,1611,1,2021-07-14T18:41:59.463373648+00:00,12,Rock - Soft,Thu 14th Feb 2002
@@ -657,7 +657,7 @@
 48657,present,m_transp.xm,Molecular Transport,958.13KB,6b2f1097f9e6ba1da950ea6bd4c4868a,XM,false,1507,0,2021-07-14T18:43:12.871912891+00:00,16,Electronic - Techno,Wed 2nd Sep 1998
 48658,present,loading.xm,Loading 1,728.06KB,3363a5994aeb75415e8244dd7d993baf,XM,false,597,0,2021-07-14T18:43:13.563658360+00:00,10,n/a,Sat 8th Dec 2001
 48659,present,m_uncons.xm,Unconcious,734.10KB,bff382f8421e1e7c8ec994c6e3992139,XM,false,708,0,2021-07-14T18:43:14.267919141+00:00,32,n/a,Sun 1st Apr 2001
-48660,present,loading_.xm,loading, plz wait,37.58KB,c73bfa8bde8a2a4be8144447bf3cf7b7,XM,false,818,0,2021-07-14T18:43:14.983344401+00:00,6,n/a,Sun 16th Dec 2001
+48660,present,loading_.xm,"loading, plz wait",37.58KB,c73bfa8bde8a2a4be8144447bf3cf7b7,XM,false,818,0,2021-07-14T18:43:14.983344401+00:00,6,n/a,Sun 16th Dec 2001
 48661,present,m_virgin.xm,Virgin,1.08MB,94f6618f9cffbd6f4537897db7b48c4b,XM,false,1569,0,2021-07-14T18:43:15.744172317+00:00,28,Trance (general),Sat 7th Aug 1999
 48662,present,loadsong.mod,loader tune 1,8.62KB,1969290cb56a2ae4b3a02ef9f6f4d157,MOD,false,1465,5,2021-07-14T18:43:16.451721588+00:00,4,Chiptune,Wed 19th Nov 2003
 48663,present,loathe.xm,Loathe,459.65KB,3f65f8b0d17e267cf5b9e32768231f0f,XM,false,611,0,2021-07-14T18:43:17.142888358+00:00,14,n/a,Sat 3rd Feb 2001
@@ -758,7 +758,7 @@
 48758,present,longj_zk.xm,-"Long Journey"-,133.06KB,80d325bc28ad5e91c8b26f81e4963cac,XM,false,1996,0,2021-07-14T18:44:35.871778797+00:00,4,Rock - Soft,Tue 16th Mar 1999
 48759,present,macid041.it,Love can not die,132.66KB,9c66c8e489204b49451cf4b1e43c0369,IT,false,738,0,2021-07-14T18:44:36.618842495+00:00,10,n/a,Sat 1st Jun 2002
 48760,present,macid042.it,When Love Dies,466.28KB,8a37b9b1a46ff61d59ffb5fdde642e12,IT,false,1168,0,2021-07-14T18:44:37.306655776+00:00,8,Electronic - Ambient,Sat 1st Jun 2002
-48761,present,longlongagov2.xm,Long, long ago...,30.04KB,3cc4578a3184a0346ba10d91407ae5e7,XM,false,974,0,2021-07-14T18:44:38.066699161+00:00,4,Chiptune,Sat 4th Oct 2003
+48761,present,longlongagov2.xm,"Long, long ago...",30.04KB,3cc4578a3184a0346ba10d91407ae5e7,XM,false,974,0,2021-07-14T18:44:38.066699161+00:00,4,Chiptune,Sat 4th Oct 2003
 48762,present,longroad.xm,Chains of Tomorrow,266.43KB,d4d43036e02e57de61109712b42f9980,XM,false,1587,0,2021-07-14T18:44:38.882249473+00:00,20,Orchestral,Wed 30th Sep 1998
 48763,present,macid045.it,Mystique Symphony,129.69KB,d6e3676e6e3533715f710d3983771a9e,IT,false,824,0,2021-07-14T18:44:39.599048796+00:00,16,n/a,Sat 1st Jun 2002
 48764,present,longslid.mod,long slide,142.74KB,39e6a1b18b3ba50e5ae05ff48de088cc,MOD,false,1046,0,2021-07-14T18:44:40.303352389+00:00,4,Electronic - Techno,Sat 1st Jul 2000
@@ -794,9 +794,9 @@
 48794,present,lord.xm,- God is Lord -,568.31KB,5e6a1fb263412e7b25b79eb1e2e5d6c8,XM,false,1351,0,2021-07-14T18:45:03.537118422+00:00,22,Electronic - Ambient,Sat 12th Jun 1999
 48795,present,lorddeterm.xm,Lord Determination,88.17KB,ec730f84f5bce4e73622c71809194205,XM,false,571,0,2021-07-14T18:45:04.323998734+00:00,6,n/a,Thu 26th Jul 2001
 48796,present,madl2.it,Feelin' so bad,732.45KB,8773cd401c73d0c7a9c944c3ebe558dc,IT,false,718,0,2021-07-14T18:45:05.245575192+00:00,22,n/a,Sat 1st Jun 2002
-48797,present,lordilift.it,Lord, I Lift Your Name on,96.79KB,8eb6bb27dd9511e67eb87661e928f529,IT,false,461,0,2021-07-14T18:45:06.005289358+00:00,12,n/a,Thu 28th Feb 2002
+48797,present,lordilift.it,"Lord, I Lift Your Name on",96.79KB,8eb6bb27dd9511e67eb87661e928f529,IT,false,461,0,2021-07-14T18:45:06.005289358+00:00,12,n/a,Thu 28th Feb 2002
 48798,present,madl3.it,senseless,443.29KB,e47a73cd03c3a1ec45d18345efd96a2a,IT,false,673,0,2021-07-14T18:45:06.763206129+00:00,20,n/a,Sat 1st Jun 2002
-48799,present,lordilift2.it,Lord, I Lift Name on High,96.76KB,d028b399dfda1552517d982d532ee1e1,IT,false,336,0,2021-07-14T18:45:07.453296962+00:00,12,n/a,Sat 11th Jan 2003
+48799,present,lordilift2.it,"Lord, I Lift Name on High",96.76KB,d028b399dfda1552517d982d532ee1e1,IT,false,336,0,2021-07-14T18:45:07.453296962+00:00,12,n/a,Sat 11th Jan 2003
 48800,present,madl4.it,Paranormal activities,726.49KB,2712674b8b8dfb555680d93477aedca6,IT,false,718,0,2021-07-14T18:45:08.134447326+00:00,38,n/a,Sat 1st Jun 2002
 48801,present,lordlaz.xm,lordlaz.xm,311.73KB,8090875bef83df11b10c4059c3ef80ee,XM,false,1571,0,2021-07-14T18:45:08.954766649+00:00,32,Electronic - Ambient,Sat 14th Aug 1999
 48802,present,lordoftg.xm,Lord of Tall Grass,214.52KB,d3c60d614f6bd72dbfcc0d5925c98810,XM,false,1116,0,2021-07-14T18:45:09.663921336+00:00,12,Electronic - Techno,Fri 9th Feb 2001

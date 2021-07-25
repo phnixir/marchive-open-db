@@ -131,7 +131,7 @@
 42131,present,fin-novo.it,novo nordisk,306.83KB,776e45d1c2d1468d91e9891aeb2f55ed,IT,false,1144,0,2021-07-14T16:46:25.623969186+00:00,28,Pop (general),Sat 1st Jun 2002
 42132,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T16:46:26.289174029+00:00,0,n/a,Thu 1st Jan 1970
 42133,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T16:46:26.805886217+00:00,0,n/a,Thu 1st Jan 1970
-42134,present,fin-pop3.it,Pop 3,5",413.67KB,c0c670bfdaffdc69d03778387fb4c391,IT,false,1236,0,2021-07-14T16:46:27.376648873+00:00,28,Funk,Sat 1st Jun 2002
+42134,present,fin-pop3.it,"Pop 3,5",413.67KB,c0c670bfdaffdc69d03778387fb4c391,IT,false,1236,0,2021-07-14T16:46:27.376648873+00:00,28,Funk,Sat 1st Jun 2002
 42135,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T16:46:28.076226945+00:00,0,n/a,Thu 1st Jan 1970
 42136,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T16:46:28.595522258+00:00,0,n/a,Thu 1st Jan 1970
 42137,present,fin-roul.it,Roulaisse par Trois,329.02KB,c468c9442fd8cf872b23ad39bc457ef3,IT,false,1105,0,2021-07-14T16:46:29.175954810+00:00,26,Pop (general),Sat 1st Jun 2002
@@ -242,11 +242,11 @@
 42242,present,entertainer.mod,the entertainer,44.37KB,c6cb0970d3d4d7c0cd78ba9295174fa0,MOD,false,963,0,2021-07-14T16:47:51.189404882+00:00,4,n/a,Sat 6th Dec 2003
 42243,present,fire.mod,fire,96.40KB,7d262f2713c1edf52a8d292c1942c0b4,MOD,false,1860,0,2021-07-14T16:47:52.304444674+00:00,4,Rock (general),Wed 28th Jun 2000
 42244,present,entertnr.xm,The Entertainer,102.35KB,f995b25c74e2a7d535434e05ca6cc83e,XM,false,1384,1,2021-07-14T16:47:53.088606236+00:00,4,Piano,Sun 21st Sep 2003
-42245,present,fire.s3m, one,two, three - FIRE !!!,309.40KB,01449b8c6a364131fbf08628086793b0,S3M,false,2656,0,2021-07-14T16:47:54.287428215+00:00,16,Electronic - Techno,Wed 17th Mar 1999
+42245,present,fire.s3m," one,two, three - FIRE !!!",309.40KB,01449b8c6a364131fbf08628086793b0,S3M,false,2656,0,2021-07-14T16:47:54.287428215+00:00,16,Electronic - Techno,Wed 17th Mar 1999
 42246,present,enthaupt.it,HR Enthauptung Remix,1.45MB,91ddc3f6a567e07464b30b5c55d31098,IT,false,1564,0,2021-07-14T16:47:55.168901339+00:00,32,n/a,Fri 6th Aug 1999
 42247,present,fire.xm,fire.xm,1.82MB,f9467f4b21bd4ef673acb32246365114,XM,true,9282,1,2021-07-14T16:47:55.888416599+00:00,18,Metal (general),Tue 20th Feb 2001
 42248,present,entity.mod,Entity of the mind,145.58KB,3666b9f7c70607f3fd0839dc876bb4f5,MOD,false,1546,0,2021-07-14T16:47:56.654599724+00:00,4,n/a,Sun 13th Jun 1999
-42249,present,fire_fly_fly_away.it,Fire Fly, Fly Away!,511.20KB,639a16d833a4225a20ef7ceaabeb3cb4,IT,false,479,0,2021-07-14T16:47:57.354020661+00:00,16,n/a,Sat 14th Sep 2002
+42249,present,fire_fly_fly_away.it,"Fire Fly, Fly Away!",511.20KB,639a16d833a4225a20ef7ceaabeb3cb4,IT,false,479,0,2021-07-14T16:47:57.354020661+00:00,16,n/a,Sat 14th Sep 2002
 42250,present,entombed-dance2.xm,untitled,796.53KB,e664ab86ef1b7108a3b04637039eb173,XM,false,695,0,2021-07-14T16:47:58.066096963+00:00,16,n/a,Sat 1st Jun 2002
 42251,present,fire_me.it,fire_me.it,3.28MB,ca7a9bb0437224c834c2731c4fd0c8bf,IT,false,552,0,2021-07-14T16:47:58.841543682+00:00,12,n/a,Mon 17th Jun 2002
 42252,present,entrails.mod,Entrails,168.65KB,702089b437409818fec72ba669e7db61,MOD,false,274,0,2021-07-14T16:47:59.614045817+00:00,4,n/a,Sun 25th Sep 2005
@@ -338,7 +338,7 @@
 42338,present,equinoxe.mod,equinoxe.mod,84.64KB,71c6bde921139e506a5c4f686d38b715,MOD,false,1325,0,2021-07-14T16:49:08.562037874+00:00,4,n/a,Wed 28th Jun 2000
 42339,present,fix.mod,orchestral2.fix,58.41KB,3e905db0971cd3e32a4cb28199223eb3,MOD,false,325,0,2021-07-14T16:49:09.286117613+00:00,4,n/a,Sun 25th Sep 2005
 42340,present,equinoxe.xm,Equinoxe IV by JMJ,265.12KB,e2428b4a417db0cdec1eccc7728a4c06,XM,false,2993,0,2021-07-14T16:49:10.116212873+00:00,20,Demo Style,Sat 28th Nov 1998
-42341,present,fix.xm,, fix ++ `,519.20KB,8d06ebb9671efebcc986e56da90c641f,XM,false,611,0,2021-07-14T16:49:11.532272977+00:00,12,n/a,Fri 15th Nov 2002
+42341,present,fix.xm,", fix ++ `",519.20KB,8d06ebb9671efebcc986e56da90c641f,XM,false,611,0,2021-07-14T16:49:11.532272977+00:00,12,n/a,Fri 15th Nov 2002
 42342,present,equlogo2.mod,equalogo-short,280.56KB,1684ac359dc7f671cecb512aa66c73fe,MOD,false,902,0,2021-07-14T16:49:12.966557872+00:00,4,n/a,Wed 28th Jun 2000
 42343,present,fixation.xm,Fixation,264.34KB,521895aeb3117f62369368e544027860,XM,false,711,0,2021-07-14T16:49:14.498397351+00:00,16,n/a,Fri 8th Dec 2000
 42344,present,er-werm.it,untitled,196.95KB,e5ef34e220361ec874f030d498ac287c,IT,false,600,0,2021-07-14T16:49:15.227853548+00:00,26,n/a,Wed 20th Feb 2002
@@ -456,7 +456,7 @@
 42456,present,flat.xm,Flat beat (Remix),845.87KB,c1984e1edfd00f56577a923f45d4bdf6,XM,false,2740,0,2021-07-14T16:50:43.169076796+00:00,10,Electronic - Dance,Sun 20th Jun 1999
 42457,present,etc02.it,Space Devil,157.98KB,23e9518a9d04f5e5307653bf844665f4,IT,false,1451,0,2021-07-14T16:50:43.891851535+00:00,15,n/a,Thu 14th Jan 1999
 42458,present,flatbeat.xm,FlatBeat Rmx,347.25KB,c05ec8b8862ddc0840effbab0a72eb90,XM,false,2405,0,2021-07-14T16:50:44.645748723+00:00,10,Chiptune,Sat 5th Jun 1999
-42459,present,etcetera.xm,Et Cetera, And So On,590.25KB,5530cf91dbd840732a71a5f99020d060,XM,false,2257,0,2021-07-14T16:50:45.349319712+00:00,26,n/a,Fri 26th Mar 1999
+42459,present,etcetera.xm,"Et Cetera, And So On",590.25KB,5530cf91dbd840732a71a5f99020d060,XM,false,2257,0,2021-07-14T16:50:45.349319712+00:00,26,n/a,Fri 26th Mar 1999
 42460,present,flatdim.it,Flat Dimensions (^Guin),398.08KB,7e823655e653dd74a626fdc38ed7ab1a,IT,false,751,0,2021-07-14T16:50:46.060634607+00:00,16,n/a,Sun 28th May 2000
 42461,present,etempral.mod,E-TEMPRAL SOCIETY,168.54KB,d234cc068dd3c6a41ef0f37a8745cacc,MOD,false,2448,0,2021-07-14T16:50:46.730151066+00:00,4,n/a,Sat 22nd Mar 1997
 42462,present,eternal.mod,ETERNAL MIDNIGHT,96.28KB,778956aead87ab491d49d0b2248eb992,MOD,false,2230,0,2021-07-14T16:50:47.401152315+00:00,4,Electronic - Ambient,Sat 22nd Mar 1997
@@ -702,7 +702,7 @@
 42702,present,evilext.xm,Evil Empire,214.05KB,c0405779227b339d6b019373a44c9f83,XM,false,2365,0,2021-07-14T16:53:47.198322715+00:00,12,Electronic - Drum &amp; Bass,Thu 3rd Dec 1998
 42703,present,flt-kod.it,Keep On Dancing!,9.35KB,798c3bb6482d7b2480ac8b73d98a2ee5,IT,false,1377,0,2021-07-14T16:53:47.904704434+00:00,4,Electronic - Techno,Fri 9th Apr 1999
 42704,present,g_little.it,Little.,31.78KB,68bcad1afe1c8c664682844d152523a7,IT,false,628,0,2021-07-14T16:53:48.576470736+00:00,16,n/a,Thu 8th Nov 2001
-42705,present,evilgirl.669,EvilGirl- Ani le-dodi, ve-dodi li. D,1.07MB,585ba13d12e3c150eba1bd6aea74d07a,669,false,1053,0,2021-07-14T16:53:49.241680110+00:00,8,n/a,Thu 22nd Jun 2000
+42705,present,evilgirl.669,"EvilGirl- Ani le-dodi, ve-dodi li. D",1.07MB,585ba13d12e3c150eba1bd6aea74d07a,669,false,1053,0,2021-07-14T16:53:49.241680110+00:00,8,n/a,Thu 22nd Jun 2000
 42706,present,g_mycomp.it,My computer.,115.92KB,45be60dafe6ea64a57e0e609bbb516aa,IT,false,681,0,2021-07-14T16:53:50.023801725+00:00,7,n/a,Thu 8th Nov 2001
 42707,present,flt01.mod,flt introtune01,15.73KB,733c276ba3d37d99dd54699a84ed0979,MOD,false,2069,1,2021-07-14T16:53:50.771586464+00:00,4,Chiptune,Fri 1st Oct 2004
 42708,present,evilmasq.xm,Evil Masquerade,1.47MB,efff91c96185ad4b45d98601d5f21346,XM,false,1221,0,2021-07-14T16:53:51.493979537+00:00,32,n/a,Sun 18th Apr 1999
@@ -869,7 +869,7 @@
 42869,present,existing.s3m,'Existing' by Mick Rippon.,253.42KB,4f26d7bbf85b524cbc2bd9d4b4cb902b,S3M,false,8495,10,2021-07-14T16:56:02.018612299+00:00,16,Rock - Soft,Wed 1st Jan 1997
 42870,present,gamesong10.xm,Gamesong10,118.09KB,3c22ce1b19221a5eb5f44c2bc7971ae3,XM,false,933,0,2021-07-14T16:56:02.732378080+00:00,16,n/a,Wed 23rd Jan 2002
 42871,present,flytig1b.mod,Tiger-Music1 (KK),100.82KB,f8621f98578602d6f1b436337894bf0b,MOD,false,425,0,2021-07-14T16:56:03.428814955+00:00,4,n/a,Tue 5th Aug 2003
-42872,present,existing.xm,Existing, by MickRip,471.49KB,76836bd1117a2dd385ed714b103f0099,XM,false,11399,4,2021-07-14T16:56:04.649551934+00:00,16,Rock - Soft,Wed 9th Dec 1998
+42872,present,existing.xm,"Existing, by MickRip",471.49KB,76836bd1117a2dd385ed714b103f0099,XM,false,11399,4,2021-07-14T16:56:04.649551934+00:00,16,Rock - Soft,Wed 9th Dec 1998
 42873,present,gamesong11.xm,Gamesong11,115.70KB,ec689edc01160040f9a24d6cbcf4283c,XM,false,783,0,2021-07-14T16:56:05.384515475+00:00,16,n/a,Wed 23rd Jan 2002
 42874,present,flytig1c.mod,Tiger-Music2 (KK),65.18KB,369651e520637c290376626b02dea7f0,MOD,false,1038,2,2021-07-14T16:56:06.469408808+00:00,4,n/a,Tue 5th Aug 2003
 42875,present,exit.it,No Exit For Us /Acid RMX,1002.60KB,5f1e7ffe9e9c30026c943af644ad49bb,IT,false,2172,0,2021-07-14T16:56:07.199267506+00:00,22,Electronic - Ambient,Mon 20th Apr 1998

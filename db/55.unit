@@ -738,7 +738,7 @@
 54738,present,phfiesta.xm,Fiesta del Phantomas,1.52MB,0c07fab885856ec1bc670828a01d4dfc,XM,false,2122,0,2021-07-15T09:02:59.763695728+00:00,16,Electronic - Dance,Wed 16th Sep 1998
 54739,present,remining.xm,Nordvik Remining,798.93KB,3a16213baca9e23187e3cba94e67668d,XM,false,1260,0,2021-07-15T09:03:00.482039008+00:00,26,n/a,Wed 26th May 1999
 54740,present,s_ttr.xm,The Trance Ruler,2.04MB,cf443ae7e326075e9536ed5260b7a324,XM,false,1252,0,2021-07-15T09:03:01.175982914+00:00,30,Electronic - Techno,Tue 15th Jun 1999
-54741,present,phhfsl.xm,HARDER,FASTER,SLOWER,3.72MB,adee62ea869bc212ff20ed3c5c5b429e,XM,false,1537,0,2021-07-15T09:03:01.844685935+00:00,16,Trance (general),Wed 7th Oct 1998
+54741,present,phhfsl.xm,"HARDER,FASTER,SLOWER",3.72MB,adee62ea869bc212ff20ed3c5c5b429e,XM,false,1537,0,2021-07-15T09:03:01.844685935+00:00,16,Trance (general),Wed 7th Oct 1998
 54742,present,reminiscences.it,Reminiscences,333.70KB,37c2765ad13a8f0d052ea67f5272a196,IT,false,949,0,2021-07-15T09:03:02.509903174+00:00,7,Ballad,Sun 15th Jun 2003
 54743,present,s_vibe.xm,Vibes of Future,2.18MB,2ad3875f7963672776a4f2dc15220f05,XM,false,1692,0,2021-07-15T09:03:03.186604112+00:00,22,Electronic - Ambient,Tue 15th Jun 1999
 54744,present,remix.it,Take on me/BTW (RMX),706.63KB,d7a6fd7e370cd94bd6f4efaca8da96fd,IT,false,1226,0,2021-07-15T09:03:03.852850934+00:00,25,n/a,Wed 6th Feb 2002
@@ -840,7 +840,7 @@
 54840,present,residaxi.xm,rEsIdEnT,59.62KB,dbad1e5dfebf884c33d6523b967e9bfa,XM,false,1071,0,2021-07-15T09:04:14.119993876+00:00,10,n/a,Fri 6th Aug 1999
 54841,present,physical.xm,physical.xm,3.01MB,501d3ad6ffd41f312c1c2147ec18d91c,XM,false,924,0,2021-07-15T09:04:14.779403720+00:00,22,Electronic - Dance,Sun 12th Nov 2000
 54842,present,sad-song.mod,sad-song,137.97KB,4538eb48d1556773604b7613290e6309,MOD,false,1156,0,2021-07-15T09:04:15.479792053+00:00,4,n/a,Tue 4th Jul 2000
-54843,present,resist.s3m,REFUSE/RESIST,by  Sepulutra,274.31KB,701c3abc1d1d7698aa6de31367e02da7,S3M,false,946,0,2021-07-15T09:04:16.311099969+00:00,8,n/a,Thu 22nd Jun 2000
+54843,present,resist.s3m,"REFUSE/RESIST,by  Sepulutra",274.31KB,701c3abc1d1d7698aa6de31367e02da7,S3M,false,946,0,2021-07-15T09:04:16.311099969+00:00,8,n/a,Thu 22nd Jun 2000
 54844,present,sad-true.mod,Sad But True,92.83KB,54f8efdb1c099d52f8eee1291ce87402,MOD,false,1198,0,2021-07-15T09:04:17.056914761+00:00,4,n/a,Tue 4th Jul 2000
 54845,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T09:04:17.791906844+00:00,0,n/a,Thu 1st Jan 1970
 54846,present,resistance.xm,Resistance,689.64KB,5a955cb6ea5cc010bd6fda7781b8342e,XM,false,636,0,2021-07-15T09:04:18.365952260+00:00,20,n/a,Sun 17th Feb 2002

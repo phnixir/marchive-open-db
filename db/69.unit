@@ -69,7 +69,7 @@
 68069,present,keyg-makarony.xm,> Makarony,29.52KB,d4eafd2efa37313ae42d5df3047a44f8,XM,false,741,4,2021-07-15T10:47:34.287057687+00:00,12,n/a,Wed 31st Jan 2007
 68070,present,loonie-lazer2.xm,loonie-lazer2.xm,31.25KB,1f9460723e646b0d092f328793b10596,XM,false,227,0,2021-07-15T10:47:35.178300957+00:00,8,n/a,Wed 31st Jan 2007
 68071,present,spiceitu.mod,spice it up,21.94KB,0d90f196c2dd126ac8f5ee71482fd919,MOD,false,3195,2,2021-07-15T10:47:36.290979040+00:00,4,n/a,Sun 9th Sep 2001
-68072,present,loonie-holiday_getaway.xm,holiday, getaway..,9.76KB,2191b716291740a0da58b223df08591d,XM,false,225,0,2021-07-15T10:47:42.537039319+00:00,4,n/a,Wed 31st Jan 2007
+68072,present,loonie-holiday_getaway.xm,"holiday, getaway..",9.76KB,2191b716291740a0da58b223df08591d,XM,false,225,0,2021-07-15T10:47:42.537039319+00:00,4,n/a,Wed 31st Jan 2007
 68073,present,keyg-rgb9.xm,> Red Green Blue 9,8.72KB,a64a54dabcbf65bb792c151f19294bf0,XM,false,481,2,2021-07-15T10:47:43.368577109+00:00,8,n/a,Wed 31st Jan 2007
 68074,present,chipa2sj.xm,happy lollypop,21.85KB,e2430a16f53891e8d3e9a7586440b36f,XM,false,298,0,2021-07-15T10:47:44.316095554+00:00,8,n/a,Wed 31st Jan 2007
 68075,present,loonie-biohazard.xm,biohazard,545.38KB,74fe5c6103ba5ad90e0f033a35678fbb,XM,false,4305,17,2021-07-15T10:47:45.217507066+00:00,8,Chiptune,Wed 31st Jan 2007
@@ -308,7 +308,7 @@
 68308,present,tune4.med,Tune 4 © 1993 recoil,97.06KB,01762dcdfd80e6aa076b2b59a0d009eb,MED,false,94,0,2021-07-15T10:52:44.237557273+00:00,4,n/a,Fri 2nd Feb 2007
 68309,present,sk-cnctr.med,      the connector,441.25KB,42e50b65d839a3304b31ccb538bcca91,MED,false,72,0,2021-07-15T10:52:45.001642465+00:00,4,n/a,Fri 2nd Feb 2007
 68310,present,snowfall_in_summer.med,Snowfall in Summer,141.30KB,15904bc0de5028a39d5323859a850704,MED,false,103,0,2021-07-15T10:52:46.220248364+00:00,4,n/a,Fri 2nd Feb 2007
-68311,present,spinout.med,SpinOut by Olethros, 1997,808.05KB,21a91ba843681bac523cd6edb7f95b12,MED,false,95,0,2021-07-15T10:52:47.015240881+00:00,8,n/a,Fri 2nd Feb 2007
+68311,present,spinout.med,"SpinOut by Olethros, 1997",808.05KB,21a91ba843681bac523cd6edb7f95b12,MED,false,95,0,2021-07-15T10:52:47.015240881+00:00,8,n/a,Fri 2nd Feb 2007
 68312,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T10:52:47.953970086+00:00,0,n/a,Thu 1st Jan 1970
 68313,present,parallel.mod,parallel processing,327.62KB,61d6161cdaddc5c6505c5ef6b3c40c8f,MOD,false,113,0,2021-07-15T10:52:49.596355664+00:00,4,n/a,Fri 2nd Feb 2007
 68314,present,party_dream.xm,CYBERBOB:Dream,630.52KB,b1b6685c54f485b44aee36e648c9c99f,XM,false,150,0,2021-07-15T10:52:50.486599142+00:00,22,n/a,Fri 2nd Feb 2007
@@ -385,7 +385,7 @@
 68385,present,fm_solng.it,/\ "So long" /\,504.55KB,b94c25c6b768aeba70216718d641485d,IT,false,224,0,2021-07-15T10:54:04.571981995+00:00,16,n/a,Tue 6th Feb 2007
 68386,present,cksp.it,Silent Psychology,255.26KB,008cd963121851ceff16cf65debd48b1,IT,false,1059,3,2021-07-15T10:54:05.349647753+00:00,41,Electronic (general),Tue 6th Feb 2007
 68387,present,ohck-2007.it,2007,115.72KB,bda3ea1486e92d35a1c865280335933e,IT,false,794,1,2021-07-15T10:54:06.202890571+00:00,46,One Hour Compo,Tue 6th Feb 2007
-68388,present,ckhht.it,Hate, Hope, Tragedy,2.49MB,73b274ef5e466e408ef9299165ddb6d2,IT,false,1475,1,2021-07-15T10:54:07.032439286+00:00,64,Electronic - Drum &amp; Bass,Tue 6th Feb 2007
+68388,present,ckhht.it,"Hate, Hope, Tragedy",2.49MB,73b274ef5e466e408ef9299165ddb6d2,IT,false,1475,1,2021-07-15T10:54:07.032439286+00:00,64,Electronic - Drum &amp; Bass,Tue 6th Feb 2007
 68389,present,ohck-ku.it,Kinda Untitled,242.11KB,7bcff08152f02889eacff2e27464db20,IT,true,858,0,2021-07-15T10:54:07.858137692+00:00,57,One Hour Compo,Tue 6th Feb 2007
 68390,present,ohck-yours.it,Your Sorrow,273.80KB,01f47eac01db2dc3b674b4e0eb151599,IT,true,1020,0,2021-07-15T10:54:08.699126168+00:00,48,One Hour Compo,Tue 6th Feb 2007
 68391,present,ckafternoon.it,Afternoon Express,4.80MB,2a6f1a9e4518d563765c3622425ddbc6,IT,true,4407,5,2021-07-15T10:54:09.508714721+00:00,64,Electronic - Breakbeat,Tue 6th Feb 2007
@@ -399,7 +399,7 @@
 68399,present,sy_pie.it,Pie Flatulence,1.07MB,460ea89e78c6b52691b47a8c8d4ef560,IT,true,846,0,2021-07-15T10:54:18.282468416+00:00,37,Trance - Dream,Wed 7th Feb 2007
 68400,present,drumstick_-_ambiencia.it,ambiencia,372.56KB,5f8b31f04b470181bed0d4a53720c9c9,IT,false,233,0,2021-07-15T10:54:19.053546548+00:00,32,n/a,Wed 7th Feb 2007
 68401,present,drumstick_-_adventure.it,the adventure,227.21KB,8427cce52ebb42ce4f7b99bbf9a31166,IT,false,172,0,2021-07-15T10:54:20.226051501+00:00,18,n/a,Wed 7th Feb 2007
-68402,present,drumstick_-_argh.xm,ARGH, I NEED A TITLE,284.19KB,96eeb305a265aca02d68da1ac49176ad,XM,false,195,0,2021-07-15T10:54:21.060147773+00:00,16,n/a,Wed 7th Feb 2007
+68402,present,drumstick_-_argh.xm,"ARGH, I NEED A TITLE",284.19KB,96eeb305a265aca02d68da1ac49176ad,XM,false,195,0,2021-07-15T10:54:21.060147773+00:00,16,n/a,Wed 7th Feb 2007
 68403,present,drumstick_-_bass_god.it,Bass God,1.51MB,54568c7764e955c25ef47040e2f3aecb,IT,false,205,0,2021-07-15T10:54:22.917742772+00:00,16,n/a,Wed 7th Feb 2007
 68404,present,drumstick_-_blink.xm,drumstick_-_blink.xm,352.06KB,9ffa47bce22189f82b3022843912ffe5,XM,false,184,0,2021-07-15T10:54:23.704084343+00:00,32,n/a,Wed 7th Feb 2007
 68405,present,drumstick_-_compton.xm,Walk Through Compton,98.68KB,3527367171b4ce46980debb4fcf313f6,XM,false,192,0,2021-07-15T10:54:25.020892881+00:00,16,n/a,Wed 7th Feb 2007
@@ -506,7 +506,7 @@
 68506,present,goto80-basigochtrasig.mod,basigochtrasig.,33.68KB,ae9fdb6fbfc1f0c4dee0a3b1fc7825c2,MOD,false,216,0,2021-07-15T10:56:17.386853876+00:00,4,n/a,Thu 8th Feb 2007
 68507,present,goto80-what_happens_now_iv.mod,what happens now iv,213.54KB,5bc74a6bb9c7fe2c9408f4e050a1bdce,MOD,false,217,0,2021-07-15T10:56:18.148145765+00:00,4,n/a,Thu 8th Feb 2007
 68508,present,goto80-beersausage.mod,beersausage,21.18KB,33420222eb73039ef6e7c60f1b6fddfa,MOD,false,259,0,2021-07-15T10:56:18.889391564+00:00,4,n/a,Thu 8th Feb 2007
-68509,present,goto80-wendy_what_s_up.mod,wendy, what's up?_,98.68KB,54abc2f29776c43728d4b0e516da21a5,MOD,false,227,0,2021-07-15T10:56:20.321858239+00:00,4,n/a,Thu 8th Feb 2007
+68509,present,goto80-wendy_what_s_up.mod,"wendy, what's up?_",98.68KB,54abc2f29776c43728d4b0e516da21a5,MOD,false,227,0,2021-07-15T10:56:20.321858239+00:00,4,n/a,Thu 8th Feb 2007
 68510,present,goto80-wasteland.mod,wasteland!,92.22KB,13df68a784f7559ffd738f7a86d92b1f,MOD,false,300,0,2021-07-15T10:56:21.677002793+00:00,4,n/a,Thu 8th Feb 2007
 68511,present,goto80-was_passiert_jetzt.mod,was passiert jetzt,159.29KB,cda0ae5717a06872e60bf02aa52d3bec,MOD,false,209,0,2021-07-15T10:56:23.017332215+00:00,4,n/a,Thu 8th Feb 2007
 68512,present,goto80-vz3000_thorens.mod,vz3000 thorens,292.72KB,d9b65024e580ebb2d4374f5c075524f0,MOD,false,212,0,2021-07-15T10:56:23.883933079+00:00,4,n/a,Thu 8th Feb 2007
@@ -590,10 +590,10 @@
 68590,present,goto80-dark_side2.mod,dark side2,129.15KB,30a2bbca29f9f44434839870930108c7,MOD,false,258,0,2021-07-15T10:58:17.253951384+00:00,4,n/a,Thu 8th Feb 2007
 68591,present,goto80-dark_side.mod,dark side,100.56KB,ed50825c84827cdd942bf5bdfa640f07,MOD,false,268,0,2021-07-15T10:58:18.071829873+00:00,4,n/a,Thu 8th Feb 2007
 68592,present,goto80-dick-o-mania.mod,****-o-mania,52.43KB,5fa9cb246d9bcc6a7f85d3eb67f7bde4,MOD,false,277,0,2021-07-15T10:58:19.472297225+00:00,4,n/a,Thu 8th Feb 2007
-68593,present,goto80-samma_qrotno_drums.mod,samma qrot,no drums,21.76KB,75ea2520b74469bc4c8892bcaebe7f55,MOD,false,218,0,2021-07-15T10:58:21.249191871+00:00,4,n/a,Thu 8th Feb 2007
+68593,present,goto80-samma_qrotno_drums.mod,"samma qrot,no drums",21.76KB,75ea2520b74469bc4c8892bcaebe7f55,MOD,false,218,0,2021-07-15T10:58:21.249191871+00:00,4,n/a,Thu 8th Feb 2007
 68594,present,goto80-sadist.mod,sadist,109.28KB,f35326238b398a9454779e8b03ce96bf,MOD,false,268,0,2021-07-15T10:58:22.530886687+00:00,4,n/a,Thu 8th Feb 2007
 68595,present,goto80-deluxe_ecs.mod,deluxe ecs,13.08KB,6269675b10d3ed350f8689f599e7fb86,MOD,false,243,0,2021-07-15T10:58:23.557598845+00:00,4,n/a,Thu 8th Feb 2007
-68596,present,goto80-der_rikardo.mod,der,,, rikardo?,21.76KB,3a6b15228e8dad1a24f9da74d61304ee,MOD,false,240,0,2021-07-15T10:58:24.347579218+00:00,4,n/a,Thu 8th Feb 2007
+68596,present,goto80-der_rikardo.mod,"der,,, rikardo?",21.76KB,3a6b15228e8dad1a24f9da74d61304ee,MOD,false,240,0,2021-07-15T10:58:24.347579218+00:00,4,n/a,Thu 8th Feb 2007
 68597,present,goto80-dissing.mod,dissing,19.39KB,e146305a64bdcf87d849d4c7259780fc,MOD,false,238,0,2021-07-15T10:58:26.500795788+00:00,4,n/a,Thu 8th Feb 2007
 68598,present,goto80-ditchskool_synth.mod,ditchskool synth,66.46KB,d3ed2efbbceffb9ed87a183cb0ebdef7,MOD,false,279,0,2021-07-15T10:58:27.729784464+00:00,4,n/a,Thu 8th Feb 2007
 68599,present,goto80-s0nderstekt.mod,s0nderstekt,34.80KB,b2d261c1819fa0aa2b378c56799c11b8,MOD,false,232,0,2021-07-15T10:58:29.016239843+00:00,4,n/a,Thu 8th Feb 2007
@@ -742,7 +742,7 @@
 68742,present,flz-popkorn06.xm,popkorn,49.04KB,c9dde17fffc2bf49aec8aa075685981f,XM,false,170,0,2021-07-15T11:01:40.443142906+00:00,4,n/a,Sat 10th Feb 2007
 68743,present,flz-sweet_ninja.xm,flz - sweet ninja,23.99KB,cc2b97bc18401b862d41a1aa19b7dbc5,XM,false,87,0,2021-07-15T11:01:41.282577648+00:00,4,n/a,Sat 10th Feb 2007
 68744,present,flz-tinytune.xm,flz-tiny tune of tu,10.64KB,8d9b5bdaaa26d8110f92760df7da2375,XM,false,108,0,2021-07-15T11:01:42.061642944+00:00,4,n/a,Sat 10th Feb 2007
-68745,present,flz-tobythecoder.xm,flz-toby,the coder,22.63KB,7bb1dce7991096dbd04545d17c2ce0f3,XM,false,103,0,2021-07-15T11:01:42.874276143+00:00,4,n/a,Sat 10th Feb 2007
+68745,present,flz-tobythecoder.xm,"flz-toby,the coder",22.63KB,7bb1dce7991096dbd04545d17c2ce0f3,XM,false,103,0,2021-07-15T11:01:42.874276143+00:00,4,n/a,Sat 10th Feb 2007
 68746,present,flz-tribute2piksel.xm,tribute to PiKSEL,31.88KB,b99c7c70db47fc1381dfc724e6602f6b,XM,false,113,0,2021-07-15T11:01:44.009981981+00:00,4,n/a,Sat 10th Feb 2007
 68747,present,flz-we_are_drunk.xm,flz - we are drunk,40.73KB,866c9499b5be5702170829ecd021da8c,XM,false,97,0,2021-07-15T11:01:47.424729494+00:00,4,n/a,Sat 10th Feb 2007
 68748,present,strange_blaster.xm,strange2,53.81KB,5de00f3e06d187d6ec49ccc983986fe4,XM,false,206,0,2021-07-15T11:01:50.354160333+00:00,4,n/a,Sat 10th Feb 2007
@@ -896,7 +896,7 @@
 68896,present,java_poison.s3m,Java Poison,94.08KB,14dfb9dc1fc9826dcc93c7aa589f7b85,S3M,false,227,0,2021-07-15T11:04:55.733199114+00:00,8,n/a,Mon 7th Mar 2005
 68897,present,living_on_a_cloud.s3m,living on a cloud,198.91KB,d046b576529d84e0846be13aaa4ad8e0,S3M,false,117,0,2021-07-15T11:04:56.532834700+00:00,9,n/a,Sun 7th Mar 1999
 68898,present,mult_menee_hermot.s3m,Mult Menee Hermot!,540.91KB,d2aaad31199730eeca90c5b13a076e9b,S3M,false,196,0,2021-07-15T11:04:57.347802472+00:00,4,n/a,Mon 13th Sep 2004
-68899,present,attacking_head_part_2.s3m,--attacking head, part #2,143.37KB,4a490907f7ef96553f1eed3c23a7bcc7,S3M,false,296,0,2021-07-15T11:04:58.544168789+00:00,14,n/a,Mon 31st Jan 2005
+68899,present,attacking_head_part_2.s3m,"--attacking head, part #2",143.37KB,4a490907f7ef96553f1eed3c23a7bcc7,S3M,false,296,0,2021-07-15T11:04:58.544168789+00:00,14,n/a,Mon 31st Jan 2005
 68900,present,attempt_z.s3m,attempt z,151.03KB,80317066983137bca9db63cb8eb3b9a0,S3M,false,253,0,2021-07-15T11:04:59.330785977+00:00,16,n/a,Sat 12th Feb 2005
 68901,present,cone_towers.s3m,cone & towers,536.39KB,76b22ceb04dffab7acbedb4db2585f22,S3M,false,202,0,2021-07-15T11:05:00.141229815+00:00,16,n/a,Mon 7th Mar 2005
 68902,present,esp.s3m,Espitos II,499.42KB,775bf3149bd05bcf6c58f35e4f3eac83,S3M,false,136,0,2021-07-15T11:05:00.935853033+00:00,16,n/a,Mon 13th Sep 2004
@@ -995,6 +995,6 @@
 68995,present,hiroshima_theme.s3m,Hiroshima theme!,18.42KB,f9aaa123d3a2fa634bd5cbe096efbd97,S3M,false,197,0,2021-07-15T11:06:33.759446667+00:00,4,n/a,Wed 24th Nov 2004
 68996,present,mr-vel.s3m,M'r-Vel,171.65KB,c0b1106f4f3eabb8a6dfa46085dc3217,S3M,false,125,0,2021-07-15T11:06:34.565761733+00:00,16,n/a,Sun 6th Mar 2005
 68997,present,nostalgia.s3m,Nostalgia,146.39KB,f78803161770a5e483ff6ba4efd95816,S3M,false,136,0,2021-07-15T11:06:36.060553721+00:00,16,n/a,Mon 16th May 2005
-68998,present,playin_with_bells.s3m,Playin' with bells,...,138.78KB,6769a50662c0b8406edf4ae563224a3e,S3M,false,120,0,2021-07-15T11:06:37.861744978+00:00,16,n/a,Mon 13th Sep 2004
+68998,present,playin_with_bells.s3m,"Playin' with bells,...",138.78KB,6769a50662c0b8406edf4ae563224a3e,S3M,false,120,0,2021-07-15T11:06:37.861744978+00:00,16,n/a,Mon 13th Sep 2004
 68999,present,the_underground_beckons.s3m,The Underground Beckons-HM,432.71KB,bfa26a95851c4642d269f27c91b1efb3,S3M,false,271,0,2021-07-15T11:06:39.061122615+00:00,8,n/a,Tue 28th Dec 2004
 69000,present,the_unexplained.s3m,"the unexplained" - bliss,445.96KB,21e53a0e811abce155dae2bcb99260d1,S3M,false,143,0,2021-07-15T11:06:39.864974779+00:00,11,n/a,Mon 13th Sep 2004

@@ -383,7 +383,7 @@
 38383,present,bpest.xm,Streets of Budapest,779.17KB,9144959a7682dcda9ab141181342de83,XM,false,1184,0,2021-07-14T16:21:29.879595173+00:00,16,n/a,Fri 11th Jan 2002
 38384,present,command.xm,Axel F,163.34KB,d1a7d5c3c7576de3ca4fe8c6d707fab5,XM,false,921,0,2021-07-14T16:21:30.786291631+00:00,32,n/a,Sun 21st Sep 2003
 38385,present,bpopped.mod,ripped by steph...,140.30KB,b00cc6a47aa0163624c64da44538ba0b,MOD,false,151,0,2021-07-14T16:21:31.658864548+00:00,4,n/a,Mon 26th Jun 2000
-38386,present,commande.mod,star control2,tune4,65.50KB,607ba0475d7ad708fab9721efcd99443,MOD,false,314,0,2021-07-14T16:21:32.547821995+00:00,4,n/a,Thu 27th May 1999
+38386,present,commande.mod,"star control2,tune4",65.50KB,607ba0475d7ad708fab9721efcd99443,MOD,false,314,0,2021-07-14T16:21:32.547821995+00:00,4,n/a,Thu 27th May 1999
 38387,present,digins.it,~Digital Inspirations~,143.13KB,e45d9ce0a90bbad77fd94d7e644d995d,IT,false,1506,0,2021-07-14T16:21:33.261555172+00:00,15,Pop - Synth,Mon 23rd Jul 2001
 38388,present,br-swdr.it,Sweet Dreams,553.48KB,6800ca875a29adc5b2aecf47c2a2e395,IT,false,1066,0,2021-07-14T16:21:33.958768349+00:00,15,n/a,Thu 21st Nov 2002
 38389,present,commando.mod,commando.mod,79.24KB,3a739b3659ffaaa33ac76052b8bc344e,MOD,false,3770,0,2021-07-14T16:21:34.751728557+00:00,4,Chiptune,Fri 25th Sep 1998
@@ -404,7 +404,7 @@
 38404,present,br_billy.xm,Billy goes dancing,331.53KB,6a2ca7876f9f3d66d8ded5cc5f571b34,XM,false,2678,0,2021-07-14T16:21:50.868642926+00:00,8,Electronic - Dance,Wed 28th Jan 1998
 38405,present,commhisc.xm,commando highscore,9.08KB,74c39717efd922dcc93e55b5e240481d,XM,false,1180,0,2021-07-14T16:21:51.680676988+00:00,6,n/a,Sun 11th Jun 2000
 38406,present,digitala.mod,digital.audio,449.31KB,d517426b8719cdd76c101730df043962,MOD,false,960,0,2021-07-14T16:21:52.350139435+00:00,4,n/a,Sun 9th Jul 2000
-38407,present,br_combo.it,Life, Someone & What?,701.67KB,c252c566dbb7b641b625f270117be93f,IT,false,649,0,2021-07-14T16:21:53.082741362+00:00,21,n/a,Sun 15th Jun 2003
+38407,present,br_combo.it,"Life, Someone & What?",701.67KB,c252c566dbb7b641b625f270117be93f,IT,false,649,0,2021-07-14T16:21:53.082741362+00:00,21,n/a,Sun 15th Jun 2003
 38408,present,commodore3d.it,commodore 3D,28.87KB,1ab9a7ae076ed1eb6b60cea621ea8109,IT,false,840,0,2021-07-14T16:21:53.926254591+00:00,14,n/a,Sat 1st Jun 2002
 38409,present,digitalb.mod,digital bass-line,16.33KB,e998662ce9ef4a26d41b243307c2a25f,MOD,false,544,0,2021-07-14T16:21:54.667614851+00:00,4,n/a,Thu 4th Sep 2003
 38410,present,br_cry.it,We're Nobody (Cry 4 us),271.27KB,a3f0f3962650c64cc9aab914f3fbee3f,IT,false,675,0,2021-07-14T16:21:55.510847663+00:00,21,n/a,Sun 15th Jun 2003
@@ -503,7 +503,7 @@
 38503,present,brainpat.s3m,epidemic theme song.,131.67KB,c2587c86e19787142c190810f1ae5d05,S3M,false,1084,0,2021-07-14T16:23:12.452362322+00:00,16,n/a,Fri 28th Jul 2000
 38504,present,dinybrain.it,untitled,262.71KB,b0d327feccda3151870a6d2dda81bb31,IT,false,767,0,2021-07-14T16:23:13.157677998+00:00,7,n/a,Wed 3rd Jan 2001
 38505,present,compo-old.xm,Old druid droid,2.00MB,d260b9af92d0bf6406d14b62d7ca3b4b,XM,false,1851,0,2021-07-14T16:23:13.899102425+00:00,32,n/a,Thu 10th Jun 1999
-38506,present,brains.it,MORE BRAINS, PLEASE,606.62KB,f77826841558113f1a987c3bc21ff27b,IT,false,1362,0,2021-07-14T16:23:14.902943102+00:00,14,n/a,Tue 1st Dec 1998
+38506,present,brains.it,"MORE BRAINS, PLEASE",606.62KB,f77826841558113f1a987c3bc21ff27b,IT,false,1362,0,2021-07-14T16:23:14.902943102+00:00,14,n/a,Tue 1st Dec 1998
 38507,present,dionysus.xm,dionysus,542.47KB,3c28f382ba2218f8f9b2020658d40333,XM,false,3820,0,2021-07-14T16:23:16.125018362+00:00,24,Electronic - Techno,Sun 9th Feb 1997
 38508,present,compo-planet.it,Planet Ambient     [Tear],349.88KB,d72d6a158e49550e35a9837f59c96e48,IT,false,1511,0,2021-07-14T16:23:16.793974403+00:00,11,n/a,Tue 5th Jan 1999
 38509,present,brainstew.xm,brainstew.xm,538.00KB,b848ef844e6a8f4b9531ffe36e2c11f7,XM,false,1046,0,2021-07-14T16:23:17.479823465+00:00,16,n/a,Sat 16th Jun 2001
@@ -777,7 +777,7 @@
 38777,present,dizzy1ingame.xm,Dizzy 1 In Game Musi,962.26KB,f2435f2dfe7dfd3e38d375d95673a560,XM,false,882,0,2021-07-14T16:26:55.448991664+00:00,6,n/a,Tue 2nd Apr 2002
 38778,present,computer.mod,Computerization,120.60KB,a0896852d6acc24d7201d15e0ba14b57,MOD,false,802,2,2021-07-14T16:26:56.180916403+00:00,6,n/a,Thu 7th Aug 2003
 38779,present,bricollage.xm,.bricollage.,3.22MB,13f767aa0d48903858b1f4414a5290be,XM,false,429,0,2021-07-14T16:26:56.869890673+00:00,22,n/a,Mon 27th Sep 2004
-38780,present,dizzypotyf.xm,Dizzy, P. O .T. Y. F,277.62KB,9df9e7205ab9a744f62a069c11294433,XM,false,767,0,2021-07-14T16:26:57.657305673+00:00,4,n/a,Tue 2nd Apr 2002
+38780,present,dizzypotyf.xm,"Dizzy, P. O .T. Y. F",277.62KB,9df9e7205ab9a744f62a069c11294433,XM,false,767,0,2021-07-14T16:26:57.657305673+00:00,4,n/a,Tue 2nd Apr 2002
 38781,present,computer.xm,# Like Computermusic,249.77KB,6b0f5c039df9b2715e56802450f3d2d2,XM,false,2711,0,2021-07-14T16:26:58.349954058+00:00,8,Trance - Dream,Mon 26th Oct 1998
 38782,present,bridge.mod,bridge,145.41KB,b6c0db6e8c3cba3acd24e00de197f42a,MOD,false,7448,4,2021-07-14T16:26:59.033134162+00:00,4,Pop (general),Wed 1st Jan 1997
 38783,present,compwe2t.xm,computerwelt,297.19KB,b3dd38261041e4a9c22a2ac31402c1c7,XM,false,935,0,2021-07-14T16:26:59.758649422+00:00,14,n/a,Sun 9th Dec 2001
@@ -865,7 +865,7 @@
 38865,present,djb_perfvb.xm,The Perfect Vibe,3.17MB,9014230b6a382ac41cf9aafbd8e4d397,XM,false,2395,0,2021-07-14T16:28:04.233510075+00:00,58,Electronic - Dance,Sat 1st Jun 2002
 38866,present,connan.s3m,Conan O'Brian,195.15KB,271751329f85db0a4400bdd9b73fce08,S3M,false,1335,0,2021-07-14T16:28:04.919970700+00:00,16,n/a,Wed 3rd Feb 1999
 38867,present,broad_p.xm,broad_p.xm,2.30MB,141b6e96bbeac352f28be892f2e38b81,XM,false,1063,0,2021-07-14T16:28:05.732170231+00:00,32,n/a,Tue 10th Apr 2001
-38868,present,djb_perfvb2.it,The Perfect Vibe, Part II,5.47MB,edcc78d77a68af9da04629203fd5383b,IT,false,3168,1,2021-07-14T16:28:06.517444501+00:00,48,Electronic - Dance,Mon 3rd Jun 2002
+38868,present,djb_perfvb2.it,"The Perfect Vibe, Part II",5.47MB,edcc78d77a68af9da04629203fd5383b,IT,false,3168,1,2021-07-14T16:28:06.517444501+00:00,48,Electronic - Dance,Mon 3rd Jun 2002
 38869,present,connect.mod,Right Connections,203.96KB,be97ee0e7d37e7f1b20aacc7cc7b4a23,MOD,false,288,0,2021-07-14T16:28:07.339158459+00:00,4,n/a,Sun 23rd Jan 2005
 38870,present,brofun.xm,BROTHER  FUN,350.55KB,2f01499ff8799d05dd94f238b3d80331,XM,false,1531,0,2021-07-14T16:28:08.065037782+00:00,8,n/a,Sun 30th Aug 1998
 38871,present,djb_tranflw.it,TranceFlow Megamix Vol. I,3.56MB,e274d13f69fa6805e494275229eadbd9,IT,false,3016,1,2021-07-14T16:28:08.880949656+00:00,45,Trance (general),Sat 1st Jun 2002
@@ -914,10 +914,10 @@
 38914,present,brqdnmix.mod,The humungamix2-eh?,337.40KB,bec79bba4037cc60865c9fa87526bc97,MOD,false,706,0,2021-07-14T16:28:45.543714434+00:00,4,n/a,Wed 13th Nov 2002
 38915,present,contact.it,MEL -Contact,1.14MB,1d13ba003c97f1d1a9e2156b610fe4fd,IT,false,1090,0,2021-07-14T16:28:46.538105527+00:00,16,n/a,Fri 6th Feb 1998
 38916,present,brs.mod,brs,59.08KB,c48672c32fc9ff08ffb7fde7f5ea8880,MOD,false,340,0,2021-07-14T16:28:47.359577767+00:00,4,n/a,Mon 26th Jun 2000
-38917,present,djbourg_05.xm,Peace, Love & Rhythm,731.66KB,c3fa1789ceb93b40ea642f941e0f7f9b,XM,false,2191,1,2021-07-14T16:28:48.141995527+00:00,40,Electronic - Dance,Mon 13th Aug 2001
+38917,present,djbourg_05.xm,"Peace, Love & Rhythm",731.66KB,c3fa1789ceb93b40ea642f941e0f7f9b,XM,false,2191,1,2021-07-14T16:28:48.141995527+00:00,40,Electronic - Dance,Mon 13th Aug 2001
 38918,present,contact.mod,contact,7.36KB,4f6e8af285b06795b1ba57dec9829a00,MOD,false,498,0,2021-07-14T16:28:49.000001360+00:00,4,n/a,Sun 23rd Nov 2003
 38919,present,brthdeep.mod,## breathe deep ##,135.23KB,d3c1564aec2a31f49b31696abdf11297,MOD,false,2181,1,2021-07-14T16:28:49.985726099+00:00,4,n/a,Tue 15th Feb 2000
-38920,present,djbourg_05_club.xm,Peace, Love & Rhythm,551.71KB,80610ba8c05459d8e5ab5e7e7e70933e,XM,false,2281,1,2021-07-14T16:28:51.637141203+00:00,34,Electronic - Dance,Mon 13th Aug 2001
+38920,present,djbourg_05_club.xm,"Peace, Love & Rhythm",551.71KB,80610ba8c05459d8e5ab5e7e7e70933e,XM,false,2281,1,2021-07-14T16:28:51.637141203+00:00,34,Electronic - Dance,Mon 13th Aug 2001
 38921,present,contact.xm,robbas-clan,510.56KB,b5a3c0cc6978071ef9833c2cd1905bdc,XM,false,905,0,2021-07-14T16:28:53.155844379+00:00,26,n/a,Mon 22nd May 2000
 38922,present,bruce.it,THE LAST DRAGON,1.26MB,b3671e5048d649850613a1f36e55cce9,IT,false,1271,0,2021-07-14T16:28:54.086239431+00:00,11,n/a,Fri 8th Dec 2000
 38923,present,djbourg_06.xm,The Remaining Day,544.62KB,29d47ca1e7c12f379c2ba2de7f11a2fc,XM,false,2117,1,2021-07-14T16:28:54.759188962+00:00,20,Electronic - Dance,Mon 13th Aug 2001
@@ -967,7 +967,7 @@
 38967,present,djbourg_12.it,Lost In Universe (DN2),1.65MB,686d02052b0b59533fa0d343c7cef0d0,IT,false,3259,2,2021-07-14T16:29:40.470719049+00:00,50,Trance (general),Sun 13th Jan 2002
 38968,present,bse_2.mod,bse ii,47.96KB,70a04be147d56716e17591825d3f2dd8,MOD,false,170,0,2021-07-14T16:29:41.199376861+00:00,4,n/a,Mon 26th Jun 2000
 38969,present,contrst2.mod,contrast your body2,117.06KB,70fa151b5343760134e0d39ca509744c,MOD,false,1037,0,2021-07-14T16:29:41.934983527+00:00,4,n/a,Mon 26th Jun 2000
-38970,present,bsh2h.it,Body, Soul, Heart 2 Heart,332.23KB,0477a686ee548f2eafe89158ba1d2014,IT,false,1646,0,2021-07-14T16:29:42.820852381+00:00,14,n/a,Thu 12th Nov 1998
+38970,present,bsh2h.it,"Body, Soul, Heart 2 Heart",332.23KB,0477a686ee548f2eafe89158ba1d2014,IT,false,1646,0,2021-07-14T16:29:42.820852381+00:00,14,n/a,Thu 12th Nov 1998
 38971,present,djbourg_13.it,Confused Sight (Album),852.20KB,dd1160f844417e8e8e10608c9c915ad8,IT,false,1904,1,2021-07-14T16:29:43.562405402+00:00,40,Trance (general),Sat 1st Jun 2002
 38972,present,bsl.it,Bitter Sweet Love,1.64MB,1791b595a79d47f71bdea1d620610f9a,IT,false,1664,0,2021-07-14T16:29:44.329049516+00:00,50,Pop (general),Tue 17th Dec 2002
 38973,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T16:29:45.082876286+00:00,0,n/a,Thu 1st Jan 1970

@@ -82,7 +82,7 @@
 49082,present,magvamp.xm,vampire bash,1.08MB,0a06b793e7773f8090295c642acfb55e,XM,false,2101,0,2021-07-14T18:50:45.528016469+00:00,32,Electronic - Techno,Wed 17th Feb 1999
 49083,present,n-legend.s3m,-■Legendary■-,263.81KB,3c6ab407f37dbff90d0b8bc87f2e3dd8,S3M,false,1280,0,2021-07-14T18:50:47.332499280+00:00,11,n/a,Thu 1st Mar 2001
 49084,present,magysdic.xm,Moby's **** by ToK,653.32KB,a1214e6b5dd4d9901f60e27ca1f936c5,XM,false,1336,0,2021-07-14T18:50:49.254663603+00:00,8,Electronic - Ambient,Fri 6th Aug 1999
-49085,present,lovesex.mod,love, *** etc...,13.98KB,2e13e2a755a38b643737899f5ac2e35f,MOD,false,660,0,2021-07-14T18:50:50.504043290+00:00,4,Chiptune,Wed 19th Nov 2003
+49085,present,lovesex.mod,"love, *** etc...",13.98KB,2e13e2a755a38b643737899f5ac2e35f,MOD,false,660,0,2021-07-14T18:50:50.504043290+00:00,4,Chiptune,Wed 19th Nov 2003
 49086,present,n-matic.xm,Neo-O-Matic,116.08KB,71a57a6648bd64b10835f3c3bf9ac728,XM,false,1194,0,2021-07-14T18:50:52.116902351+00:00,18,n/a,Sun 19th Mar 2000
 49087,present,lovesng.it,The Love song 01 Memories,66.19KB,fca20e80f85e5ad1a53e13deb1ac5785,IT,false,365,0,2021-07-14T18:50:52.883320580+00:00,27,n/a,Tue 18th Nov 2003
 49088,present,mahafrught.xm,untitled,331.07KB,4ad20bd5950a1bc83d2a7248ee22fa1d,XM,false,618,0,2021-07-14T18:50:53.585982143+00:00,16,n/a,Mon 1st Apr 2002
@@ -302,7 +302,7 @@
 49302,present,n_tfxwl.xm,Theme from Xenox,989.64KB,5dafc007936f4f594f5bf210aa8de036,XM,false,656,0,2021-07-14T18:55:49.778354946+00:00,32,n/a,Sat 27th Oct 2001
 49303,present,lsky.it,LOVE Sky,2.72MB,668ada05e85baceba3b7619b7c0f94a2,IT,false,669,0,2021-07-14T18:55:50.658447967+00:00,28,n/a,Fri 26th Jul 2002
 49304,present,manga.mod,time for manga !!!,124.76KB,a52fef3cb42904e6d6c8ac8e92340bd9,MOD,false,1098,1,2021-07-14T18:55:51.608985623+00:00,4,n/a,Sun 15th Jun 2003
-49305,present,n_titan.s3m,Fanfare, Fantasy & Fate,309.39KB,57694b1a7d6b1db9cddff17a06c68a28,S3M,false,3489,0,2021-07-14T18:55:52.395324529+00:00,16,Orchestral,Mon 24th Aug 1998
+49305,present,n_titan.s3m,"Fanfare, Fantasy & Fate",309.39KB,57694b1a7d6b1db9cddff17a06c68a28,S3M,false,3489,0,2021-07-14T18:55:52.395324529+00:00,16,Orchestral,Mon 24th Aug 1998
 49306,present,lsr8bit.xm,Liquid Skies,2.11MB,a81e345c6801d7f73b198f006b59be56,XM,false,1437,2,2021-07-14T18:55:53.961927861+00:00,32,n/a,Sat 24th Jul 1999
 49307,present,manga_blacksphere.xm,Black Sphere,1.50MB,6e647f630cce3d1afb03144ba04707a0,XM,false,3801,0,2021-07-14T18:55:54.706345309+00:00,16,Soundtrack,Sat 14th Feb 1998
 49308,present,n_trap.xm,The Love Trap RMX,1.53MB,063294e256f9ecb18a9cad9fcb01331f,XM,false,704,0,2021-07-14T18:55:55.441637132+00:00,32,Pop - Synth,Sun 15th Jun 2003
@@ -379,11 +379,11 @@
 49379,present,ltgargoyle.xm,-=< Gargoyle >=-,938.02KB,c11071ea0ff7ab5bd1316827ad51856a,XM,false,1020,0,2021-07-14T18:57:08.141945021+00:00,12,n/a,Wed 8th Nov 2000
 49380,present,mantra01.s3m,The first Mantra. Tjoi Kam,234.27KB,d63ee2cc72c3328c74450067db238f2c,S3M,false,2299,1,2021-07-14T18:57:08.976319864+00:00,16,Electronic - Ambient,Tue 24th Mar 1998
 49381,present,ltlet.xm,Little Tune (Le Doc),539.12KB,48e5ee33998309bd22210d52fa7a5186,XM,false,425,0,2021-07-14T18:57:09.808809812+00:00,12,n/a,Sun 21st Sep 2003
-49382,present,mantra02.s3m,The Second Mantra, Shai Tsi,243.74KB,f79e777d94b82c2edfc10df12d9b3949,S3M,false,1848,0,2021-07-14T18:57:10.525040280+00:00,16,Trance (general),Tue 24th Mar 1998
+49382,present,mantra02.s3m,"The Second Mantra, Shai Tsi",243.74KB,f79e777d94b82c2edfc10df12d9b3949,S3M,false,1848,0,2021-07-14T18:57:10.525040280+00:00,16,Trance (general),Tue 24th Mar 1998
 49383,present,nany.it,Nany,222.01KB,caf194f18fda0a6e5103c597131b902c,IT,false,1787,0,2021-07-14T18:57:12.925794290+00:00,7,Rock (general),Mon 21st Jun 1999
 49384,present,ltlife.xm,==LIVE==,923.60KB,ba29bdb681baea3c9e7c2f06c3dd122e,XM,false,314,0,2021-07-14T18:57:13.709650800+00:00,14,n/a,Thu 7th Aug 2003
 49385,present,nao-groove.mod,nao groove,125.90KB,4c1b32ed90e264001ee988e38d2eeee2,MOD,false,624,0,2021-07-14T18:57:14.426274133+00:00,4,n/a,Fri 17th May 2002
-49386,present,mantra03.s3m,The third Mantra, M'teso,303.17KB,1fb5720f84f76995a04c504be5956741,S3M,false,1597,0,2021-07-14T18:57:15.196061216+00:00,16,Electronic - Techno,Tue 24th Mar 1998
+49386,present,mantra03.s3m,"The third Mantra, M'teso",303.17KB,1fb5720f84f76995a04c504be5956741,S3M,false,1597,0,2021-07-14T18:57:15.196061216+00:00,16,Electronic - Techno,Tue 24th Mar 1998
 49387,present,naproach.xm,DueDel,1.16MB,c74076a331893ff5ffb294467ff388df,XM,false,1390,1,2021-07-14T18:57:15.892681893+00:00,16,n/a,Tue 13th Jul 1999
 49388,present,ltlsynth.xm,little synth track,325.33KB,c0587a4497515e23145a487e2c4c0e31,XM,false,784,0,2021-07-14T18:57:16.571976996+00:00,10,n/a,Fri 9th Feb 2001
 49389,present,mantra04.s3m,The fourth mantra ; Taj Lan,153.16KB,96c97b08ee63df092798fd05a17b0e6d,S3M,false,1626,0,2021-07-14T18:57:17.268536580+00:00,16,Trance (general),Tue 24th Mar 1998
@@ -418,7 +418,7 @@
 49418,present,nastypig.mod,nasty pig,466.26KB,0078d7f1116ccfb3c529bf6f09500b6a,MOD,false,393,0,2021-07-14T18:57:41.418510060+00:00,4,n/a,Sat 9th Aug 2003
 49419,present,marafigh.xm,The Marauders Fight,423.74KB,f620cb95be6d0fcf193d0c662860243c,XM,false,1013,0,2021-07-14T18:57:42.380796830+00:00,32,Electronic - Ambient,Sat 22nd Dec 2001
 49420,present,lucid_ii.mod,LUCID_II     G,367.91KB,d61ef606e4cb8a59386acd87f0f6a11d,MOD,false,740,0,2021-07-14T18:57:43.089184851+00:00,4,n/a,Fri 9th Feb 2001
-49421,present,national.xm,Du gamla, du fria.,555.31KB,2b013263341eb799664c8bfbbe4be1a8,XM,false,2669,0,2021-07-14T18:57:43.777345528+00:00,16,Electronic - Dance,Sun 20th Jun 1999
+49421,present,national.xm,"Du gamla, du fria.",555.31KB,2b013263341eb799664c8bfbbe4be1a8,XM,false,2669,0,2021-07-14T18:57:43.777345528+00:00,16,Electronic - Dance,Sun 20th Jun 1999
 49422,present,lucid_x.s3m,Lucid Dreams,151.79KB,a1ac13fe1e043533a991d51b74e2eb06,S3M,false,667,0,2021-07-14T18:57:45.178346204+00:00,12,Pop - Synth,Mon 18th Jul 2005
 49423,present,marble.xm,Marble,1.03MB,eac249a6cbd92e5a744f1921261b4134,XM,false,4680,3,2021-07-14T18:57:45.878557767+00:00,16,Electronic - Drum &amp; Bass,Sat 19th Jun 1999
 49424,present,nations.xm,nuke the nations,163.23KB,2717f791b1c8ea7751437e9904c67f11,XM,false,755,0,2021-07-14T18:57:46.914299433+00:00,16,n/a,Sun 16th Dec 2001
@@ -504,7 +504,7 @@
 49504,present,luna3.xm,The Shards,1.33MB,9cd18547cf08200feb6113b9fd69d94a,XM,true,7311,0,2021-07-14T18:59:09.442794297+00:00,32,Electronic - Ambient,Wed 8th Nov 2000
 49505,present,mario3.s3m,Song generated by NESMusa,9.68KB,3cce75f5379a8ca071dac6405c133545,S3M,false,4591,1,2021-07-14T18:59:10.218569297+00:00,4,Chiptune,Mon 5th Jul 1999
 49506,present,lunab1.xm,Luna B,540.90KB,7c2c33b3f35e1e359060bab0a999d41a,XM,false,1203,0,2021-07-14T18:59:11.325246953+00:00,16,Pop - Synth,Mon 28th Feb 2000
-49507,present,nature-friek2pan.it,Nature Friek, Nature-friek,1.83MB,4b730c26d5dc090a6b37206a5a803f2a,IT,false,348,0,2021-07-14T18:59:12.056565390+00:00,21,n/a,Sun 23rd Nov 2003
+49507,present,nature-friek2pan.it,"Nature Friek, Nature-friek",1.83MB,4b730c26d5dc090a6b37206a5a803f2a,IT,false,348,0,2021-07-14T18:59:12.056565390+00:00,21,n/a,Sun 23rd Nov 2003
 49508,present,mario666.it,Mario666 - ndelay,45.5KB,8febd305a7bc106fc8c7455841202cf1,IT,false,1185,1,2021-07-14T18:59:12.897516275+00:00,10,n/a,Sun 25th Aug 2002
 49509,present,nature.it,- A termeszet torvenye -,310.70KB,488ef0fc2291ceeb2708b3deedf1beaa,IT,false,223,0,2021-07-14T18:59:13.568321691+00:00,11,n/a,Fri 21st Jan 2005
 49510,present,lunapark.xm,LunaPark 5:37mn,1.18MB,c9d8ea9080f258413fd2fec44cbe6aa0,XM,false,423,0,2021-07-14T18:59:14.257433566+00:00,16,n/a,Thu 30th Jan 2003
@@ -592,7 +592,7 @@
 49592,present,marvell.mod,marvellous man,65.97KB,fe03b0e822e89ec0c4a294a1b7b68e2a,MOD,false,656,0,2021-07-14T19:00:29.876976141+00:00,4,n/a,Sun 2nd Jul 2000
 49593,present,marvyn.mod,marvyn.mod,60.96KB,57368676452d44cedbac986a0aa46c08,MOD,false,701,0,2021-07-14T19:00:30.570260047+00:00,4,n/a,Sun 2nd Jul 2000
 49594,present,nb_flame.s3m,Prophecy In Flames    (NB),1021.29KB,8e408228839d51e1bfef24acc7def90c,S3M,true,5048,3,2021-07-14T19:00:31.339519995+00:00,16,Electronic - Ambient,Thu 19th Jun 1997
-49595,present,luvliv4u.xm,I love, I live For U,135.85KB,9fec5a2ade7d5feb09bd914e4ba7ad4e,XM,false,1347,0,2021-07-14T19:00:32.031829578+00:00,10,Rock (general),Wed 7th Jul 1999
+49595,present,luvliv4u.xm,"I love, I live For U",135.85KB,9fec5a2ade7d5feb09bd914e4ba7ad4e,XM,false,1347,0,2021-07-14T19:00:32.031829578+00:00,10,Rock (general),Wed 7th Jul 1999
 49596,present,luvlovehate.it,Luv You Love You Hate You,391.50KB,5e5b397ba2d075fba47c524484437381,IT,false,1685,0,2021-07-14T19:00:32.711829265+00:00,12,Pop (general),Sun 29th Jul 2001
 49597,present,maryjane.mod,Mary Jane,30.98KB,cd7b03325ee6a3837a5eef2ee78fab80,MOD,false,379,0,2021-07-14T19:00:33.476632598+00:00,4,n/a,Tue 18th Nov 2003
 49598,present,nb_frgm.it,Fragments (NB),857.23KB,d439ccc067be6b609756e9654f796d0d,IT,true,1900,3,2021-07-14T19:00:34.286241713+00:00,29,Pop - Synth,Thu 7th Apr 2005
@@ -887,7 +887,7 @@
 49887,present,mck-epm1.xm,evil peikko makunen,648.28KB,9ce4cddbdc4eb1821fc91d338224eb6e,XM,false,527,0,2021-07-14T19:05:43.772900293+00:00,16,n/a,Thu 28th Feb 2002
 49888,present,OUTOFPH.XM,* OUT OF PHASE *,417.19KB,3745551faa18215a1a1fae604d0c99b3,XM,false,2184,0,2021-07-14T19:05:44.462042011+00:00,12,n/a,Sun 24th Dec 2000
 49889,present,neo-digrev.xm,neo-digrev.xm,637.97KB,38bb1dcfe91796a26618921da96bb20e,XM,false,408,0,2021-07-14T19:05:45.188921855+00:00,18,n/a,Thu 14th Nov 2002
-49890,present,mck-gena.xm,mä, ja mun isä,651.04KB,f27a2a356a4abb83d1d64df97cea8c67,XM,false,439,0,2021-07-14T19:05:46.270897062+00:00,12,n/a,Thu 28th Feb 2002
+49890,present,mck-gena.xm,"mä, ja mun isä",651.04KB,f27a2a356a4abb83d1d64df97cea8c67,XM,false,439,0,2021-07-14T19:05:46.270897062+00:00,12,n/a,Thu 28th Feb 2002
 49891,present,OVERLOAD.XM,OVERLOAD.XM,505.14KB,ca5b4f03350b0a64539d3a6cd8ef319b,XM,false,3190,0,2021-07-14T19:05:47.538607374+00:00,8,Electronic - Techno,Sun 24th Dec 2000
 49892,present,neo-fire.s3m,Fire On The Horizon,258.74KB,d5c08f156ba6d54aa76639f256e26d13,S3M,false,5009,0,2021-07-14T19:05:48.315901541+00:00,11,Fantasy,Wed 1st Jan 1997
 49893,present,mck-hops.xm,my heart beats...,279.83KB,df30d5ca1f34a3fd3f943ad683b5c832,XM,false,539,0,2021-07-14T19:05:49.015725603+00:00,20,n/a,Thu 28th Feb 2002

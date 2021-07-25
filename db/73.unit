@@ -26,7 +26,7 @@
 72026,present,an_aboriginal_breaks_it_dow.s3m,An aboriginal breaks it dow,432.33KB,e33b3078e112c2112e3c2105605454bd,S3M,false,178,0,2021-07-15T11:37:48.263035939+00:00,16,n/a,Sat 12th Feb 2005
 72027,present,an_acerbic_study_of_sounds.s3m,an acerbic study of sounds,462.73KB,a4ae5ab08dfe498d31f511fb51773537,S3M,false,984,0,2021-07-15T11:37:49.072612710+00:00,15,Electronic - Breakbeat,Mon 13th Sep 2004
 72028,present,fountain_riv_demo.s3m,Fountain (RiV demo),120.85KB,67eed1f321c1ebc02bb76beb0c5a1917,S3M,false,194,0,2021-07-15T11:37:49.787307293+00:00,5,n/a,Sat 12th Feb 2005
-72029,present,in_the_sky_i_fly_high.s3m,In the sky, i fly high!,370.79KB,a4e8ca346610fb8f7657074fcb021f4e,S3M,false,174,0,2021-07-15T11:37:50.519928022+00:00,16,n/a,Sat 8th Jul 1995
+72029,present,in_the_sky_i_fly_high.s3m,"In the sky, i fly high!",370.79KB,a4e8ca346610fb8f7657074fcb021f4e,S3M,false,174,0,2021-07-15T11:37:50.519928022+00:00,16,n/a,Sat 8th Jul 1995
 72030,present,lords_of_lightning.s3m,Lords of Lightning,745.04KB,cb8e4f6dd17dc50cdb8966265e6c9ad4,S3M,false,155,0,2021-07-15T11:37:51.268605886+00:00,15,n/a,Thu 10th Jun 1999
 72031,present,nobody_needs_envelopes.s3m,nobody needs envelopes,615.39KB,151b9d50185b999e4d25b49ebfb447c6,S3M,false,167,0,2021-07-15T11:37:51.980288855+00:00,16,n/a,Sun 19th Oct 1997
 72032,present,bolz-zone1_l4.s3m,MConv 1.00 (C)`96 by JΘNas,247.89KB,3375197dea24a5fe2b24fe17ef73d492,S3M,false,192,0,2021-07-15T11:37:52.712786563+00:00,12,n/a,Fri 30th Nov 2001
@@ -125,7 +125,7 @@
 72125,present,prisoner_of_love.s3m,Prisoner of Love,325.80KB,baf995c82d7269e0a5fceb0b65a5b809,S3M,false,171,0,2021-07-15T11:39:31.121555119+00:00,16,n/a,Sat 26th Feb 2005
 72126,present,ambient_interlude_by_replay.s3m,Ambient Interlude by Replay,182.66KB,ddb5f6613eb0f40795441fda40bda774,S3M,false,319,0,2021-07-15T11:39:31.785740119+00:00,10,n/a,Mon 13th Sep 2004
 72127,present,ambient_one_night_voices.s3m,Ambient One (Night Voices),112.61KB,a4d618530d2fc1c188a96e341f63f21a,S3M,false,301,0,2021-07-15T11:39:32.589773608+00:00,16,n/a,Mon 7th Mar 2005
-72128,present,crammed_again_xmash_style.s3m,crammed again, xmash style,357.27KB,ffa8ecffb4774b28967545c5424f5e28,S3M,false,147,0,2021-07-15T11:39:33.372283608+00:00,8,n/a,Mon 13th Sep 2004
+72128,present,crammed_again_xmash_style.s3m,"crammed again, xmash style",357.27KB,ffa8ecffb4774b28967545c5424f5e28,S3M,false,147,0,2021-07-15T11:39:33.372283608+00:00,8,n/a,Mon 13th Sep 2004
 72129,present,extasia_sole.s3m,extasia / sole,549.46KB,b064588411862876eb9021da22be76e3,S3M,false,182,0,2021-07-15T11:39:34.214056628+00:00,16,n/a,Wed 29th Sep 2004
 72130,present,ilchester_94.s3m,ilchester '94,248.32KB,ed52600fb08520faec8d8c633fe0ee0f,S3M,false,205,0,2021-07-15T11:39:34.982704284+00:00,16,n/a,Mon 13th Sep 2004
 72131,present,la_siesta_fiestal_fatal.s3m,La Siesta Fiestal Fatal,203.11KB,da3d6cc34691bd884f88ba06a656c35b,S3M,false,177,0,2021-07-15T11:39:35.712664023+00:00,10,n/a,Tue 21st Mar 1995
@@ -316,7 +316,7 @@
 72316,present,telltale_hearts.s3m,Telltale Hearts,223.57KB,f9c3008d123d603716d304a7b687d2e0,S3M,false,140,0,2021-07-15T11:42:22.175511668+00:00,16,n/a,Tue 23rd Aug 2005
 72317,present,temp.s3m,temp,411.04KB,8f0ddd7256e596f692e442e624df68e4,S3M,false,161,0,2021-07-15T11:42:23.246073803+00:00,16,n/a,Mon 13th Sep 2004
 72318,present,temple_of_the_unseen.s3m,Temple of the Unseen,184.63KB,73ae6419266d27e652d2a66a2d3aadf1,S3M,false,421,1,2021-07-15T11:42:23.927743334+00:00,16,n/a,Sat 12th Feb 2005
-72319,present,tempo_sb_89_gus_8c.s3m,Tempo SB 89, GUS 8C,234.90KB,c77f95831052a0462d4cdb8e7240f637,S3M,false,345,0,2021-07-15T11:42:25.094135625+00:00,16,Electronic - Techno,Mon 13th Sep 2004
+72319,present,tempo_sb_89_gus_8c.s3m,"Tempo SB 89, GUS 8C",234.90KB,c77f95831052a0462d4cdb8e7240f637,S3M,false,345,0,2021-07-15T11:42:25.094135625+00:00,16,Electronic - Techno,Mon 13th Sep 2004
 72320,present,temporal_disturbance.s3m,Temporal Disturbance,326.59KB,97fe221205d524ab026c6492c1e2bd78,S3M,false,167,0,2021-07-15T11:42:25.785537240+00:00,8,n/a,Mon 13th Sep 2004
 72321,present,tetera.s3m,TETERA,418.08KB,d668b7b1523650a0ce0921c821f3fa06,S3M,false,150,0,2021-07-15T11:42:26.486868854+00:00,10,n/a,Mon 13th Sep 2004
 72322,present,all_these_worlds.s3m,All these worlds,427.39KB,721f34e1aa143743a2ac0474dd54f7b2,S3M,false,190,0,2021-07-15T11:42:27.213746822+00:00,16,n/a,Tue 23rd Aug 2005
@@ -552,7 +552,7 @@
 72552,present,alien_image.s3m,Alien Image,200.40KB,27f1afff848573ccbb462e613a642463,S3M,false,230,0,2021-07-15T11:45:43.113861487+00:00,10,n/a,Sun 12th Nov 1995
 72553,present,erosion_fast_mix.s3m,Erosion (Fast Mix),561.45KB,c3f61e5743d95e81b32beb3101f3932c,S3M,false,455,0,2021-07-15T11:45:44.718825080+00:00,16,n/a,Mon 13th Sep 2004
 72554,present,funkified.s3m,Funkified,151.27KB,fde3e551b4beb4eada7f417a516b5b6c,S3M,false,158,0,2021-07-15T11:45:45.467125393+00:00,32,n/a,Mon 7th Mar 2005
-72555,present,ja_ich_bin_ein_stahlman.s3m,Ja, ich bin ein Stahlman.,251.36KB,fd0ed9b2508e18bc78e4ec6ff32d2204,S3M,false,127,0,2021-07-15T11:45:46.246024559+00:00,12,n/a,Sat 26th Feb 2005
+72555,present,ja_ich_bin_ein_stahlman.s3m,"Ja, ich bin ein Stahlman.",251.36KB,fd0ed9b2508e18bc78e4ec6ff32d2204,S3M,false,127,0,2021-07-15T11:45:46.246024559+00:00,12,n/a,Sat 26th Feb 2005
 72556,present,ritualism_of_space.s3m,Ritualism of Space,859.23KB,1f74d0917a39679ccb11b9fd51328933,S3M,false,126,0,2021-07-15T11:45:47.117932527+00:00,16,n/a,Sun 12th Nov 1995
 72557,present,transposition.s3m,transposition.s3m,366.60KB,aac5b8979b0f608b5576bf783db4b091,S3M,false,142,0,2021-07-15T11:45:47.843708985+00:00,8,n/a,Mon 13th Sep 2004
 72558,present,trantor_ii.s3m,TRANTOR II,129.91KB,15c84820b777f44ce4cd8689cb5c186e,S3M,false,154,0,2021-07-15T11:45:48.542257058+00:00,9,n/a,Mon 13th Sep 2004
@@ -622,7 +622,7 @@
 72622,present,hollowfibre.s3m,hollowfibre,1007.20KB,126a77dfda4dbafe47350b3153023c64,S3M,false,137,0,2021-07-15T11:46:42.637544538+00:00,16,n/a,Mon 7th Mar 2005
 72623,present,kickin_back.s3m,Kickin' Back,368.19KB,e4bce81c4db02c1bc5e9360772b4e398,S3M,false,142,0,2021-07-15T11:46:43.484917766+00:00,16,n/a,Sat 8th Dec 2001
 72624,present,mental1.s3m,mental1.s3m,52.75KB,9bd7e8a57f8562ef887084bfc79afab0,S3M,false,172,0,2021-07-15T11:46:44.192928391+00:00,8,n/a,Sat 26th Feb 2005
-72625,present,no_future-no_mercy.s3m,No Future, no mercy,217.12KB,f675bc83b262576960659d9bf96d4fdd,S3M,false,156,0,2021-07-15T11:46:44.880510943+00:00,16,n/a,Tue 23rd Aug 2005
+72625,present,no_future-no_mercy.s3m,"No Future, no mercy",217.12KB,f675bc83b262576960659d9bf96d4fdd,S3M,false,156,0,2021-07-15T11:46:44.880510943+00:00,16,n/a,Tue 23rd Aug 2005
 72626,present,pinball_world_-_apollo.s3m,world_apollo,144.20KB,63bc3afde9b3a7b968d285e52e694380,S3M,false,421,0,2021-07-15T11:46:45.577108651+00:00,4,n/a,Mon 26th Sep 2005
 72627,present,unreal_-_nightvision.s3m,Nightvision - Sandman/KFM,673.24KB,6de0c061246bf633dcba5495e341ee0f,S3M,false,598,0,2021-07-15T11:46:46.373101776+00:00,16,n/a,Mon 13th Sep 2004
 72628,present,unreal_-_something_part.s3m,unreal_-_something_part.s3m,122.64KB,753ecf4583a1b022d410be6954414812,S3M,false,3537,1,2021-07-15T11:46:47.113489484+00:00,8,Orchestral,Mon 12th Feb 2007
@@ -636,11 +636,11 @@
 72636,present,candy_tee.s3m,Candy Tee,158.80KB,b54bef1fd64316cdf57b6cddad5d28ba,S3M,false,175,0,2021-07-15T11:46:53.096587502+00:00,16,n/a,Sun 6th Mar 2005
 72637,present,dark_slides_-_cd_95.s3m,dark slides - cd 95,201.89KB,a00faa610ce43de7c4730616cbcd3618,S3M,false,210,0,2021-07-15T11:46:53.798773856+00:00,16,n/a,Sat 26th Feb 2005
 72638,present,eet-b3.s3m,eet-b3,52.63KB,2c60dc2497a376aa643d764d42103c7c,S3M,false,310,0,2021-07-15T11:46:54.577865939+00:00,6,n/a,Mon 13th Sep 2004
-72639,present,goodnight_my_heart.s3m,Goodnight, my heart...,245.10KB,17f1c8fa899903251b43b4c90a282525,S3M,false,168,0,2021-07-15T11:46:55.281679637+00:00,10,n/a,Mon 13th Sep 2004
+72639,present,goodnight_my_heart.s3m,"Goodnight, my heart...",245.10KB,17f1c8fa899903251b43b4c90a282525,S3M,false,168,0,2021-07-15T11:46:55.281679637+00:00,10,n/a,Mon 13th Sep 2004
 72640,present,impression_by_jclunknown.s3m,Impression by Jcl/Unknown,273.55KB,ac972df2fcf6e1785788a893cb6415a8,S3M,false,238,0,2021-07-15T11:46:56.287078126+00:00,16,n/a,Mon 13th Sep 2004
 72641,present,loss.s3m,Loss,139.32KB,1e432fc00c46a4dd27d8cc4f948cc4e3,S3M,false,373,0,2021-07-15T11:46:57.087813230+00:00,16,n/a,Mon 13th Sep 2004
 72642,present,o-93946.s3m,o-93946,353.86KB,79c4e186252b623218805e7525b19cf2,S3M,false,331,0,2021-07-15T11:46:57.822322396+00:00,10,n/a,Mon 13th Sep 2004
-72643,present,platoon_title_music.s3m,-=Platoon, Title Music=-,134.45KB,9ea2beca36f023bfcf7cb69b6c39b29a,S3M,false,275,0,2021-07-15T11:46:59.281233489+00:00,4,n/a,Tue 17th Jul 2001
+72643,present,platoon_title_music.s3m,"-=Platoon, Title Music=-",134.45KB,9ea2beca36f023bfcf7cb69b6c39b29a,S3M,false,275,0,2021-07-15T11:46:59.281233489+00:00,4,n/a,Tue 17th Jul 2001
 72644,present,sweet_sikos.s3m,Sweet / Sikos,190.93KB,ab7d980a56a83b89b29192df200d1b04,S3M,false,118,0,2021-07-15T11:47:00.021825260+00:00,9,n/a,Tue 23rd Aug 2005
 72645,present,sweet_vasodilation.s3m,Sweet Vasodilation,109.05KB,129448a72ef1b87aa7758db893760355,S3M,false,128,0,2021-07-15T11:47:00.721587135+00:00,16,n/a,Sat 12th Feb 2005
 72646,present,sweetheart.s3m,Sweetheart,237.57KB,e0c6ac8372791caf0e7328a9d7098e92,S3M,false,126,0,2021-07-15T11:47:01.462769166+00:00,10,n/a,Fri 14th Jan 1994
@@ -734,7 +734,7 @@
 72734,present,i_like_her_q.s3m,I like her Q,72.73KB,169bc0e5ee851745d603f57acf5f3d67,S3M,false,462,1,2021-07-15T11:48:11.741273410+00:00,16,n/a,Sat 7th Feb 1998
 72735,present,light_of_the_mind.s3m,Light of the Mind,392.57KB,1010d684461dc5657a404af5cf47ef70,S3M,false,329,1,2021-07-15T11:48:12.555594764+00:00,16,n/a,Mon 7th Mar 2005
 72736,present,murdered_fingers_iii.s3m,Murdered Fingers III,252.68KB,7642effd52ab60210a341501ab5685e8,S3M,false,141,0,2021-07-15T11:48:13.911053044+00:00,16,n/a,Mon 13th Sep 2004
-72737,present,pipeline.s3m,PIPELINE, ZackmanO@AOL.COM,90.45KB,61cc1b06e8e391b0c9e800d60ae2033b,S3M,false,362,0,2021-07-15T11:48:14.691033357+00:00,16,n/a,Sat 12th Feb 2005
+72737,present,pipeline.s3m,"PIPELINE, ZackmanO@AOL.COM",90.45KB,61cc1b06e8e391b0c9e800d60ae2033b,S3M,false,362,0,2021-07-15T11:48:14.691033357+00:00,16,n/a,Sat 12th Feb 2005
 72738,present,winds_of_chaos_vhs-mix.s3m,Winds Of Chaos (VHS-Mix),464.18KB,b68cbe628c845c687c49c50edab1107f,S3M,false,113,0,2021-07-15T11:48:15.494928460+00:00,16,n/a,Tue 11th Aug 1998
 72739,present,windswept_life.s3m,Windswept life  -  AsYntote,318.53KB,de5cf1cf9297cdf7872516a16e1f2fff,S3M,false,117,0,2021-07-15T11:48:16.291436481+00:00,16,n/a,Tue 12th Sep 1995
 72740,present,windwalker.s3m,Windwalker,385.49KB,572eef26eaaca65d72e4ad76573c82cc,S3M,false,901,1,2021-07-15T11:48:17.121355179+00:00,8,n/a,Mon 13th Sep 2004
@@ -803,7 +803,7 @@
 72803,present,warm_fuzzies.s3m,Warm Fuzzies,99.16KB,5d4175e9af6df859ace6b82553f9b60f,S3M,false,173,0,2021-07-15T11:49:06.542186931+00:00,16,n/a,Mon 31st Jan 2005
 72804,present,warning.s3m,Warning!,111.67KB,364cc9879cdf853639d9854abb454eac,S3M,false,199,0,2021-07-15T11:49:07.289595680+00:00,16,n/a,Mon 13th Sep 2004
 72805,present,warship.s3m,WarShip,295.99KB,4a9f580cedcd18eff4fa8183d86521f4,S3M,false,246,0,2021-07-15T11:49:07.997603961+00:00,16,n/a,Mon 13th Sep 2004
-72806,present,was_once.s3m,was, once,18.11KB,87f0c681696c4ca79f06df3c15cc8fbf,S3M,false,96,0,2021-07-15T11:49:08.696986617+00:00,8,n/a,Mon 13th Sep 2004
+72806,present,was_once.s3m,"was, once",18.11KB,87f0c681696c4ca79f06df3c15cc8fbf,S3M,false,96,0,2021-07-15T11:49:08.696986617+00:00,8,n/a,Mon 13th Sep 2004
 72807,present,washing2.s3m,washing2.s3m,427.20KB,625207ab27ee1358eff15ca4c6c39de1,S3M,false,206,0,2021-07-15T11:49:09.442227294+00:00,8,n/a,Mon 13th Sep 2004
 72808,present,wasted_life.s3m,Wasted life,210.08KB,340745bbe25f4ddb16ef738709c85d65,S3M,false,276,0,2021-07-15T11:49:10.190683335+00:00,8,n/a,Mon 13th Sep 2004
 72809,present,wasted_years.s3m,Wasted Years,18.71KB,7a13ee961d491f1d7b50410a9615d5bf,S3M,false,168,0,2021-07-15T11:49:10.963037293+00:00,16,n/a,Mon 7th Mar 2005

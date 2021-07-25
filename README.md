@@ -17,6 +17,12 @@ to request a webpage from modarchive for every single small data you need and
 also that you can have a reliable source to read from instead of a library that
 can fall apart if the design of modarchive changes.
 
+## Notes and warnings
+- The titles are the censored version because modarchive
+- Double quotes were removed from the titles
+- Some titles have random utf8 code points and i have no idea why
+- In conclusion, please don't primarily use titles, filenames are much more reliable and nicer
+
 ## The data it can provide
 - mod id
 - mod status (present or absent)

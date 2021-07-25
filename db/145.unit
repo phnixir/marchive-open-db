@@ -17,7 +17,7 @@
 144017,present,as_the_trees.xm,:as the trees,2.46MB,c655b2582de702ab1aa819df4a44fbc0,XM,false,710,2,2021-07-16T16:44:12.426581437+00:00,32,n/a,Mon 13th Sep 2004
 144018,present,biesiada_.xm,biesiada..,31.45KB,ed7324a2b75d64ee46b2e627e36ca330,XM,false,670,2,2021-07-16T16:44:13.110852169+00:00,10,n/a,Mon 13th Sep 2004
 144019,present,cure_me_8_bit.xm,:cure me (8 bit),5.44MB,33186b09b58dc49a246281b6a6e26dee,XM,false,173,0,2021-07-16T16:44:13.858699383+00:00,32,n/a,Mon 13th Sep 2004
-144020,present,cure_me_8bresamp.xm,:cure me (8b,resamp),3.44MB,1866ec4dab3b6db7506cd6ab3d4c8123,XM,false,172,0,2021-07-16T16:44:14.602747829+00:00,32,n/a,Mon 13th Sep 2004
+144020,present,cure_me_8bresamp.xm,":cure me (8b,resamp)",3.44MB,1866ec4dab3b6db7506cd6ab3d4c8123,XM,false,172,0,2021-07-16T16:44:14.602747829+00:00,32,n/a,Mon 13th Sep 2004
 144021,present,delta_8bit.xm,:delta 8bit,969.72KB,023cf4f80a46f40f16d8841fdae646b2,XM,false,443,1,2021-07-16T16:44:15.354080132+00:00,32,n/a,Mon 13th Sep 2004
 144022,present,eight_a_m_.xm,:eight a.m.,4.39KB,e35b506bdf97b9a0d72b9184f1303cb0,XM,false,149,0,2021-07-16T16:44:16.052996036+00:00,4,n/a,Mon 24th Jan 2005
 144023,present,eppi_birdthday.xm,:eppi birdthday,1.32MB,ef617b286bd88ee0d2237dbd40c45092,XM,false,541,1,2021-07-16T16:44:16.785342220+00:00,24,n/a,Mon 13th Sep 2004
@@ -38,7 +38,7 @@
 144038,present,outskirts_of_arkham_8-bit.xm,:outskirts of Arkham,2.76MB,a34b1ffdd4f2b689c762cef03a836207,XM,false,131,0,2021-07-16T16:44:28.105710386+00:00,28,n/a,Mon 13th Sep 2004
 144039,present,outskirts_of_arkham.xm,:outskirts of Arkham,5.07MB,6830afbaf1de3d35e351374602dc08b9,XM,false,127,0,2021-07-16T16:44:28.850655343+00:00,28,n/a,Mon 13th Sep 2004
 144040,present,p_i_ii.xm,:P i I\I,1.57KB,f9e688446c5afd1264d6e4d1aabd22da,XM,false,163,0,2021-07-16T16:44:29.583857231+00:00,2,n/a,Mon 13th Sep 2004
-144041,present,phong_i_hate_you.xm,:phong, i hate you,32.02KB,014596ecae327407a9b9061a2bf2b7a8,XM,false,572,1,2021-07-16T16:44:30.330002888+00:00,12,n/a,Mon 13th Sep 2004
+144041,present,phong_i_hate_you.xm,":phong, i hate you",32.02KB,014596ecae327407a9b9061a2bf2b7a8,XM,false,572,1,2021-07-16T16:44:30.330002888+00:00,12,n/a,Mon 13th Sep 2004
 144042,present,pleasant_plizzz_.xm,:pleasant [plizzz& ],1.73KB,1ff762ac2c1255b46dced3939c152e0f,XM,false,1015,3,2021-07-16T16:44:31.046614192+00:00,4,n/a,Mon 13th Sep 2004
 144043,present,poppyfloppy.xm,:poppyfloppy,65.04KB,59a53bd0711f8b7b78bb86a1e9806596,XM,false,119,0,2021-07-16T16:44:31.757013738+00:00,28,n/a,Mon 13th Sep 2004
 144044,present,residence_sahara.xm,residence: sahara,36.30KB,86f0356279d874bd98bd9257151670ab,XM,false,127,0,2021-07-16T16:44:32.437736389+00:00,12,n/a,Mon 13th Sep 2004
@@ -139,7 +139,7 @@
 144139,present,ginseng.xm,ginseng,30.20KB,71c3233573679443eb28cdda934a7ea1,XM,false,827,1,2021-07-16T16:45:44.676695879+00:00,8,Chiptune,Tue 23rd Aug 2005
 144140,present,plopp.xm,plopp,43.35KB,3bf95dfb186a9688a3c23c9fb1efc5c9,XM,false,458,1,2021-07-16T16:45:45.420097958+00:00,8,n/a,Tue 23rd Aug 2005
 144141,present,bnditreenit.xm,bänditreenit,508.88KB,342f9facde5481e1adb9959c5380a5c6,XM,false,93,0,2021-07-16T16:45:46.113905522+00:00,6,n/a,Sun 6th Mar 2005
-144142,present,1_2_3_c64.xm,1, 2, 3, C-64,80.17KB,ca8e973354f4ec54d30c93853ca52ed4,XM,false,135,0,2021-07-16T16:45:46.836668173+00:00,4,n/a,Mon 13th Sep 2004
+144142,present,1_2_3_c64.xm,"1, 2, 3, C-64",80.17KB,ca8e973354f4ec54d30c93853ca52ed4,XM,false,135,0,2021-07-16T16:45:46.836668173+00:00,4,n/a,Mon 13th Sep 2004
 144143,present,all_marbles.xm,All Marbles,14.36KB,b4138c2dc4172438cbc70053482f0c78,XM,false,985,0,2021-07-16T16:45:47.644417631+00:00,6,Experimental,Wed 4th Oct 2006
 144144,present,axmurder.xm,axmurder.xm,283.28KB,ddf53eb9f893af1f2d6ad741e9c7e3f5,XM,false,470,0,2021-07-16T16:45:48.513264386+00:00,6,n/a,Wed 4th Oct 2006
 144145,present,buzzword.xm,Buzzword,451.66KB,a66b4232450afc55a2bfb4f99fb7fe88,XM,false,805,1,2021-07-16T16:45:49.186891532+00:00,4,n/a,Wed 4th Oct 2006
@@ -242,10 +242,10 @@
 144242,present,fusion_vibes.xm,fusion_vibes.xm,218.60KB,958d31d01d206b8df0a18075d3686bc4,XM,false,123,0,2021-07-16T16:47:03.925000927+00:00,12,n/a,Sun 6th Mar 2005
 144243,present,gate_of_truth_354.xm,Gate of Truth <3:54>,165.28KB,2fbc49f6bd4e78b92883ae99c8900c34,XM,false,98,0,2021-07-16T16:47:04.623698161+00:00,12,n/a,Mon 13th Sep 2004
 144244,present,good_night_4kb.xm,Good Night **4kb**,4KB,a5b0f5e84089a9faafecc380d6718e5e,XM,false,768,1,2021-07-16T16:47:05.308317987+00:00,2,n/a,Mon 13th Sep 2004
-144245,present,grolin_247or_endls.xm,Grolin, 2:47or endls,224.69KB,eebbd74172921f42b3fa8c2efeb76f5a,XM,false,90,0,2021-07-16T16:47:05.982564098+00:00,18,n/a,Mon 13th Sep 2004
+144245,present,grolin_247or_endls.xm,"Grolin, 2:47or endls",224.69KB,eebbd74172921f42b3fa8c2efeb76f5a,XM,false,90,0,2021-07-16T16:47:05.982564098+00:00,18,n/a,Mon 13th Sep 2004
 144246,present,happily_everafter.xm,Happily Everafter,184.33KB,9b01681aca69aad1acb1688ac815036a,XM,false,105,0,2021-07-16T16:47:06.694434105+00:00,14,n/a,Mon 13th Sep 2004
 144247,present,holiday_demo_1.xm,Holiday Demo #1,108.76KB,18e1d76f314ba757959ab1ebcc31bc1b,XM,false,98,0,2021-07-16T16:47:07.476039623+00:00,8,n/a,Mon 13th Sep 2004
-144248,present,instant_death_logos.xm,Instant Death, Logos,232.18KB,f78949828aa164fff1dcd6d8ba11d909,XM,false,130,0,2021-07-16T16:47:08.175897113+00:00,10,n/a,Sun 7th Aug 2005
+144248,present,instant_death_logos.xm,"Instant Death, Logos",232.18KB,f78949828aa164fff1dcd6d8ba11d909,XM,false,130,0,2021-07-16T16:47:08.175897113+00:00,10,n/a,Sun 7th Aug 2005
 144249,present,lets_get_into_it.xm,Lets Get Into It,279.53KB,cce3304b92a16318818989bcbbd68940,XM,false,79,0,2021-07-16T16:47:08.938655046+00:00,10,n/a,Mon 13th Sep 2004
 144250,present,lost_child_426.xm,Lost Child 4:26,167.86KB,2b381ee650886ff1de954e8b55083964,XM,false,92,0,2021-07-16T16:47:09.670293820+00:00,16,n/a,Mon 13th Sep 2004
 144251,present,low_profile_3_45.xm,LoW PRoFiLe   <3.45>,117.76KB,1ec383ee4feb920d2830191b6cb1726a,XM,false,79,0,2021-07-16T16:47:10.429201561+00:00,16,n/a,Mon 13th Sep 2004
@@ -337,7 +337,7 @@
 144337,present,hit_the_street.xm,hit the street!,888.29KB,ccfaec9b2d2e33d075e685c9f1e0ee09,XM,false,93,0,2021-07-16T16:48:12.888970007+00:00,16,n/a,Thu 9th Dec 2004
 144338,present,infinite_dreams.xm,infinite dreams,146.27KB,2518c3082872228a5a86ff5cdf486d10,XM,false,128,0,2021-07-16T16:48:13.652686401+00:00,28,n/a,Thu 9th Dec 2004
 144339,present,k_that_bitch.xm,"***K that bitch!",777.86KB,0d7246742a4c647de9f0beaa078ec348,XM,false,91,0,2021-07-16T16:48:14.378265338+00:00,22,n/a,Thu 9th Dec 2004
-144340,present,mars_venus_uranus_.xm,mars, venus, uranus.,1.02MB,a4af7575fd44ed66d027b839ba685a64,XM,false,157,0,2021-07-16T16:48:15.101841984+00:00,14,n/a,Mon 13th Sep 2004
+144340,present,mars_venus_uranus_.xm,"mars, venus, uranus.",1.02MB,a4af7575fd44ed66d027b839ba685a64,XM,false,157,0,2021-07-16T16:48:15.101841984+00:00,14,n/a,Mon 13th Sep 2004
 144341,present,more_or_less_.xm,more or less....,340.89KB,d871ceb6e1fa75525689ef3c861b2ee5,XM,false,114,0,2021-07-16T16:48:15.812072843+00:00,8,n/a,Thu 9th Dec 2004
 144342,present,more_or_less.xm,more or less....,27.30KB,7e690fed576bec7e3f15d58dedc2c279,XM,false,115,0,2021-07-16T16:48:16.486820230+00:00,8,n/a,Mon 13th Sep 2004
 144343,present,nlk.xm,Nölk!!!,496.59KB,48b7993676fcf94778da1dc4334e943c,XM,false,74,0,2021-07-16T16:48:17.185529368+00:00,8,n/a,Sun 6th Mar 2005
@@ -381,7 +381,7 @@
 144381,present,o_-_the_remutation.xm,O - the remutation,405.83KB,0f5957fe888d288557c40743dcc3263b,XM,false,117,0,2021-07-16T16:48:45.011672468+00:00,16,n/a,Tue 23rd Aug 2005
 144382,present,rawdata.xm,|||||||||| | rawdata,37.80KB,0a8642799f4c871de96e6316288fdaad,XM,false,90,0,2021-07-16T16:48:45.720864843+00:00,4,n/a,Mon 13th Sep 2004
 144383,present,renstimpy.xm,ren&stimpy,78.68KB,e193fcc630b44bb099fdde688efc05d9,XM,false,94,0,2021-07-16T16:48:46.509216051+00:00,10,n/a,Mon 13th Sep 2004
-144384,present,shut_up_bitch.xm,shut up, bitch,1.06MB,cc1251d5cfb56e9812fc55580616ec7c,XM,false,96,0,2021-07-16T16:48:47.271692557+00:00,20,n/a,Tue 23rd Aug 2005
+144384,present,shut_up_bitch.xm,"shut up, bitch",1.06MB,cc1251d5cfb56e9812fc55580616ec7c,XM,false,96,0,2021-07-16T16:48:47.271692557+00:00,20,n/a,Tue 23rd Aug 2005
 144385,present,spacejam.xm,spacejam,27.01KB,93bc14abf0d43578acce7aee6ba1aa2e,XM,false,158,0,2021-07-16T16:48:48.156712682+00:00,8,n/a,Mon 13th Sep 2004
 144386,present,the_journey_to_akbar.xm,the journey to akbar,549.35KB,9da8513440e7238fd7cffe46312d54c6,XM,false,64,0,2021-07-16T16:48:48.863281354+00:00,18,n/a,Sun 6th Mar 2005
 144387,present,apfel_kaputt.xm,apfel_kaputt.xm,39.06KB,7e28362f17f85b740484918bef59f5c4,XM,false,767,2,2021-07-16T16:48:49.603653501+00:00,8,Chiptune,Mon 13th Sep 2004
@@ -552,7 +552,7 @@
 144552,present,that_was_about_time_mcsqmix.xm,.schleudertrauma026.,299.95KB,9710ac7102b50d5357d494fa7984c817,XM,false,72,0,2021-07-16T16:50:50.520666630+00:00,18,n/a,Sun 6th Mar 2005
 144553,present,that_was_about_time.xm,.schleudertrauma026.,254.92KB,3d182f38a8cb9bedc74501a3d53754dd,XM,false,76,0,2021-07-16T16:50:51.227722128+00:00,8,n/a,Sun 6th Mar 2005
 144554,present,avenger.xm,_avenger,1.04MB,6d5b4a8174bfbf19c8a7c457c1886f20,XM,false,326,0,2021-07-16T16:50:51.896577656+00:00,22,n/a,Mon 27th Sep 2004
-144555,present,golden_dawn_m3.xm,golden dawn , m3,1.12MB,36d55fac3e9df7307eff5b4a135316ee,XM,false,98,0,2021-07-16T16:50:52.593003540+00:00,22,n/a,Tue 23rd Aug 2005
+144555,present,golden_dawn_m3.xm,"golden dawn , m3",1.12MB,36d55fac3e9df7307eff5b4a135316ee,XM,false,98,0,2021-07-16T16:50:52.593003540+00:00,22,n/a,Tue 23rd Aug 2005
 144556,present,radiance.xm,m3_radiance,1.11MB,217f8c2868c1a1b9203aa75698ce1ef7,XM,false,148,0,2021-07-16T16:50:53.295832413+00:00,20,n/a,Tue 23rd Aug 2005
 144557,present,san_fransisco_clouds.xm,san fransisco clouds,1.05MB,d09707358d5f2063c98739cca650b41e,XM,false,83,0,2021-07-16T16:50:53.960038963+00:00,24,n/a,Tue 23rd Aug 2005
 144558,present,x_control.xm,x control,1.14MB,9f8713a2c2cb45c8cbab62c521b07274,XM,false,413,1,2021-07-16T16:50:54.646167889+00:00,24,n/a,Tue 23rd Aug 2005
@@ -799,7 +799,7 @@
 144799,present,anal_vengeance.xm,anal vengeance,16.44KB,28eab1d4d9f5c37ed80007ee6e3645fc,XM,false,151,0,2021-07-16T16:53:48.503451818+00:00,4,n/a,Mon 23rd May 2005
 144800,present,and_emma_smiled.xm,...and Emma smiled,334.28KB,92464f2882682cf7f63ee0b36d5434da,XM,false,160,0,2021-07-16T16:53:49.193261232+00:00,24,n/a,Tue 31st Mar 1998
 144801,present,asterix_c64-theme.xm,Asterix C64-theme,6.62KB,52eca78505ce509151d621214d1b944c,XM,false,225,0,2021-07-16T16:53:49.901879793+00:00,4,n/a,Mon 23rd May 2005
-144802,present,beer_me_down_scotty.xm,beer me down, scotty,10.32KB,85972835f0b5e889738c6f637488db46,XM,false,763,1,2021-07-16T16:53:50.673619606+00:00,4,n/a,Mon 23rd May 2005
+144802,present,beer_me_down_scotty.xm,"beer me down, scotty",10.32KB,85972835f0b5e889738c6f637488db46,XM,false,763,1,2021-07-16T16:53:50.673619606+00:00,4,n/a,Mon 23rd May 2005
 144803,present,bog-boogie.xm,bog-boogie,68.19KB,c9209373db254fd8f544fc7bea96e294,XM,false,80,0,2021-07-16T16:53:51.371747812+00:00,12,n/a,Mon 23rd May 2005
 144804,present,bored_shitless.xm,bored shitless,24.12KB,e6d2ba2cabf696fc80457ce63a4c348f,XM,false,275,1,2021-07-16T16:53:52.050794619+00:00,10,n/a,Mon 13th Sep 2004
 144805,present,bubba_sisters.xm,bubba sisters,16.18KB,01dc6b2bebe98a82051232f96f65fccc,XM,false,150,0,2021-07-16T16:53:52.726218424+00:00,4,n/a,Mon 23rd May 2005
@@ -957,7 +957,7 @@
 144957,present,gedicht_ohne_titel.xm,gedicht ohne titel,1.33MB,5be08e7bbca063441863e0aa9fe6db1d,XM,false,88,0,2021-07-16T16:55:42.037919404+00:00,32,n/a,Tue 23rd Aug 2005
 144958,present,im_morgengrauen.xm,... im morgengrauen,1.34MB,9200cb846b53d05b7fe1435eb8995f8d,XM,false,118,0,2021-07-16T16:55:43.105490407+00:00,32,n/a,Tue 23rd Aug 2005
 144959,present,ph_55.xm,Ph 5.5,360.26KB,0233813de4c1b6488ea16d38b790da00,XM,false,139,0,2021-07-16T16:55:43.829085865+00:00,14,n/a,Sun 30th Mar 1997
-144960,present,unnamed_unfinished.xm,unnamed, unfinished,,1.19MB,2328de4eec7320f1cfecf88dc31efd07,XM,false,94,0,2021-07-16T16:55:44.503244746+00:00,32,n/a,Tue 23rd Aug 2005
+144960,present,unnamed_unfinished.xm,"unnamed, unfinished,",1.19MB,2328de4eec7320f1cfecf88dc31efd07,XM,false,94,0,2021-07-16T16:55:44.503244746+00:00,32,n/a,Tue 23rd Aug 2005
 144961,present,abiosis_by_ml.xm,abiosis by ml/ps,897.90KB,4ef92b301e36a1ec64d1ef1dd201d4d8,XM,false,283,0,2021-07-16T16:55:45.249815675+00:00,14,n/a,Sun 6th Mar 2005
 144962,present,alien_eye.xm,Alien eye,447.23KB,71ca27f47cad73682ea2d8ad78733ca4,XM,false,167,0,2021-07-16T16:55:45.978406097+00:00,14,n/a,Sun 30th Mar 1997
 144963,present,anodyne_98.xm,anodyne [tw98 edit],655.38KB,8642352c1f369375d595b5f701a17d85,XM,false,174,0,2021-07-16T16:55:46.673496504+00:00,18,n/a,Thu 28th May 1998
@@ -969,8 +969,8 @@
 144969,present,psycho_thoughts.xm,Psycho thoughts,384.17KB,0483c3492ab6dc7644ab7fb7922e04a5,XM,false,134,0,2021-07-16T16:55:51.059679916+00:00,14,n/a,Sun 30th Mar 1997
 144970,present,rebarbative.xm,rebarbative by ml/ps,538.71KB,a0c5a16fa61375fffeab5929692732c1,XM,false,87,0,2021-07-16T16:55:51.778574415+00:00,14,n/a,Fri 19th Sep 1997
 144971,present,sesquipedalophobia.xm,*Sesquipedalophobia*,371.78KB,f59a62e5eb90abbfa9b2712be67e6e3c,XM,false,94,0,2021-07-16T16:55:52.474692455+00:00,14,n/a,Sun 30th Mar 1997
-144972,present,the_crow_n-th_remix.xm,the crow, n-th remix,882.62KB,d529b8ee99fdace6c81e1923fe65deb8,XM,false,973,1,2021-07-16T16:55:53.139299674+00:00,16,Demo Style,Sun 6th Mar 2005
-144973,present,the_crow-nth_remix.xm,the crow, n-th remix,1.22MB,573fe562df6001d90d5e32201c5cad07,XM,false,87,0,2021-07-16T16:55:53.869763412+00:00,16,n/a,Tue 26th May 1998
+144972,present,the_crow_n-th_remix.xm,"the crow, n-th remix",882.62KB,d529b8ee99fdace6c81e1923fe65deb8,XM,false,973,1,2021-07-16T16:55:53.139299674+00:00,16,Demo Style,Sun 6th Mar 2005
+144973,present,the_crow-nth_remix.xm,"the crow, n-th remix",1.22MB,573fe562df6001d90d5e32201c5cad07,XM,false,87,0,2021-07-16T16:55:53.869763412+00:00,16,n/a,Tue 26th May 1998
 144974,present,ultraviolet_2.xm,ultraviolet,814.43KB,dcc2cd0ada3ce4f3e4f4d34ba3feaaff,XM,false,391,1,2021-07-16T16:55:54.538649682+00:00,20,n/a,Tue 26th May 1998
 144975,present,whouu.xm,whouu! (abio-2 frag),1.30MB,d96f19db4bd24cf3f5dbed6db0dbb50a,XM,false,79,0,2021-07-16T16:55:55.220115689+00:00,20,n/a,Tue 26th May 1998
 144976,present,jak_cip.xm,maras_jak cip,478.61KB,7948df35b8e650b017c593cf8f776d3e,XM,false,275,1,2021-07-16T16:55:55.985725966+00:00,22,n/a,Tue 23rd Aug 2005

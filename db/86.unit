@@ -387,7 +387,7 @@
 85387,present,dd03_cool.mod,dd03.cool,56.28KB,312319aa8b25f1eac162558aafa2a452,MOD,false,128,0,2021-07-15T13:44:29.806838586+00:00,4,n/a,Sat 18th Jun 2005
 85388,present,lillith_whispered.mod,lillith whispered,44.51KB,209e0205ab41c8f27abf6f860ed8cf61,MOD,false,128,0,2021-07-15T13:44:30.650211971+00:00,4,n/a,Sun 19th Jun 2005
 85389,present,lines.mod,lines,41.96KB,79781604639f95aed6accdddebc14944,MOD,false,136,0,2021-07-15T13:44:31.412426059+00:00,4,n/a,Mon 13th Sep 2004
-85390,present,protector_tune_1.mod,Protector, tune 1,101.63KB,560efcef1f386936cdeff22f18004a7f,MOD,false,188,0,2021-07-15T13:44:32.283503145+00:00,4,n/a,Tue 13th Feb 2007
+85390,present,protector_tune_1.mod,"Protector, tune 1",101.63KB,560efcef1f386936cdeff22f18004a7f,MOD,false,188,0,2021-07-15T13:44:32.283503145+00:00,4,n/a,Tue 13th Feb 2007
 85391,present,beanight.mod,beanight,269.84KB,2c17f33d0dbb295557061acc9e97c828,MOD,false,143,0,2021-07-15T13:44:33.093102867+00:00,4,n/a,Mon 13th Sep 2004
 85392,present,charmed.mod,charmed,180.33KB,98ed1055f031796ef72ab9162f2d57d0,MOD,false,237,0,2021-07-15T13:44:34.134435012+00:00,4,n/a,Sat 25th Mar 2006
 85393,present,charming_and_sober.mod,charming and sober,196.21KB,d18d5cfed93e0b980c5f83f3c18d9a45,MOD,false,353,0,2021-07-15T13:44:34.911665052+00:00,4,n/a,Mon 13th Sep 2004
@@ -712,7 +712,7 @@
 85712,present,shattered_dreams.mod,Shattered dreams,113.41KB,d426834f77a6f348d1787549f6637504,MOD,false,223,0,2021-07-15T13:48:55.207058584+00:00,4,n/a,Wed 15th Jun 2005
 85713,present,karma_chameleon.mod,karma chameleon,66.41KB,76ec912ae0c12a4056b2e8c931dde718,MOD,false,379,0,2021-07-15T13:48:55.971494724+00:00,4,n/a,Mon 13th Sep 2004
 85714,present,karvanen_cpr.mod,karvanen.cpr,38.18KB,d535ecbe795842486dc0d63233f7289b,MOD,false,149,0,2021-07-15T13:48:56.725311733+00:00,4,n/a,Thu 19th May 2005
-85715,present,kashkas_dirt_box.mod,kashka,s dirt box,53.85KB,3e305a33f604d5f46a64d704a6b52e26,MOD,false,141,0,2021-07-15T13:48:57.478313279+00:00,4,n/a,Wed 18th May 2005
+85715,present,kashkas_dirt_box.mod,"kashka,s dirt box",53.85KB,3e305a33f604d5f46a64d704a6b52e26,MOD,false,141,0,2021-07-15T13:48:57.478313279+00:00,4,n/a,Wed 18th May 2005
 85716,present,katakomb_stl_mix.mod,katakomb stl mix,41.12KB,e1df1e9df3e315136630f730deaae8e5,MOD,false,140,0,2021-07-15T13:48:58.252324139+00:00,4,n/a,Mon 13th Sep 2004
 85717,present,katarroke.mod,katarroke,347.07KB,876eeabdcf974b7b3a2438a494a96865,MOD,false,94,0,2021-07-15T13:48:59.010605014+00:00,4,n/a,Wed 15th Jun 2005
 85718,present,katmandun_kalliot.mod,katmandun kalliot,13.43KB,bfefa1f4ac6627d574b08d05dd5d4dc6,MOD,false,176,0,2021-07-15T13:48:59.779197959+00:00,4,n/a,Mon 13th Sep 2004
@@ -801,7 +801,7 @@
 85801,present,det_var_en_ulv.mod,det var en ulv,15.77KB,747e3c55b9a2e53956a73ab037b72665,MOD,false,278,0,2021-07-15T13:50:05.059435123+00:00,4,n/a,Mon 13th Sep 2004
 85802,present,detonation.mod,detonation,95.61KB,2ab816c99a8ec260ce4f5a3076d0ee1f,MOD,false,166,0,2021-07-15T13:50:05.883706391+00:00,4,n/a,Mon 13th Sep 2004
 85803,present,detras.mod,detras,113.46KB,30719524c1abf134785ef5db26beea4f,MOD,false,205,0,2021-07-15T13:50:06.647002819+00:00,4,n/a,Mon 13th Sep 2004
-85804,present,engelsk_tak.mod,engelsk, tak!,428.76KB,0d1e6e9e91df4f17124063c08980f576,MOD,false,191,0,2021-07-15T13:50:07.479882286+00:00,4,n/a,Wed 23rd Feb 2005
+85804,present,engelsk_tak.mod,"engelsk, tak!",428.76KB,0d1e6e9e91df4f17124063c08980f576,MOD,false,191,0,2021-07-15T13:50:07.479882286+00:00,4,n/a,Wed 23rd Feb 2005
 85805,present,eniac.mod,Eniac,34.12KB,478149faea529e3c199b185f26158984,MOD,false,236,0,2021-07-15T13:50:08.257251983+00:00,4,n/a,Mon 13th Sep 2004
 85806,present,enigma-remix.mod,enigma-remix,120.16KB,b725bd146309e8565827d10091fcea38,MOD,false,425,0,2021-07-15T13:50:09.017310740+00:00,4,n/a,Mon 13th Sep 2004
 85807,present,little_pinocchio.mod,little pinocchio,232.34KB,790325f926e52a6d72465616a7bdc3aa,MOD,false,208,0,2021-07-15T13:50:09.795015105+00:00,4,n/a,Mon 13th Sep 2004
@@ -902,7 +902,7 @@
 85902,present,mdesign2.mod,mdesign2,19.87KB,36858487d31333a1e634eba232613a8c,MOD,false,187,0,2021-07-15T13:59:42.779894935+00:00,4,n/a,Wed 15th Jun 2005
 85903,present,excide-ujellus.mod,excide-ujellus..,103.35KB,b78cfd5c54921b037d1e84e7f6e2482b,MOD,false,147,0,2021-07-15T13:59:43.534946510+00:00,4,n/a,Thu 19th May 2005
 85904,present,3k-opretenti0st.mod,3k-opretenti0st!,2.64KB,65df859bc5ac6ed848524f3636f781d8,MOD,false,365,0,2021-07-15T13:59:44.328857534+00:00,4,n/a,Mon 13th Sep 2004
-85905,present,3rd12th6th12th.mod,*3rd,12th,6th,12th*,182.00KB,4d33db1dd857af687d4403cbccf14fa9,MOD,false,184,0,2021-07-15T13:59:45.128692676+00:00,4,n/a,Mon 13th Sep 2004
+85905,present,3rd12th6th12th.mod,"*3rd,12th,6th,12th*",182.00KB,4d33db1dd857af687d4403cbccf14fa9,MOD,false,184,0,2021-07-15T13:59:45.128692676+00:00,4,n/a,Mon 13th Sep 2004
 85906,present,bouncing_wolf.mod,Bouncing_Wolf,342.18KB,b78f5c4957d3f18a65ead9f63dcaef13,MOD,false,141,0,2021-07-15T13:59:45.913684378+00:00,4,n/a,Mon 23rd May 2005
 85907,present,bounzie_boom.mod,bounzie boom,361.41KB,ae6188dc3c8caf80dd35e139331ef999,MOD,false,249,0,2021-07-15T13:59:46.662120763+00:00,4,n/a,Mon 13th Sep 2004
 85908,present,bovportbluesv3.mod,bovportbluesv3,729.20KB,b2760b1945f167ac83a9f9b54460cbe0,MOD,false,150,0,2021-07-15T13:59:47.414800324+00:00,4,n/a,Wed 23rd Feb 2005

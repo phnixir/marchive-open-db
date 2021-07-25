@@ -175,7 +175,7 @@
 56175,present,powder.xm,powder flute,27.55KB,9fdac4b4d845017de4926458cff6b2a0,XM,false,875,0,2021-07-15T09:09:10.025868399+00:00,14,n/a,Mon 5th Feb 2001
 56176,present,secret.mod,secret_world,243.41KB,b7c88aa0ee051bc3fe407ac186c63c3d,MOD,false,907,1,2021-07-15T09:09:10.704071628+00:00,4,n/a,Sat 24th Feb 2001
 56177,present,rock.s3m,rock,335.71KB,7f7b75fcf4dc7313a385f6439da56537,S3M,false,522,0,2021-07-15T09:09:11.408260898+00:00,32,n/a,Sun 26th Dec 2004
-56178,present,power.it,Show Your Power, oh God!,384.12KB,3b5ff893f2a6b6ad8623a91a792161e7,IT,false,1179,0,2021-07-15T09:09:12.083281992+00:00,40,n/a,Fri 18th Dec 1998
+56178,present,power.it,"Show Your Power, oh God!",384.12KB,3b5ff893f2a6b6ad8623a91a792161e7,IT,false,1179,0,2021-07-15T09:09:12.083281992+00:00,40,n/a,Fri 18th Dec 1998
 56179,present,secret.xm,Secret behind,317.21KB,2a3a39a3afb70eb1bc7d56b94c9c5151,XM,false,658,1,2021-07-15T09:09:12.882153085+00:00,15,n/a,Tue 16th Dec 2003
 56180,present,rock.xm,Hardcore,415.39KB,b9a8286fb3bfdfc9bdf96a1c37acdc2d,XM,false,1042,0,2021-07-15T09:09:13.594456366+00:00,16,n/a,Sat 3rd Jun 2000
 56181,present,secret_island.mod,secret_island,264.51KB,2095b7e6f78140743424100faaaca808,MOD,false,371,0,2021-07-15T09:09:14.290793553+00:00,4,n/a,Sat 6th Dec 2003
@@ -449,7 +449,7 @@
 56449,present,ser_26.it,Southouse Symphony of Life,2.13MB,8e50df108341b2802c2661fd887db9e3,IT,false,906,0,2021-07-15T09:12:42.920762068+00:00,29,n/a,Tue 23rd Apr 2002
 56450,present,ron-peakmix.xm,The Peak - remix,1.28MB,6424397af9225322bc67e65db7f1d371,XM,false,789,0,2021-07-15T09:12:43.673062901+00:00,26,n/a,Mon 7th Jun 1999
 56451,present,prh040.mod,trancesxx,498.74KB,b2260b98be10d5d5b6b348446b022a3d,MOD,false,733,0,2021-07-15T09:12:44.373035192+00:00,4,n/a,Tue 6th Nov 2001
-56452,present,ser_42_8bit.it,Avalon, the golden dragon,1.26MB,3c7b5001b192ba5980bb5ab0b522737f,IT,true,5715,0,2021-07-15T09:12:45.188884671+00:00,28,n/a,Sun 14th Apr 2002
+56452,present,ser_42_8bit.it,"Avalon, the golden dragon",1.26MB,3c7b5001b192ba5980bb5ab0b522737f,IT,true,5715,0,2021-07-15T09:12:45.188884671+00:00,28,n/a,Sun 14th Apr 2002
 56453,present,rondevil.mod,ron devil,162.49KB,291043fab0e83da37746766e83543d97,MOD,true,5144,0,2021-07-15T09:12:45.873530087+00:00,4,n/a,Sat 28th Jul 2001
 56454,present,prh0422.xm,criminaldrug,449.78KB,2646bb2c51db97db447df13b48cb1bb8,XM,false,459,0,2021-07-15T09:12:46.551267431+00:00,10,n/a,Tue 6th Nov 2001
 56455,present,ser_43_8bit.it,Avalon: the dwarves' war,1.09MB,6933658115dfcb3d27d235c76415a9c0,IT,false,930,0,2021-07-15T09:12:47.347817222+00:00,32,n/a,Sun 14th Apr 2002
@@ -619,7 +619,7 @@
 56619,present,proj1.xm,proj1.xm,737.97KB,a11b2162aebbb519eb3122ce963c781a,XM,false,643,1,2021-07-15T09:14:46.143309156+00:00,14,n/a,Sun 29th May 2005
 56620,present,sfapollo.it,Apollo 11,508.22KB,79c2693da54495fc886dde93e4046279,IT,false,1050,0,2021-07-15T09:14:46.842261447+00:00,17,Fantasy,Wed 23rd Jan 2002
 56621,present,proj125.it,"Project 125" by DJ'Em,361.62KB,f0010346ed019e0a6c7b5f7797938a96,IT,false,299,0,2021-07-15T09:14:47.525066603+00:00,25,n/a,Sat 7th Jan 2006
-56622,present,sfb.it,Sun,Flowers...and Blood!!,315.38KB,fd9553d7d77e67b01e28c9dfd4866afc,IT,false,551,0,2021-07-15T09:14:49.299342436+00:00,16,n/a,Fri 14th Feb 2003
+56622,present,sfb.it,"Sun,Flowers...and Blood!!",315.38KB,fd9553d7d77e67b01e28c9dfd4866afc,IT,false,551,0,2021-07-15T09:14:49.299342436+00:00,16,n/a,Fri 14th Feb 2003
 56623,present,rpghaven.it,The Dragon's Lair - Smurf,166.92KB,030c4f07b467be42506e850f8e28e596,IT,false,1359,0,2021-07-15T09:14:49.993407696+00:00,12,n/a,Tue 9th Mar 1999
 56624,present,proj132.it,"Project 132" by DJ'Em,419.70KB,86991043881d258ba1c99ec09f6eb26e,IT,false,273,0,2021-07-15T09:14:50.721531029+00:00,22,n/a,Sat 7th Jan 2006
 56625,present,sfdark.it,ascending darkness,881.27KB,60a4ce3faa50687e851950d017a2beef,IT,false,1062,0,2021-07-15T09:14:51.418482644+00:00,22,Electronic - Techno,Sun 30th Jul 2000
@@ -916,7 +916,7 @@
 56916,present,sherlock.xm,Sherlock Holmes,382.00KB,68104bc30befd429890b429dd370d9c2,XM,false,685,0,2021-07-15T09:18:56.847202081+00:00,12,Rock - Soft,Sat 11th Feb 2006
 56917,present,psyched.xm,Psychedelic Trip,964.07KB,d5280b91a5c5d804622434e627be491c,XM,false,393,0,2021-07-15T09:18:57.508442237+00:00,14,n/a,Tue 5th Oct 2004
 56918,present,rush.xm,Pure Adrenaline Rush,1.06MB,89828472edba61eb21c23195b82ea835,XM,false,1804,0,2021-07-15T09:18:58.200556247+00:00,28,n/a,Sun 16th Nov 1997
-56919,present,sherri.it,Oh, Sherri,323.00KB,855c4c7fd92a376e1c2d6b3c879a7f4f,IT,false,656,0,2021-07-15T09:18:58.896581351+00:00,28,n/a,Tue 16th Nov 1999
+56919,present,sherri.it,"Oh, Sherri",323.00KB,855c4c7fd92a376e1c2d6b3c879a7f4f,IT,false,656,0,2021-07-15T09:18:58.896581351+00:00,28,n/a,Tue 16th Nov 1999
 56920,present,rush__.xm,rush!,465.63KB,5a02b97383c5dd653221b8ee4247df5a,XM,false,1475,0,2021-07-15T09:18:59.561523122+00:00,14,Electronic - Dance,Fri 14th May 1999
 56921,present,shesltw.it,She's like the wind-Remix,255.18KB,e5539900611eaae19633f61d7976a524,IT,false,416,0,2021-07-15T09:19:00.255194684+00:00,12,n/a,Thu 16th May 2002
 56922,present,psychedelictrancee.it,   SPEKTRUM OF BLUE,2.64MB,fe1e05b6997e61d734e3171666d95ef2,IT,false,1376,2,2021-07-15T09:19:01.071388121+00:00,34,Electronic - Other,Thu 14th Nov 2002
@@ -943,7 +943,7 @@
 56943,present,rustig.mod,rustig.01,50.35KB,2b4eeff56fdc76795681f729645e41b2,MOD,false,715,1,2021-07-15T09:19:16.733758219+00:00,4,n/a,Mon 3rd Jul 2000
 56944,present,shiiit.xm,Shiiit,969.39KB,b0b67aad5419d0bfea25db1279b738f1,XM,false,831,0,2021-07-15T09:19:17.630733792+00:00,22,n/a,Fri 23rd Apr 1999
 56945,present,rustmeta.xm,Rusted Metal,808.86KB,ed3211ab820fca9835cd6a3feeb582d7,XM,false,1053,0,2021-07-15T09:19:18.367823323+00:00,12,n/a,Mon 26th Apr 1999
-56946,present,psycho1.s3m,Psycho, And Proud!,119.13KB,d8aff1fff065d261289b5880b96bddad,S3M,false,685,0,2021-07-15T09:19:19.045977489+00:00,16,n/a,Thu 22nd Jun 2000
+56946,present,psycho1.s3m,"Psycho, And Proud!",119.13KB,d8aff1fff065d261289b5880b96bddad,S3M,false,685,0,2021-07-15T09:19:19.045977489+00:00,16,n/a,Thu 22nd Jun 2000
 56947,present,shin-ya.it,Shin-ya,628.46KB,2070bb83a8aeda171ca8e762e889de7d,IT,false,650,0,2021-07-15T09:19:20.154384051+00:00,16,n/a,Thu 1st Jul 1999
 56948,present,ruusulaulu.it,Ruusulaulu,13.94KB,904b88709bcd9a594988d7c4575066d7,IT,false,556,0,2021-07-15T09:19:20.858659989+00:00,6,n/a,Fri 18th Oct 2002
 56949,present,psycho_.xm,psycho,1.45MB,854cf4ab1196b5451941001f2a091ec3,XM,false,735,0,2021-07-15T09:19:21.570029051+00:00,16,n/a,Fri 14th Dec 2001

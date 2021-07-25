@@ -14,7 +14,7 @@
 152014,present,chip_xmas.xm,Chip Xmas!!,9.32KB,eb058f5f08e2a853b53528247057fb23,XM,false,152,0,2021-07-16T17:44:02.551412709+00:00,4,n/a,Mon 13th Sep 2004
 152015,present,i_saw_an_u_f_o_.xm,I saw an U.F.O.!,201.42KB,902db9f822ea733d043d7078d9a9f849,XM,false,124,0,2021-07-16T17:44:03.211301510+00:00,8,n/a,Tue 23rd Aug 2005
 152016,present,1st_chipcompo.xm,1st chipcompo,17.05KB,48d84a727c81d580f7620d4f438b1bd4,XM,false,125,0,2021-07-16T17:44:03.925099948+00:00,4,n/a,Mon 13th Sep 2004
-152017,present,crap_crap_crap.xm,Crap, crap, crap,8.90KB,f00f571caa399dc4dcd1fa0bcd23d52a,XM,false,111,0,2021-07-16T17:44:04.598144635+00:00,4,n/a,Mon 13th Sep 2004
+152017,present,crap_crap_crap.xm,"Crap, crap, crap",8.90KB,f00f571caa399dc4dcd1fa0bcd23d52a,XM,false,111,0,2021-07-16T17:44:04.598144635+00:00,4,n/a,Mon 13th Sep 2004
 152018,present,dark_side_of_evil.xm,Dark Side of Evil,1.00MB,9a2a58d283d5a630b3c397201688d0b0,XM,false,171,0,2021-07-16T17:44:05.255116353+00:00,24,n/a,Tue 23rd Aug 2005
 152019,present,grume.xm,   grume,502.30KB,aa5520ed10d60346e0a88374c53fdb51,XM,false,105,0,2021-07-16T17:44:05.966747395+00:00,24,n/a,Wed 14th Sep 2005
 152020,present,e-jsbmix.xm,E_JSBMIX,265.17KB,7d0f1de34daf94ccc53d0ca838b6bffc,XM,false,123,0,2021-07-16T17:44:06.577721822+00:00,6,n/a,Mon 5th Sep 2005
@@ -186,7 +186,7 @@
 152186,present,trancemission2.xm,trancemission2,592.15KB,5e58f5c294bf6c32b85fdfb4a99675bd,XM,false,137,0,2021-07-16T17:45:59.857158289+00:00,4,n/a,Wed 6th Apr 2005
 152187,present,marvins_lullaby.xm,marvin's lullaby,1.64MB,ae0ee8770f4a0c849cbe88def7971cc0,XM,false,109,0,2021-07-16T17:46:00.480908393+00:00,32,n/a,Tue 23rd Aug 2005
 152188,present,siberiada.xm,siberiada,63.66KB,39c779809f99b00443c3b77e341b2fe3,XM,false,700,2,2021-07-16T17:46:01.217020632+00:00,16,n/a,Thu 22nd Feb 2007
-152189,present,summer_which_wasnt.xm,summer, which wasn't,3.78MB,f0dfc70aa0a010b60f047850416008d4,XM,false,78,0,2021-07-16T17:46:01.901402351+00:00,32,n/a,Tue 23rd Aug 2005
+152189,present,summer_which_wasnt.xm,"summer, which wasn't",3.78MB,f0dfc70aa0a010b60f047850416008d4,XM,false,78,0,2021-07-16T17:46:01.901402351+00:00,32,n/a,Tue 23rd Aug 2005
 152190,present,se.xm,se,819.82KB,96de0929b8b98c2ec760c1f3b64a417e,XM,false,66,0,2021-07-16T17:46:02.606631882+00:00,14,n/a,Sun 6th Mar 2005
 152191,present,latinalainen_rytmi.xm,Latinalainen rytmi,1.35MB,232b30aed103ae094c9c780a2c522a51,XM,false,115,0,2021-07-16T17:46:03.391499954+00:00,12,n/a,Mon 13th Sep 2004
 152192,present,nelsons_nightmare.xm,Nelson's Nightmare,1.31MB,fa4dd9d81d6fef3e883034c70c741191,XM,false,110,0,2021-07-16T17:46:04.081700944+00:00,10,n/a,Mon 13th Sep 2004
@@ -494,7 +494,7 @@
 152494,present,why_not.xm,Why not...,419.64KB,69b7d23378c7fcc7a3892e8133770ccd,XM,false,69,0,2021-07-16T17:49:40.617180757+00:00,14,n/a,Mon 5th Sep 2005
 152495,present,yepper.xm,yepper.xm,355.50KB,f6e1c7bfbbf4dbfd8dcaca66034779a5,XM,false,401,1,2021-07-16T17:49:41.325231069+00:00,14,n/a,Mon 5th Sep 2005
 152496,present,finished.xm,finished.xm,431.38KB,a65f441dc450cd26c7808b58ee899a6f,XM,false,741,0,2021-07-16T17:49:41.964576538+00:00,4,Alternative,Tue 23rd Aug 2005
-152497,present,take_me_im_yours.xm,Take me, I'm yours.,260.07KB,1832917a6406ea237d411a03a232bc69,XM,false,115,0,2021-07-16T17:49:42.641461746+00:00,20,n/a,Tue 23rd Aug 2005
+152497,present,take_me_im_yours.xm,"Take me, I'm yours.",260.07KB,1832917a6406ea237d411a03a232bc69,XM,false,115,0,2021-07-16T17:49:42.641461746+00:00,20,n/a,Tue 23rd Aug 2005
 152498,present,cybeware.xm,cybeware.xm,828.91KB,b8df9b56306b6e7037514acdce610427,XM,false,124,0,2021-07-16T17:49:43.360447110+00:00,16,n/a,Fri 15th Sep 2006
 152499,present,explore_the_world.xm,Explore The World,1.88MB,984bd547b0277fa852cdeb21e8ade09f,XM,false,124,0,2021-07-16T17:49:44.038009558+00:00,32,n/a,Tue 23rd Aug 2005
 152500,present,humppa-eno.xm,Humppa-Eno,761.36KB,0acc1579892c704d67c9d8c5bc6f2080,XM,false,99,0,2021-07-16T17:49:44.677213828+00:00,16,n/a,Tue 23rd Aug 2005
@@ -571,13 +571,13 @@
 152571,present,arabesque.xm,Arabesque,153.60KB,054a2ea7c1decc8a15c72dcdf887e9dc,XM,false,252,0,2021-07-16T17:50:32.434268914+00:00,8,n/a,Thu 27th Jan 2005
 152572,present,barnyard_rave.xm,Barnyard Rave,976.56KB,9b29efe75ae93aa5b79d44652084a28f,XM,false,95,0,2021-07-16T17:50:33.205482664+00:00,32,n/a,Tue 23rd Aug 2005
 152573,present,cda_theme.xm,CDA Theme,214.57KB,788bb02853c2871da628fb5e92923bd3,XM,false,108,0,2021-07-16T17:50:33.987678132+00:00,20,n/a,Thu 27th Jan 2005
-152574,present,esta_noche_fiesta.xm,Esta noche, Fiesta!,848.06KB,de0fd43c76286c9eb516f519405dda81,XM,false,94,0,2021-07-16T17:50:34.664488705+00:00,24,n/a,Thu 27th Jan 2005
+152574,present,esta_noche_fiesta.xm,"Esta noche, Fiesta!",848.06KB,de0fd43c76286c9eb516f519405dda81,XM,false,94,0,2021-07-16T17:50:34.664488705+00:00,24,n/a,Thu 27th Jan 2005
 152575,present,exp.xm,exp.xm,1.90MB,29dc2ef2cf80e5a019acf4606d58cd6e,XM,false,95,0,2021-07-16T17:50:36.357356569+00:00,26,n/a,Mon 13th Sep 2004
 152576,present,generic_dance_tune.xm,Generic Dance Tune,405.54KB,c592de959ad8a67bd8b91042e35c6c50,XM,false,102,0,2021-07-16T17:50:37.142086048+00:00,28,n/a,Thu 27th Jan 2005
 152577,present,halloween_98.xm,Halloween '98,1.41MB,752fc8a655f0df95fb0bc27b7edad1a8,XM,false,628,1,2021-07-16T17:50:37.799775214+00:00,32,n/a,Wed 14th Sep 2005
 152578,present,let_the_sun_shine.xm,Let the Sun Shine,749.06KB,b3c679baf34104e7b8b791349f15d0f8,XM,false,301,1,2021-07-16T17:50:38.409402349+00:00,20,n/a,Thu 27th Jan 2005
 152579,present,wheres_my_brain.xm,Where's My Brain?,1.04MB,021b61147f9c90009997bdd5d669b936,XM,false,480,1,2021-07-16T17:50:39.032023547+00:00,10,n/a,Thu 27th Jan 2005
-152580,present,xtc_the_happy_alien.xm,xtc, the happy alien,661.32KB,b031fb250daa28882fc1595bf6ed692c,XM,false,485,1,2021-07-16T17:50:39.709473911+00:00,26,n/a,Thu 27th Jan 2005
+152580,present,xtc_the_happy_alien.xm,"xtc, the happy alien",661.32KB,b031fb250daa28882fc1595bf6ed692c,XM,false,485,1,2021-07-16T17:50:39.709473911+00:00,26,n/a,Thu 27th Jan 2005
 152581,present,yeahaahaha.xm,YEaHaAhaha,605.14KB,c629acda88485499f15b102d90fd4ba1,XM,false,385,1,2021-07-16T17:50:40.382311359+00:00,22,n/a,Thu 27th Jan 2005
 152582,present,petit_rien.xm,petit rien,32KB,7570f158fa06b1f77683aee083eb99c5,XM,false,97,0,2021-07-16T17:50:41.039433702+00:00,4,n/a,Mon 13th Sep 2004
 152583,present,v_o_x.xm,V O X,315.87KB,3a60aede51c720c6043b36abcff38cee,XM,false,98,0,2021-07-16T17:50:41.786056411+00:00,18,n/a,Tue 23rd Aug 2005
@@ -616,7 +616,7 @@
 152616,present,the_cosmic_lighthouse.xm,t.c.l.h.b.d,696.83KB,4c10dd2303052811fe7c3726ec744439,XM,false,73,0,2021-07-16T17:51:04.323553954+00:00,14,n/a,Fri 20th Mar 1998
 152617,present,the_green_twist.xm,the green twist,778.69KB,53514bb040bdd69eb22e1c68734f4420,XM,false,61,0,2021-07-16T17:51:04.982168173+00:00,14,n/a,Fri 29th Aug 1997
 152618,present,the_universe_at_her_feet.xm,t.u.a.h.f:urge,973.64KB,29fa8a067024909b85b83d4745519a4f,XM,false,78,0,2021-07-16T17:51:05.674409995+00:00,10,n/a,Tue 8th Apr 1997
-152619,present,united_colors_of_penetration.xm,penetration, dhv97,895.99KB,a4c1b738ffbfc35c4c9dbe48259f9336,XM,false,87,0,2021-07-16T17:51:06.389675464+00:00,12,n/a,Wed 17th May 2006
+152619,present,united_colors_of_penetration.xm,"penetration, dhv97",895.99KB,a4c1b738ffbfc35c4c9dbe48259f9336,XM,false,87,0,2021-07-16T17:51:06.389675464+00:00,12,n/a,Wed 17th May 2006
 152620,present,vaarna.xm,vaarna,725.81KB,62214023279aa24acca56205b209b257,XM,false,75,0,2021-07-16T17:51:07.031628015+00:00,12,n/a,Sat 18th Apr 1998
 152621,present,valerie_in_symbiosis.xm,valerie in symbiosis,989.17KB,6397df93f5b9003d8fc8a539945d42b8,XM,false,639,1,2021-07-16T17:51:07.722479005+00:00,12,Electronic - Ambient,Tue 12th Aug 1997
 152622,present,wheelbound.xm,wheelbound,937.67KB,ca966a138a5456f8fa8322d502dc5146,XM,false,77,0,2021-07-16T17:51:08.352977286+00:00,8,n/a,Mon 9th Mar 1998
@@ -946,7 +946,7 @@
 152946,present,high_density.xm,        High density,537.26KB,1b2283a8f6fdf5696576daa2fc638151,XM,false,84,0,2021-07-16T17:54:58.082361990+00:00,18,n/a,Mon 12th Sep 2005
 152947,present,essential_direction.xm, Essential direction,560.28KB,05d6b7612031148c0583d5cedbd841a3,XM,false,98,0,2021-07-16T17:54:58.722903396+00:00,16,n/a,Mon 12th Sep 2005
 152948,present,find_your_mind_state.xm,Find your mind state,525.07KB,2728b7cd95f664551418cbb0660ea9e6,XM,false,568,1,2021-07-16T17:54:59.398738396+00:00,18,n/a,Sun 22nd Sep 1996
-152949,present,house_what_is_it.xm,House, What is it ?,365.94KB,be56ea5e4cb34f5937cb1dd8c6a2ff54,XM,false,188,1,2021-07-16T17:55:00.089844958+00:00,20,n/a,Tue 22nd Oct 1996
+152949,present,house_what_is_it.xm,"House, What is it ?",365.94KB,be56ea5e4cb34f5937cb1dd8c6a2ff54,XM,false,188,1,2021-07-16T17:55:00.089844958+00:00,20,n/a,Tue 22nd Oct 1996
 152950,present,i_saw_you_flying.xm,    I Saw You Flying,392.18KB,7fee816ecda3690aa2a0d1c6732ed21c,XM,false,137,0,2021-07-16T17:55:00.827828812+00:00,18,n/a,Tue 17th Jul 2001
 152951,present,just_for_you_not_him.xm,Just for you not him,495.02KB,056b1a044cffe4e71621dc4bce1161ab,XM,false,91,0,2021-07-16T17:55:01.518995530+00:00,22,n/a,Fri 18th Oct 1996
 152952,present,last_seconds.xm,        Last Seconds,538.46KB,dbf54d8e4836b44ffb12252e9faa9040,XM,false,82,0,2021-07-16T17:55:02.203835009+00:00,20,n/a,Mon 12th Sep 2005

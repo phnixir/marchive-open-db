@@ -443,7 +443,7 @@
 170443,present,z3rg_20000319.xm,tekno166\29-7\166t,93.74KB,c93c6da10142ae091c628187a1cff15c,XM,false,276,0,2021-07-16T19:47:04.931209580+00:00,4,n/a,Fri 18th Mar 2011
 170444,present,z3rg_20000102.xm,160october2,69.87KB,bad38ddb630129b791de526f54e38aab,XM,false,215,0,2021-07-16T19:47:05.636364476+00:00,4,n/a,Fri 18th Mar 2011
 170445,present,animated.mod,animated,550.58KB,52a37d82ee7091ab8f32290fd2b02095,MOD,false,397,1,2021-07-16T19:47:06.275219684+00:00,4,n/a,Fri 18th Mar 2011
-170446,present,oops!.mod,Oops, oh my!,810.59KB,b2a71e0e793807483a693d956ef600d5,MOD,false,314,0,2021-07-16T19:47:07.006506090+00:00,4,n/a,Fri 18th Mar 2011
+170446,present,oops!.mod,"Oops, oh my!",810.59KB,b2a71e0e793807483a693d956ef600d5,MOD,false,314,0,2021-07-16T19:47:07.006506090+00:00,4,n/a,Fri 18th Mar 2011
 170447,present,jimfreak_-_speedway.xm,speedway,527.96KB,5d5f714547776644298565b3a0296cb6,XM,false,269,0,2021-07-16T19:47:07.713274631+00:00,5,n/a,Fri 18th Mar 2011
 170448,present,magnetizer.xm,Magnetizer InGame,1.11MB,48078e454849ee0bee4262d20b9e9707,XM,false,521,0,2021-07-16T19:47:08.394970568+00:00,16,Video Game,Fri 18th Mar 2011
 170449,present,earthcrisis11.xm,Earth Crisis 2011,1.43MB,5934187e5e3d680723f4350335fb6b30,XM,false,2185,0,2021-07-16T19:47:09.084685255+00:00,16,Electronic - Other,Fri 18th Mar 2011
@@ -811,7 +811,7 @@
 170811,present,dead-neurostructures.xm,dead neruostructures,139.15KB,dfdc169628efeaeebf356e1e2b1c394b,XM,false,309,0,2021-07-16T19:51:38.317634059+00:00,12,n/a,Fri 10th Jun 2011
 170812,present,obnormal-speeds.xm,obnormal speeds,350.39KB,4a08e3535cc53ddcd904a57961b25a30,XM,false,240,0,2021-07-16T19:51:39.187442340+00:00,8,n/a,Fri 10th Jun 2011
 170813,present,double-width-grin.xm,double width grin,157.42KB,b17291880fe2144ecbc14df4a655cf1d,XM,false,712,0,2021-07-16T19:51:39.888607600+00:00,8,Chiptune,Fri 10th Jun 2011
-170814,present,drakangui.it,Drakan, main menu theme,1.55MB,04c8fb6c4bd23ce85dab9e5f31c314cb,IT,false,1856,1,2021-07-16T19:51:40.576097496+00:00,14,Soundtrack,Tue 14th Jun 2011
+170814,present,drakangui.it,"Drakan, main menu theme",1.55MB,04c8fb6c4bd23ce85dab9e5f31c314cb,IT,false,1856,1,2021-07-16T19:51:40.576097496+00:00,14,Soundtrack,Tue 14th Jun 2011
 170815,present,r2boss.s3m,Boss Duel,189.78KB,ccaa63ac9fe4eed885ca14dc632097bb,S3M,false,507,0,2021-07-16T19:51:42.588399526+00:00,10,Video Game,Tue 14th Jun 2011
 170816,present,r2wily2d.s3m,Skull Castle Deep Dungeon,165.18KB,48f09630b04978bc2a362d9173295906,S3M,false,745,1,2021-07-16T19:51:43.316749630+00:00,8,Video Game,Tue 14th Jun 2011
 170817,present,r1sele.s3m,After Those Laboroids!,182.95KB,7314c19d9740b152fbef9c2df2eca5b0,S3M,false,366,0,2021-07-16T19:51:44.140339109+00:00,10,Video Game,Tue 14th Jun 2011
@@ -828,8 +828,8 @@
 170828,present,r3wily3.s3m,Skull Castle Gamy,108.58KB,2b2862fe57cda189ba575366854b14d2,S3M,false,378,0,2021-07-16T19:51:52.593497231+00:00,8,Video Game,Tue 14th Jun 2011
 170829,present,air_zonk_-_brains_town.mo3,Brains Town,333.82KB,7dd9f407128616ccbc6343863b4ae837,MO3,false,193,0,2021-07-16T19:51:54.618933219+00:00,7,n/a,Tue 14th Jun 2011
 170830,present,meztli_blue_-_milky_way.it,*Milky Way*,187.45KB,454b120753b0558d968261ad267555f2,IT,false,235,0,2021-07-16T19:51:55.423570459+00:00,16,n/a,Tue 14th Jun 2011
-170831,present,r2gover.s3m,You Failed, Game Over,199.41KB,3c76be669efd3abe61284b2c32b3a93c,S3M,false,413,0,2021-07-16T19:51:56.058525667+00:00,8,Video Game,Thu 16th Jun 2011
-170832,present,r1boss2.s3m,Yellow Devil, You Say?!,295.01KB,5f2c58b1009f5980d0164238e47fca70,S3M,false,491,0,2021-07-16T19:51:56.748950771+00:00,8,Video Game,Thu 16th Jun 2011
+170831,present,r2gover.s3m,"You Failed, Game Over",199.41KB,3c76be669efd3abe61284b2c32b3a93c,S3M,false,413,0,2021-07-16T19:51:56.058525667+00:00,8,Video Game,Thu 16th Jun 2011
+170832,present,r1boss2.s3m,"Yellow Devil, You Say?!",295.01KB,5f2c58b1009f5980d0164238e47fca70,S3M,false,491,0,2021-07-16T19:51:56.748950771+00:00,8,Video Game,Thu 16th Jun 2011
 170833,present,r1elec.s3m,Electrical Spire,417.28KB,4c3b7e442e8b22dadabf16c9d55c9ceb,S3M,false,420,0,2021-07-16T19:51:57.471634677+00:00,8,Video Game,Thu 16th Jun 2011
 170834,present,r6cent.s3m,Spiked Aquaria,145.61KB,9569f0d8023821939fe9f44beb024c3c,S3M,false,341,0,2021-07-16T19:51:58.187534312+00:00,8,Video Game,Thu 16th Jun 2011
 170835,present,r7title.s3m,Showdown of Destiny,203.29KB,334465d67c1e854fa6db2d557bb45c13,S3M,false,596,1,2021-07-16T19:51:58.934997437+00:00,12,Video Game,Thu 16th Jun 2011
@@ -891,11 +891,11 @@
 170891,present,r2wilym.s3m,Welcome to My New Abode,379.66KB,e4f87e83e77ebba5c74260d99dccc111,S3M,false,351,0,2021-07-16T19:52:43.792116586+00:00,8,Video Game,Mon 20th Jun 2011
 170892,present,mwseler.s3m,Starting All Over Again,150.00KB,51e31c2d805893867667c7e5d5122290,S3M,false,338,0,2021-07-16T19:52:44.514214971+00:00,12,Video Game,Mon 20th Jun 2011
 170893,present,rw1wily2.s3m,Dr. Wily's Space Node,249.95KB,1584d5f925a02abe7103e858f31311de,S3M,false,439,0,2021-07-16T19:52:45.291274554+00:00,10,Video Game,Mon 20th Jun 2011
-170894,present,rx3cain.s3m,Cain Labs, IHHQ Central,143.61KB,501e9b8464680f7fccbae7ee5aaf6e49,S3M,false,412,0,2021-07-16T19:52:46.015612210+00:00,12,Video Game,Mon 20th Jun 2011
+170894,present,rx3cain.s3m,"Cain Labs, IHHQ Central",143.61KB,501e9b8464680f7fccbae7ee5aaf6e49,S3M,false,412,0,2021-07-16T19:52:46.015612210+00:00,12,Video Game,Mon 20th Jun 2011
 170895,present,r3r8frne.s3m,Frozen Skewers,240.64KB,0316283facf9b2c6ffb505aea8055251,S3M,false,339,0,2021-07-16T19:52:46.780119345+00:00,10,Video Game,Mon 20th Jun 2011
 170896,present,r5sele.s3m,Allies of a Traitor,131.61KB,1106052cf93c7f3bac3571ef7a9db8e1,S3M,false,325,0,2021-07-16T19:52:49.239286428+00:00,8,Video Game,Mon 20th Jun 2011
 170897,present,r4sele.s3m,Russian Robot Rondevous,193.47KB,4eee95350fdd3fcfb73635abca0fc652,S3M,false,460,0,2021-07-16T19:52:49.915267053+00:00,8,Video Game,Mon 20th Jun 2011
-170898,present,r3pass.s3m,Six by Six, Red and Blue,214.29KB,66879360ba1a72b17830ff9a503c103c,S3M,false,440,0,2021-07-16T19:52:50.587707990+00:00,10,Video Game,Mon 20th Jun 2011
+170898,present,r3pass.s3m,"Six by Six, Red and Blue",214.29KB,66879360ba1a72b17830ff9a503c103c,S3M,false,440,0,2021-07-16T19:52:50.587707990+00:00,10,Video Game,Mon 20th Jun 2011
 170899,present,rx3pass.s3m,Doppler is Watching...,209.98KB,1836567382948912a6fcdcf7cfcbd5f1,S3M,false,415,0,2021-07-16T19:52:51.271940698+00:00,12,Video Game,Mon 20th Jun 2011
 170900,present,rx2zero.s3m,Zero's Untamed Fury,269.20KB,3e3913a4ce0a3ebbf07f62e415eec36c,S3M,false,488,0,2021-07-16T19:52:51.959376843+00:00,12,Video Game,Mon 20th Jun 2011
 170901,present,r3needle.s3m,Get the Point?,179.11KB,c5a01801a3a9d71aa0de0c6311dc7895,S3M,false,443,0,2021-07-16T19:52:52.683906843+00:00,8,Video Game,Mon 20th Jun 2011
@@ -945,7 +945,7 @@
 170945,present,s1ghillm.s3m,The Baddest of Hills,128.49KB,4bb25e0aa90dec6dfbc746d0b21c66f3,S3M,false,612,0,2021-07-16T19:53:30.428021464+00:00,10,Video Game,Mon 27th Jun 2011
 170946,present,kcestar.s3m,Evening Star,271.78KB,0b837512b46300c514160f70084ba4aa,S3M,false,917,2,2021-07-16T19:53:31.122022870+00:00,16,Video Game,Mon 27th Jun 2011
 170947,present,s2s3degr.s3m,Ruination Resurrection,255.35KB,ac8d80b8d2bfc07aa714fe47b0d20a1e,S3M,false,497,0,2021-07-16T19:53:31.823468599+00:00,8,Electronic - Techno,Mon 27th Jun 2011
-170948,present,s2msalak.s3m,Shine On, Aqua Lakes,192.08KB,6def7b79f131130a81780a9ac9270255,S3M,false,605,0,2021-07-16T19:53:32.613005786+00:00,10,Video Game,Mon 27th Jun 2011
+170948,present,s2msalak.s3m,"Shine On, Aqua Lakes",192.08KB,6def7b79f131130a81780a9ac9270255,S3M,false,605,0,2021-07-16T19:53:32.613005786+00:00,10,Video Game,Mon 27th Jun 2011
 170949,present,s3lbase1.s3m,Prepare for Launch,238.26KB,4a71ca602ea504f08807379e950f8e38,S3M,false,571,0,2021-07-16T19:53:33.322173390+00:00,8,Video Game,Mon 27th Jun 2011
 170950,present,sd2set.s3m,Let's Get Ready to Race!,241.31KB,552428b59945d84231c0649aad160b87,S3M,false,504,0,2021-07-16T19:53:34.028773598+00:00,10,Video Game,Mon 27th Jun 2011
 170951,present,sa2b21.s3m,Masters of the Desert,239.14KB,fc83f51d8bb69865a0a74c1c36d1eefb,S3M,false,592,0,2021-07-16T19:53:34.661625004+00:00,12,Video Game,Mon 27th Jun 2011

@@ -28,7 +28,7 @@
 87028,present,pianosaga_cpr.mod,pianosaga.[cpr],34.30KB,e85ff78a453261868a299ce018657173,MOD,false,279,0,2021-07-15T14:01:17.948156822+00:00,4,n/a,Thu 19th May 2005
 87029,present,pianoting.mod,pianoting,11.39KB,233d75f2f2b8354e9056b67ae6c9d36d,MOD,false,263,0,2021-07-15T14:01:18.642946926+00:00,4,n/a,Mon 13th Sep 2004
 87030,present,pianotune.mod,pianotune,119.23KB,a7f9eeeba68dff3889c99590f763e2c2,MOD,false,212,0,2021-07-15T14:01:19.367032498+00:00,4,n/a,Wed 18th May 2005
-87031,present,pick_my_nosepleez.mod,pick my nose,pleez,83.47KB,b31142148877250c9741ff6a4a1e04d8,MOD,false,192,0,2021-07-15T14:01:20.061285154+00:00,4,n/a,Thu 19th May 2005
+87031,present,pick_my_nosepleez.mod,"pick my nose,pleez",83.47KB,b31142148877250c9741ff6a4a1e04d8,MOD,false,192,0,2021-07-15T14:01:20.061285154+00:00,4,n/a,Thu 19th May 2005
 87032,present,808-4.mod,4,182.16KB,e7bd3a028861d50768313483ef7810bb,MOD,false,363,1,2021-07-15T14:01:21.118480102+00:00,4,n/a,Mon 13th Sep 2004
 87033,present,9_kilobytes_blues.mod,9 kilobytes blues,9.44KB,632816acb378fbfcb9d3e4cac3881233,MOD,false,158,0,2021-07-15T14:01:21.959440518+00:00,4,n/a,Mon 13th Sep 2004
 87034,present,808-2.mod,2,204.38KB,3268bf4317aecdb26a131b461eca8fed,MOD,false,301,1,2021-07-15T14:01:22.669410622+00:00,4,n/a,Mon 13th Sep 2004
@@ -545,7 +545,7 @@
 87545,present,chiptune_no_66.mod,chiptune no. 66,8.08KB,4805341f9d0f1e40d8c093ca78816573,MOD,false,261,0,2021-07-15T14:08:05.844670051+00:00,4,n/a,Mon 13th Sep 2004
 87546,present,chiptune_no_67.mod,chiptune no. 67,11.81KB,3f9a0ee21b8c7385f33bf4e22af07cc5,MOD,false,298,0,2021-07-15T14:08:06.496419635+00:00,4,n/a,Mon 13th Sep 2004
 87547,present,chiptune_no_69.mod,chiptune no. 69,12.12KB,32e3187eb4b2f0af6b0b557371f0e685,MOD,false,277,0,2021-07-15T14:08:07.172744738+00:00,4,n/a,Mon 13th Sep 2004
-87548,present,move_w_32-sp.mod,MOVE.W #32,-(SP),89.98KB,eacf51f21f9a5efeb9ee82930502fe8c,MOD,false,445,0,2021-07-15T14:08:07.836898071+00:00,4,n/a,Sat 25th Jun 2005
+87548,present,move_w_32-sp.mod,"MOVE.W #32,-(SP)",89.98KB,eacf51f21f9a5efeb9ee82930502fe8c,MOD,false,445,0,2021-07-15T14:08:07.836898071+00:00,4,n/a,Sat 25th Jun 2005
 87549,present,moved_by_you.mod,moved by you,24.14KB,a3907ecc38cda6307de49b9d361ff58c,MOD,false,146,0,2021-07-15T14:08:08.517356873+00:00,4,n/a,Wed 15th Jun 2005
 87550,present,masqrade.mod,masqrade,91.43KB,602b540cd9fc27038e4e0d82ecaf7c9b,MOD,false,269,0,2021-07-15T14:08:09.244672081+00:00,4,n/a,Mon 13th Sep 2004
 87551,present,mass-destruction.mod,mass-destruction,125.18KB,a918e36b78947fed10203eab3339b108,MOD,false,148,0,2021-07-15T14:08:10.008644164+00:00,4,n/a,Wed 15th Jun 2005
@@ -727,7 +727,7 @@
 87727,present,jarreistic.mod,jarreistic,146.90KB,8c2733199aede65c5425ca662087bbcc,MOD,false,449,0,2021-07-15T14:10:43.747913585+00:00,4,n/a,Thu 19th May 2005
 87728,present,jarrelixir.mod,jarrelixir,292.43KB,667945170154a46d6b886d258d2a7343,MOD,false,476,0,2021-07-15T14:10:44.439193897+00:00,4,n/a,Mon 13th Sep 2004
 87729,present,jarrevaikutus.mod,jarrevaikutus,137.05KB,05d852969ceab80ffc97630952d96e7e,MOD,false,407,0,2021-07-15T14:10:45.308984470+00:00,4,n/a,Mon 13th Sep 2004
-87730,present,jazz_dont_stop_moving.mod,Jazz, don't stop...,199.59KB,0c006cd676132c12fe85a251aec11597,MOD,false,272,0,2021-07-15T14:10:45.984801917+00:00,4,n/a,Mon 13th Sep 2004
+87730,present,jazz_dont_stop_moving.mod,"Jazz, don't stop...",199.59KB,0c006cd676132c12fe85a251aec11597,MOD,false,272,0,2021-07-15T14:10:45.984801917+00:00,4,n/a,Mon 13th Sep 2004
 87731,present,jazz_up.mod,jazz up,85.02KB,51f83a13d61a1735c8f91d129f889a29,MOD,false,195,0,2021-07-15T14:10:46.697602855+00:00,4,n/a,Tue 14th Jun 2005
 87732,present,jazz-festival.mod,jazz-festival,181.04KB,d78f13e32784aa73a1577ccc09ce1c2b,MOD,false,269,0,2021-07-15T14:10:47.376938688+00:00,4,n/a,Mon 13th Sep 2004
 87733,present,rock_tom.mod,rock tom,64.07KB,55b881769fb19008ca66ec638d82b1ba,MOD,false,155,0,2021-07-15T14:10:47.990707333+00:00,4,n/a,Fri 20th May 2005

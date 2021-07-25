@@ -338,7 +338,7 @@
 60338,present,256world.xm,WorldOf256Possible,57.23KB,b97ceef5a052fde6b9cde8ef273b7143,XM,false,917,0,2021-07-15T09:51:30.019304414+00:00,16,n/a,Fri 13th Sep 2002
 60339,present,stq-live.xm,Live for life,273.12KB,bb94e07d744f5de9470cf7806fb6fdeb,XM,false,373,0,2021-07-15T09:51:30.847329882+00:00,22,n/a,Wed 11th Feb 2004
 60340,present,wandrwst.mod,wander west,224.52KB,63fb4808615d0dc79b66955d74b1b7e7,MOD,false,902,0,2021-07-15T09:51:31.567037486+00:00,4,n/a,Thu 6th Jul 2000
-60341,present,virgo-good_bye_mykolajiv.it,Virgo-Goodbye,Mykolajiv...,754.62KB,6df9035ba9e68054996170cab2a855fd,IT,false,257,0,2021-07-15T09:51:32.408643580+00:00,10,n/a,Sun 7th Sep 2003
+60341,present,virgo-good_bye_mykolajiv.it,"Virgo-Goodbye,Mykolajiv...",754.62KB,6df9035ba9e68054996170cab2a855fd,IT,false,257,0,2021-07-15T09:51:32.408643580+00:00,10,n/a,Sun 7th Sep 2003
 60342,present,tension.mtm,tension.mtm,121.94KB,6844ebbea496e8c6af99a74dc99da6dd,MTM,false,250,0,2021-07-15T09:51:33.167954257+00:00,8,n/a,Thu 7th Aug 2003
 60343,present,stq-the_end.xm,The end,603.02KB,050a5d5e9e3b3a0597e6d18e083e39e0,XM,false,1117,3,2021-07-15T09:51:33.890665558+00:00,32,n/a,Tue 30th Jul 2002
 60344,present,25_4.it,25/4,2.23MB,2933643238008c43f08afb909ce1ceae,IT,false,2752,0,2021-07-15T09:51:34.663435714+00:00,18,Electronic - Ambient,Fri 26th Sep 2003
@@ -413,7 +413,7 @@
 60413,present,tepes.it,tepes,1.51MB,8d298445505253b5e8efb5c297943c56,IT,false,541,0,2021-07-15T09:52:37.413891992+00:00,16,n/a,Mon 11th Sep 2000
 60414,present,strade8bit.it,strade8bit,934.05KB,e701bedab6126da3193aa0f1be1d7871,IT,false,684,0,2021-07-15T09:52:38.557494127+00:00,13,n/a,Thu 24th Jun 1999
 60415,present,war.xm,When Warriors Fall,462.31KB,54020adcf7288b22c5aeaf9a6f7a3167,XM,false,1234,1,2021-07-15T09:52:39.724838710+00:00,16,n/a,Sun 18th Feb 2001
-60416,present,teppo.xm,teppo, julma satanis,54.12KB,012136ee80b79e58b788d723b630cd24,XM,false,306,0,2021-07-15T09:52:40.531658970+00:00,6,n/a,Wed 13th Aug 2003
+60416,present,teppo.xm,"teppo, julma satanis",54.12KB,012136ee80b79e58b788d723b630cd24,XM,false,306,0,2021-07-15T09:52:40.531658970+00:00,6,n/a,Wed 13th Aug 2003
 60417,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-15T09:52:41.240303397+00:00,0,n/a,Thu 1st Jan 1970
 60418,present,war2001.xm,War,1.97MB,dd3f92a4b496f20db50a5fe30944e86c,XM,false,1444,4,2021-07-15T09:52:42.087501887+00:00,26,n/a,Sat 11th Aug 2001
 60419,present,2acid.mod,mod.2acidofil,200.28KB,dd99c576249dcb862de88cd8b6d21f40,MOD,false,1052,0,2021-07-15T09:52:43.445525844+00:00,4,n/a,Sun 24th Dec 2000
@@ -969,7 +969,7 @@
 60969,present,waver-tunedown.xm,Tune Down,165.69KB,10570ef21927722fb23d7e368e79509f,XM,false,536,0,2021-07-15T10:01:33.614331840+00:00,8,n/a,Sat 6th Jan 2001
 60970,present,suctionr.mtm,Suction Regulator 2,505.27KB,f3f31cd4be74058d6999570772c5cabe,MTM,false,217,0,2021-07-15T10:01:34.379334183+00:00,14,n/a,Thu 7th Aug 2003
 60971,present,vr-mel5.it,Melody 5,255.08KB,6d27e3555b3a946b3b0cd439d4530da5,IT,false,320,0,2021-07-15T10:01:35.146872569+00:00,12,n/a,Mon 5th Apr 2004
-60972,present,the_climb.it,The Climb - jun.15, 2005,44.34KB,c9bd179d785de12b60f7e59e008bcea9,IT,false,139,0,2021-07-15T10:01:35.931391266+00:00,9,n/a,Tue 27th Sep 2005
+60972,present,the_climb.it,"The Climb - jun.15", 2005,44.34KB,c9bd179d785de12b60f7e59e008bcea9,IT,false,139,0,2021-07-15T10:01:35.931391266+00:00,9,n/a,Tue 27th Sep 2005
 60973,present,sudden_strike.it,Sudden Strike,115.75KB,38f8a3ffa03bfb8d8cc17e24fa40ba58,IT,false,222,0,2021-07-15T10:01:36.647992256+00:00,4,n/a,Sun 25th Sep 2005
 60974,present,3edges.mod,3 Edges -= tR/\Sh =-,279.63KB,f7ce42d541b66bb3a3eabf75efd76d83,MOD,false,3278,0,2021-07-15T10:01:37.829999078+00:00,8,Demo Style,Sun 24th Dec 2000
 60975,present,wavering.mod,## wavering ##,272.94KB,ed3f8cd2cbcbb0eb5d698c037a37b606,MOD,false,2721,1,2021-07-15T10:01:38.959491109+00:00,4,Pop (general),Sat 27th Nov 1999

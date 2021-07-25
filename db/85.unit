@@ -50,7 +50,7 @@
 84050,present,no_ammo_run.mod,. NO AMMO... RUN!! .,16.44KB,c94951e2b91ef903d7cf35f8a0982a37,MOD,false,164,0,2021-07-15T13:35:46.301174125+00:00,4,n/a,Mon 25th Oct 2004
 84051,present,no_backup.mod,no backup,19.91KB,5cf540a3918402c2c52635c2bb7f117e,MOD,false,245,0,2021-07-15T13:35:47.056707093+00:00,4,n/a,Mon 13th Sep 2004
 84052,present,no_bananas.mod,No Bananas,9.58KB,0b7618f7aa737d4da0499ae31655ef5f,MOD,false,188,0,2021-07-15T13:35:47.867636780+00:00,4,n/a,Sat 2nd Apr 2005
-84053,present,no_biz_mass_hulk.mod,no biz, mass hulk,29.93KB,ac7341447a04eb87688ceabb1c9eafce,MOD,false,117,0,2021-07-15T13:35:48.551129488+00:00,4,n/a,Thu 16th Jun 2005
+84053,present,no_biz_mass_hulk.mod,"no biz, mass hulk",29.93KB,ac7341447a04eb87688ceabb1c9eafce,MOD,false,117,0,2021-07-15T13:35:48.551129488+00:00,4,n/a,Thu 16th Jun 2005
 84054,present,no_chance.mod,No Chance,391.60KB,fd186ce9e3dc4e3c2e409e6b31ffafc9,MOD,false,121,0,2021-07-15T13:35:49.208431051+00:00,4,n/a,Mon 13th Sep 2004
 84055,present,no_good.mod,no good,564.73KB,167ef1672bddb2eed0ebdca7ddb67b25,MOD,false,307,0,2021-07-15T13:35:49.943067509+00:00,4,n/a,Thu 19th May 2005
 84056,present,love_theme.mod,love theme,44.25KB,d97ccb08e6fe3efc6246a9afddb7c920,MOD,false,292,0,2021-07-15T13:35:50.630435738+00:00,4,n/a,Sun 18th Jun 2006
@@ -330,7 +330,7 @@
 84330,present,green_marlboro.mod,green marlboro,195.57KB,24291268901d3e6f1b53140bfb1268b3,MOD,false,175,0,2021-07-15T13:39:14.419456389+00:00,4,n/a,Mon 13th Sep 2004
 84331,present,minimaliz.mod,Minimaliz@,153.97KB,3a0ae5a1b357be6e26ec2fdd10fcafd7,MOD,false,137,0,2021-07-15T13:39:15.151728837+00:00,4,n/a,Wed 18th May 2005
 84332,present,alien2069-vol_2.mod,alien2069-vol.2,63.09KB,f35171d57a56ed9cc270a4f3a88af953,MOD,false,290,0,2021-07-15T13:39:15.796605451+00:00,4,n/a,Mon 13th Sep 2004
-84333,present,alien4the_chaos.mod,**alien4,the chaos*,155.67KB,4dcad27196ccc4b8506239faee8e21e1,MOD,false,299,0,2021-07-15T13:39:16.518241649+00:00,4,n/a,Mon 13th Sep 2004
+84333,present,alien4the_chaos.mod,"**alien4,the chaos*",155.67KB,4dcad27196ccc4b8506239faee8e21e1,MOD,false,299,0,2021-07-15T13:39:16.518241649+00:00,4,n/a,Mon 13th Sep 2004
 84334,present,big_theme_from_tc.mod,big theme from tc,769.72KB,4c7ba888ab27a85b76f4ef5ae3c341b1,MOD,false,142,0,2021-07-15T13:39:17.347265242+00:00,4,n/a,Mon 13th Sep 2004
 84335,present,satisfactory.mod,SATISFACTORY,213.39KB,21307b7dbc4be010acd41a75ed672aae,MOD,false,133,0,2021-07-15T13:39:18.067157950+00:00,4,n/a,Sat 29th Oct 2005
 84336,present,cp-vamma_viikko.mod,cp-vamma_viikko,329.94KB,33165be9edded00509fea231b2cbe077,MOD,false,164,0,2021-07-15T13:39:18.830068158+00:00,4,n/a,Wed 18th May 2005
@@ -466,7 +466,7 @@
 84466,present,long_salomes_diary.mod,long salomes diary,229.91KB,5c144f968ed17d127e37c11518ef0581,MOD,false,281,1,2021-07-15T13:40:55.829956819+00:00,4,n/a,Wed 29th Sep 2004
 84467,present,long_time.mod,long time,202.41KB,ecf0e2f69917c86d7e55978405ed38b4,MOD,false,201,0,2021-07-15T13:40:56.605513798+00:00,4,n/a,Mon 21st Feb 2005
 84468,present,longest_distance.mod,longest distance,187.18KB,1c64373fa20b66969705661aa54c135f,MOD,false,118,0,2021-07-15T13:40:57.259187287+00:00,4,n/a,Mon 13th Sep 2004
-84469,present,look_uplook_up.mod,look_up,look_up,312.82KB,e9b7ceee52270ee25eff6574331e23a8,MOD,false,236,0,2021-07-15T13:40:57.952300516+00:00,4,n/a,Mon 6th Jun 2005
+84469,present,look_uplook_up.mod,"look_up,look_up",312.82KB,e9b7ceee52270ee25eff6574331e23a8,MOD,false,236,0,2021-07-15T13:40:57.952300516+00:00,4,n/a,Mon 6th Jun 2005
 84470,present,looking_good.mod,looking good,27.39KB,3eeedbd246d303e73ec2dd202d002151,MOD,false,182,0,2021-07-15T13:40:58.623250620+00:00,4,n/a,Wed 18th May 2005
 84471,present,a-cid_houze.mod,a-cid houze,76.79KB,a7f1b9ca47415e676141e54717fc9ce4,MOD,false,828,1,2021-07-15T13:40:59.312784318+00:00,4,n/a,Mon 13th Sep 2004
 84472,present,megalo_trance.mod,mega'lo trance,568.18KB,46fa4c4a47f69903b13f78a09995dca1,MOD,false,198,0,2021-07-15T13:40:59.992980203+00:00,4,n/a,Thu 19th May 2005
@@ -523,7 +523,7 @@
 84523,present,mad_news_4.mod,madnews4,96.43KB,4adb837ef6e095c0cc9460f68f469576,MOD,false,116,0,2021-07-15T13:41:35.950246595+00:00,4,n/a,Mon 13th Sep 2004
 84524,present,mad_news_5.mod,madnews7,65.16KB,6ececf8ea0933e86096249bd7ec004c0,MOD,false,104,0,2021-07-15T13:41:36.630600241+00:00,4,n/a,Mon 13th Sep 2004
 84525,present,mad_news_6.mod,madnews6,103.18KB,73c5e4bd572dcf27339533d657c7ffb2,MOD,false,112,0,2021-07-15T13:41:37.321705657+00:00,4,n/a,Mon 13th Sep 2004
-84526,present,mad_but_sad.mod,mad, but sad,110.38KB,dc0a7578938631e1ced642e7322ba695,MOD,false,153,0,2021-07-15T13:41:38.016095970+00:00,4,n/a,Wed 23rd Feb 2005
+84526,present,mad_but_sad.mod,"mad, but sad",110.38KB,dc0a7578938631e1ced642e7322ba695,MOD,false,153,0,2021-07-15T13:41:38.016095970+00:00,4,n/a,Wed 23rd Feb 2005
 84527,present,mad_openyourheart.mod,openyourheart.mad,58.38KB,54246a7818aa238a75d7c6243ec78292,MOD,false,192,0,2021-07-15T13:41:38.709686699+00:00,4,n/a,Mon 13th Sep 2004
 84528,present,maddism-4_59.mod,maddism-4.59,122.05KB,74be5780089ed02afaf38c6a5057e314,MOD,false,158,0,2021-07-15T13:41:39.395363573+00:00,4,n/a,Wed 15th Jun 2005
 84529,present,maddism_final.mod,maddism.final,153.90KB,5c7c0c003ee4eb051d6a5a8c608d1c5f,MOD,false,178,0,2021-07-15T13:41:40.069423417+00:00,4,n/a,Tue 27th Apr 1999
@@ -624,7 +624,7 @@
 84624,present,gwtitle.mod,gwtitle,93.78KB,42939fc97e6a6ecd030db93302bbef89,MOD,false,390,0,2021-07-15T13:42:51.532649171+00:00,4,n/a,Sat 29th Oct 2005
 84625,present,bom-bom-bom.mod,bom-bom-bom,13.96KB,335a40a9cc9046a60e63889574bc23b9,MOD,false,149,0,2021-07-15T13:42:52.219328962+00:00,4,n/a,Wed 18th May 2005
 84626,present,play_it_again.mod,play it again!,196.78KB,80778e6ffdf411f527a14233d955563c,MOD,false,169,0,2021-07-15T13:42:52.894806045+00:00,4,n/a,Thu 16th Jun 2005
-84627,present,play4megeorge.mod,play4me,george!,85.33KB,57e88b2722cfc150785760538fb6d11b,MOD,false,238,0,2021-07-15T13:42:53.643965003+00:00,4,n/a,Mon 13th Sep 2004
+84627,present,play4megeorge.mod,"play4me,george!",85.33KB,57e88b2722cfc150785760538fb6d11b,MOD,false,238,0,2021-07-15T13:42:53.643965003+00:00,4,n/a,Mon 13th Sep 2004
 84628,present,playdudes.mod,playdudes,68.94KB,8f59be26d10828781bd26e0d74b17d6b,MOD,false,332,0,2021-07-15T13:42:54.388324795+00:00,4,n/a,Sat 29th Oct 2005
 84629,present,playing_v.mod,braxen-playing v,156.76KB,b9bbaafa8f8ff8ec698511ad8fc8dd46,MOD,false,441,1,2021-07-15T13:42:55.082169951+00:00,4,n/a,Wed 18th May 2005
 84630,present,playing_with_knives.mod,playing with knives,614.76KB,9da66f8665eb7248ffc770444f8b0642,MOD,false,204,0,2021-07-15T13:42:55.813199534+00:00,4,n/a,Mon 13th Sep 2004
@@ -829,7 +829,7 @@
 84829,present,funkboreintro.mod,funkboreintro,29.23KB,628f0f6fa60e1027781b9135523b41c8,MOD,false,270,0,2021-07-15T13:45:32.627005724+00:00,4,n/a,Mon 13th Sep 2004
 84830,present,funkey2.mod,Funkey2,132.03KB,d0003361b7daf62f0e1ccc6e56775b72,MOD,false,183,0,2021-07-15T13:45:33.307400932+00:00,4,n/a,Mon 13th Sep 2004
 84831,present,kamp-jungle-kaya.mod,+kamp-jungle-kaya+,371.37KB,9f49e0454ca8c0e1731b08653c5def10,MOD,false,144,0,2021-07-15T13:45:33.998705411+00:00,4,n/a,Mon 13th Sep 2004
-84832,present,_but_im_a_prawn.mod,, but i'm a prawn.,318.66KB,7849cf3182685c8350f97be4c5f03bae,MOD,false,253,1,2021-07-15T13:45:34.657276192+00:00,4,n/a,Wed 23rd Feb 2005
+84832,present,_but_im_a_prawn.mod,", but i'm a prawn.",318.66KB,7849cf3182685c8350f97be4c5f03bae,MOD,false,253,1,2021-07-15T13:45:34.657276192+00:00,4,n/a,Wed 23rd Feb 2005
 84833,present,british_steel.mod,british steel,102.24KB,c5f748ba2f114a7dff3ed3e38af467ea,MOD,false,187,0,2021-07-15T13:45:35.346899994+00:00,4,n/a,Wed 15th Jun 2005
 84834,present,broadcast.mod,broadcast,270.51KB,1ecf097c87e4971de53b1040c9c7c08e,MOD,false,290,0,2021-07-15T13:45:36.048024629+00:00,4,n/a,Mon 13th Sep 2004
 84835,present,dance_robyns_as_of.mod,dance robyn's as of,95.34KB,51e241b029c9c401f59b20f7ca2ad8d2,MOD,false,219,0,2021-07-15T13:45:36.759155931+00:00,4,n/a,Sun 22nd May 2005

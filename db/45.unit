@@ -158,7 +158,7 @@
 44158,present,greebo.it,Am I Greebo?,102.99KB,7fb0cbc5a797afb9fe361e4f73e3f59d,IT,false,1172,2,2021-07-14T17:00:38.932200135+00:00,26,n/a,Mon 13th Aug 2001
 44159,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T17:00:39.671852301+00:00,0,n/a,Thu 1st Jan 1970
 44160,present,greeceba.it,GreeceBall by Fox,230.73KB,8d4a2734dbaf969476fc3b1a93e37f7e,IT,false,1098,0,2021-07-14T17:00:40.264265372+00:00,29,Electronic - Techno,Mon 22nd Mar 1999
-44161,present,green.it,Green Grass, Grey Skies,627.05KB,b34eb9f4b9cc7d036a822c8313d8ab7e,IT,false,2589,0,2021-07-14T17:00:41.028849029+00:00,53,Electronic - Techno,Sun 4th Oct 1998
+44161,present,green.it,"Green Grass, Grey Skies",627.05KB,b34eb9f4b9cc7d036a822c8313d8ab7e,IT,false,2589,0,2021-07-14T17:00:41.028849029+00:00,53,Electronic - Techno,Sun 4th Oct 1998
 44162,present,green.mod,Green,81.17KB,03892d168713003497b922214034d5ed,MOD,false,895,0,2021-07-14T17:00:41.760007531+00:00,4,n/a,Thu 29th Jun 2000
 44163,present,green.s3m,9green,92.41KB,da585a89aca7aa87f5197d19430fe8f4,S3M,false,915,0,2021-07-14T17:00:42.490919555+00:00,8,n/a,Tue 12th Dec 2000
 44164,present,green.xm,Green,391.20KB,c03c7da90756d8d7b4593cef94a96d7a,XM,false,798,0,2021-07-14T17:00:43.199179489+00:00,16,Electronic - Dance,Wed 18th May 2005
@@ -351,7 +351,7 @@
 44351,present,HEATSEEK.MOD,Heatseeker,244.93KB,8d6fd18a1151513eaaffc7c2ab955149,MOD,false,1263,0,2021-07-14T17:03:27.896328531+00:00,8,Demo Style,Wed 1st Jan 1997
 44352,present,HEAVENP.mod,Heaven of Pain,100.57KB,4343104d06181303f3046f37becdcfcf,MOD,false,1301,0,2021-07-14T17:03:28.678667467+00:00,6,Electronic - Techno,Wed 1st Jan 1997
 44353,present,HEIT.XM,hei täppä,556.86KB,0acfd88300becdd993a7674645af257e,XM,false,2565,0,2021-07-14T17:03:29.446921340+00:00,12,n/a,Wed 1st Jan 1997
-44354,present,HEO.S3M,Heo, spann den Wagen an !!,308.75KB,aaa9659a13e3628e2f76807a746a9d50,S3M,false,2338,1,2021-07-14T17:03:30.326892650+00:00,16,Electronic - Techno,Wed 1st Jan 1997
+44354,present,HEO.S3M,"Heo, spann den Wagen an !!",308.75KB,aaa9659a13e3628e2f76807a746a9d50,S3M,false,2338,1,2021-07-14T17:03:30.326892650+00:00,16,Electronic - Techno,Wed 1st Jan 1997
 44355,present,HERE-KLF.MTM,Here It Is -KLF-,325.36KB,dd6436f15332a46105ab1c7a77a4a386,MTM,false,1051,0,2021-07-14T17:03:31.130107769+00:00,14,Electronic - Techno,Wed 1st Jan 1997
 44356,present,HGH-WILL.XM,Highland Willows,592.45KB,78200352ada925586bb4f5cd6a056f10,XM,false,6887,2,2021-07-14T17:03:32.014084742+00:00,14,Orchestral,Wed 1st Jan 1997
 44357,present,HIDE.S3M,Hide,313.89KB,bab410f17cd0ae4649a8e2d157fb3d73,S3M,false,2984,0,2021-07-14T17:03:32.904787158+00:00,16,Electronic - Dance,Wed 1st Jan 1997
@@ -644,7 +644,7 @@
 44644,present,j_sdnss.xm,sadness,322.25KB,f2efd080c185b64f7f4ba0a5d7883957,XM,false,885,0,2021-07-14T17:07:38.782976203+00:00,12,n/a,Wed 10th Oct 2001
 44645,present,ice.it,Ice Breath,881.57KB,fa3d7363673a682028f2c87550ca5927,IT,false,2726,0,2021-07-14T17:07:39.544518086+00:00,34,Pop (general),Fri 28th Jul 2000
 44646,present,j_slsnow.xm,sleeping in the snow,1.13MB,e5585f11044d28ac95d36e85e3c8faa9,XM,false,850,0,2021-07-14T17:07:40.391270675+00:00,8,n/a,Fri 9th Feb 2001
-44647,present,happy.xm,Happy hour,no drums,418.54KB,38ac3df6a097d9f2b2b5881cfdb3073e,XM,false,6401,0,2021-07-14T17:07:41.177223642+00:00,24,Electronic - Jungle,Wed 9th Jun 1999
+44647,present,happy.xm,"Happy hour,no drums",418.54KB,38ac3df6a097d9f2b2b5881cfdb3073e,XM,false,6401,0,2021-07-14T17:07:41.177223642+00:00,24,Electronic - Jungle,Wed 9th Jun 1999
 44648,present,ice.mod,ice,160.73KB,1b9fc6a764253254e75a3601d5699ed7,MOD,false,2595,1,2021-07-14T17:07:41.913291355+00:00,4,Rock (general),Fri 30th Jun 2000
 44649,present,happy2.it,Happy,4.05MB,b6431442b75304f3dbde24601fb0423a,IT,false,768,0,2021-07-14T17:07:42.659874788+00:00,12,Rock (general),Mon 16th Jun 2003
 44650,present,j_sombns.xm,some burning soul,1.14MB,2f60a4179ddec9f940b97c51587fa088,XM,false,826,0,2021-07-14T17:07:43.423439862+00:00,10,n/a,Fri 9th Feb 2001
@@ -858,7 +858,7 @@
 44858,present,jammi.s3m,jammi.s3m,189.76KB,02195019421f8b740508c1654e95920d,S3M,false,457,0,2021-07-14T17:10:36.436992801+00:00,16,n/a,Mon 2nd Dec 2002
 44859,present,harmon.xm,complete harmony,232.80KB,ff72ef7b8aac27f24497eb7126afc359,XM,false,1236,0,2021-07-14T17:10:37.189459860+00:00,32,One Hour Compo,Sat 22nd Dec 2001
 44860,present,jammin.it,Jammin,106.11KB,821dd3be5a6e674a4d87f7a21d44ab23,IT,false,2160,0,2021-07-14T17:10:37.930868999+00:00,13,Electronic - Breakbeat,Fri 28th Jul 2000
-44861,present,iddg.it,((Deep,Dark,Green)),282.87KB,75488b12b1ce287a12ea99991c9810da,IT,false,2052,0,2021-07-14T17:10:38.682099693+00:00,16,Electronic - Techno,Fri 28th Jul 2000
+44861,present,iddg.it,"((Deep,Dark,Green))",282.87KB,75488b12b1ce287a12ea99991c9810da,IT,false,2052,0,2021-07-14T17:10:38.682099693+00:00,16,Electronic - Techno,Fri 28th Jul 2000
 44862,present,harmonic.mod,harmonic harmonies,111.92KB,3869e9b3f6534eba024fb07422eb7547,MOD,false,540,1,2021-07-14T17:10:39.446125276+00:00,4,n/a,Mon 9th Feb 2004
 44863,present,jammin.mod,jammin.mod,82.48KB,b041177caa14fcc114b7fe62415b5e3f,MOD,false,1125,0,2021-07-14T17:10:40.180526710+00:00,4,n/a,Fri 30th Jun 2000
 44864,present,harmonix.xm,harmonix.xm,1.60MB,4cb12332632c9772065263237bda4bc1,XM,false,810,0,2021-07-14T17:10:40.938370743+00:00,18,n/a,Tue 28th Aug 2001
@@ -958,7 +958,7 @@
 44958,present,ifmb.it,:I FEEL MUCH BETTER:,4.31MB,81ab788c61da5284aa9f328a65649695,IT,false,593,0,2021-07-14T17:12:08.926282909+00:00,64,n/a,Mon 13th Oct 2003
 44959,present,japanint.mod,japanese intentions,91.03KB,d4a440d8ca520e15e17faf462d6f816c,MOD,false,2256,1,2021-07-14T17:12:09.667495717+00:00,4,n/a,Fri 30th Jun 2000
 44960,present,haven.it,Sanctuary,4.22MB,9e7e294c33693fcdeccd398716282713,IT,false,1172,0,2021-07-14T17:12:10.887052950+00:00,64,n/a,Wed 22nd Jan 2003
-44961,present,ifuckill.xm,iF U C, Kill,176.67KB,ace9672c0b85af7f66eb89d1a1a184a3,XM,false,413,0,2021-07-14T17:12:11.715689539+00:00,8,n/a,Wed 11th Feb 2004
+44961,present,ifuckill.xm,"iF U C, Kill",176.67KB,ace9672c0b85af7f66eb89d1a1a184a3,XM,false,413,0,2021-07-14T17:12:11.715689539+00:00,8,n/a,Wed 11th Feb 2004
 44962,present,japanrck.mod,japanese rock,97.39KB,97d31132bcefefb39ed31faef9c99b69,MOD,false,943,1,2021-07-14T17:12:12.460976522+00:00,4,n/a,Sun 25th Sep 2005
 44963,present,havitall.s3m,Having It All,200.58KB,bd686c521cc7d038dcdb0dd391c8d79e,S3M,false,2625,3,2021-07-14T17:12:13.190610066+00:00,16,New Age,Wed 1st Jan 1997
 44964,present,ifujimu.s3m,((Fujimusume)),131.80KB,a9d9a863b763c5f013a8b190bc0d9001,S3M,false,1538,0,2021-07-14T17:12:13.968551217+00:00,12,n/a,Fri 28th Jul 2000

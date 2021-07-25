@@ -124,7 +124,7 @@
 167124,present,robric194.xm,Pum Mador in5,104.39KB,e61f6ef54d60ac40acd387f1438e1863,XM,false,286,0,2021-07-16T19:23:18.073677105+00:00,12,Ballad,Wed 10th Jun 2009
 167125,present,hypedupspacemonkeys.xm,Hypedup Space Monkey,1.28MB,d6b6637664a8f6ceff5d1c66030d02be,XM,false,1001,0,2021-07-16T19:23:18.785318954+00:00,32,Chiptune,Wed 10th Jun 2009
 167126,present,mol.xm,mol.xm,503.83KB,54bc41e85fef33f3329d8f88af9cd602,XM,false,803,0,2021-07-16T19:23:19.541348272+00:00,30,New Age,Wed 10th Jun 2009
-167127,present,must.xm,Must (AMStm, 1996),100.66KB,cae4697442e67e10b2d198174925797b,XM,false,486,0,2021-07-16T19:23:20.396701074+00:00,16,Electronic (general),Wed 10th Jun 2009
+167127,present,must.xm,"Must (AMStm, 1996)",100.66KB,cae4697442e67e10b2d198174925797b,XM,false,486,0,2021-07-16T19:23:20.396701074+00:00,16,Electronic (general),Wed 10th Jun 2009
 167128,present,82504-pin.xm,PIN:  Unknown Voice,2.58MB,347769bb9430086c5301d2759a3a9e75,XM,false,1653,0,2021-07-16T19:23:21.077526460+00:00,32,New Age,Wed 10th Jun 2009
 167129,present,neversus.xm,neversus.xm,2.73MB,daef209c86a3d0ebec8436c897b010bc,XM,true,774,0,2021-07-16T19:23:21.815875392+00:00,32,New Age,Wed 10th Jun 2009
 167130,present,bagdad.xm,bagdad.xm,2.03MB,d29e586586277b78050d8d4ea4b9387c,XM,false,257,0,2021-07-16T19:23:22.563617587+00:00,32,n/a,Wed 10th Jun 2009
@@ -637,7 +637,7 @@
 167637,present,veritas_-_love_song.xm,Love Song,643.85KB,e3c199b043765c5b00b7c818390d2d15,XM,false,773,1,2021-07-16T19:29:46.303355192+00:00,20,Electronic - Dance,Fri 14th Aug 2009
 167638,present,vim_-_safe.mod,       safe+,9.68KB,b9d58a863efbbfcc21317a9aa3f7ca23,MOD,false,630,1,2021-07-16T19:29:47.002293493+00:00,4,n/a,Fri 14th Aug 2009
 167639,present,velvet_scream_-_interaction.xm,Interaction,1.18MB,4cbbaeacce3732c466f62b8932e9ff14,XM,false,107,0,2021-07-16T19:29:48.543901408+00:00,12,n/a,Fri 14th Aug 2009
-167640,present,izmo_-_4rl_srsly.xm,4rl, srsly,102B,19e7de014b4d157d2137b967bca1322b,XM,false,210,0,2021-07-16T19:29:49.425786626+00:00,6,n/a,Fri 14th Aug 2009
+167640,present,izmo_-_4rl_srsly.xm,"4rl, srsly",102B,19e7de014b4d157d2137b967bca1322b,XM,false,210,0,2021-07-16T19:29:49.425786626+00:00,6,n/a,Fri 14th Aug 2009
 167641,present,one_man_and_his_fish.xm,One Man and His Fish,26.84KB,96f367bc19a57a4a410f156ffc508db4,XM,false,415,0,2021-07-16T19:29:50.142764290+00:00,4,Chiptune,Fri 14th Aug 2009
 167642,present,maran_project_-_alaska_20080510skale.xm,maran_project_-_alaska_20080510skale.xm,1.99MB,91980486bb7dddbdbe8f51f335df7743,XM,false,297,0,2021-07-16T19:29:50.852618989+00:00,26,n/a,Fri 14th Aug 2009
 167643,present,maran_project_-_angels_20071227skale.xm,untitled,1.83MB,b8547891c68f08e17b0ef3064e02dc9a,XM,true,494,0,2021-07-16T19:29:51.604141677+00:00,24,Trance (general),Fri 14th Aug 2009
@@ -806,7 +806,7 @@
 167806,present,82517-gameover.xm,Game Over,280.91KB,c0c772b6043401be5ddfaf3d8a3a4c6c,XM,false,539,0,2021-07-16T19:32:11.251264903+00:00,10,n/a,Fri 4th Sep 2009
 167807,present,homecook.xm,Home Cooking...,365.50KB,ca77f6062379a33b87125fab29cf143d,XM,false,268,0,2021-07-16T19:32:11.985222325+00:00,8,n/a,Fri 4th Sep 2009
 167808,present,82517-groove.xm,82517-groove.xm,1.16MB,c340fb839b9a2486d94cef927f36c6db,XM,false,264,0,2021-07-16T19:32:12.776837963+00:00,12,n/a,Fri 4th Sep 2009
-167809,present,82517-feeling.xm,Oh, this feeling...,203.83KB,6e8dd72204779dc9f16b151b991173d9,XM,false,231,0,2021-07-16T19:32:13.824607966+00:00,8,n/a,Fri 4th Sep 2009
+167809,present,82517-feeling.xm,"Oh, this feeling...",203.83KB,6e8dd72204779dc9f16b151b991173d9,XM,false,231,0,2021-07-16T19:32:13.824607966+00:00,8,n/a,Fri 4th Sep 2009
 167810,present,cinderel.xm,Cinderella,249.10KB,01139dc23d49936c13f15f9bb3f5b444,XM,false,237,0,2021-07-16T19:32:14.507834418+00:00,8,n/a,Fri 4th Sep 2009
 167811,present,chaosasp.xm,Aspects of Chaos,218.46KB,4badfd0e384840800fef7e0c12daebcd,XM,false,285,0,2021-07-16T19:32:15.243917362+00:00,8,n/a,Fri 4th Sep 2009
 167812,present,81193-crazy.it,81193-crazy.it,477.41KB,3e7a12909d7070d2592b695b2d7f5572,IT,false,1737,0,2021-07-16T19:32:16.140403225+00:00,24,Electronic - Drum &amp; Bass,Fri 4th Sep 2009
@@ -933,7 +933,7 @@
 167933,present,mrhpx-hbtn-lbtt.xm,MRHPx - HBTN LUCiFER,160.24KB,b3b0b46d31089789ef4778be19687773,XM,false,305,0,2021-07-16T19:33:49.588574444+00:00,8,n/a,Mon 14th Sep 2009
 167934,present,uch.it,uch.it,7.99MB,fcb3ca127a0cc9e2ce41b23c968ca836,IT,false,628,0,2021-07-16T19:33:50.298172291+00:00,34,Electronic - Breakbeat,Mon 14th Sep 2009
 167935,present,mrhpx-r0cknr!0t.xm,MRHPx-R0ckNR!0t,55.93KB,4856c49c7b549370f98194c9ef224704,XM,false,238,0,2021-07-16T19:33:50.963741221+00:00,7,n/a,Mon 14th Sep 2009
-167936,present,pianosik.xm,jizz, i don't know,187.53KB,9bf3f0b0d9250998ef32a4d3822e598f,XM,false,527,0,2021-07-16T19:33:51.628994937+00:00,14,One Hour Compo,Mon 14th Sep 2009
+167936,present,pianosik.xm,"jizz, i don't know",187.53KB,9bf3f0b0d9250998ef32a4d3822e598f,XM,false,527,0,2021-07-16T19:33:51.628994937+00:00,14,One Hour Compo,Mon 14th Sep 2009
 167937,present,_utopiav.it,    spiraling spring,7.04MB,958e84cb4e4e89056fbd9bee16483fa1,IT,false,1199,0,2021-07-16T19:33:52.394015748+00:00,64,Electronic - Other,Mon 14th Sep 2009
 167938,present,_utopian.it,    amazon waterfalls,7.99MB,3043f0baaee00936e0225fa7d66a291b,IT,false,1335,0,2021-07-16T19:33:53.110025456+00:00,64,Electronic - Other,Mon 14th Sep 2009
 167939,present,lan1.xm,From dusk till lan,28.69KB,4bf07a2a9a784d141e5deca4a21f5f78,XM,false,498,0,2021-07-16T19:33:53.815165631+00:00,8,Chiptune,Thu 17th Sep 2009
@@ -942,7 +942,7 @@
 167942,present,dxn-mw-5-rust.it,Temple of Rust,1.02MB,585d1a96cc2c8278f4f33062398c3a7f,IT,true,1665,2,2021-07-16T19:33:55.901719790+00:00,17,Metal (general),Thu 17th Sep 2009
 167943,present,sven_bauer_-_black.mod,BLACK,95.81KB,e0167b1aebf48879a471641babc964ab,MOD,false,139,0,2021-07-16T19:33:56.703062939+00:00,4,n/a,Thu 17th Sep 2009
 167944,present,substance_-_lost_soul.mod,lost_soul,311.77KB,e1ad347ff621f1edebd75023e8b6ad28,MOD,false,157,0,2021-07-16T19:33:57.434212338+00:00,4,n/a,Thu 17th Sep 2009
-167945,present,sven_bauer_-_tuesday_bluesday.mod,tuesday, bluesday..,119.15KB,3160a23a096f2b208175b400962bbd0f,MOD,false,112,0,2021-07-16T19:33:58.127082529+00:00,4,n/a,Thu 17th Sep 2009
+167945,present,sven_bauer_-_tuesday_bluesday.mod,"tuesday, bluesday..",119.15KB,3160a23a096f2b208175b400962bbd0f,MOD,false,112,0,2021-07-16T19:33:58.127082529+00:00,4,n/a,Thu 17th Sep 2009
 167946,present,substance_-_dreamzone.mod,      dreamzone,152.87KB,a3b3c5bce23ca5bb1ae39604245245d5,MOD,false,148,0,2021-07-16T19:33:58.789694973+00:00,4,n/a,Thu 17th Sep 2009
 167947,present,subvert_-_colours.xm,subvert_-_colours.xm,393.73KB,fbee4353b18fb2b1f953605b666d2067,XM,false,149,0,2021-07-16T19:33:59.627338850+00:00,8,n/a,Thu 17th Sep 2009
 167948,present,substance_-_parallel.mod,parallel,461.37KB,64afe03ce78c0b87a9e6e32c5a04065c,MOD,true,401,1,2021-07-16T19:34:00.298917810+00:00,4,n/a,Thu 17th Sep 2009

@@ -455,7 +455,7 @@
 43455,present,free2.mod,free,128.90KB,ff390918b4fc2b793d3bd03712833f1c,MOD,false,1336,1,2021-07-14T17:04:16.644230392+00:00,4,Demo Style,Fri 15th Nov 2002
 43456,present,ggav.xm,ggav.xm,915.87KB,df3faea38ec4f0005c0bbe05219e6204,XM,false,1192,0,2021-07-14T17:04:17.636631381+00:00,26,Pop - Synth,Mon 12th Jul 1999
 43457,present,freebird.xm,Free Birds,1.19MB,b5884b28e2f8cd98a83fbef029054ab7,XM,false,2150,2,2021-07-14T17:04:20.403612578+00:00,18,Electronic - Ambient,Sun 21st Dec 1997
-43458,present,ggbsgb.xm,GreenGrass, BlueSky,55.49KB,4e63b8f5f5fd1f26ec8343a8b7a6d271,XM,false,535,0,2021-07-14T17:04:21.125554036+00:00,14,n/a,Tue 19th Nov 2002
+43458,present,ggbsgb.xm,"GreenGrass, BlueSky",55.49KB,4e63b8f5f5fd1f26ec8343a8b7a6d271,XM,false,535,0,2021-07-14T17:04:21.125554036+00:00,14,n/a,Tue 19th Nov 2002
 43459,present,freed.it,FreedFromDesire-DJ Dafuki,468.56KB,640ff6d1ca846c32f04bd65f2fafea07,IT,false,3617,0,2021-07-14T17:04:21.837994609+00:00,18,Electronic - Techno,Sun 13th Dec 1998
 43460,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T17:04:22.567130911+00:00,0,n/a,Thu 1st Jan 1970
 43461,present,freed2.xm,Rural Freedom,1005.78KB,bb84ba8dbc630befe23a3b48235a0857,XM,false,389,0,2021-07-14T17:04:23.099725494+00:00,20,n/a,Wed 15th Oct 2003
@@ -484,7 +484,7 @@
 43484,present,freeflng.xm,Free Feelings,795.89KB,fdc8cab4c3d8fddd6b253a2b13e58bed,XM,true,6772,1,2021-07-14T17:04:43.551246423+00:00,32,Electronic - Breakbeat,Sat 19th Sep 1998
 43485,present,gh-jour2.xm,Journeyman's Quest,1.73MB,f580ba01197bbbeb3e83894d73f4dc15,XM,true,9050,2,2021-07-14T17:04:44.366563663+00:00,28,Classical,Mon 23rd Jul 2001
 43486,present,freefrom.mod,free from guitar,186.22KB,4e84e4d7f571fb3c216738d75ef36acc,MOD,false,1851,5,2021-07-14T17:04:45.052842621+00:00,4,n/a,Wed 28th Jun 2000
-43487,present,gh-jtts.xm,JTTS, 3:00,456.96KB,855a75e9a825a8a9b1e67a09385b5c06,XM,false,1590,0,2021-07-14T17:04:45.908622256+00:00,20,Demo Style,Mon 26th Feb 2001
+43487,present,gh-jtts.xm,"JTTS, 3:00",456.96KB,855a75e9a825a8a9b1e67a09385b5c06,XM,false,1590,0,2021-07-14T17:04:45.908622256+00:00,20,Demo Style,Mon 26th Feb 2001
 43488,present,gh-kott.xm,King of the Titans,598.30KB,7b8ab6f0d663449d4cd0ce7bd644b57f,XM,false,3765,2,2021-07-14T17:04:46.746648662+00:00,24,Electronic - Industrial,Sat 27th Oct 2001
 43489,present,freeman-leetfox.xm,LeetFox,13.62KB,84f50349b4843d3ee341342bc57926a6,XM,false,495,0,2021-07-14T17:04:47.483998297+00:00,4,n/a,Fri 14th Feb 2003
 43490,present,gh-music.xm,The Musician,417.23KB,999a037690cfcc86e90bb93c24dd81bb,XM,false,1881,0,2021-07-14T17:04:48.340191161+00:00,18,Ballad,Sat 21st Aug 1999
@@ -527,12 +527,12 @@
 43527,present,ghost.mod,ghost,86.33KB,68dd096ec04e470bc742b364950af9d3,MOD,false,3849,0,2021-07-14T17:05:24.019035158+00:00,4,Ballad,Thu 29th Jun 2000
 43528,present,freshhou.mod,fresh house,215.70KB,388c3e7a46cc7e3bbb3a4904ba619210,MOD,true,2536,5,2021-07-14T17:05:24.744633595+00:00,4,n/a,Wed 28th Jun 2000
 43529,present,ghost.xm,by Megatron,77.37KB,2c7fe4b595b193bc7ef4ff0d155772ea,XM,false,552,0,2021-07-14T17:05:25.524050053+00:00,16,n/a,Wed 19th Mar 2003
-43530,present,ghost2.it,a ghost, dreaming,88.16KB,ff986dedeb0136e14f479283a5eda7ba,IT,false,933,0,2021-07-14T17:05:26.205752813+00:00,24,n/a,Wed 26th Sep 2001
+43530,present,ghost2.it,"a ghost, dreaming",88.16KB,ff986dedeb0136e14f479283a5eda7ba,IT,false,933,0,2021-07-14T17:05:26.205752813+00:00,24,n/a,Wed 26th Sep 2001
 43531,present,freshjunkyard.it,Fresh from the Junkyard,562.30KB,23f03971056758967e3daa6d5d4fd7c4,IT,false,1273,0,2021-07-14T17:05:26.884883490+00:00,9,Electronic - Techno,Mon 8th Feb 1999
 43532,present,freshman.xm,The Freshman,597.15KB,9bc3168959e5b317137608c6ff61b34b,XM,false,1376,0,2021-07-14T17:05:27.720953959+00:00,12,Electronic - Drum &amp; Bass,Sat 1st Jun 2002
 43533,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T17:05:28.408511094+00:00,0,n/a,Thu 1st Jan 1970
 43534,present,freshous.mod,ffesh hous,208.68KB,e6f45214797b7104cf2073e303692741,MOD,false,791,0,2021-07-14T17:05:28.936806406+00:00,4,n/a,Wed 28th Jun 2000
-43535,present,ghost2.xm,Ghost2 (spooky, eh?),2.89MB,0e2d903c20d42fb8cf44a2aecc4f2d42,XM,false,3228,0,2021-07-14T17:05:29.747219375+00:00,12,Electronic - Hardcore,Wed 12th Aug 1998
+43535,present,ghost2.xm,"Ghost2 (spooky, eh?)",2.89MB,0e2d903c20d42fb8cf44a2aecc4f2d42,XM,false,3228,0,2021-07-14T17:05:29.747219375+00:00,12,Electronic - Hardcore,Wed 12th Aug 1998
 43536,present,freudian.mod,freudian dream,372.37KB,68043648c14631d2f50221821a924685,MOD,false,1578,0,2021-07-14T17:05:30.445197551+00:00,4,Electronic - Ambient,Mon 31st Aug 1998
 43537,present,ghostbusters.it,The Ghostbusters,300.42KB,3025ca5d6beb45707f74580e54031053,IT,false,1651,0,2021-07-14T17:05:31.141887916+00:00,13,n/a,Thu 26th Dec 2002
 43538,present,ghostbusters.mod,gHosTbUstErS,19.22KB,25da643fa2612be6ca9dccaa10789b3b,MOD,false,2008,0,2021-07-14T17:05:31.866343488+00:00,4,n/a,Sat 12th Jan 2002
@@ -700,7 +700,7 @@
 43700,present,fsx-seal.xm,S'eal sti sunaz!,541.79KB,630416040a4f3e2a1ce257e8606624bf,XM,false,970,0,2021-07-14T17:07:36.755304222+00:00,12,One Hour Compo,Sun 15th Jun 2003
 43701,present,glaze.it,"Glaze",383.42KB,bd38cb0fcbafaa7feb16e4b3f3d3860f,IT,false,1136,0,2021-07-14T17:07:37.439391149+00:00,20,n/a,Mon 13th Aug 2001
 43702,present,glazer.xm,Glazer,586.92KB,d0fdb00e2283ee7917c6549aae5e2262,XM,false,3060,0,2021-07-14T17:07:38.186592763+00:00,16,Electronic - Ambient,Sun 28th Dec 1997
-43703,present,fsx-swvs.xm,Sweet,ViolentSUICIDE,867.97KB,099d3540497901e5eb2247dc52bd92c4,XM,false,1111,0,2021-07-14T17:07:38.890234950+00:00,12,Electronic - Ambient,Sun 15th Jun 2003
+43703,present,fsx-swvs.xm,"Sweet,ViolentSUICIDE",867.97KB,099d3540497901e5eb2247dc52bd92c4,XM,false,1111,0,2021-07-14T17:07:38.890234950+00:00,12,Electronic - Ambient,Sun 15th Jun 2003
 43704,present,fsx-ugly.xm,An ugly experiment,251.17KB,5c6e4475e862d9eea3a8e7c5117bc1c6,XM,false,1064,0,2021-07-14T17:07:39.667384794+00:00,12,One Hour Compo,Sun 15th Jun 2003
 43705,present,gldhrm.it,The Galadhrim,767.98KB,d7002f8c899662ffb213fd60a4dd7d45,IT,false,2193,0,2021-07-14T17:07:40.386262658+00:00,63,Metal (general),Thu 8th Nov 2001
 43706,present,fsx-wow.xm,WOW!Si impasta tutto,191.54KB,678120f05c76aeffbe0fe6b285bca350,XM,false,977,0,2021-07-14T17:07:41.108451981+00:00,6,One Hour Compo,Sun 25th Jan 2004
@@ -763,7 +763,7 @@
 43763,present,fugees.xm,Killing Me Softly,663.23KB,ba5e4ac55e89509f960d325cdbcc2aa4,XM,false,15310,0,2021-07-14T17:08:29.563580973+00:00,14,Electronic - Breakbeat,Wed 18th Nov 1998
 43764,present,fugeg.mod,fugue_in_g-moll,64.51KB,7311de6168c458ff8b028cefc4f1eb8a,MOD,false,3009,0,2021-07-14T17:08:30.283009201+00:00,4,Classical,Wed 9th Dec 1998
 43765,present,glm_wand.xm,The Wanderer,733.25KB,414a430137b0b3c89cba9526d50cc8ca,XM,false,802,0,2021-07-14T17:08:31.064091180+00:00,20,n/a,Thu 14th Dec 2000
-43766,present,fugue.it,Fugue, e minor by Jordana,206.12KB,8bed5c3dd9d90fe945178449fa986f4d,IT,false,438,0,2021-07-14T17:08:31.745873368+00:00,9,n/a,Thu 3rd Jul 2003
+43766,present,fugue.it,"Fugue, e minor by Jordana",206.12KB,8bed5c3dd9d90fe945178449fa986f4d,IT,false,438,0,2021-07-14T17:08:31.745873368+00:00,9,n/a,Thu 3rd Jul 2003
 43767,present,glm_when.xm,When machines took..,1.02MB,ee24293c607716acf863c5cb86d6261b,XM,false,837,0,2021-07-14T17:08:32.409353003+00:00,24,n/a,Thu 14th Dec 2000
 43768,present,glm_wolf.xm,Crying Wolf,801.66KB,232942832e73facd721763c056bc52d0,XM,false,2678,0,2021-07-14T17:08:33.127162013+00:00,16,Rock (general),Fri 19th Feb 1999
 43769,present,fugueexp.mod,fugue expo. (cmr),79.04KB,ab5c93df2c92e24c5e3417bee3feea85,MOD,false,824,0,2021-07-14T17:08:33.827335606+00:00,4,n/a,Sat 1st Jun 2002
@@ -839,7 +839,7 @@
 43839,present,go-orbit.xm,Go Orbital -SPK,471.70KB,7f14cf143ed1215d0119b0ef7d28231b,XM,false,732,0,2021-07-14T17:09:35.035440010+00:00,16,n/a,Wed 26th Sep 2001
 43840,present,funeral.s3m,'Funeral' by Mick Rippon.,400.55KB,27fbd6b2fc52ad51ba5f629bd371a701,S3M,false,8002,1,2021-07-14T17:09:35.706664906+00:00,16,Electronic - Ambient,Thu 27th Nov 1997
 43841,present,go.mod,Ain't suppose to go,55.28KB,501035c194d00c782a967926d04ac848,MOD,false,794,0,2021-07-14T17:09:36.417227718+00:00,4,n/a,Thu 29th Jun 2000
-43842,present,fungi.xm,Fungi, by Olethros,598.07KB,cc9c80dc8676a8c7df02b95319409c44,XM,false,431,0,2021-07-14T17:09:37.177048863+00:00,8,n/a,Thu 30th Jan 2003
+43842,present,fungi.xm,"Fungi, by Olethros",598.07KB,cc9c80dc8676a8c7df02b95319409c44,XM,false,431,0,2021-07-14T17:09:37.177048863+00:00,8,n/a,Thu 30th Jan 2003
 43843,present,go.xm,we go...,49.63KB,b2904330fdfaac8fcbc6ccf182a5f99f,XM,false,788,0,2021-07-14T17:09:37.849803082+00:00,14,n/a,Mon 11th Dec 2000
 43844,present,fungusonarock.it,Fungus on a ROCK,991.94KB,3540926c6edaff0eac6b0d2fd2ca8521,IT,false,405,0,2021-07-14T17:09:38.541982092+00:00,23,n/a,Wed 8th Jan 2003
 43845,present,go55.xm,go with life,1.07MB,9ddba45b9af454fa6750c77ec3d0b695,XM,false,571,0,2021-07-14T17:09:39.267013029+00:00,16,n/a,Mon 1st Apr 2002
@@ -871,7 +871,7 @@
 43871,present,goa15.xm,Eternal kombat,1.41MB,dd721295839669c81eaf262885291551,XM,false,1111,0,2021-07-14T17:10:02.603867343+00:00,18,n/a,Wed 13th Dec 2000
 43872,present,funklo1.xm,"The Theme from ...",466.23KB,73b242b68e0b643179cc2cf2d0c8bbb5,XM,false,2602,0,2021-07-14T17:10:03.470851041+00:00,26,Funk,Fri 13th Nov 1998
 43873,present,goahead.xm,             GoAhead,1.54MB,f2f32a53f8173f82cf16fe8932a53334,XM,false,3721,2,2021-07-14T17:10:04.563461770+00:00,16,Trance - Goa,Sat 31st Oct 1998
-43874,present,goalachd.it,Goals, Achievements&Dreams,96.72KB,6bda99956d98bb1f46e70212657c5bb8,IT,false,648,0,2021-07-14T17:10:05.343622290+00:00,12,Pop - Synth,Sun 12th Feb 2006
+43874,present,goalachd.it,"Goals, Achievements&Dreams",96.72KB,6bda99956d98bb1f46e70212657c5bb8,IT,false,648,0,2021-07-14T17:10:05.343622290+00:00,12,Pop - Synth,Sun 12th Feb 2006
 43875,present,goatr.xm,GOA by Dr-Simens,341.70KB,94273a178c66b28220beff98deb9e573,XM,false,903,0,2021-07-14T17:10:06.584862446+00:00,8,n/a,Tue 8th Jan 2002
 43876,present,funkmast.mod,Funkmaster2,52.22KB,e1dcaf0a3e58195e1c540fcd1f0e5bdb,MOD,false,1843,0,2021-07-14T17:10:07.328413279+00:00,4,Funk,Fri 9th Oct 1998
 43877,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T17:10:08.115212289+00:00,0,n/a,Thu 1st Jan 1970

@@ -34,7 +34,7 @@
 46034,present,jo-unfin.xm,Mormon's song(house),551.67KB,ecdf5b3a00bc8d2c1762e782e5af004e,XM,false,1031,0,2021-07-14T17:13:40.676623679+00:00,14,n/a,Fri 28th Jul 2000
 46035,present,hls-ptb.xm,PUSH THE BASS !,3.39MB,470917894953376a72e2fe6b8e8350ad,XM,false,1681,0,2021-07-14T17:13:41.420679300+00:00,32,Trance (general),Sat 20th Jul 2002
 46036,present,intheair.mod,InTheAir,68.73KB,0be91ffe83cf7ddf95f22e079266bd78,MOD,false,767,0,2021-07-14T17:13:42.200657562+00:00,4,n/a,Fri 30th Jun 2000
-46037,present,jo_dj.mod,jo,_d.j.!,132.78KB,b9891b02857af0842e3b4efb054a6772,MOD,false,671,0,2021-07-14T17:13:43.101068535+00:00,4,n/a,Tue 25th Apr 2000
+46037,present,jo_dj.mod,"jo,_d.j.!",132.78KB,b9891b02857af0842e3b4efb054a6772,MOD,false,671,0,2021-07-14T17:13:43.101068535+00:00,4,n/a,Tue 25th Apr 2000
 46038,present,inthedistance.xm,In the Distance,992.29KB,acbc4106f92718465bb60cf0c79b212d,XM,false,1332,0,2021-07-14T17:13:46.365736658+00:00,30,Piano,Sun 15th Jun 2003
 46039,present,jo_mg.xm,Magic Carpet,295.54KB,60c67df94942173f0f734127be977848,XM,false,402,0,2021-07-14T17:13:47.217485676+00:00,16,n/a,Mon 27th Sep 2004
 46040,present,hls-str2.xm,STRETTO,7.45MB,cc2382e2e3fdcd0e441938839af2b289,XM,false,821,0,2021-07-14T17:13:48.004089569+00:00,32,Electronic - Techno,Wed 29th Dec 2004
@@ -155,7 +155,7 @@
 46155,present,holdmenow.it,Hold Me Now 99 WildStyle.,610.67KB,6b6dbd673801d926b1cde5909759f2c6,IT,false,2700,0,2021-07-14T17:15:27.612612880+00:00,10,Electronic - Rave,Wed 28th Apr 1999
 46156,present,intro1.mod,intro1,35.57KB,4d9cf35472cd87a0dc8e6cdfc876eb5e,MOD,false,950,1,2021-07-14T17:15:28.356772004+00:00,4,n/a,Fri 30th Jun 2000
 46157,present,jonas.mod,jonas the barbarian,51.69KB,0672968d75381913df292bed1012d3b0,MOD,false,228,0,2021-07-14T17:15:29.098302899+00:00,4,n/a,Sun 25th Sep 2005
-46158,present,holdon.xm,hold on, hold high,1.32MB,967c3c60a208681921e23d1be36a5983,XM,false,1421,0,2021-07-14T17:15:29.900671825+00:00,22,Funk,Wed 29th Dec 2004
+46158,present,holdon.xm,"hold on, hold high",1.32MB,967c3c60a208681921e23d1be36a5983,XM,false,1421,0,2021-07-14T17:15:29.900671825+00:00,22,Funk,Wed 29th Dec 2004
 46159,present,jonathonstheme.it,Jonathon's Theme,198.36KB,569573282cc1776b7263463d894ee012,IT,false,841,0,2021-07-14T17:15:30.653716656+00:00,13,Other,Thu 19th Jun 2003
 46160,present,hole.xm,hole of madness,291.97KB,f9fb6705a52ea33ee92cbe457b336f87,XM,false,830,0,2021-07-14T17:15:31.382932314+00:00,20,n/a,Wed 14th Jul 1999
 46161,present,intro11.mod,IntroSound11,43.91KB,d3e82b74b663b2a4c2254c37875279eb,MOD,false,895,0,2021-07-14T17:15:32.161384333+00:00,4,n/a,Sun 28th Oct 2001
@@ -163,7 +163,7 @@
 46163,present,joonas26.it,Liikkeen taika,228.48KB,c5cff184dd0c56256cf3e2b70fb2a780,IT,false,429,0,2021-07-14T17:15:33.697211046+00:00,13,n/a,Tue 18th Dec 2001
 46164,present,intro11.xm,swapin paluu,40.61KB,3a376373dcc5eaef99575826d755e29e,XM,false,411,0,2021-07-14T17:15:34.423331168+00:00,8,n/a,Wed 13th Aug 2003
 46165,present,intro12.mod,IntroSound12,42.68KB,18651775acc8635de2ac29d22cb1d479,MOD,false,1359,1,2021-07-14T17:15:35.143906671+00:00,4,Easy Listening,Sun 28th Oct 2001
-46166,present,joonas31.it,Poika, aiti ja paholainen,986.04KB,bae0e8927e2cb6dbb1cd742d2d7f9d20,IT,false,507,0,2021-07-14T17:15:35.865698825+00:00,23,n/a,Sat 12th Jan 2002
+46166,present,joonas31.it,"Poika, aiti ja paholainen",986.04KB,bae0e8927e2cb6dbb1cd742d2d7f9d20,IT,false,507,0,2021-07-14T17:15:35.865698825+00:00,23,n/a,Sat 12th Jan 2002
 46167,present,holliw.mod,Holli Would,73.97KB,952d9df2b1670281dd3ad740e8db5385,MOD,false,1490,1,2021-07-14T17:15:36.571394694+00:00,4,Electronic - Techno,Wed 19th Apr 2000
 46168,present,joonas47.it,'til 4 a.m.,770.46KB,fb63b2b1109e18c69f086b6fcc86fd86,IT,false,445,0,2021-07-14T17:15:37.327688149+00:00,28,n/a,Wed 3rd Apr 2002
 46169,present,holliw2.mod,Holli Would(MaxiMix),75.97KB,c846114e6ee41b5b95622f9dd1a86d32,MOD,false,1009,0,2021-07-14T17:15:38.125388379+00:00,4,n/a,Wed 19th Apr 2000
@@ -379,7 +379,7 @@
 46379,present,horror.xm,Horror,480.43KB,3a008292487c90420460fb603039140f,XM,false,1766,0,2021-07-14T17:18:29.426157671+00:00,8,Electronic - Ambient,Mon 14th Dec 1998
 46380,present,ion_smoke.s3m,Eternal smoke,791.42KB,ad339743b1ead3f4713623dad3a97dc2,S3M,false,871,0,2021-07-14T17:18:30.135201672+00:00,17,n/a,Sun 25th Jan 2004
 46381,present,horrorsec.it,Horror Section,382.11KB,e54bc1199ecc3319476aacfe96a43e9a,IT,false,2085,0,2021-07-14T17:18:30.912965040+00:00,16,n/a,Sun 1st Jul 2001
-46382,present,joy.mtm,Joy, Tickle, Love?,355.59KB,a7a0d3f9fb59fcb8cc64e4f1b085cc25,MTM,false,628,0,2021-07-14T17:18:31.674572515+00:00,8,n/a,Fri 28th Jul 2000
+46382,present,joy.mtm,"Joy, Tickle, Love?",355.59KB,a7a0d3f9fb59fcb8cc64e4f1b085cc25,MTM,false,628,0,2021-07-14T17:18:31.674572515+00:00,8,n/a,Fri 28th Jul 2000
 46383,present,ion_time.s3m,Time expires,919.71KB,9e544cd715a40d7c0820e08b2c54fd97,S3M,false,821,0,2021-07-14T17:18:32.405045760+00:00,16,n/a,Sun 25th Jan 2004
 46384,present,horse.xm,Horses Are Lose,254.74KB,5e89b2e56cfa37d5ceab1fdb360df3d9,XM,false,782,0,2021-07-14T17:18:33.113780196+00:00,20,n/a,Thu 16th Nov 2000
 46385,present,joyapain.mod,Joy And Pain Remix,361.02KB,061087b795302738483865a6ccf9e7f1,MOD,false,947,0,2021-07-14T17:18:33.809381666+00:00,4,n/a,Sat 1st Jul 2000
@@ -496,7 +496,7 @@
 46496,present,jt_letgo.xm,Letting Go,97.08KB,612021aa77b20893128edadcdc469321,XM,true,24824,42,2021-07-14T17:19:57.920826363+00:00,26,Chiptune,Fri 28th Jul 2000
 46497,present,house_2.mod,house 2,120.15KB,cf301d6151f97ec7bc0e5daaa98b660c,MOD,false,1062,0,2021-07-14T17:19:58.789305191+00:00,4,n/a,Fri 30th Jun 2000
 46498,present,isitlove.xm,Is It Love ?,842.97KB,bf6ef37310db901cddede3a880ee2f6f,XM,false,2629,0,2021-07-14T17:19:59.506164002+00:00,24,n/a,Fri 28th Jul 2000
-46499,present,jt_mind.xm,In my Life, my Mind.,951.46KB,4219cc94645d8c223c9501174b3d84ba,XM,true,18521,20,2021-07-14T17:20:00.257308783+00:00,28,Electronic - Dance,Wed 11th Oct 2000
+46499,present,jt_mind.xm,"In my Life, my Mind.",951.46KB,4219cc94645d8c223c9501174b3d84ba,XM,true,18521,20,2021-07-14T17:20:00.257308783+00:00,28,Electronic - Dance,Wed 11th Oct 2000
 46500,present,house_3.mod,house 3,154.00KB,d6f43da13e365cc9d0aa70d0253cece3,MOD,false,986,0,2021-07-14T17:20:01.089647036+00:00,4,n/a,Fri 30th Jun 2000
 46501,present,isitme.xm,Is It Me?,2.37MB,9b12276500848d58f6cb5f3bb9e6f611,XM,false,1353,1,2021-07-14T17:20:01.812500709+00:00,24,Jazz - Modern,Wed 29th Dec 2004
 46502,present,jt_pools.xm,Pools of Poison,683.59KB,ea293797dc3f04bdd5ba4269909736f3,XM,true,10052,14,2021-07-14T17:20:02.591557107+00:00,22,Electronic - House,Fri 28th Jul 2000
@@ -607,14 +607,14 @@
 46607,present,italia.xm,ITALIA 2000,304.58KB,9de69353aee3f075801bc424e7b0da48,XM,false,934,1,2021-07-14T17:21:27.841667683+00:00,4,n/a,Fri 28th Jul 2000
 46608,present,hrm14_s.xm,hrm14,1.25MB,109ea19fd669f09bff05ecc4df81fbad,XM,false,860,0,2021-07-14T17:21:28.576792089+00:00,20,Demo Style,Thu 26th Dec 2002
 46609,present,juletid.mod,juletid,252.20KB,32c7e0f9416449b42c1685a1d3413969,MOD,false,697,0,2021-07-14T17:21:29.305075280+00:00,4,n/a,Wed 25th Apr 2001
-46610,present,italian2.s3m,PARLA ITALIANO ? , PART 2,424.25KB,4fa2e95ac0ff6e63358795e3df7177ba,S3M,false,984,0,2021-07-14T17:21:30.138964907+00:00,12,n/a,Fri 28th Jul 2000
+46610,present,italian2.s3m,"PARLA ITALIANO ? , PART 2",424.25KB,4fa2e95ac0ff6e63358795e3df7177ba,S3M,false,984,0,2021-07-14T17:21:30.138964907+00:00,12,n/a,Fri 28th Jul 2000
 46611,present,julfisk.mod,julfisk o brodmies,7.24KB,288ed2bd849543bebd36de27235952fa,MOD,false,1746,1,2021-07-14T17:21:30.932309312+00:00,4,Chiptune,Fri 28th Jul 2000
 46612,present,hrtalone.xm,*Heart - Alone*,433.99KB,e204640d9d662d4f7300e27c951bd5e2,XM,false,5691,0,2021-07-14T17:21:31.694779871+00:00,24,n/a,Sat 3rd Nov 2001
 46613,present,julgrule.mod,julgubbe rulez!,5.80KB,f6e3b214ad7b5e71d1aaea86ff5dcaaf,MOD,false,428,0,2021-07-14T17:21:32.422666168+00:00,4,n/a,Wed 19th Nov 2003
 46614,present,italo2.mod,italohouse2,68.12KB,76a31e7e7efdfbcdc9d3737029197ee1,MOD,false,1220,2,2021-07-14T17:21:33.147625626+00:00,4,n/a,Fri 30th Jun 2000
 46615,present,hrtme.it,Hurt Me Sweetheart    NBT,391.95KB,065cf3797a76048fc3601b1c6d708801,IT,false,1302,0,2021-07-14T17:21:33.888113418+00:00,17,n/a,Sun 6th Dec 1998
 46616,present,itchhgtg.mod,itch - hhgtg version,294.25KB,dc614eca7db6b6ae43a6ead6c496000a,MOD,false,754,0,2021-07-14T17:21:34.596920554+00:00,4,n/a,Fri 30th Jun 2000
-46617,present,julie.it,Julie, My Love,279.56KB,8e708a2cdf266ebc0a02f9a082929ba1,IT,false,1297,0,2021-07-14T17:21:35.401717333+00:00,18,n/a,Fri 28th Jul 2000
+46617,present,julie.it,"Julie, My Love",279.56KB,8e708a2cdf266ebc0a02f9a082929ba1,IT,false,1297,0,2021-07-14T17:21:35.401717333+00:00,18,n/a,Fri 28th Jul 2000
 46618,present,hrz.xm,hrz.xm,5.24MB,0fb589aeef759dcd3a9e0f9dbb84c9fb,XM,false,792,0,2021-07-14T17:21:36.125337185+00:00,22,n/a,Sat 18th Nov 2000
 46619,present,julijan.it,Julijanovo vreme,1.46MB,f1e4ff3c27de8317986173c2c592522a,IT,false,1904,0,2021-07-14T17:21:36.856410726+00:00,16,Pop - Synth,Wed 26th Sep 2001
 46620,present,itf.xm,In The Flowers,341.11KB,e8d1e7880fdb44541f8946544395043c,XM,false,1047,1,2021-07-14T17:21:38.156318593+00:00,10,n/a,Mon 18th Jun 2001
@@ -682,7 +682,7 @@
 46682,present,june.xm,June,793.27KB,6ef6b94ef93f08c383482ba52aeebde4,XM,false,803,0,2021-07-14T17:22:25.060034636+00:00,26,n/a,Fri 28th Jul 2000
 46683,present,its_so_cool.mod,it's so cool!!!,247.86KB,a3536087cb8ae1851791ad0acf5449d7,MOD,true,2087,4,2021-07-14T17:22:25.938614859+00:00,4,Funk,Mon 13th Sep 2004
 46684,present,hta07.xm,Surface Displacement,2.04MB,a718596aa6301af69f518d9b8b73e6f0,XM,false,916,0,2021-07-14T17:22:28.391724386+00:00,32,n/a,Sun 25th Apr 1999
-46685,present,june21c.xm,june, 21st century,36.93KB,263adea2cf136bcef0ab718eecb6b1e0,XM,false,480,1,2021-07-14T17:22:29.150628247+00:00,12,n/a,Wed 19th Nov 2003
+46685,present,june21c.xm,"june, 21st century",36.93KB,263adea2cf136bcef0ab718eecb6b1e0,XM,false,480,1,2021-07-14T17:22:29.150628247+00:00,12,n/a,Wed 19th Nov 2003
 46686,present,hta09.xm,New Worlds,1.74MB,0e39a1cfaa5ee79d05406ea4bff370ef,XM,false,997,0,2021-07-14T17:22:29.891602833+00:00,32,n/a,Sat 27th Feb 1999
 46687,present,itsde018.xm,idea- NOT finished,573.50KB,312613faf82eecc424aa5d06496e572f,XM,false,2510,2,2021-07-14T17:22:30.653573169+00:00,14,n/a,Wed 17th Oct 2001
 46688,present,june99.xm,June '99,2.32MB,3a229440e600e80305abdebcd8a5b482,XM,false,845,0,2021-07-14T17:22:31.377471940+00:00,26,n/a,Fri 28th Jul 2000
@@ -691,7 +691,7 @@
 46691,present,junefree.xm,freezing in june,252.17KB,a2fa7b95d3f0830bfdbeb8de261df353,XM,false,884,0,2021-07-14T17:22:33.582653987+00:00,16,One Hour Compo,Thu 2nd Jan 2003
 46692,present,hta11.xm,Atlantis,1.59MB,3fdbfc110f1efc0b687e1d15eaca8dde,XM,false,1088,0,2021-07-14T17:22:34.302669809+00:00,32,n/a,Sat 27th Feb 1999
 46693,present,junga.xm,In da Junga -SPK,94.29KB,2b5962e30ada6f547df90ec6f05450c2,XM,false,701,0,2021-07-14T17:22:35.083415706+00:00,8,n/a,Wed 26th Sep 2001
-46694,present,jungkin2.xm,äiti, taivas & minä,173.08KB,6d37b57f5078e9974f97698e5b459042,XM,false,910,0,2021-07-14T17:22:35.813115299+00:00,4,n/a,Fri 9th Feb 2001
+46694,present,jungkin2.xm,"äiti, taivas & minä",173.08KB,6d37b57f5078e9974f97698e5b459042,XM,false,910,0,2021-07-14T17:22:35.813115299+00:00,4,n/a,Fri 9th Feb 2001
 46695,present,htb.mod,hikisev teboil,18.75KB,704f2e2c13f3d793cfea722f5c11d263,MOD,false,467,0,2021-07-14T17:22:36.507134265+00:00,6,n/a,Thu 30th Jan 2003
 46696,present,itsmylif.xm,Its my life [REmix],2.99MB,1e807087745dd20e8b867c8254e65e37,XM,false,1795,0,2021-07-14T17:22:37.297359402+00:00,14,n/a,Fri 28th Jul 2000
 46697,present,htbrmx.mod,hikisevteboilrmx,58.80KB,5e8426d5108115fdaab5ca7d77ffe6a3,MOD,false,123,0,2021-07-14T17:22:37.997632809+00:00,8,n/a,Sun 12th Feb 2006
@@ -744,7 +744,7 @@
 46744,present,junk_mind.it,Lost in his own Mind,445.07KB,8018b2fff2c3e7c951099250398e1ea4,IT,false,461,0,2021-07-14T17:23:13.342673494+00:00,9,n/a,Wed 8th Jan 2003
 46745,present,huga.mod,huga!,24.34KB,2c353ca16f717697569a481255605074,MOD,false,387,0,2021-07-14T17:23:14.087604307+00:00,4,n/a,Sun 23rd Nov 2003
 46746,present,ivanmet2.xm,untitled,174.92KB,6d8beb4066d9b54a9e49a91acf919ec4,XM,false,1225,0,2021-07-14T17:23:14.867191924+00:00,16,Metal (general),Tue 30th Jan 2001
-46747,present,hugo.it,HUGO, MAN of 1000 FACES,861.08KB,2524acc9b4d191982ffb1da3a6f60ad0,IT,false,1822,0,2021-07-14T17:23:15.583950983+00:00,12,n/a,Wed 30th Sep 1998
+46747,present,hugo.it,"HUGO, MAN of 1000 FACES",861.08KB,2524acc9b4d191982ffb1da3a6f60ad0,IT,false,1822,0,2021-07-14T17:23:15.583950983+00:00,12,n/a,Wed 30th Sep 1998
 46748,present,junk_pain.it,Unforgivable Pain,1.81MB,2563ffe3d7497933711331d4e7d7b303,IT,false,540,0,2021-07-14T17:23:16.306064878+00:00,16,n/a,Fri 15th Nov 2002
 46749,present,ivanmet3.xm,untitled,217.20KB,29be482838fa884d729e53f65a3779a4,XM,false,1314,0,2021-07-14T17:23:17.013449644+00:00,14,Metal (general),Sun 9th Sep 2001
 46750,present,huh.xm,Huh?,519.87KB,0fc1f6f76201c0eac9bdafcdd5c7fd88,XM,false,598,0,2021-07-14T17:23:17.713804793+00:00,6,n/a,Sun 31st Mar 2002

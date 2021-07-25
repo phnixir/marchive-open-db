@@ -233,7 +233,7 @@
 35233,present,carosel.xm,The Broken Carousel,719.63KB,4c6c44e6e928755824daa88a9804b0cf,XM,true,3047,4,2021-07-14T15:49:26.168314097+00:00,30,n/a,Mon 1st Jan 2001
 35234,present,base3.xm,base3.xm,271.15KB,5eeda8a88e77da55314d61597a7e002d,XM,false,1836,1,2021-07-14T15:49:26.911329614+00:00,8,n/a,Sat 20th May 2000
 35235,present,carousel.mod,johns carousel,64.33KB,8960931baf3fab29c1badac7e0b90ff4,MOD,false,419,0,2021-07-14T15:49:27.633568271+00:00,4,n/a,Mon 26th Sep 2005
-35236,present,basecmdr.mod,star control2,tune4,65.51KB,bbbc334ea1c3622ce481c43742636671,MOD,false,1760,0,2021-07-14T15:49:28.361987118+00:00,4,n/a,Mon 26th Jun 2000
+35236,present,basecmdr.mod,"star control2,tune4",65.51KB,bbbc334ea1c3622ce481c43742636671,MOD,false,1760,0,2021-07-14T15:49:28.361987118+00:00,4,n/a,Mon 26th Jun 2000
 35237,present,carpe_dm.mod,carpe diem,114.81KB,33c931b77ee9d1384ef5c3e85441410e,MOD,false,129,0,2021-07-14T15:49:29.068475447+00:00,4,n/a,Mon 26th Jun 2000
 35238,present,baseint.it,~Base intro~,102.97KB,442945137ce14f402ed34de40107991b,IT,false,1896,0,2021-07-14T15:49:29.896343238+00:00,14,Electronic - Techno,Sat 27th Jan 2001
 35239,present,carpet.xm,Magic carpet ride.,9.07KB,8e8fad3dc88e50338439e293dc70c30a,XM,false,8353,1,2021-07-14T15:49:30.640339384+00:00,4,Electronic - Techno,Thu 6th Mar 1997
@@ -275,7 +275,7 @@
 35275,present,cas-mn39.it,in the middle of nowhere,567.76KB,138db320e195094adb6919e432130621,IT,false,3279,1,2021-07-14T15:49:59.023502208+00:00,13,Folk,Sun 27th Jun 1999
 35276,present,basket.xm,BASKET CASE,270.62KB,2aa2163250cd7bae345c37c80cdb25b5,XM,false,3211,0,2021-07-14T15:49:59.748272032+00:00,10,Pop (general),Sat 10th Oct 1998
 35277,present,DAWN.MOD,dawn,157.58KB,07f6c9c3bf8964c35537f2bd55085146,MOD,false,5199,4,2021-07-14T15:50:00.512879192+00:00,4,Jazz - Acid,Wed 1st Jan 1997
-35278,present,cas-mx18.it,Mixmaster, thatz me,476.52KB,fdb75127f0a945292ff0e13aed19abb2,IT,false,1661,0,2021-07-14T15:50:01.310925064+00:00,12,n/a,Sun 27th Jun 1999
+35278,present,cas-mx18.it,"Mixmaster, thatz me",476.52KB,fdb75127f0a945292ff0e13aed19abb2,IT,false,1661,0,2021-07-14T15:50:01.310925064+00:00,12,n/a,Sun 27th Jun 1999
 35279,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T15:50:02.016556108+00:00,0,n/a,Thu 1st Jan 1970
 35280,present,DEADLOCK.XM,Dead lock,493.64KB,84d09a89de4998aad278ef8dbb9be982,XM,true,118705,143,2021-07-14T15:50:02.624706202+00:00,24,Pop - Synth,Wed 1st Jan 1997
 35281,present,cas-ow10.it,Into other worlds,779.64KB,65482b48a726f6e5ef08540ea3e10cb9,IT,false,1506,0,2021-07-14T15:50:03.612986807+00:00,17,n/a,Sun 27th Jun 1999
@@ -541,7 +541,7 @@
 35541,present,d3.xm,just before,25.81KB,ac833a315767f202e72b212e8b7c2d03,XM,false,1813,1,2021-07-14T15:53:24.724510391+00:00,4,n/a,Wed 21st Feb 2001
 35542,present,bbz_good.it,BreakBeat Zone-Good future,641.95KB,eaaa268abd20180dea4c03824a294a41,IT,false,929,0,2021-07-14T15:53:25.448621940+00:00,17,n/a,Thu 13th Jun 2002
 35543,present,jbird.xm,jbird.xm,1.60MB,f4287d513497624bba83dc3ccd9ac067,XM,false,2007,0,2021-07-14T15:53:26.159593939+00:00,32,Electronic - Ambient,Sat 4th Nov 2000
-35544,present,bchar.it,Break it down, Charlie,361.30KB,07458eef1246054fd9cc1cbbbb5c0c80,IT,false,3007,0,2021-07-14T15:53:28.049094501+00:00,5,Electronic - Breakbeat,Thu 15th Apr 1999
+35544,present,bchar.it,"Break it down, Charlie",361.30KB,07458eef1246054fd9cc1cbbbb5c0c80,IT,false,3007,0,2021-07-14T15:53:28.049094501+00:00,5,Electronic - Breakbeat,Thu 15th Apr 1999
 35545,present,d5m1.mod,d5m1 hit the flor lo,44.35KB,650805f7646554321a2f4de5b83fab03,MOD,false,307,0,2021-07-14T15:53:28.771202285+00:00,6,n/a,Mon 26th Sep 2005
 35546,absent,invalid,invalid,0B,00000000000000000000000000000000,invalid,false,0,0,2021-07-14T15:53:29.470254699+00:00,0,n/a,Thu 1st Jan 1970
 35547,present,bchfgngm.mod,Bach Fugue in G Min,41.62KB,903cfc01c5d84f8392a1d4d3dd675e67,MOD,false,2040,0,2021-07-14T15:53:30.049629231+00:00,4,n/a,Mon 26th Jun 2000

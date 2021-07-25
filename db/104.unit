@@ -88,8 +88,8 @@
 103088,present,mad-cow.mod,mad-cow,28.29KB,ed3cd08acadfc64d326c409d778d91b0,MOD,false,207,0,2021-07-15T15:56:41.167357818+00:00,4,n/a,Mon 13th Sep 2004
 103089,present,mag-good_samples.mod,mag-good samples,82.76KB,8d231988d0473f28e5bd1bca497e6f7b,MOD,false,179,0,2021-07-15T15:56:41.894968434+00:00,4,n/a,Sat 23rd Oct 2004
 103090,present,refreshed.mod,refreshed,50.29KB,5b94ed820466dde386b0fdc536095ca9,MOD,false,184,0,2021-07-15T15:56:42.710969159+00:00,4,n/a,Mon 13th Sep 2004
-103091,present,muravka_lead_me_on.mod,Muravka, Lead Me on,312.76KB,a3cfd85c19512f82781982f7f5c5f738,MOD,false,334,1,2021-07-15T15:56:43.451802363+00:00,4,n/a,Mon 13th Sep 2004
-103092,present,muravka_the_damned.mod,Muravka, the Damned,378.46KB,b758fe98df54a8c1a14a6fae2f86149f,MOD,false,151,0,2021-07-15T15:56:44.191764641+00:00,4,n/a,Mon 13th Sep 2004
+103091,present,muravka_lead_me_on.mod,"Muravka, Lead Me on",312.76KB,a3cfd85c19512f82781982f7f5c5f738,MOD,false,334,1,2021-07-15T15:56:43.451802363+00:00,4,n/a,Mon 13th Sep 2004
+103092,present,muravka_the_damned.mod,"Muravka, the Damned",378.46KB,b758fe98df54a8c1a14a6fae2f86149f,MOD,false,151,0,2021-07-15T15:56:44.191764641+00:00,4,n/a,Mon 13th Sep 2004
 103093,present,murderers_of_passion.mod,Murderers Of Passio,642.74KB,23dfc86439124f6202b93110b567a2c1,MOD,false,421,1,2021-07-15T15:56:44.941458755+00:00,4,n/a,Sun 5th Dec 2004
 103094,present,murderous_mix.mod,murderous.mix,119.73KB,7faaf88c11f3fddc07998ed0db9bf018,MOD,false,239,0,2021-07-15T15:56:45.702276592+00:00,4,n/a,Mon 13th Sep 2004
 103095,present,murderous_shortmix.mod,murderous.shortmix,72.01KB,66164d1e1d4ed2f42e9290fac7fc1ce7,MOD,false,257,0,2021-07-15T15:56:46.418359305+00:00,4,n/a,Mon 13th Sep 2004
@@ -222,7 +222,7 @@
 103222,present,we_love_you_all.mod,we love you all!,44.38KB,951b564b9965cd91c3165b93d23f350b,MOD,false,704,0,2021-07-15T15:58:40.695860086+00:00,4,n/a,Mon 13th Sep 2004
 103223,present,we_take_control.mod,we take control,177.76KB,9e02188a018773e1c6a8a59bd87e28a7,MOD,false,122,0,2021-07-15T15:58:41.467878001+00:00,4,n/a,Sat 2nd Jul 2005
 103224,present,well_win_b.mod,we'll_win_*b*,77.06KB,34278a560855fe3d199e7ef10d3960d9,MOD,false,171,0,2021-07-15T15:58:42.699388566+00:00,4,n/a,Tue 24th May 2005
-103225,present,canard_guili.mod,canard, guili,68.36KB,5f0a90dd0b6aa25cd17ec50c597b2eec,MOD,false,284,0,2021-07-15T15:58:43.579929698+00:00,4,n/a,Mon 13th Sep 2004
+103225,present,canard_guili.mod,"canard, guili",68.36KB,5f0a90dd0b6aa25cd17ec50c597b2eec,MOD,false,284,0,2021-07-15T15:58:43.579929698+00:00,4,n/a,Mon 13th Sep 2004
 103226,present,candy_mon-mon_.mod,candy mon-mon......,188.15KB,65cccbbca19e793e12c82af148248675,MOD,false,218,0,2021-07-15T15:58:45.581548765+00:00,4,n/a,Mon 13th Sep 2004
 103227,present,dargaard_keep.mod,dargaard keep,80.54KB,a40d2fc2886c9495a29a878f8b7ce0e5,MOD,false,233,0,2021-07-15T15:58:46.832311874+00:00,4,n/a,Mon 21st Feb 2005
 103228,present,candy_mon-mon.mod,candy mon-mon......,186.87KB,4ee329229c04b2eb519d5df3b0518a24,MOD,false,195,0,2021-07-15T15:58:48.299842399+00:00,4,n/a,Fri 1st Jul 2005
@@ -936,7 +936,7 @@
 103936,present,dizzy.mod,DIZZY,124.12KB,09009762ea5d6d7256a6ae2ab8025f1b,MOD,false,456,0,2021-07-15T16:09:05.379442595+00:00,4,n/a,Mon 13th Sep 2004
 103937,present,behind_the_shades.mod,behind the shades,172.00KB,681ab50fb07982c8351d2a8af2956f72,MOD,false,969,1,2021-07-15T16:09:06.158424690+00:00,4,n/a,Mon 13th Sep 2004
 103938,present,bekkno.mod,bekkno,93.37KB,9c5d3e9ac994e8026d8d56be39689632,MOD,false,122,0,2021-07-15T16:09:06.897312679+00:00,4,n/a,Tue 24th May 2005
-103939,present,djassh_crash_1.mod,Djassh Crash B,Ô,204.11KB,5c4939a47e2b65bb9f7a9ea8104bac66,MOD,false,108,0,2021-07-15T16:09:07.663279670+00:00,4,n/a,Mon 13th Sep 2004
+103939,present,djassh_crash_1.mod,"Djassh Crash B,Ô",204.11KB,5c4939a47e2b65bb9f7a9ea8104bac66,MOD,false,108,0,2021-07-15T16:09:07.663279670+00:00,4,n/a,Mon 13th Sep 2004
 103940,present,lazyland.mod,lazyland,24.26KB,940b056e5bd654477c1d96155ff9ef60,MOD,false,597,1,2021-07-15T16:09:08.430220471+00:00,4,n/a,Mon 21st Feb 2005
 103941,present,le_canard_est_mort.mod,le canard est mort,2.12KB,5b441a3d1e487d9cb87b29246a47b3a6,MOD,false,205,0,2021-07-15T16:09:09.149151820+00:00,4,n/a,Mon 13th Sep 2004
 103942,present,le_fonque_intro.mod,le_fonque_intro,307.30KB,6bb8f21724c5b13260903d12ec9ff49e,MOD,false,166,0,2021-07-15T16:09:09.888914519+00:00,4,n/a,Mon 13th Sep 2004

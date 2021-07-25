@@ -44,7 +44,7 @@
 83044,present,hekto_quartz.mod,hekto quartz,189.48KB,078ad28af37a39b001faa68fac90733c,MOD,false,960,2,2021-07-15T13:20:09.174810621+00:00,4,Pop - Soft,Tue 12th Apr 2005
 83045,present,hardstuff.mod,hardstuff,103.41KB,08744335f68685770ceacf2b1cb775c5,MOD,false,149,0,2021-07-15T13:20:09.954244146+00:00,4,n/a,Thu 19th May 2005
 83046,present,hardstuff8.mod,hardstuff8,41.69KB,a1b1e3979cebfddb299546460b9d4016,MOD,false,153,0,2021-07-15T13:20:10.668199764+00:00,4,n/a,Mon 28th Feb 2005
-83047,present,just_play_it_nose.mod,just play it, nose!,141.03KB,e9ae1d69555d4034d84c7df4c3207793,MOD,false,201,0,2021-07-15T13:20:11.570771633+00:00,4,n/a,Mon 13th Sep 2004
+83047,present,just_play_it_nose.mod,"just play it, nose!",141.03KB,e9ae1d69555d4034d84c7df4c3207793,MOD,false,201,0,2021-07-15T13:20:11.570771633+00:00,4,n/a,Mon 13th Sep 2004
 83048,present,gangsters.mod,gangsters,30.98KB,7980b001b26fec2e31322a8f298fca5f,MOD,false,227,0,2021-07-15T13:20:12.534005094+00:00,4,n/a,Tue 14th Jun 2005
 83049,present,coopy_0003.mod,coopy*0003,11.93KB,f86bf969eef2daed42ec9850e9655f97,MOD,false,122,0,2021-07-15T13:20:13.293101807+00:00,4,n/a,Mon 13th Sep 2004
 83050,present,coozy_bite.mod,coozy bite,110.55KB,78cb8ba9c980711539b722f4a76841a2,MOD,false,160,0,2021-07-15T13:20:14.106230486+00:00,4,n/a,Mon 13th Sep 2004
@@ -170,7 +170,7 @@
 83170,present,iff.mod,iff,195.69KB,86d1c78356c04e23466fcb3a19a7649e,MOD,false,207,0,2021-07-15T13:22:26.014389058+00:00,4,n/a,Thu 19th May 2005
 83171,present,baldhorse_chip.mod,baldhorse chip,20.46KB,96ae5d1ab10ba346ae2c76502a935234,MOD,false,329,0,2021-07-15T13:22:26.750590440+00:00,4,n/a,Mon 13th Sep 2004
 83172,present,drth-drums-ttt.mod,drth-drums-ttt,293.53KB,b6ca0765dcd949284c05772a22bb9948,MOD,false,189,0,2021-07-15T13:22:27.513171088+00:00,4,n/a,Mon 13th Sep 2004
-83173,present,drugalcoldisco.mod,drug,alcol&disco,117.05KB,ac8cff42349429de784d43ed648d290d,MOD,false,157,0,2021-07-15T13:22:28.309514395+00:00,4,n/a,Mon 13th Sep 2004
+83173,present,drugalcoldisco.mod,"drug,alcol&disco",117.05KB,ac8cff42349429de784d43ed648d290d,MOD,false,157,0,2021-07-15T13:22:28.309514395+00:00,4,n/a,Mon 13th Sep 2004
 83174,present,drugspart_1_dt20.mod,drugs(part 1)  dt20,19.57KB,d1a028c7f2d64865079433a8e5371427,MOD,false,151,0,2021-07-15T13:22:29.045753965+00:00,4,n/a,Mon 13th Sep 2004
 83175,present,drum_machine.mod,drum machine,49.65KB,9674411364521baa0cb36839c85fe432,MOD,false,248,0,2021-07-15T13:22:29.831271960+00:00,4,n/a,Wed 15th Jun 2005
 83176,present,drumik.mod,drumik,174.94KB,a023573e8848cd6d7344103c4832fd4b,MOD,false,192,0,2021-07-15T13:22:30.609726801+00:00,4,n/a,Wed 18th May 2005
@@ -519,7 +519,7 @@
 83519,present,r0rmokarjazz.mod,rörmokarjazz,35.33KB,35d762ee7838503dae735447dd3771aa,MOD,false,363,1,2021-07-15T13:28:08.408432096+00:00,4,n/a,Mon 13th Sep 2004
 83520,present,relapse_end_module.mod,RELAPSE.END MODULE,79.33KB,7eabda8be565d6d05edfa35973bb34ef,MOD,false,126,0,2021-07-15T13:28:09.277335691+00:00,4,n/a,Sat 29th Oct 2005
 83521,present,relax_max_.mod,relax max !!!,51.55KB,9c75c9d5d695eb4a5b4812a98d25fbf4,MOD,false,204,0,2021-07-15T13:28:10.173504412+00:00,4,n/a,Wed 15th Jun 2005
-83522,present,relax_max.mod,relax,_max,171.95KB,ffd822b19c863938aaae02e1fbae80cb,MOD,false,272,0,2021-07-15T13:28:10.949759742+00:00,4,n/a,Thu 16th Jun 2005
+83522,present,relax_max.mod,"relax,_max",171.95KB,ffd822b19c863938aaae02e1fbae80cb,MOD,false,272,0,2021-07-15T13:28:10.949759742+00:00,4,n/a,Thu 16th Jun 2005
 83523,present,relaxaler.mod,relaxaler,166.79KB,70ac3c05fe9ab20fd2dee23d1eaaeedb,MOD,false,220,0,2021-07-15T13:28:11.879055785+00:00,4,n/a,Mon 13th Sep 2004
 83524,present,relaxation.mod,relaxation,66.53KB,c23fbf14144514c7588223daf8703828,MOD,false,288,0,2021-07-15T13:28:12.734380801+00:00,4,n/a,Mon 13th Sep 2004
 83525,present,relaxing_in_the_air.mod,Relaxing in the air,134.49KB,36411e8bc9e2a177fa319f291e3d3f54,MOD,false,242,0,2021-07-15T13:28:13.592704523+00:00,4,n/a,Sat 6th Mar 1999

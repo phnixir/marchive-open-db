@@ -32,7 +32,7 @@
 163032,present,cadilac2.it,The roadtrip,83.24KB,d17ad400a639953a28e19411e8950cfb,IT,false,1137,0,2021-07-16T18:56:31.068976951+00:00,8,Easy Listening,Wed 1st Oct 2008
 163033,present,sky_tfly.s3m,The Fly - (c) D.J. Skyjump,675.46KB,c941cbe01f05a72a7146bb5822430180,S3M,false,145,0,2021-07-16T18:56:31.765656129+00:00,16,n/a,Thu 2nd Oct 2008
 163034,present,trx_lost.s3m,Lost Paradise - By Trex&Sky,389.22KB,a185787508506f251c3eac0efb1c084f,S3M,false,487,0,2021-07-16T18:56:32.425688724+00:00,14,n/a,Thu 2nd Oct 2008
-163035,present,country-1415.xm,Country (arr,Arne),206.44KB,06556f74335e7c69173ba91b81e728a1,XM,false,2178,0,2021-07-16T18:56:33.131667844+00:00,10,Country,Fri 3rd Oct 2008
+163035,present,country-1415.xm,"Country (arr,Arne)",206.44KB,06556f74335e7c69173ba91b81e728a1,XM,false,2178,0,2021-07-16T18:56:33.131667844+00:00,10,Country,Fri 3rd Oct 2008
 163036,present,running-1797.xm,... (Arr.Arne P.),261.29KB,8340807b8f367629b4349bb05f60e5ee,XM,false,160,0,2021-07-16T18:56:33.837646909+00:00,8,n/a,Fri 3rd Oct 2008
 163037,present,rocknroll.xm,Rock┤n┤Roll (Arne),474.52KB,0ae8136ad7464fc171913d424a1dba01,XM,true,1454,1,2021-07-16T18:56:34.589073072+00:00,15,Rock (general),Fri 3rd Oct 2008
 163038,present,tetzlaffs.xm,Tetzlaffs(arr.Arne),432.77KB,9e4c39d6b5ff24effe4ab5b1daeab27f,XM,false,479,0,2021-07-16T18:56:35.315749618+00:00,10,n/a,Fri 3rd Oct 2008
@@ -93,7 +93,7 @@
 163093,present,the_duke_-_heavy.mod,heavy,145.91KB,26ede8b66e46701795e60c7036a7d2fb,MOD,false,125,0,2021-07-16T18:57:15.921477828+00:00,4,n/a,Thu 9th Oct 2008
 163094,present,the_caffeine_kid_-_mix.mod,mix,207.92KB,f9ae40c2fe90290ab28d3ebb1cf05903,MOD,false,144,0,2021-07-16T18:57:16.638337413+00:00,4,n/a,Thu 9th Oct 2008
 163095,present,the_fear_-_not.xm,not,148.96KB,c888df853a5fb96684468f4df0935753,XM,false,102,0,2021-07-16T18:57:17.350198859+00:00,20,n/a,Thu 9th Oct 2008
-163096,present,the_fear_-_find_blue_eat_red.xm,find blue, eat red,429.09KB,fb7cb75ee5f2b8ec0bdad482753adccc,XM,false,115,0,2021-07-16T18:57:18.094192065+00:00,20,n/a,Thu 9th Oct 2008
+163096,present,the_fear_-_find_blue_eat_red.xm,"find blue, eat red",429.09KB,fb7cb75ee5f2b8ec0bdad482753adccc,XM,false,115,0,2021-07-16T18:57:18.094192065+00:00,20,n/a,Thu 9th Oct 2008
 163097,present,the_fox_2_-_fruit.mod,fruit,584.28KB,28b1692de486de3acbee5715383be7e3,MOD,true,473,0,2021-07-16T18:57:18.770449436+00:00,4,n/a,Thu 9th Oct 2008
 163098,present,the_assassin_-_stomp.mod,stomp,83.34KB,b700323632b014afbe93e1bca7869b3c,MOD,false,127,0,2021-07-16T18:57:19.457578448+00:00,4,n/a,Thu 9th Oct 2008
 163099,present,the_finn_-_quick_junk.s3m,Quick Junk -- tfinn,12.26KB,176d3e245ce013ebc8a35933b35cdfd1,S3M,false,98,0,2021-07-16T18:57:20.828944103+00:00,4,n/a,Thu 9th Oct 2008
@@ -194,7 +194,7 @@
 163194,present,80599-parallax.xm,Parallax Glacier,566.27KB,af061ffd5f04a6c2d290c209535f9ad7,XM,true,1453,3,2021-07-16T18:58:31.790758839+00:00,16,n/a,Wed 15th Oct 2008
 163195,present,hyo-atla.it,Back at last!,49.29KB,f41e9ad5f562272dfc375c7f5a0e426a,IT,false,651,0,2021-07-16T18:58:32.475274745+00:00,12,Chiptune,Thu 16th Oct 2008
 163196,present,chrome_-_dragon.mod,dragon,112.13KB,e1b878ea92f7e7afd294949e0ef70b3c,MOD,false,699,1,2021-07-16T18:58:33.189031502+00:00,4,Rock - Soft,Thu 16th Oct 2008
-163197,present,the_fear_-_not_part_3.xm,not, part 3.,141.66KB,999a301253c36bcc601c55f012642632,XM,false,119,0,2021-07-16T18:58:33.930245674+00:00,16,n/a,Thu 16th Oct 2008
+163197,present,the_fear_-_not_part_3.xm,"not, part 3.",141.66KB,999a301253c36bcc601c55f012642632,XM,false,119,0,2021-07-16T18:58:33.930245674+00:00,16,n/a,Thu 16th Oct 2008
 163198,present,chrylian_-_pipeline.mod,pipeline,24.76KB,f923f19f10f419d8eea422fa73dbef34,MOD,false,181,0,2021-07-16T18:58:34.635736723+00:00,4,n/a,Thu 16th Oct 2008
 163199,present,cerror_-_gremlins_2_-_the_new_batch.s3m,Gremlins 2: the new batch,43.84KB,a82bdd746f20d0a0919c617419fc218e,S3M,false,1274,3,2021-07-16T18:58:35.317196434+00:00,6,Chiptune,Thu 16th Oct 2008
 163200,present,the_charlatan_-_orange.mod,Orange,65.21KB,f9048bd916637659746096410a350711,MOD,false,120,0,2021-07-16T18:58:36.015439015+00:00,4,n/a,Thu 16th Oct 2008
@@ -272,7 +272,7 @@
 163272,present,dracologist_-_xalon.xm,Xalon (party v),312.75KB,a3f622402c09d5eceeb97fffed99a476,XM,false,720,0,2021-07-16T18:59:30.524976614+00:00,14,Alternative,Thu 23rd Oct 2008
 163273,present,electric_light.xm,electric_light.xm,632.10KB,05cb69e2a1dbd0cbb24a3614d7788133,XM,false,275,0,2021-07-16T18:59:31.502325841+00:00,6,n/a,Thu 23rd Oct 2008
 163274,present,bz_mar.it,March of the Orcs,7.03MB,197aa028a9f1f47994bac0b0f6d13833,IT,true,1156,0,2021-07-16T18:59:32.232034474+00:00,31,Orchestral,Thu 23rd Oct 2008
-163275,present,the_edge_-_acb-introtuta.s3m,ACB-intro(tuta), The EDGE,38.97KB,d4a5b8b85a91d93ae8d29a5c557f8649,S3M,false,97,0,2021-07-16T18:59:32.986572322+00:00,16,n/a,Thu 23rd Oct 2008
+163275,present,the_edge_-_acb-introtuta.s3m,"ACB-intro(tuta), The EDGE",38.97KB,d4a5b8b85a91d93ae8d29a5c557f8649,S3M,false,97,0,2021-07-16T18:59:32.986572322+00:00,16,n/a,Thu 23rd Oct 2008
 163276,present,the_khin_-_noname.xm,noname,56.49KB,1a1184027ca89ac588ad9c79598792f4,XM,false,101,0,2021-07-16T18:59:33.708015892+00:00,12,n/a,Thu 23rd Oct 2008
 163277,present,the_spast_-_intro1.mod,intro1,147.92KB,114a3ddaff6930fac22fca20b0fa3cde,MOD,false,131,0,2021-07-16T18:59:34.461324564+00:00,4,n/a,Thu 23rd Oct 2008
 163278,present,the_judge_-_trust.mod,trust,135.95KB,ae487086132f7dbde5ad17b8271de736,MOD,false,123,0,2021-07-16T18:59:35.175551495+00:00,4,n/a,Thu 23rd Oct 2008
@@ -362,11 +362,11 @@
 163362,present,tjz_ntt-sm.xm,* spring melodies *,1.23MB,ccf8ac6fca2e34ff3e54c6a1c7741062,XM,true,377,0,2021-07-16T19:00:40.975346651+00:00,32,n/a,Sat 1st Nov 2008
 163363,present,tjz-mtal.it,morethanarcadelife,467.77KB,9210e86e7738fe77c7ca01e1e8196129,IT,false,142,0,2021-07-16T19:00:41.693184590+00:00,35,n/a,Sat 1st Nov 2008
 163364,present,tjz-lilw.it,lifeislikewasabi,509.84KB,5500328f8815b89a0c9c854206a167aa,IT,false,475,1,2021-07-16T19:00:42.382390087+00:00,32,n/a,Sat 1st Nov 2008
-163365,present,tjz-ske1.xm,tjZ - MWW, sketch #I,801.76KB,40194a1238860ebd584c24916bbba02c,XM,false,136,0,2021-07-16T19:00:43.082387509+00:00,32,n/a,Sat 1st Nov 2008
+163365,present,tjz-ske1.xm,"tjZ - MWW, sketch #I",801.76KB,40194a1238860ebd584c24916bbba02c,XM,false,136,0,2021-07-16T19:00:43.082387509+00:00,32,n/a,Sat 1st Nov 2008
 163366,present,tjz-nebuladance.xm,Nebula Dance,1.63MB,912179560d5f09a053faff69764dae62,XM,false,163,0,2021-07-16T19:00:43.832862149+00:00,32,n/a,Sat 1st Nov 2008
 163367,present,tjz-digital_energy.xm,Digital Energy/loop/,99.43KB,4e4bc88519046f6dacfc3157b6297617,XM,false,156,0,2021-07-16T19:00:44.556125942+00:00,32,n/a,Sat 1st Nov 2008
 163368,present,tjz_-_ge.it,generation of armchair pla,134.27KB,69125051db68b703671602b1a2349397,IT,true,1215,1,2021-07-16T19:00:45.261554212+00:00,16,n/a,Sat 1st Nov 2008
-163369,present,tjz-ouw2.it,o, u wish 2 try me?!,63.13KB,450c68e9bdd322de9210f8b0d5c3594c,IT,false,117,0,2021-07-16T19:00:46.024048575+00:00,8,n/a,Sat 1st Nov 2008
+163369,present,tjz-ouw2.it,"o, u wish 2 try me?!",63.13KB,450c68e9bdd322de9210f8b0d5c3594c,IT,false,117,0,2021-07-16T19:00:46.024048575+00:00,8,n/a,Sat 1st Nov 2008
 163370,present,tjz-fm.it,Fantasy Maniaque,47.98KB,c0136a0c2c13fbd26ae4ed47149f5d57,IT,false,1050,2,2021-07-16T19:00:46.808435196+00:00,14,n/a,Sat 1st Nov 2008
 163371,present,tjz-shor.it,shorecrest pilgrimage,63.47KB,cce6e81171a75a1148743815f57bc76a,IT,true,2213,6,2021-07-16T19:00:47.535689309+00:00,10,Electronic - House,Sat 1st Nov 2008
 163372,present,tjz-nlbn.it,nolongerbeingnormal,444.02KB,e48cee25177b76efe2e566f00ffb9db7,IT,false,376,1,2021-07-16T19:00:48.288207813+00:00,32,n/a,Sat 1st Nov 2008
@@ -697,7 +697,7 @@
 163697,present,81974-game11.mod,game 11,33.96KB,37e4804d80d0e351fc26fcadd7bb3481,MOD,false,577,0,2021-07-16T19:04:46.959971207+00:00,4,n/a,Mon 24th Nov 2008
 163698,present,game07.mod,g07,42.84KB,1089535b2ce3b102eb6ff831d2712324,MOD,false,236,0,2021-07-16T19:04:47.673260780+00:00,4,n/a,Mon 24th Nov 2008
 163699,present,81974-game10.mod,g10,38.96KB,5c1cda597768d1585c59929559a24cf8,MOD,false,246,0,2021-07-16T19:04:48.443850656+00:00,4,n/a,Mon 24th Nov 2008
-163700,present,druid2.ahx,Druid2,flt,3.47KB,036142342dd404432c94e0398bc2f622,AHX,false,120,0,2021-07-16T19:04:49.127206073+00:00,4,n/a,Tue 25th Nov 2008
+163700,present,druid2.ahx,"Druid2,flt",3.47KB,036142342dd404432c94e0398bc2f622,AHX,false,120,0,2021-07-16T19:04:49.127206073+00:00,4,n/a,Tue 25th Nov 2008
 163701,present,supreme_temptation_2.mod,supreme tentation 2,152.81KB,32d1a3cf09e16c82d6545cc8ed903f87,MOD,false,136,0,2021-07-16T19:04:49.820654109+00:00,4,n/a,Tue 25th Nov 2008
 163702,present,magic_zone1.mod,magi,71.25KB,d7a33bd2fd829c2a5dfbb6a0b4b6ca1f,MOD,false,98,0,2021-07-16T19:04:50.570294002+00:00,4,n/a,Tue 25th Nov 2008
 163703,present,mildlands.mod,mild lands,104.41KB,09134670b1ff6821f9e4e052ee5c2606,MOD,false,96,0,2021-07-16T19:04:51.286774081+00:00,4,n/a,Tue 25th Nov 2008
@@ -761,7 +761,7 @@
 163761,present,tex.ahx,TEX,10.63KB,ad76ebf87fa0a326b637fc30575590d3,AHX,false,54,0,2021-07-16T19:05:38.880107374+00:00,4,n/a,Thu 27th Nov 2008
 163762,present,happy_vibes.ahx,Happy Vibes...,3.62KB,68557a5ae745578a1f689ebaf980a2b9,AHX,false,74,0,2021-07-16T19:05:39.585325643+00:00,4,n/a,Thu 27th Nov 2008
 163763,present,child_of_the_night.xm,Child of the night,1.04MB,773d6ac4341c5d62086ff7cc0811585d,XM,false,144,0,2021-07-16T19:05:40.326383004+00:00,24,n/a,Thu 27th Nov 2008
-163764,present,cheri_chery_lady.it,Cheri, Cheri, Lady(H.MED),93.22KB,77694b9dd7a9e541421a677203a1be03,IT,false,161,0,2021-07-16T19:05:41.079122137+00:00,10,n/a,Thu 27th Nov 2008
+163764,present,cheri_chery_lady.it,"Cheri, Cheri, Lady(H.MED),93.22KB,77694b9dd7a9e541421a677203a1be03,IT,false,161,0,2021-07-16T19:05:41.079122137+00:00,10,n/a,Thu 27th Nov 2008
 163765,present,rave-ace.xm,Rave-Ace 2:30,1.36MB,5a63f9164d8c3c30d33b459666d75ad8,XM,false,1019,1,2021-07-16T19:05:41.856226101+00:00,32,Electronic - Rave,Thu 27th Nov 2008
 163766,present,sohocen.xm,Sz*poo Mari (C.V.),1.90MB,07935843b52649fb0e071ee0f8d6db6d,XM,false,108,0,2021-07-16T19:05:42.759616066+00:00,18,n/a,Thu 27th Nov 2008
 163767,present,folksong.it,Song by Chris & FreeStylE,808.42KB,9db19a6426d76fa5702530aa38ee88d9,IT,false,148,0,2021-07-16T19:05:43.462848698+00:00,12,n/a,Thu 27th Nov 2008
@@ -905,7 +905,7 @@
 163905,present,radix_-_take_on_me.xm,take on me,138.91KB,d0d1539b9f1f685dd3271af876e70e5f,XM,false,1084,4,2021-07-16T19:07:29.350896953+00:00,20,n/a,Mon 1st Dec 2008
 163906,present,racoon_-_illusions.mod,illusions,6.08KB,234902896c9f23ed9f7e4878c8cbec74,MOD,false,156,0,2021-07-16T19:07:30.043333569+00:00,4,n/a,Mon 1st Dec 2008
 163907,present,rahiem_-_nuseup97.mod,nuseup97,242.75KB,6d35923131001dea5b90ee9a3ad02121,MOD,true,304,0,2021-07-16T19:07:30.756629471+00:00,4,n/a,Mon 1st Dec 2008
-163908,present,raflame_-_hunting_in_paris.mod,hunting in paris,,,,14.48KB,38033965429b8aee6356e785a1174a8d,MOD,false,127,0,2021-07-16T19:07:31.502886361+00:00,4,n/a,Mon 1st Dec 2008
+163908,present,raflame_-_hunting_in_paris.mod,"hunting in paris,,,",14.48KB,38033965429b8aee6356e785a1174a8d,MOD,false,127,0,2021-07-16T19:07:31.502886361+00:00,4,n/a,Mon 1st Dec 2008
 163909,present,radix_-_dreams.mod,dreams,6.89KB,13878fce031c58903209334712668ed4,MOD,false,371,0,2021-07-16T19:07:32.221607531+00:00,4,n/a,Mon 1st Dec 2008
 163910,present,rambones_-_silence.mod,silence,41.33KB,a8f7c931d070aa2102a1f4b9a9fbf4c9,MOD,false,244,0,2021-07-16T19:07:32.953913050+00:00,4,n/a,Mon 1st Dec 2008
 163911,present,radix_-_images.xm,images,22.23KB,69db6c2a71942c7bed374b1e104a8075,XM,true,894,6,2021-07-16T19:07:33.688211032+00:00,8,n/a,Mon 1st Dec 2008
